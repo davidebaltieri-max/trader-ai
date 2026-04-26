@@ -4,7 +4,7 @@ on:
   schedule:
     # Ogni 30 minuti (rispetta il limite gratuito di GitHub)
     # Formato cron: minuto ora giorno mese giorno-settimana
-    - cron: '*/15 * * * *'
+    - cron: '*/30 * * * *'
 
   # Permette di avviare manualmente dalla tab "Actions" su GitHub
   workflow_dispatch:
