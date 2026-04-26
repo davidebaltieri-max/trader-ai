@@ -1,0 +1,36 @@
+name: 🤖 AI Trader — Coinbase
+
+on:
+  schedule:
+    # Ogni 30 minuti (rispetta il limite gratuito di GitHub)
+    # Formato cron: minuto ora giorno mese giorno-settimana
+    - cron: '*/15 * * * *'
+
+  # Permette di avviare manualmente dalla tab "Actions" su GitHub
+  workflow_dispatch:
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8   # Kill automatico se si blocca
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: 📦 Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: 🤖 Esegui ciclo AI Trader
+        env:
+          COINBASE_API_KEY:    ${{ secrets.COINBASE_API_KEY }}
+          COINBASE_API_SECRET: ${{ secrets.COINBASE_API_SECRET }}
+          ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
+          DRY_RUN:             ${{ secrets.DRY_RUN }}
+        run: python trader.py
