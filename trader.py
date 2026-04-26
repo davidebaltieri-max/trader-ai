@@ -1,80 +1,63 @@
 #!/usr/bin/env python3
 """
-AI Trader — Coinbase + Claude AI
-Versione con profili di rischio: BILANCIATO / MEDIO / PERFORMANTE
+AI Trader — Coinbase CDP (JWT auth) + Claude Haiku
+Profili di rischio: BILANCIATO / MEDIO / PERFORMANTE
 """
 
-import os, time, json, hmac, hashlib, logging, sys, statistics, re
+import os, time, json, logging, sys, statistics, re, secrets
 from datetime import datetime, timezone
 import requests
 import anthropic
+import jwt
+from cryptography.hazmat.primitives.serialization import load_pem_private_key
 
 # ─────────────────────────────────────────────
 # PROFILI DI RISCHIO
-# Imposta RISK_PROFILE nel Secret GitHub oppure
-# come variabile d'ambiente locale.
-# Valori validi: "bilanciato" | "medio" | "performante"
 # ─────────────────────────────────────────────
 RISK_PROFILES = {
-
     "bilanciato": {
-        # Coppie: solo le più stabili e liquide
-        "pairs":                ["BTC-EUR", "ETH-EUR"],
-        "max_trade_eur":        15.0,      # Max per singolo ordine
-        "cash_reserve_eur":     80.0,      # Riserva intoccabile
-        "crash_threshold_pct":  8.0,       # Pausa se asset cala >8% in 24h
-        "min_momentum_pct":     1.5,       # Compra solo se 24h > +1.5%
-        "take_profit_pct":      12.0,      # Vendi se P&L > +12%
-        "stop_loss_pct":        6.0,       # Vendi se P&L < -6%
-        "max_open_positions":   2,
+        "pairs":               ["BTC-EUR", "ETH-EUR"],
+        "max_trade_eur":       15.0,
+        "cash_reserve_eur":    80.0,
+        "crash_threshold_pct": 8.0,
+        "take_profit_pct":     12.0,
+        "stop_loss_pct":       6.0,
+        "max_open_positions":  2,
         "ai_style": (
-            "Sei MOLTO conservativo. Preferisci non operare se non c'è un segnale "
-            "forte e chiaro. Priorità assoluta: preservare il capitale. "
-            "Evita acquisti se il mercato è incerto o laterale. "
-            "Prediligi BTC per la sua stabilità relativa."
+            "Sei MOLTO conservativo. Priorità assoluta: preservare il capitale. "
+            "Opera solo con segnali forti e chiari. Prediligi BTC."
         ),
     },
-
     "medio": {
-        "pairs":                ["BTC-EUR", "ETH-EUR", "SOL-EUR"],
-        "max_trade_eur":        30.0,
-        "cash_reserve_eur":     50.0,
-        "crash_threshold_pct":  15.0,
-        "min_momentum_pct":     0.5,
-        "take_profit_pct":      20.0,
-        "stop_loss_pct":        10.0,
-        "max_open_positions":   3,
+        "pairs":               ["BTC-EUR", "ETH-EUR", "SOL-EUR"],
+        "max_trade_eur":       30.0,
+        "cash_reserve_eur":    50.0,
+        "crash_threshold_pct": 15.0,
+        "take_profit_pct":     20.0,
+        "stop_loss_pct":       10.0,
+        "max_open_positions":  3,
         "ai_style": (
-            "Sei un trader bilanciato. Cerchi un equilibrio tra rendimento e rischio. "
-            "Operi quando ci sono segnali ragionevoli di momentum positivo. "
-            "Diversifichi tra BTC, ETH e SOL. Prendi profitto con regolarità."
+            "Sei bilanciato. Cerchi equilibrio tra rendimento e rischio. "
+            "Operi su segnali ragionevoli di momentum positivo."
         ),
     },
-
     "performante": {
-        "pairs":                ["BTC-EUR", "ETH-EUR", "SOL-EUR", "ADA-EUR", "MATIC-EUR"],
-        "max_trade_eur":        50.0,
-        "cash_reserve_eur":     30.0,
-        "crash_threshold_pct":  25.0,
-        "min_momentum_pct":    -1.0,       # Compra anche in leggero calo (dip buying)
-        "take_profit_pct":      35.0,      # Lascia correre i profitti
-        "stop_loss_pct":        15.0,      # Tollera drawdown maggiori
-        "max_open_positions":   4,
+        "pairs":               ["BTC-EUR", "ETH-EUR", "SOL-EUR", "ADA-EUR"],
+        "max_trade_eur":       50.0,
+        "cash_reserve_eur":    30.0,
+        "crash_threshold_pct": 25.0,
+        "take_profit_pct":     35.0,
+        "stop_loss_pct":       15.0,
+        "max_open_positions":  4,
         "ai_style": (
-            "Sei aggressivo e orientato alla performance. Cerchi opportunità di rendimento "
-            "elevato accettando rischi maggiori. Puoi fare dip-buying su cali moderati. "
-            "Diversifichi su più asset incluse altcoin. Lasci correre le posizioni in guadagno "
-            "e tagli le perdite solo quando necessario. Priorità: massimizzare i ritorni."
+            "Sei aggressivo e orientato alla performance. Accetti rischi maggiori "
+            "per rendimenti più alti. Puoi fare dip-buying su cali moderati."
         ),
     },
 }
 
-# ─────────────────────────────────────────────
-# CARICAMENTO CONFIGURAZIONE
-# ─────────────────────────────────────────────
 _profile_name = os.getenv("RISK_PROFILE", "medio").lower().strip()
 if _profile_name not in RISK_PROFILES:
-    print(f"⚠️  RISK_PROFILE '{_profile_name}' non valido. Uso 'medio'.")
     _profile_name = "medio"
 
 PROFILE = RISK_PROFILES[_profile_name]
@@ -95,38 +78,73 @@ log = logging.getLogger("AITrader")
 
 
 # ─────────────────────────────────────────────
-# COINBASE CLIENT
+# COINBASE CLIENT — autenticazione JWT (CDP)
 # ─────────────────────────────────────────────
 class CoinbaseClient:
-    BASE = "https://api.coinbase.com"
+    """
+    Supporta le nuove CDP API keys di Coinbase (JWT/ES256).
+    COINBASE_API_KEY  = nome chiave, es. "organizations/xxx/apiKeys/yyy"
+    COINBASE_API_SECRET = chiave privata PEM (con header -----BEGIN EC PRIVATE KEY-----)
+    """
+    BASE    = "https://api.coinbase.com"
+    HOST    = "api.coinbase.com"
 
-    def __init__(self, api_key: str, api_secret: str):
-        self.key    = api_key
-        self.secret = api_secret
+    def __init__(self, key_name: str, private_key_pem: str):
+        self.key_name = key_name
+        # Normalizza la chiave PEM: sostituisce \n letterali con newline reali
+        self.private_key_pem = private_key_pem.replace("\\n", "\n")
 
-    def _sign(self, method: str, path: str, body: str = "") -> dict:
-        ts  = str(int(time.time()))
-        msg = ts + method.upper() + path + body
-        sig = hmac.new(self.secret.encode(), msg.encode(), hashlib.sha256).hexdigest()
-        return {
-            "CB-ACCESS-KEY":       self.key,
-            "CB-ACCESS-SIGN":      sig,
-            "CB-ACCESS-TIMESTAMP": ts,
-            "Content-Type":        "application/json",
+    def _make_jwt(self, method: str, path: str) -> str:
+        """Genera un JWT ES256 valido per 2 minuti."""
+        uri     = f"{method.upper()} {self.HOST}{path}"
+        now     = int(time.time())
+        payload = {
+            "sub": self.key_name,
+            "iss": "cdp",
+            "nbf": now,
+            "exp": now + 120,
+            "uri": uri,
         }
+        headers = {
+            "kid":   self.key_name,
+            "nonce": secrets.token_hex(10),
+            "typ":   "JWT",
+        }
+        # Carica la chiave EC privata
+        key_bytes   = self.private_key_pem.encode()
+        private_key = load_pem_private_key(key_bytes, password=None)
+
+        token = jwt.encode(
+            payload,
+            private_key,
+            algorithm="ES256",
+            headers=headers,
+        )
+        return token
 
     def _get(self, path: str, params: dict = None):
-        headers = self._sign("GET", path)
-        r = requests.get(self.BASE + path, headers=headers, params=params, timeout=10)
+        token = self._make_jwt("GET", path)
+        r = requests.get(
+            self.BASE + path,
+            headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+            params=params,
+            timeout=10,
+        )
         r.raise_for_status()
         return r.json()
 
     def _post(self, path: str, data: dict):
-        body    = json.dumps(data)
-        headers = self._sign("POST", path, body)
-        r = requests.post(self.BASE + path, headers=headers, data=body, timeout=10)
+        token = self._make_jwt("POST", path)
+        r = requests.post(
+            self.BASE + path,
+            headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+            json=data,
+            timeout=10,
+        )
         r.raise_for_status()
         return r.json()
+
+    # ── API methods ──────────────────────────
 
     def get_accounts(self) -> list:
         return self._get("/api/v3/brokerage/accounts").get("accounts", [])
@@ -142,7 +160,8 @@ class CoinbaseClient:
         for pb in data.get("pricebooks", []):
             bid = float(pb["bids"][0]["price"]) if pb.get("bids") else None
             ask = float(pb["asks"][0]["price"]) if pb.get("asks") else None
-            return {"bid": bid, "ask": ask, "mid": (bid + ask) / 2 if bid and ask else None}
+            if bid and ask:
+                return {"bid": bid, "ask": ask, "mid": (bid + ask) / 2}
         return {}
 
     def get_candles(self, product_id: str, granularity="ONE_HOUR", limit=25) -> list:
@@ -150,42 +169,44 @@ class CoinbaseClient:
         start = end - 3600 * limit
         data  = self._get(
             f"/api/v3/brokerage/products/{product_id}/candles",
-            {"start": start, "end": end, "granularity": granularity}
+            {"start": start, "end": end, "granularity": granularity},
         )
         return data.get("candles", [])
 
     def get_portfolio(self) -> dict:
-        portfolio = {}
+        stablecoins = {"EUR", "USD", "USDC", "USDT", "USDC", "DAI", "BUSD"}
+        portfolio   = {}
         for acc in self.get_accounts():
+            cur = acc.get("currency", "")
             qty = float(acc.get("available_balance", {}).get("value", 0))
-            if qty > 1e-8 and acc["currency"] not in ("EUR", "USD", "USDC", "USDT"):
-                portfolio[acc["currency"]] = qty
+            if qty > 1e-8 and cur not in stablecoins:
+                portfolio[cur] = qty
         return portfolio
 
     def market_buy(self, product_id: str, quote_size: float) -> dict:
         if CONFIG["dry_run"]:
             log.info(f"[DRY-RUN] BUY {product_id} €{quote_size:.2f}")
-            return {"dry_run": True, "status": "ok"}
+            return {"dry_run": True}
         return self._post("/api/v3/brokerage/orders", {
             "client_order_id": f"ait_{int(time.time())}",
             "product_id":      product_id,
             "side":            "BUY",
             "order_configuration": {
                 "market_market_ioc": {"quote_size": str(round(quote_size, 2))}
-            }
+            },
         })
 
     def market_sell(self, product_id: str, base_size: float) -> dict:
         if CONFIG["dry_run"]:
             log.info(f"[DRY-RUN] SELL {product_id} qty={base_size:.8f}")
-            return {"dry_run": True, "status": "ok"}
+            return {"dry_run": True}
         return self._post("/api/v3/brokerage/orders", {
             "client_order_id": f"ait_{int(time.time())}",
             "product_id":      product_id,
             "side":            "SELL",
             "order_configuration": {
                 "market_market_ioc": {"base_size": str(round(base_size, 8))}
-            }
+            },
         })
 
 
@@ -196,7 +217,7 @@ def enrich_market(cb: CoinbaseClient) -> dict:
     data = {}
     for pair in CONFIG["pairs"]:
         try:
-            prices  = cb.get_best_bid_ask(pair)
+            prices = cb.get_best_bid_ask(pair)
             if not prices.get("mid"):
                 continue
             candles    = cb.get_candles(pair)
@@ -208,8 +229,8 @@ def enrich_market(cb: CoinbaseClient) -> dict:
                 changes    = [(closes[i] - closes[i+1]) / closes[i+1] * 100 for i in range(5)]
                 volatility = statistics.stdev(changes)
             data[pair] = {**prices, "change_24h": change_24h, "volatility": volatility}
-            chg_str = f"{change_24h:+.2f}%" if change_24h is not None else "n/d"
-            log.info(f"{pair}: €{prices['mid']:.4f}  24h={chg_str}")
+            chg = f"{change_24h:+.2f}%" if change_24h is not None else "n/d"
+            log.info(f"{pair}: €{prices['mid']:.4f}  24h={chg}")
         except Exception as e:
             log.warning(f"Errore dati {pair}: {e}")
     return data
@@ -231,41 +252,31 @@ def ask_ai(client: anthropic.Anthropic, market_data: dict,
     market_lines = "\n".join(
         f"  {pair}: mid=€{d['mid']:.4f}  "
         f"24h={d['change_24h']:+.2f}%  "
-        f"volatilità={d.get('volatility') or 0:.2f}%"
+        f"vol={d.get('volatility') or 0:.2f}%"
         for pair, d in market_data.items()
         if d.get("change_24h") is not None
     )
 
-    prompt = f"""Profilo di rischio attivo: {_profile_name.upper()}
-{CONFIG['ai_style']}
+    prompt = f"""Profilo: {_profile_name.upper()} — {CONFIG['ai_style']}
 
-━━━ STATO PORTAFOGLIO ━━━
-EUR disponibile : €{eur_balance:.2f}
-EUR usabile     : €{usable:.2f}  (riserva €{CONFIG['cash_reserve_eur']:.0f} intoccabile)
-Posizioni aperte: {len(portfolio)} / max {CONFIG['max_open_positions']}
+PORTAFOGLIO:
+  EUR disponibile: €{eur_balance:.2f} (usabile: €{usable:.2f}, riserva €{CONFIG['cash_reserve_eur']:.0f})
+  Posizioni: {len(portfolio)}/{CONFIG['max_open_positions']}
 
 CRYPTO IN PORTAFOGLIO:
 {portfolio_lines}
 
-PREZZI DI MERCATO (Coinbase, dati reali):
+MERCATO (Coinbase live):
 {market_lines}
 
-━━━ PARAMETRI PROFILO {_profile_name.upper()} ━━━
-Max per trade       : €{CONFIG['max_trade_eur']:.0f}
-Take profit         : +{CONFIG['take_profit_pct']:.0f}%
-Stop loss           : -{CONFIG['stop_loss_pct']:.0f}%
-Momentum minimo     : {CONFIG['min_momentum_pct']:+.1f}% (24h)
-Max posizioni aperte: {CONFIG['max_open_positions']}
+LIMITI:
+- Max €{CONFIG['max_trade_eur']:.0f} per trade
+- Take profit: +{CONFIG['take_profit_pct']:.0f}% | Stop loss: -{CONFIG['stop_loss_pct']:.0f}%
+- Solo coppie: {CONFIG['pairs']}
+- Non superare {CONFIG['max_open_positions']} posizioni aperte
 
-━━━ REGOLE FISSE ━━━
-- Non superare €{CONFIG['max_trade_eur']:.0f} per singolo trade
-- Non usare la riserva EUR di €{CONFIG['cash_reserve_eur']:.0f}
-- Non aprire più di {CONFIG['max_open_positions']} posizioni
-- Solo coppie autorizzate: {CONFIG['pairs']}
-
-Analizza e decidi 0-2 operazioni massimo.
-RISPOSTA: SOLO JSON array valido, niente testo extra:
-[{{"action":"buy","pair":"BTC-EUR","amount_eur":20,"reason":"motivazione breve"}}]
+Decidi 0-2 operazioni. Rispondi SOLO con JSON array valido:
+[{{"action":"buy","pair":"BTC-EUR","amount_eur":20,"reason":"motivazione"}}]
 Se non operi: []"""
 
     msg = client.messages.create(
@@ -274,23 +285,12 @@ Se non operi: []"""
         messages   = [{"role": "user", "content": prompt}],
     )
     raw = msg.content[0].text.strip()
-    log.info(f"AI [{_profile_name}] → {raw}")
+    log.info(f"AI → {raw}")
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
         m = re.search(r'\[[\s\S]*?\]', raw)
         return json.loads(m.group(0)) if m else []
-
-
-# ─────────────────────────────────────────────
-# CRASH GUARD
-# ─────────────────────────────────────────────
-def crash_detected(market_data: dict) -> bool:
-    for pair, d in market_data.items():
-        if d.get("change_24h") is not None and d["change_24h"] < -CONFIG["crash_threshold_pct"]:
-            log.warning(f"⚠️  {pair} in crollo ({d['change_24h']:.1f}%) — nessuna operazione")
-            return True
-    return False
 
 
 # ─────────────────────────────────────────────
@@ -301,13 +301,14 @@ def main():
     log.info("═" * 60)
     log.info(f"AI TRADER [{mode}] — Profilo: {_profile_name.upper()}")
     log.info(f"Coppie: {CONFIG['pairs']}")
-    log.info(f"Max trade: €{CONFIG['max_trade_eur']}  |  Riserva: €{CONFIG['cash_reserve_eur']}")
-    log.info(f"Take profit: +{CONFIG['take_profit_pct']}%  |  Stop loss: -{CONFIG['stop_loss_pct']}%")
+    log.info(f"Max trade: €{CONFIG['max_trade_eur']} | Riserva: €{CONFIG['cash_reserve_eur']}")
     log.info(f"Orario: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}")
 
+    # Credenziali
     cb_key    = os.getenv("COINBASE_API_KEY",    "")
     cb_secret = os.getenv("COINBASE_API_SECRET", "")
     ai_key    = os.getenv("ANTHROPIC_API_KEY",   "")
+
     if not all([cb_key, cb_secret, ai_key]):
         log.error("Credenziali mancanti — controlla i Secrets GitHub")
         sys.exit(1)
@@ -315,27 +316,40 @@ def main():
     cb     = CoinbaseClient(cb_key, cb_secret)
     claude = anthropic.Anthropic(api_key=ai_key)
 
+    # Test connessione Coinbase
     try:
         eur_balance = cb.get_balance("EUR")
-        log.info(f"✓ Coinbase OK — EUR disponibile: €{eur_balance:.2f}")
+        log.info(f"✓ Coinbase OK — EUR: €{eur_balance:.2f}")
+    except requests.HTTPError as e:
+        log.error(f"✗ Coinbase auth fallita: {e.response.status_code} {e.response.text}")
+        log.error("Verifica che COINBASE_API_KEY e COINBASE_API_SECRET siano corrette.")
+        log.error("La chiave deve essere formato CDP: 'organizations/xxx/apiKeys/yyy'")
+        sys.exit(1)
     except Exception as e:
-        log.error(f"✗ Connessione Coinbase fallita: {e}")
+        log.error(f"✗ Errore connessione: {e}")
         sys.exit(1)
 
+    # Dati mercato
     market_data = enrich_market(cb)
     if not market_data:
         log.warning("Nessun dato di mercato — ciclo saltato")
         sys.exit(0)
 
-    if crash_detected(market_data):
-        sys.exit(0)
+    # Crash guard
+    for pair, d in market_data.items():
+        if d.get("change_24h") is not None and d["change_24h"] < -CONFIG["crash_threshold_pct"]:
+            log.warning(f"⚠️  {pair} crollo ({d['change_24h']:.1f}%) — operazioni sospese")
+            sys.exit(0)
 
+    # Portafoglio
     portfolio = cb.get_portfolio()
-    log.info(f"Posizioni aperte: {list(portfolio.keys()) or 'nessuna'}")
+    log.info(f"Posizioni: {list(portfolio.keys()) or 'nessuna'}")
 
+    # AI
     trades = ask_ai(claude, market_data, portfolio, eur_balance)
     log.info(f"AI suggerisce {len(trades)} operazioni")
 
+    # Esecuzione
     for t in trades:
         action     = t.get("action")
         pair       = t.get("pair")
@@ -346,12 +360,11 @@ def main():
             log.warning(f"Coppia non autorizzata: {pair} — skip"); continue
         if amount_eur > CONFIG["max_trade_eur"]:
             amount_eur = CONFIG["max_trade_eur"]
-            log.warning(f"Importo ridotto al massimo: €{amount_eur}")
         usable = eur_balance - CONFIG["cash_reserve_eur"]
         if action == "buy" and amount_eur > usable:
             log.warning(f"Fondi insufficienti (usabili €{usable:.2f}) — skip"); continue
         if action == "buy" and len(portfolio) >= CONFIG["max_open_positions"]:
-            log.warning(f"Max posizioni raggiunto ({CONFIG['max_open_positions']}) — skip"); continue
+            log.warning(f"Max posizioni raggiunte — skip"); continue
 
         log.info(f"▶ {action.upper()} {pair} €{amount_eur:.2f} | {reason}")
         try:
