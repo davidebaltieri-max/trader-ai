@@ -15,8 +15,15 @@ from cryptography.hazmat.primitives.serialization import load_pem_private_key
 # PROFILI DI RISCHIO
 # ─────────────────────────────────────────────
 RISK_PROFILES = {
+
+    # ── BILANCIATO ────────────────────────────────────────────
+    # Solo large cap affidabili. Movimenti lenti, drawdown limitati.
+    # Simile a un ETF obbligazionario misto crypto.
     "bilanciato": {
-        "pairs":               ["BTC-EUR", "ETH-EUR"],
+        "pairs": [
+            "BTC-EUR",   # Bitcoin      — riserva di valore, dominanza di mercato
+            "ETH-EUR",   # Ethereum     — smart contract, ecosistema DeFi
+        ],
         "max_trade_eur":       15.0,
         "cash_reserve_eur":    80.0,
         "crash_threshold_pct": 8.0,
@@ -25,33 +32,64 @@ RISK_PROFILES = {
         "max_open_positions":  2,
         "ai_style": (
             "Sei MOLTO conservativo. Priorità assoluta: preservare il capitale. "
-            "Opera solo con segnali forti e chiari. Prediligi BTC."
+            "Opera solo su BTC ed ETH con segnali forti e chiari. "
+            "Preferisci non operare se il mercato è incerto o laterale."
         ),
     },
+
+    # ── MEDIO ─────────────────────────────────────────────────
+    # Large cap + mid cap selezionate. Buona diversificazione,
+    # simile a un ETF crypto diversificato.
     "medio": {
-        "pairs":               ["BTC-EUR", "ETH-EUR", "SOL-EUR"],
+        "pairs": [
+            "BTC-EUR",   # Bitcoin      — ancora del portafoglio
+            "ETH-EUR",   # Ethereum     — layer 1 principale
+            "SOL-EUR",   # Solana       — layer 1 ad alte performance
+            "ADA-EUR",   # Cardano      — layer 1 accademico, bassa volatilità relativa
+            "DOT-EUR",   # Polkadot     — interoperabilità blockchain
+            "LINK-EUR",  # Chainlink    — oracoli dati, infrastruttura DeFi
+        ],
         "max_trade_eur":       30.0,
         "cash_reserve_eur":    50.0,
         "crash_threshold_pct": 15.0,
         "take_profit_pct":     20.0,
         "stop_loss_pct":       10.0,
-        "max_open_positions":  3,
+        "max_open_positions":  4,
         "ai_style": (
-            "Sei bilanciato. Cerchi equilibrio tra rendimento e rischio. "
-            "Operi su segnali ragionevoli di momentum positivo."
+            "Sei bilanciato. Diversifichi tra large cap (BTC, ETH) e mid cap selezionate "
+            "(SOL, ADA, DOT, LINK). Preferisci asset con fondamentali solidi e momentum "
+            "positivo. Mantieni sempre BTC o ETH come posizione principale."
         ),
     },
+
+    # ── PERFORMANTE ───────────────────────────────────────────
+    # Ampia diversificazione su tutto lo spettro crypto.
+    # Alto potenziale, alta volatilità. Simile a un ETF crypto small/mid cap.
     "performante": {
-        "pairs":               ["BTC-EUR", "ETH-EUR", "SOL-EUR", "ADA-EUR"],
+        "pairs": [
+            "BTC-EUR",    # Bitcoin       — base del portafoglio
+            "ETH-EUR",    # Ethereum      — layer 1 principale
+            "SOL-EUR",    # Solana        — alta velocità, ecosistema NFT/DeFi
+            "ADA-EUR",    # Cardano       — layer 1 stabile
+            "DOT-EUR",    # Polkadot      — parachain, interoperabilità
+            "LINK-EUR",   # Chainlink     — oracoli, infrastruttura Web3
+            "AVAX-EUR",   # Avalanche     — layer 1 ad alta scalabilità
+            "MATIC-EUR",  # Polygon       — layer 2 Ethereum, commissioni basse
+            "UNI-EUR",    # Uniswap       — DEX leader, token di governance DeFi
+            "ATOM-EUR",   # Cosmos        — hub interchain, IBC protocol
+        ],
         "max_trade_eur":       50.0,
         "cash_reserve_eur":    30.0,
         "crash_threshold_pct": 25.0,
         "take_profit_pct":     35.0,
         "stop_loss_pct":       15.0,
-        "max_open_positions":  4,
+        "max_open_positions":  5,
         "ai_style": (
-            "Sei aggressivo e orientato alla performance. Accetti rischi maggiori "
-            "per rendimenti più alti. Puoi fare dip-buying su cali moderati."
+            "Sei aggressivo e orientato alla performance massima. Diversifichi su tutto lo "
+            "spettro: large cap (BTC/ETH), layer 1 alternativi (SOL/ADA/AVAX), "
+            "infrastruttura DeFi (LINK/UNI), layer 2 (MATIC) e interoperabilità (DOT/ATOM). "
+            "Puoi fare dip-buying su cali moderati. Ruota tra settori in base al momentum. "
+            "Priorità: massimizzare i ritorni accettando volatilità elevata."
         ),
     },
 }
@@ -216,24 +254,66 @@ class CoinbaseClient:
 # ─────────────────────────────────────────────
 # MARKET DATA
 # ─────────────────────────────────────────────
+def pct_change(closes: list, bars: int) -> float | None:
+    """Variazione percentuale sulle ultime `bars` candele."""
+    if len(closes) < bars + 1:
+        return None
+    return ((closes[0] - closes[bars]) / closes[bars]) * 100
+
+
 def enrich_market(cb: CoinbaseClient) -> dict:
+    """
+    Raccoglie dati multi-timeframe per ogni coppia:
+      - 1h  (ultime 2 candele da 30min)
+      - 4h  (ultime 8 candele da 30min)
+      - 24h (ultime 48 candele da 30min)
+    Usa candele da 30 minuti per massima granularità.
+    """
     data = {}
     for pair in CONFIG["pairs"]:
         try:
             prices = cb.get_best_bid_ask(pair)
             if not prices.get("mid"):
                 continue
-            candles    = cb.get_candles(pair)
-            change_24h = volatility = None
-            closes     = [float(c["close"]) for c in candles if "close" in c]
-            if len(closes) >= 2:
-                change_24h = ((closes[0] - closes[-1]) / closes[-1]) * 100
-            if len(closes) >= 6:
-                changes    = [(closes[i] - closes[i+1]) / closes[i+1] * 100 for i in range(5)]
+
+            # 50 candele da 30min = ~25 ore di storia
+            candles = cb.get_candles(pair, granularity="THIRTY_MINUTE", limit=50)
+            closes  = [float(c["close"]) for c in candles if "close" in c]
+            volumes = [float(c.get("volume", 0)) for c in candles if "close" in c]
+
+            change_1h  = pct_change(closes, 2)   # 2 x 30min = 1h
+            change_4h  = pct_change(closes, 8)   # 8 x 30min = 4h
+            change_24h = pct_change(closes, 48)  # 48 x 30min = 24h
+
+            # Volatilità: deviazione standard delle variazioni % a 30min (ultime 12 = 6h)
+            volatility = None
+            if len(closes) >= 13:
+                changes    = [(closes[i] - closes[i+1]) / closes[i+1] * 100
+                              for i in range(12)]
                 volatility = statistics.stdev(changes)
-            data[pair] = {**prices, "change_24h": change_24h, "volatility": volatility}
-            chg = f"{change_24h:+.2f}%" if change_24h is not None else "n/d"
-            log.info(f"{pair}: €{prices['mid']:.4f}  24h={chg}")
+
+            # Volume medio ultime 4 candele vs precedenti 4 (trend volume)
+            vol_recent = sum(volumes[:4]) / 4 if len(volumes) >= 4 else None
+            vol_prev   = sum(volumes[4:8]) / 4 if len(volumes) >= 8 else None
+            vol_ratio  = (vol_recent / vol_prev) if (vol_recent and vol_prev and vol_prev > 0) else None
+
+            data[pair] = {
+                **prices,
+                "change_1h":  change_1h,
+                "change_4h":  change_4h,
+                "change_24h": change_24h,
+                "volatility": volatility,
+                "vol_ratio":  vol_ratio,   # >1 = volume in aumento
+            }
+
+            log.info(
+                f"{pair}: €{prices['mid']:.4f} | "
+                f"1h={change_1h:+.2f}% " if change_1h is not None else
+                f"{pair}: €{prices['mid']:.4f} | 1h=n/d "
+                f"4h={change_4h:+.2f}% " if change_4h is not None else "4h=n/d "
+                f"24h={change_24h:+.2f}%" if change_24h is not None else "24h=n/d"
+            )
+
         except Exception as e:
             log.warning(f"Errore dati {pair}: {e}")
     return data
@@ -252,12 +332,17 @@ def ask_ai(client: anthropic.Anthropic, market_data: dict,
         for sym, qty in portfolio.items()
     ) or "  (nessuna posizione aperta)"
 
+    def fmt(v, suffix="%"):
+        return f"{v:+.2f}{suffix}" if v is not None else "n/d"
+
     market_lines = "\n".join(
-        f"  {pair}: mid=€{d['mid']:.4f}  "
-        f"24h={d['change_24h']:+.2f}%  "
-        f"vol={d.get('volatility') or 0:.2f}%"
+        f"  {pair}: €{d['mid']:.4f} | "
+        f"1h={fmt(d.get('change_1h'))} "
+        f"4h={fmt(d.get('change_4h'))} "
+        f"24h={fmt(d.get('change_24h'))} | "
+        f"vol×={fmt(d.get('vol_ratio'), suffix='x') if d.get('vol_ratio') else 'n/d'} "
+        f"volat={fmt(d.get('volatility'))}"
         for pair, d in market_data.items()
-        if d.get("change_24h") is not None
     )
 
     prompt = f"""Profilo: {_profile_name.upper()} — {CONFIG['ai_style']}
@@ -269,8 +354,18 @@ PORTAFOGLIO:
 CRYPTO IN PORTAFOGLIO:
 {portfolio_lines}
 
-MERCATO (Coinbase live):
+MERCATO — dati multi-timeframe (Coinbase live, candele 30min):
 {market_lines}
+
+Legenda colonne: 1h=ultima ora | 4h=ultime 4 ore | 24h=ultime 24 ore
+vol×=rapporto volume recente/precedente (>1.2 = volume in aumento)
+volat=volatilità % a 6 ore (bassa <0.5, media 0.5-1.5, alta >1.5)
+
+INTERPRETAZIONE SUGGERITA:
+- Momentum rialzista confermato: 1h>0% E 4h>0% E 24h>0%
+- Rimbalzo (possibile buy): 24h<0% ma 1h>0% e 4h>0% con vol× in aumento
+- Momentum ribassista: 1h<0% E 4h<0% → evita acquisti
+- Breakout: vol×>1.5 con variazione positiva su 1h e 4h
 
 LIMITI:
 - Max €{CONFIG['max_trade_eur']:.0f} per trade
@@ -345,10 +440,18 @@ def main():
         log.warning("Nessun dato di mercato — ciclo saltato")
         sys.exit(0)
 
-    # Crash guard
+    # Crash guard — controlla su 1h e 4h oltre che 24h
     for pair, d in market_data.items():
-        if d.get("change_24h") is not None and d["change_24h"] < -CONFIG["crash_threshold_pct"]:
-            log.warning(f"⚠️  {pair} crollo ({d['change_24h']:.1f}%) — operazioni sospese")
+        c24 = d.get("change_24h") or 0
+        c4  = d.get("change_4h")  or 0
+        c1  = d.get("change_1h")  or 0
+        threshold = CONFIG["crash_threshold_pct"]
+        # Segnale di crash: 24h sotto soglia, OPPURE crollo rapido nelle ultime 4h
+        if c24 < -threshold or c4 < -(threshold * 0.5) or c1 < -(threshold * 0.25):
+            log.warning(
+                f"⚠️  {pair}: 1h={c1:+.2f}% 4h={c4:+.2f}% 24h={c24:+.2f}% "
+                f"— segnale di crollo, operazioni sospese"
+            )
             sys.exit(0)
 
     # Portafoglio
