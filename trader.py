@@ -150,10 +150,13 @@ class CoinbaseClient:
         return self._get("/api/v3/brokerage/accounts").get("accounts", [])
 
     def get_balance(self, currency: str) -> float:
+        """Ritorna il saldo EUR o EURC (stablecoin euro 1:1)."""
+        total = 0.0
+        targets = {currency, "EURC"} if currency == "EUR" else {currency}
         for acc in self.get_accounts():
-            if acc.get("currency") == currency:
-                return float(acc.get("available_balance", {}).get("value", 0))
-        return 0.0
+            if acc.get("currency") in targets:
+                total += float(acc.get("available_balance", {}).get("value", 0))
+        return total
 
     def get_best_bid_ask(self, product_id: str) -> dict:
         data = self._get("/api/v3/brokerage/best_bid_ask", {"product_ids": product_id})
@@ -174,7 +177,7 @@ class CoinbaseClient:
         return data.get("candles", [])
 
     def get_portfolio(self) -> dict:
-        stablecoins = {"EUR", "USD", "USDC", "USDT", "USDC", "DAI", "BUSD"}
+        stablecoins = {"EUR", "USD", "USDC", "USDT", "EURC", "DAI", "BUSD"}
         portfolio   = {}
         for acc in self.get_accounts():
             cur = acc.get("currency", "")
