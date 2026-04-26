@@ -316,17 +316,24 @@ def main():
     cb     = CoinbaseClient(cb_key, cb_secret)
     claude = anthropic.Anthropic(api_key=ai_key)
 
-    # Test connessione Coinbase
+    # Test connessione Coinbase + diagnostica conti
     try:
+        accounts = cb.get_accounts()
+        log.info(f"Coinbase OK - {len(accounts)} conti trovati:")
+        for acc in accounts:
+            cur   = acc.get("currency", "?")
+            avail = float(acc.get("available_balance", {}).get("value", 0))
+            total = float((acc.get("balance") or {}).get("value", 0))
+            atype = acc.get("type", "?")
+            if avail > 0.0001 or total > 0.0001:
+                log.info(f"   {cur}: disponibile={avail:.6f}  totale={total:.6f}  tipo={atype}")
         eur_balance = cb.get_balance("EUR")
-        log.info(f"✓ Coinbase OK — EUR: €{eur_balance:.2f}")
+        log.info(f"Saldo EUR rilevato dal bot: {eur_balance:.2f}")
     except requests.HTTPError as e:
-        log.error(f"✗ Coinbase auth fallita: {e.response.status_code} {e.response.text}")
-        log.error("Verifica che COINBASE_API_KEY e COINBASE_API_SECRET siano corrette.")
-        log.error("La chiave deve essere formato CDP: 'organizations/xxx/apiKeys/yyy'")
+        log.error(f"Coinbase auth fallita: {e.response.status_code} {e.response.text}")
         sys.exit(1)
     except Exception as e:
-        log.error(f"✗ Errore connessione: {e}")
+        log.error(f"Errore connessione: {e}")
         sys.exit(1)
 
     # Dati mercato
