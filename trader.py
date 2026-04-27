@@ -54,7 +54,7 @@ RISK_PROFILES = {
         "crash_threshold_pct": 15.0,
         "take_profit_pct":     20.0,
         "stop_loss_pct":       10.0,
-        "max_open_positions":  4,
+        "max_open_positions":  5,
         "ai_style": (
             "Sei bilanciato. Diversifichi tra large cap (BTC, ETH) e mid cap selezionate "
             "(SOL, ADA, DOT, LINK). Preferisci asset con fondamentali solidi e momentum "
@@ -83,7 +83,7 @@ RISK_PROFILES = {
         "crash_threshold_pct": 25.0,
         "take_profit_pct":     35.0,
         "stop_loss_pct":       15.0,
-        "max_open_positions":  5,
+        "max_open_positions":  7,
         "ai_style": (
             "Sei aggressivo e orientato alla performance massima. Diversifichi su tutto lo "
             "spettro: large cap (BTC/ETH), layer 1 alternativi (SOL/ADA/AVAX), "
