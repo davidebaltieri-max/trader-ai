@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Trader — Coinbase CDP (JWT auth) + Claude Haiku
+AI Trader — Coinbase CDP (JWT auth) + Claude Haiku...
 Profili di rischio: BILANCIATO / MEDIO / PERFORMANTE
 """
 
