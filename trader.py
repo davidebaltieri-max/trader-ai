@@ -54,7 +54,7 @@ RISK_PROFILES = {
         "crash_threshold_pct": 15.0,
         "take_profit_pct":     20.0,
         "stop_loss_pct":       10.0,
-        "max_open_positions":  5,
+        "max_open_positions":  4,
         "ai_style": (
             "Sei bilanciato. Diversifichi tra large cap (BTC, ETH) e mid cap selezionate "
             "(SOL, ADA, DOT, LINK). Preferisci asset con fondamentali solidi e momentum "
@@ -83,7 +83,7 @@ RISK_PROFILES = {
         "crash_threshold_pct": 25.0,
         "take_profit_pct":     35.0,
         "stop_loss_pct":       15.0,
-        "max_open_positions":  7,
+        "max_open_positions":  5,
         "ai_style": (
             "Sei aggressivo e orientato alla performance massima. Diversifichi su tutto lo "
             "spettro: large cap (BTC/ETH), layer 1 alternativi (SOL/ADA/AVAX), "
@@ -261,6 +261,85 @@ def pct_change(closes: list, bars: int) -> float | None:
     return ((closes[0] - closes[bars]) / closes[bars]) * 100
 
 
+def calc_rsi(closes: list, period: int = 14) -> float | None:
+    """
+    RSI (Relative Strength Index) — periodo default 14.
+    Valori: 0-100
+      < 30 = ipervenduto (possibile rimbalzo, segnale BUY)
+      > 70 = ipercomprato (possibile correzione, segnale SELL)
+      30-70 = zona neutra
+    Input: closes in ordine cronologico inverso (più recente prima).
+    """
+    if len(closes) < period + 1:
+        return None
+    # Inverte per avere ordine cronologico corretto
+    c = list(reversed(closes[:period + 1]))
+    gains, losses = [], []
+    for i in range(1, len(c)):
+        delta = c[i] - c[i-1]
+        gains.append(max(delta, 0))
+        losses.append(max(-delta, 0))
+    avg_gain = sum(gains) / period
+    avg_loss = sum(losses) / period
+    if avg_loss == 0:
+        return 100.0
+    rs = avg_gain / avg_loss
+    return 100 - (100 / (1 + rs))
+
+
+def calc_ema(values: list, period: int) -> list:
+    """Exponential Moving Average — ritorna lista EMA (stesso ordine input)."""
+    if len(values) < period:
+        return []
+    k   = 2 / (period + 1)
+    ema = [sum(values[:period]) / period]
+    for v in values[period:]:
+        ema.append(v * k + ema[-1] * (1 - k))
+    return ema
+
+
+def calc_macd(closes: list, fast: int = 12, slow: int = 26, signal: int = 9) -> dict | None:
+    """
+    MACD (Moving Average Convergence Divergence).
+    Input: closes in ordine cronologico inverso (più recente prima).
+    Ritorna:
+      macd_line   = EMA_fast - EMA_slow
+      signal_line = EMA(macd_line, 9)
+      histogram   = macd_line - signal_line
+      cross       = "bullish" | "bearish" | "neutral"
+        bullish = MACD ha appena superato il signal dal basso (segnale BUY)
+        bearish = MACD ha appena bucato il signal verso il basso (segnale SELL)
+    """
+    if len(closes) < slow + signal:
+        return None
+    c = list(reversed(closes))  # ordine cronologico
+    ema_fast = calc_ema(c, fast)
+    ema_slow = calc_ema(c, slow)
+    if not ema_fast or not ema_slow:
+        return None
+    # Allinea le due EMA (slow è più corta)
+    offset     = len(ema_fast) - len(ema_slow)
+    macd_line  = [ema_fast[i + offset] - ema_slow[i] for i in range(len(ema_slow))]
+    signal_ema = calc_ema(macd_line, signal)
+    if not signal_ema:
+        return None
+    hist      = macd_line[-1] - signal_ema[-1]
+    hist_prev = macd_line[-2] - signal_ema[-2] if len(macd_line) >= 2 and len(signal_ema) >= 2 else 0
+    # Rilevamento crossover
+    if hist > 0 and hist_prev <= 0:
+        cross = "bullish"   # MACD ha appena superato il signal → BUY
+    elif hist < 0 and hist_prev >= 0:
+        cross = "bearish"   # MACD ha appena bucato il signal → SELL
+    else:
+        cross = "neutral"
+    return {
+        "macd":      macd_line[-1],
+        "signal":    signal_ema[-1],
+        "histogram": hist,
+        "cross":     cross,
+    }
+
+
 def enrich_market(cb: CoinbaseClient) -> dict:
     """
     Raccoglie dati multi-timeframe per ogni coppia:
@@ -297,22 +376,28 @@ def enrich_market(cb: CoinbaseClient) -> dict:
             vol_prev   = sum(volumes[4:8]) / 4 if len(volumes) >= 8 else None
             vol_ratio  = (vol_recent / vol_prev) if (vol_recent and vol_prev and vol_prev > 0) else None
 
+            # RSI (14 periodi su candele 30min = ~7h)
+            rsi  = calc_rsi(closes, period=14)
+
+            # MACD standard (12, 26, 9) — richiede almeno 35 candele
+            macd = calc_macd(closes, fast=12, slow=26, signal=9)
+
             data[pair] = {
                 **prices,
                 "change_1h":  change_1h,
                 "change_4h":  change_4h,
                 "change_24h": change_24h,
                 "volatility": volatility,
-                "vol_ratio":  vol_ratio,   # >1 = volume in aumento
+                "vol_ratio":  vol_ratio,
+                "rsi":        rsi,
+                "macd":       macd,
             }
 
-            log.info(
-                f"{pair}: €{prices['mid']:.4f} | "
-                f"1h={change_1h:+.2f}% " if change_1h is not None else
-                f"{pair}: €{prices['mid']:.4f} | 1h=n/d "
-                f"4h={change_4h:+.2f}% " if change_4h is not None else "4h=n/d "
-                f"24h={change_24h:+.2f}%" if change_24h is not None else "24h=n/d"
-            )
+            rsi_str  = f"{rsi:.1f}" if rsi is not None else "n/d"
+            macd_str = macd["cross"] if macd else "n/d"
+            chg1_str = f"{change_1h:+.2f}%" if change_1h is not None else "n/d"
+            chg4_str = f"{change_4h:+.2f}%" if change_4h is not None else "n/d"
+            log.info(f"{pair}: €{prices['mid']:.4f} | 1h={chg1_str} 4h={chg4_str} | RSI={rsi_str} MACD={macd_str}")
 
         except Exception as e:
             log.warning(f"Errore dati {pair}: {e}")
@@ -335,13 +420,23 @@ def ask_ai(client: anthropic.Anthropic, market_data: dict,
     def fmt(v, suffix="%"):
         return f"{v:+.2f}{suffix}" if v is not None else "n/d"
 
+    def rsi_label(v):
+        if v is None: return "n/d"
+        tag = " 🔴IPERCOMPRATO" if v > 70 else (" 🟢IPERVENDUTO" if v < 30 else "")
+        return f"{v:.1f}{tag}"
+
+    def macd_label(m):
+        if not m: return "n/d"
+        tag = " ▲BULLISH_CROSS" if m["cross"] == "bullish" else (" ▼BEARISH_CROSS" if m["cross"] == "bearish" else "")
+        return f"hist={m['histogram']:+.4f}{tag}"
+
     market_lines = "\n".join(
         f"  {pair}: €{d['mid']:.4f} | "
-        f"1h={fmt(d.get('change_1h'))} "
-        f"4h={fmt(d.get('change_4h'))} "
-        f"24h={fmt(d.get('change_24h'))} | "
+        f"1h={fmt(d.get('change_1h'))} 4h={fmt(d.get('change_4h'))} 24h={fmt(d.get('change_24h'))} | "
         f"vol×={fmt(d.get('vol_ratio'), suffix='x') if d.get('vol_ratio') else 'n/d'} "
-        f"volat={fmt(d.get('volatility'))}"
+        f"volat={fmt(d.get('volatility'))} | "
+        f"RSI={rsi_label(d.get('rsi'))} | "
+        f"MACD={macd_label(d.get('macd'))}"
         for pair, d in market_data.items()
     )
 
@@ -360,12 +455,27 @@ MERCATO — dati multi-timeframe (Coinbase live, candele 30min):
 Legenda colonne: 1h=ultima ora | 4h=ultime 4 ore | 24h=ultime 24 ore
 vol×=rapporto volume recente/precedente (>1.2 = volume in aumento)
 volat=volatilità % a 6 ore (bassa <0.5, media 0.5-1.5, alta >1.5)
+RSI=Relative Strength Index su 7h (14 candele da 30min)
+MACD=Moving Average Convergence Divergence (12,26,9)
 
-INTERPRETAZIONE SUGGERITA:
-- Momentum rialzista confermato: 1h>0% E 4h>0% E 24h>0%
-- Rimbalzo (possibile buy): 24h<0% ma 1h>0% e 4h>0% con vol× in aumento
-- Momentum ribassista: 1h<0% E 4h<0% → evita acquisti
-- Breakout: vol×>1.5 con variazione positiva su 1h e 4h
+INTERPRETAZIONE INDICATORI:
+RSI:
+  < 30 = IPERVENDUTO → possibile rimbalzo, valuta acquisto
+  > 70 = IPERCOMPRATO → possibile correzione, valuta vendita
+  30-70 = zona neutra
+
+MACD:
+  hist>0 e BULLISH_CROSS = momentum rialzista confermato → segnale BUY forte
+  hist<0 e BEARISH_CROSS = momentum ribassista confermato → segnale SELL forte
+  hist positivo crescente = trend rialzista in corso
+  hist negativo decrescente = trend ribassista in corso
+
+SEGNALI COMBINATI (più indicatori concordano = segnale più affidabile):
+  ACQUISTO FORTE:  RSI<30 + MACD BULLISH_CROSS + 1h>0% + vol×>1.2
+  ACQUISTO MEDIO:  RSI<50 + MACD hist>0 + 4h>0%
+  VENDITA FORTE:   RSI>70 + MACD BEARISH_CROSS + 1h<0%
+  VENDITA MEDIA:   RSI>60 + MACD hist<0 + 4h<0%
+  NESSUNA AZIONE:  segnali contrastanti o RSI in zona neutra senza MACD cross
 
 LIMITI:
 - Max €{CONFIG['max_trade_eur']:.0f} per trade
