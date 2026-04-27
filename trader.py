@@ -373,6 +373,9 @@ LIMITI:
 - Solo coppie: {CONFIG['pairs']}
 - Non superare {CONFIG['max_open_positions']} posizioni aperte
 
+REGOLA CRITICA SULLE POSIZIONI:
+{"⛔ Portafoglio PIENO (" + str(len(portfolio)) + "/" + str(CONFIG["max_open_positions"]) + " slot). NON proporre acquisti. Proponi SOLO vendite se qualche posizione ha raggiunto take profit/stop loss, altrimenti restituisci []." if len(portfolio) >= CONFIG["max_open_positions"] else "✅ Hai " + str(CONFIG["max_open_positions"] - len(portfolio)) + " slot liberi. Puoi proporre acquisti e/o vendite."}
+
 Decidi 0-2 operazioni. Rispondi SOLO con JSON array valido:
 [{{"action":"buy","pair":"BTC-EUR","amount_eur":20,"reason":"motivazione"}}]
 Se non operi: []"""
