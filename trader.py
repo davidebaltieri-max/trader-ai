@@ -55,10 +55,14 @@ RISK_PROFILES = {
         "take_profit_pct":     20.0,
         "stop_loss_pct":       10.0,
         "max_open_positions":  5,
+        "min_trade_eur":        8.0,
+        "max_trades_per_cycle": 3,
         "ai_style": (
-            "Sei bilanciato. Diversifichi tra large cap (BTC, ETH) e mid cap selezionate "
-            "(SOL, ADA, DOT, LINK). Preferisci asset con fondamentali solidi e momentum "
-            "positivo. Mantieni sempre BTC o ETH come posizione principale."
+            "Sei dinamico e attivo. Fai operazioni frequenti anche con importi piccoli (da €8). "
+            "Diversifichi tra large cap (BTC, ETH) e mid cap (SOL, ADA, DOT, LINK). "
+            "Puoi fare fino a 3 operazioni per ciclo. Preferisci molte operazioni piccole "
+            "a poche operazioni grandi. Sfrutta ogni segnale tecnico chiaro, anche minimo. "
+            "Ruota attivamente le posizioni per ottimizzare il rendimento."
         ),
     },
 
@@ -83,7 +87,9 @@ RISK_PROFILES = {
         "crash_threshold_pct": 25.0,
         "take_profit_pct":     35.0,
         "stop_loss_pct":       15.0,
-        "max_open_positions":  5,
+        "max_open_positions":  7,
+        "min_trade_eur":        5.0,
+        "max_trades_per_cycle": 4,
         "ai_style": (
             "Sei aggressivo e orientato alla performance massima. Diversifichi su tutto lo "
             "spettro: large cap (BTC/ETH), layer 1 alternativi (SOL/ADA/AVAX), "
@@ -478,16 +484,20 @@ SEGNALI COMBINATI (più indicatori concordano = segnale più affidabile):
   NESSUNA AZIONE:  segnali contrastanti o RSI in zona neutra senza MACD cross
 
 LIMITI:
-- Max €{CONFIG['max_trade_eur']:.0f} per trade
+- Min €{CONFIG.get('min_trade_eur', 10):.0f} | Max €{CONFIG['max_trade_eur']:.0f} per trade
 - Take profit: +{CONFIG['take_profit_pct']:.0f}% | Stop loss: -{CONFIG['stop_loss_pct']:.0f}%
 - Solo coppie: {CONFIG['pairs']}
 - Non superare {CONFIG['max_open_positions']} posizioni aperte
+- Max {CONFIG.get('max_trades_per_cycle', 2)} operazioni per questo ciclo
 
 REGOLA CRITICA SULLE POSIZIONI:
 {"⛔ Portafoglio PIENO (" + str(len(portfolio)) + "/" + str(CONFIG["max_open_positions"]) + " slot). NON proporre acquisti. Proponi SOLO vendite se qualche posizione ha raggiunto take profit/stop loss, altrimenti restituisci []." if len(portfolio) >= CONFIG["max_open_positions"] else "✅ Hai " + str(CONFIG["max_open_positions"] - len(portfolio)) + " slot liberi. Puoi proporre acquisti e/o vendite."}
 
-Decidi 0-2 operazioni. Rispondi SOLO con JSON array valido:
-[{{"action":"buy","pair":"BTC-EUR","amount_eur":20,"reason":"motivazione"}}]
+Decidi 0-{CONFIG.get('max_trades_per_cycle', 2)} operazioni per questo ciclo.
+Importi: da €{CONFIG.get('min_trade_eur', 10):.0f} a €{CONFIG['max_trade_eur']:.0f} — puoi fare operazioni piccole (€8-15) se il segnale è moderato,
+         o operazioni più grandi (€20-30) se il segnale è forte e confermato da più indicatori.
+Rispondi SOLO con JSON array valido:
+[{{"action":"buy","pair":"BTC-EUR","amount_eur":15,"reason":"motivazione"}}]
 Se non operi: []"""
 
     msg = client.messages.create(
@@ -507,6 +517,32 @@ Se non operi: []"""
 # ─────────────────────────────────────────────
 # MAIN
 # ─────────────────────────────────────────────
+def log_trade(action: str, pair: str, amount_eur: float, price: float, reason: str):
+    """Appende l'operazione al file di log giornaliero JSON."""
+    today    = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    log_file = f"trades_{today}.json"
+    entry = {
+        "ts":         datetime.now(timezone.utc).isoformat(),
+        "action":     action,
+        "pair":       pair,
+        "amount_eur": round(amount_eur, 2),
+        "price":      round(price, 4),
+        "reason":     reason,
+        "dry_run":    CONFIG["dry_run"],
+    }
+    trades = []
+    if os.path.exists(log_file):
+        try:
+            with open(log_file) as f:
+                trades = json.load(f)
+        except Exception:
+            trades = []
+    trades.append(entry)
+    with open(log_file, "w") as f:
+        json.dump(trades, f, indent=2, ensure_ascii=False)
+    log.info(f"Trade loggato in {log_file}")
+
+
 def main():
     mode = "🟡 DRY-RUN" if CONFIG["dry_run"] else "🔴 LIVE"
     log.info("═" * 60)
@@ -598,6 +634,7 @@ def main():
                 result = cb.market_buy(pair, amount_eur)
                 log.info(f"✓ Acquisto: {json.dumps(result)}")
                 eur_balance -= amount_eur
+                log_trade("buy", pair, amount_eur, market_data[pair]["mid"], reason)
             elif action == "sell":
                 base_cur = pair.split("-")[0]
                 qty      = portfolio.get(base_cur, 0)
@@ -607,6 +644,7 @@ def main():
                     log.warning(f"Quantità insufficiente per {pair}"); continue
                 result = cb.market_sell(pair, sell_qty)
                 log.info(f"✓ Vendita: {json.dumps(result)}")
+                log_trade("sell", pair, sell_qty * market_data[pair]["mid"], market_data[pair]["mid"], reason)
         except requests.HTTPError as e:
             log.error(f"✗ Errore API: {e.response.status_code} — {e.response.text}")
         except Exception as e:
