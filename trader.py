@@ -27,8 +27,10 @@ RISK_PROFILES = {
         "max_trade_eur":       15.0,
         "cash_reserve_eur":    80.0,
         "crash_threshold_pct": 8.0,
-        "take_profit_pct":     12.0,
-        "stop_loss_pct":       6.0,
+        "take_profit_pct":     4.0,
+        "stop_loss_pct":       2.0,
+        "trailing_stop_pct":   1.0,
+        "breakeven_at_pct":    2.0,
         "max_open_positions":  2,
         "ai_style": (
             "Sei MOLTO conservativo. Priorità assoluta: preservare il capitale. "
@@ -52,8 +54,10 @@ RISK_PROFILES = {
         "max_trade_eur":       30.0,
         "cash_reserve_eur":    50.0,
         "crash_threshold_pct": 15.0,
-        "take_profit_pct":     20.0,
-        "stop_loss_pct":       10.0,
+        "take_profit_pct":     6.0,
+        "stop_loss_pct":       3.0,
+        "trailing_stop_pct":   2.0,
+        "breakeven_at_pct":    3.0,
         "max_open_positions":  5,
         "min_trade_eur":        8.0,
         "max_trades_per_cycle": 3,
@@ -78,15 +82,17 @@ RISK_PROFILES = {
             "DOT-EUR",    # Polkadot      — parachain, interoperabilità
             "LINK-EUR",   # Chainlink     — oracoli, infrastruttura Web3
             "AVAX-EUR",   # Avalanche     — layer 1 ad alta scalabilità
-            "XLM-EUR",    # Stellar Lumens — rete pagamenti, bassa volatilità relativa
+            "POL-EUR",    # Polygon (POL) — layer 2 Ethereum, commissioni basse
             "UNI-EUR",    # Uniswap       — DEX leader, token di governance DeFi
             "ATOM-EUR",   # Cosmos        — hub interchain, IBC protocol
         ],
         "max_trade_eur":       50.0,
         "cash_reserve_eur":    30.0,
         "crash_threshold_pct": 25.0,
-        "take_profit_pct":     35.0,
-        "stop_loss_pct":       15.0,
+        "take_profit_pct":     10.0,
+        "stop_loss_pct":       5.0,
+        "trailing_stop_pct":   3.0,
+        "breakeven_at_pct":    5.0,
         "max_open_positions":  7,
         "min_trade_eur":        5.0,
         "max_trades_per_cycle": 4,
@@ -489,7 +495,7 @@ SEGNALI COMBINATI (più indicatori concordano = segnale più affidabile):
 
 LIMITI:
 - Min €{CONFIG.get('min_trade_eur', 10):.0f} | Max €{CONFIG['max_trade_eur']:.0f} per trade
-- Take profit: +{CONFIG['take_profit_pct']:.0f}% | Stop loss: -{CONFIG['stop_loss_pct']:.0f}%
+- Take profit: +{CONFIG['take_profit_pct']:.0f}% | Stop loss: -{CONFIG['stop_loss_pct']:.0f}% | Trailing stop: -{CONFIG.get('trailing_stop_pct',2):.0f}% dal massimo
 - Solo coppie: {CONFIG['pairs']}
 - Non superare {CONFIG['max_open_positions']} posizioni aperte
 - Max {CONFIG.get('max_trades_per_cycle', 2)} operazioni per questo ciclo
@@ -521,6 +527,119 @@ Se non operi: []"""
 # ─────────────────────────────────────────────
 # MAIN
 # ─────────────────────────────────────────────
+# ─────────────────────────────────────────────
+# TRAILING STOP MANAGER
+# Traccia le posizioni aperte con prezzo di entrata
+# e aggiorna dinamicamente lo stop loss
+# ─────────────────────────────────────────────
+POSITIONS_FILE = "positions.json"
+
+
+def load_positions() -> dict:
+    """Carica le posizioni aperte con prezzi di entrata."""
+    if not os.path.exists(POSITIONS_FILE):
+        return {}
+    try:
+        with open(POSITIONS_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def save_positions(positions: dict):
+    with open(POSITIONS_FILE, "w") as f:
+        json.dump(positions, f, indent=2)
+
+
+def update_position(pair: str, action: str, price: float, amount_eur: float):
+    """Aggiorna il registro posizioni dopo un trade."""
+    positions = load_positions()
+    base = pair.split("-")[0]
+    if action == "buy":
+        if base in positions:
+            # Media il prezzo di entrata
+            old = positions[base]
+            total_eur = old["invested_eur"] + amount_eur
+            avg_price = (old["entry_price"] * old["invested_eur"] + price * amount_eur) / total_eur
+            positions[base] = {
+                "entry_price":   avg_price,
+                "invested_eur":  total_eur,
+                "highest_price": max(old.get("highest_price", avg_price), price),
+                "stop_price":    avg_price * (1 - CONFIG["stop_loss_pct"] / 100),
+                "opened_at":     old.get("opened_at", datetime.now(timezone.utc).isoformat()),
+            }
+        else:
+            positions[base] = {
+                "entry_price":   price,
+                "invested_eur":  amount_eur,
+                "highest_price": price,
+                "stop_price":    price * (1 - CONFIG["stop_loss_pct"] / 100),
+                "opened_at":     datetime.now(timezone.utc).isoformat(),
+            }
+    elif action == "sell":
+        positions.pop(base, None)
+    save_positions(positions)
+
+
+def check_trailing_stops(market_data: dict, positions: dict) -> list:
+    """
+    Controlla ogni posizione aperta e genera segnali di vendita se:
+    1. Il prezzo è sceso sotto lo stop loss iniziale
+    2. Il prezzo è tornato sotto il trailing stop dopo aver guadagnato
+    3. Il prezzo ha raggiunto il take profit
+    Ritorna lista di dict {pair, reason, amount_eur}
+    """
+    signals = []
+    saved   = load_positions()
+
+    for base, pos in saved.items():
+        pair  = f"{base}-EUR"
+        if pair not in market_data:
+            continue
+        cur_price   = market_data[pair]["mid"]
+        entry_price = pos["entry_price"]
+        pnl_pct     = ((cur_price - entry_price) / entry_price) * 100
+        invested    = pos["invested_eur"]
+        tp          = CONFIG["take_profit_pct"]
+        sl          = CONFIG["stop_loss_pct"]
+        be_at       = CONFIG.get("breakeven_at_pct", tp / 2)
+        trail_pct   = CONFIG.get("trailing_stop_pct", sl)
+
+        # Aggiorna il prezzo massimo raggiunto
+        highest = max(pos.get("highest_price", cur_price), cur_price)
+        pos["highest_price"] = highest
+        saved[base] = pos
+
+        # Calcola trailing stop dinamico
+        if pnl_pct >= be_at:
+            # Siamo in profitto >= breakeven_at: stop si sposta
+            # trailing stop = highest_price - trail_pct%
+            trail_stop = highest * (1 - trail_pct / 100)
+            pos["stop_price"] = max(pos.get("stop_price", 0), trail_stop)
+            saved[base] = pos
+        
+        stop_price = pos.get("stop_price", entry_price * (1 - sl / 100))
+
+        # Take Profit raggiunto
+        if pnl_pct >= tp:
+            signals.append({
+                "pair":       pair,
+                "amount_eur": invested,
+                "reason":     f"TAKE PROFIT +{pnl_pct:.1f}% (target +{tp}%) @ €{cur_price:.4f}"
+            })
+        # Stop Loss o Trailing Stop colpito
+        elif cur_price <= stop_price:
+            stop_type = "TRAILING STOP" if pnl_pct > 0 else "STOP LOSS"
+            signals.append({
+                "pair":       pair,
+                "amount_eur": invested,
+                "reason":     f"{stop_type} {pnl_pct:.1f}% | stop=€{stop_price:.4f} cur=€{cur_price:.4f}"
+            })
+
+    save_positions(saved)
+    return signals
+
+
 def log_trade(action: str, pair: str, amount_eur: float, price: float, reason: str):
     """Appende l'operazione al file di log giornaliero JSON."""
     today    = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -611,6 +730,27 @@ def main():
     portfolio = cb.get_portfolio()
     log.info(f"Posizioni: {list(portfolio.keys()) or 'nessuna'}")
 
+    # ── Trailing Stop / Take Profit automatici ───────────────
+    ts_signals = check_trailing_stops(market_data, portfolio)
+    for sig in ts_signals:
+        pair       = sig["pair"]
+        amount_eur = sig["amount_eur"]
+        reason     = sig["reason"]
+        log.info(f"🎯 SEGNALE AUTOMATICO: SELL {pair} | {reason}")
+        try:
+            base_cur = pair.split("-")[0]
+            qty      = portfolio.get(base_cur, 0)
+            price    = market_data[pair]["mid"]
+            sell_qty = min(qty, amount_eur / price)
+            if sell_qty > 1e-8:
+                result = cb.market_sell(pair, sell_qty)
+                log.info(f"✓ Vendita automatica: {json.dumps(result)}")
+                log_trade("sell", pair, sell_qty * price, price, reason)
+                update_position(pair, "sell", price, amount_eur)
+                portfolio.pop(base_cur, None)
+        except Exception as e:
+            log.error(f"✗ Errore vendita automatica {pair}: {e}")
+
     # AI
     trades = ask_ai(claude, market_data, portfolio, eur_balance)
     log.info(f"AI suggerisce {len(trades)} operazioni")
@@ -639,6 +779,7 @@ def main():
                 log.info(f"✓ Acquisto: {json.dumps(result)}")
                 eur_balance -= amount_eur
                 log_trade("buy", pair, amount_eur, market_data[pair]["mid"], reason)
+                update_position(pair, "buy", market_data[pair]["mid"], amount_eur)
             elif action == "sell":
                 base_cur = pair.split("-")[0]
                 qty      = portfolio.get(base_cur, 0)
@@ -649,6 +790,7 @@ def main():
                 result = cb.market_sell(pair, sell_qty)
                 log.info(f"✓ Vendita: {json.dumps(result)}")
                 log_trade("sell", pair, sell_qty * market_data[pair]["mid"], market_data[pair]["mid"], reason)
+                update_position(pair, "sell", market_data[pair]["mid"], sell_qty * market_data[pair]["mid"])
         except requests.HTTPError as e:
             log.error(f"✗ Errore API: {e.response.status_code} — {e.response.text}")
         except Exception as e:
