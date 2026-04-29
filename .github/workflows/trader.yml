@@ -33,4 +33,5 @@ jobs:
           COINBASE_API_SECRET: ${{ secrets.COINBASE_API_SECRET }}
           ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
           DRY_RUN:             ${{ secrets.DRY_RUN }}
+          RISK_PROFILE:        ${{ secrets.RISK_PROFILE }}
         run: python trader.py
