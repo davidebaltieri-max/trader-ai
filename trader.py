@@ -78,7 +78,7 @@ RISK_PROFILES = {
             "DOT-EUR",    # Polkadot      — parachain, interoperabilità
             "LINK-EUR",   # Chainlink     — oracoli, infrastruttura Web3
             "AVAX-EUR",   # Avalanche     — layer 1 ad alta scalabilità
-            "POL-EUR",    # Polygon (POL) — layer 2 Ethereum, commissioni basse
+            "NEAR-EUR",    # Polygon (POL) — layer 2 Ethereum, commissioni basse
             "UNI-EUR",    # Uniswap       — DEX leader, token di governance DeFi
             "ATOM-EUR",   # Cosmos        — hub interchain, IBC protocol
         ],
