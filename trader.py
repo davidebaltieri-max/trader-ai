@@ -82,7 +82,7 @@ RISK_PROFILES = {
             "DOT-EUR",    # Polkadot      — parachain, interoperabilità
             "LINK-EUR",   # Chainlink     — oracoli, infrastruttura Web3
             "AVAX-EUR",   # Avalanche     — layer 1 ad alta scalabilità
-            "POL-EUR",    # Polygon (POL) — layer 2 Ethereum, commissioni basse
+            "XRP-EUR",    # XRP            — pagamenti veloci, alta liquidità
             "UNI-EUR",    # Uniswap       — DEX leader, token di governance DeFi
             "ATOM-EUR",   # Cosmos        — hub interchain, IBC protocol
         ],
@@ -444,7 +444,8 @@ def ask_ai(client: anthropic.Anthropic, market_data: dict,
     def macd_label(m):
         if not m: return "n/d"
         tag = " ▲BULLISH_CROSS" if m["cross"] == "bullish" else (" ▼BEARISH_CROSS" if m["cross"] == "bearish" else "")
-        return f"hist={m['histogram']:+.4f}{tag}"
+        trend = "↑crescente" if m['histogram'] > 0 else "↓decrescente"
+        return f"hist={m['histogram']:+.4f} {trend}{tag}"
 
     market_lines = "\n".join(
         f"  {pair}: €{d['mid']:.4f} | "
