@@ -133,7 +133,7 @@ def build_html(trades: list, date_str: str) -> str:
 
     <!-- Footer -->
     <div style="background:#f8fafc;padding:16px 28px;border-top:1px solid #e2e8f0;font-size:11px;color:#9ca3af;text-align:center;">
-        AI Trader · Coinbase · Report automatico generato alle {datetime.now().strftime("%H:%M")} ora italiana
+        AI Trader · Coinbase · Report automatico generato alle {datetime.now(timezone(timedelta(hours=2))).strftime("%H:%M")} ora italiana
         <br>Le performance passate non garantiscono risultati futuri. Investi solo ciò che puoi permetterti di perdere.
     </div>
 </div>
