@@ -100,8 +100,12 @@ RISK_PROFILES = {
     },
 }
 
-_profile_name = os.getenv("RISK_PROFILE", "medio").lower().strip()
+_raw_profile  = os.getenv("RISK_PROFILE", "")
+print(f"DEBUG RISK_PROFILE raw=[{_raw_profile}] len={len(_raw_profile)}")
+_profile_name = _raw_profile.lower().strip() if _raw_profile else "medio"
+print(f"DEBUG profile=[{_profile_name}] validi={list(RISK_PROFILES.keys())}")
 if _profile_name not in RISK_PROFILES:
+    print(f"Profilo non valido, uso medio")
     _profile_name = "medio"
 
 PROFILE = RISK_PROFILES[_profile_name]
