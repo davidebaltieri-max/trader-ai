@@ -78,7 +78,7 @@ RISK_PROFILES = {
             "DOT-EUR",    # Polkadot      — parachain, interoperabilità
             "LINK-EUR",   # Chainlink     — oracoli, infrastruttura Web3
             "AVAX-EUR",   # Avalanche     — layer 1 ad alta scalabilità
-            "MATIC-EUR",  # Polygon       — layer 2 Ethereum, commissioni basse
+            "POL-EUR",    # Polygon (POL) — layer 2 Ethereum, commissioni basse
             "UNI-EUR",    # Uniswap       — DEX leader, token di governance DeFi
             "ATOM-EUR",   # Cosmos        — hub interchain, IBC protocol
         ],
@@ -506,7 +506,7 @@ Se non operi: []"""
 
     msg = client.messages.create(
         model      = "claude-haiku-4-5-20251001",
-        max_tokens = 400,
+        max_tokens = 800,
         messages   = [{"role": "user", "content": prompt}],
     )
     raw = msg.content[0].text.strip()
