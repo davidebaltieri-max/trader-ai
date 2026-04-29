@@ -1,0 +1,35 @@
+name: 📧 AI Trader — Riepilogo Giornaliero
+
+on:
+  schedule:
+    # Ogni giorno alle 20:00 UTC = 21:00 ora italiana (22:00 in estate)
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Installa dipendenze
+        run: pip install requests
+
+      - name: 📧 Invia riepilogo giornaliero
+        env:
+          GMAIL_USER:          ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD:  ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_EMAIL:        ${{ secrets.NOTIFY_EMAIL }}
+          DRY_RUN:             ${{ secrets.DRY_RUN }}
+        run: python daily_summary.py
