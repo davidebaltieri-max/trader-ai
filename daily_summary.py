@@ -20,13 +20,13 @@ DRY_RUN       = os.getenv("DRY_RUN", "true").lower() in ("1", "true", "yes")
 
 
 def load_today_trades() -> list:
-    """Carica le operazioni del giorno corrente dal file JSON."""
+    """Carica le operazioni del giorno corrente dal file JSON nella cartella logs/."""
     today    = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    log_file = f"trades_{today}.json"
+    log_file = f"logs/trades_{today}.json"
     if not os.path.exists(log_file):
         # Prova anche ieri (per fusi orari)
         yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%d")
-        log_file  = f"trades_{yesterday}.json"
+        log_file  = f"logs/trades_{yesterday}.json"
     if not os.path.exists(log_file):
         return []
     with open(log_file) as f:

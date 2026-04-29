@@ -642,9 +642,14 @@ def check_trailing_stops(market_data: dict, positions: dict) -> list:
 
 
 def log_trade(action: str, pair: str, amount_eur: float, price: float, reason: str):
-    """Appende l'operazione al file di log giornaliero JSON."""
+    """
+    Appende l'operazione al file di log giornaliero JSON nella cartella logs/.
+    Poi fa un git commit per persistere il file nel repository.
+    """
+    import subprocess
+    os.makedirs("logs", exist_ok=True)
     today    = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    log_file = f"trades_{today}.json"
+    log_file = f"logs/trades_{today}.json"
     entry = {
         "ts":         datetime.now(timezone.utc).isoformat(),
         "action":     action,
@@ -665,6 +670,17 @@ def log_trade(action: str, pair: str, amount_eur: float, price: float, reason: s
     with open(log_file, "w") as f:
         json.dump(trades, f, indent=2, ensure_ascii=False)
     log.info(f"Trade loggato in {log_file}")
+
+    # Commit del log nel repository per renderlo persistente
+    try:
+        subprocess.run(["git", "config", "user.email", "bot@trader.ai"], check=True)
+        subprocess.run(["git", "config", "user.name", "AI Trader Bot"], check=True)
+        subprocess.run(["git", "add", log_file], check=True)
+        subprocess.run(["git", "commit", "-m", f"[bot] {action.upper()} {pair} €{amount_eur:.2f}"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        log.info("Log committato nel repository")
+    except Exception as e:
+        log.warning(f"Git commit fallito (non critico): {e}")
 
 
 def main():
