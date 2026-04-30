@@ -16,5 +16,14 @@
     "price": 7.775,
     "reason": "LINK: RSI=41.7 (zona neutra bassa) + MACD hist negativo decrescente + BEARISH_CROSS confermato + 1h=-0.38% + vol×=1.24x elevato. Segnale di debolezza. Riduco posizione per liberare liquidità e reallochare su opportunità più forti (ATOM ipervenduto).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-04-30T21:38:12.470821+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 28.5,
+    "price": 2.715,
+    "reason": "UNI: RSI=33.3 (ipervenduto ma debole) + MACD hist negativo decrescente + 24h=-0.73% + vol×=0.73x basso. Momentum ribassista confermato senza segnale di rimbalzo imminente. Riduco per liberare slot e capitale.",
+    "dry_run": false
   }
 ]
