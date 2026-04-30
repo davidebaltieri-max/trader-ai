@@ -7,5 +7,14 @@
     "price": 1.035,
     "reason": "DOT in trend ribassista: 24h=-3.74%, 4h=-0.96%, RSI=50.0 (neutrale), MACD hist decrescente. Momentum negativo consolidato. Realizzo parziale per liberare liquidità e ridurre esposizione su asset in debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-04-30T21:38:11.499264+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 23.5,
+    "price": 7.775,
+    "reason": "LINK: RSI=41.7 (zona neutra bassa) + MACD hist negativo decrescente + BEARISH_CROSS confermato + 1h=-0.38% + vol×=1.24x elevato. Segnale di debolezza. Riduco posizione per liberare liquidità e reallochare su opportunità più forti (ATOM ipervenduto).",
+    "dry_run": false
   }
 ]
