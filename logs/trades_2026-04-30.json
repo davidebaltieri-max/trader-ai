@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-04-30T19:30:48.307192+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.035,
+    "reason": "DOT in trend ribassista: 24h=-3.74%, 4h=-0.96%, RSI=50.0 (neutrale), MACD hist decrescente. Momentum negativo consolidato. Realizzo parziale per liberare liquidità e ridurre esposizione su asset in debolezza.",
+    "dry_run": false
+  }
+]
