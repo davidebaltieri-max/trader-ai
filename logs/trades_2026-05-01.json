@@ -70,5 +70,14 @@
     "price": 1.622,
     "reason": "RSI=73.2 IPERCOMPRATO + volume×=3.36x anomalo (picco di vendita). ATOM ha raggiunto zona di correzione probabile. Realizza profitti su posizione infiammata. Mantieni posizione ridotta per continuare exposure interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T17:30:42.541350+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 1.035,
+    "reason": "MACD BEARISH_CROSS confermato + RSI=60 + 4h=-0.96% + 24h=-0.96%. Momentum ribassista in corso. Riduci exposure su trend negativo, libera liquidità per opportunità su dip buying.",
+    "dry_run": false
   }
 ]
