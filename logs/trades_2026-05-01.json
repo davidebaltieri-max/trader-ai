@@ -7,5 +7,14 @@
     "price": 71.56,
     "reason": "RSI=72.8 🔴IPERCOMPRATO (>70) + MACD hist positivo ma segnali di correzione imminente. SOL mostra 1h=-0.17% (debole). Realizzo profitti su posizione in overbought per liberare slot e ridurre volatilità estrema.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T04:00:55.940499+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 28.96,
+    "price": 2.755,
+    "reason": "RSI=71.4 🔴IPERCOMPRATO (>70) + MACD hist positivo ma posizione tesa. UNI ha già generato +0.73% in 24h. Vendo per bloccare guadagni e liberare liquidità in zona di resistenza tecnica.",
+    "dry_run": false
   }
 ]
