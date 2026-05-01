@@ -88,5 +88,14 @@
     "price": 1.63,
     "reason": "RSI=76.9 IPERCOMPRATO + MACD hist positivo ma momentum in estenuazione (ATOM è in area di presa di profitto). Vendo il 40% della posizione per realizzare guadagni e ridurre esposizione su asset saturo. Libero ~€40 in cassa per rotazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T19:30:50.747682+00:00",
+    "action": "buy",
+    "pair": "XRP-EUR",
+    "amount_eur": 25.0,
+    "price": 1.1898,
+    "reason": "ACQUISTO FORTE: RSI=65.5 (prossimo a ipercomprato ma ancora in uptrend), MACD hist=+0.0003 ↑crescente (momentum rialzista confermato), 24h=+1.61% (trend positivo), vol×=+0.63x (volume sostenuto). Segnale combinato bullish. XRP assente dal portafoglio, diversificazione settore altcoin utility. Slot disponibile utilizzato.",
+    "dry_run": false
   }
 ]
