@@ -16,5 +16,14 @@
     "price": 2.755,
     "reason": "RSI=71.4 🔴IPERCOMPRATO (>70) + MACD hist positivo ma posizione tesa. UNI ha già generato +0.73% in 24h. Vendo per bloccare guadagni e liberare liquidità in zona di resistenza tecnica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T04:30:52.366523+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.61,
+    "reason": "RSI=44.4 (zona neutra bassa), MACD hist positivo crescente (+0.0014), 1h=+0.44% (momentum positivo su timeframe breve), vol×=0.86 (volume in calo ma coerente con consolidamento). ATOM è l'unico asset senza ipercompra e mostra inversione dai -2.12% 24h. Segnale ACQUISTO MEDIO confermato: prezzo interessante per dip-buying in ottica di rimbalzo, coerente con strategia performante su asset sottovalutati.",
+    "dry_run": false
   }
 ]
