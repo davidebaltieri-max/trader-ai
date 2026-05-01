@@ -52,5 +52,14 @@
     "price": 1.623,
     "reason": "RSI=79.5 IPERCOMPRATO (>70) - segnale VENDITA MEDIA confermato. ATOM è in zona di correzione con momentum ancora rialzista (MACD hist crescente) ma RSI estremo suggerisce pullback imminente. Riduco posizione per realizzare parziali guadagni e liberare liquidità. Target: uscire da ~25€ prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T15:01:00.564059+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.626,
+    "reason": "RSI=80.4 IPERCOMPRATO (>70) + MACD hist positivo crescente indica momentum esaurito. Vendita di profitto preventiva su posizione in overbought per bloccare guadagni e liberare slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
