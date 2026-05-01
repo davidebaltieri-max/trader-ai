@@ -25,5 +25,14 @@
     "price": 1.61,
     "reason": "RSI=44.4 (zona neutra bassa), MACD hist positivo crescente (+0.0014), 1h=+0.44% (momentum positivo su timeframe breve), vol×=0.86 (volume in calo ma coerente con consolidamento). ATOM è l'unico asset senza ipercompra e mostra inversione dai -2.12% 24h. Segnale ACQUISTO MEDIO confermato: prezzo interessante per dip-buying in ottica di rimbalzo, coerente con strategia performante su asset sottovalutati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T04:30:53.953351+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 20.0,
+    "price": 65659.735,
+    "reason": "RSI=71.9 (IPERCOMPRATO 🔴), 1h=-0.12% (momentum in calo), MACD hist positivo ma 4h=+0.74% suggerisce esaurimento del movimento. Segnale VENDITA MEDIA: consolidamento di guadagni (+1.45% 24h) dopo spike di volume (2.70x). Riduzione posizione BTC per liberare liquidità e ridurre rischio correzione.",
+    "dry_run": false
   }
 ]
