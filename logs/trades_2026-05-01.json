@@ -61,5 +61,14 @@
     "price": 1.626,
     "reason": "RSI=80.4 IPERCOMPRATO (>70) + MACD hist positivo crescente indica momentum esaurito. Vendita di profitto preventiva su posizione in overbought per bloccare guadagni e liberare slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T17:30:41.595344+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.622,
+    "reason": "RSI=73.2 IPERCOMPRATO + volume×=3.36x anomalo (picco di vendita). ATOM ha raggiunto zona di correzione probabile. Realizza profitti su posizione infiammata. Mantieni posizione ridotta per continuare exposure interoperabilità.",
+    "dry_run": false
   }
 ]
