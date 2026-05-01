@@ -34,5 +34,14 @@
     "price": 65659.735,
     "reason": "RSI=71.9 (IPERCOMPRATO 🔴), 1h=-0.12% (momentum in calo), MACD hist positivo ma 4h=+0.74% suggerisce esaurimento del movimento. Segnale VENDITA MEDIA: consolidamento di guadagni (+1.45% 24h) dopo spike di volume (2.70x). Riduzione posizione BTC per liberare liquidità e ridurre rischio correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T04:30:55.287691+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 15.0,
+    "price": 1943.005,
+    "reason": "RSI=70.3 (IPERCOMPRATO 🔴), 1h=-0.19% (momentum negativo), MACD hist=+2.1991 crescente ma RSI vicino a zona di pullback. Segnale VENDITA MEDIA: realizzazione parziale di profitto (+1.18% 24h) su asset sovraccomprato. Riduzione tattica per rebalanciarsi.",
+    "dry_run": false
   }
 ]
