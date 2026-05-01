@@ -79,5 +79,14 @@
     "price": 1.035,
     "reason": "MACD BEARISH_CROSS confermato + RSI=60 + 4h=-0.96% + 24h=-0.96%. Momentum ribassista in corso. Riduci exposure su trend negativo, libera liquidità per opportunità su dip buying.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-01T19:00:57.278858+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 24.99,
+    "price": 1.63,
+    "reason": "RSI=76.9 IPERCOMPRATO + MACD hist positivo ma momentum in estenuazione (ATOM è in area di presa di profitto). Vendo il 40% della posizione per realizzare guadagni e ridurre esposizione su asset saturo. Libero ~€40 in cassa per rotazione tattica.",
+    "dry_run": false
   }
 ]
