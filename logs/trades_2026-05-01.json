@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-01T04:00:54.955773+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 28.0,
+    "price": 71.56,
+    "reason": "RSI=72.8 🔴IPERCOMPRATO (>70) + MACD hist positivo ma segnali di correzione imminente. SOL mostra 1h=-0.17% (debole). Realizzo profitti su posizione in overbought per liberare slot e ridurre volatilità estrema.",
+    "dry_run": false
+  }
+]
