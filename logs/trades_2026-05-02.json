@@ -7,5 +7,14 @@
     "price": 0.2145,
     "reason": "RSI=80.4 IPERCOMPRATO (>>70) + MACD hist quasi piatto (+0.0001) = segnale di correzione imminente. ADA ha momentum debole nonostante RSI estremo. Profit-taking su posizione sovraesposta.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-02T20:00:51.729628+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 7.825,
+    "reason": "RSI=73.3 IPERCOMPRATO (>>70) + MACD hist debole (+0.0033) + performance 24h negativa (-0.26%) = divergenza ribassista. Riduco esposizione su asset in stallo.",
+    "dry_run": false
   }
 ]
