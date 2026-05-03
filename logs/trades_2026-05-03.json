@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-03T09:30:41.063459+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 12.0,
+    "price": 1.1845,
+    "reason": "RSI=70.0 IPERCOMPRATO + volume×1.33 (picco) + MACD hist positivo ma su massimi locali. Realizza profitti su rialzo confermato. Riduce esposizione prima di possibile correzione.",
+    "dry_run": false
+  }
+]
