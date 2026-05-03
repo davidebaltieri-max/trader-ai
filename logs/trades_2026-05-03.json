@@ -16,5 +16,14 @@
     "price": 1.035,
     "reason": "BEARISH_CROSS MACD confermato + RSI=33.3 decrescente + 1h=-0.96% + MACD hist negativo. Momentum ribassista evidente. Esce da posizione debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-03T12:00:52.893084+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 20.0,
+    "price": 1.1908,
+    "reason": "RSI=77.2 IPERCOMPRATO + momentum già forte (1h/4h/24h positivi). Realizza profitti su posizione in overbought per liberare slot e cash per future opportunità di acquisto su dip moderati.",
+    "dry_run": false
   }
 ]
