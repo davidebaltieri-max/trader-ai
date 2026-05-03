@@ -25,5 +25,14 @@
     "price": 1.1908,
     "reason": "RSI=77.2 IPERCOMPRATO + momentum già forte (1h/4h/24h positivi). Realizza profitti su posizione in overbought per liberare slot e cash per future opportunità di acquisto su dip moderati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-03T12:00:54.127576+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 30.0,
+    "price": 67129.665,
+    "reason": "RSI=70.8 IPERCOMPRATO. MACD hist elevato (+34.8) suggerisce momentum prossimo al picco. Vendi parzialmente per lock-in gains su large cap prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
