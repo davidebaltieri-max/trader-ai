@@ -7,5 +7,14 @@
     "price": 1.1845,
     "reason": "RSI=70.0 IPERCOMPRATO + volume×1.33 (picco) + MACD hist positivo ma su massimi locali. Realizza profitti su rialzo confermato. Riduce esposizione prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-03T09:30:41.949655+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 10.0,
+    "price": 1.035,
+    "reason": "BEARISH_CROSS MACD confermato + RSI=33.3 decrescente + 1h=-0.96% + MACD hist negativo. Momentum ribassista evidente. Esce da posizione debole.",
+    "dry_run": false
   }
 ]
