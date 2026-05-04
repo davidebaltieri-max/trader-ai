@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-04T08:07:54.196310+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 24.0,
+    "price": 1.055,
+    "reason": "RSI=71.4 IPERCOMPRATO + MACD BEARISH_CROSS confermato + 1h=-0.93% + 4h=-0.93%. Segnale VENDITA FORTE. DOT è in corruzione tecnica con momentum ribassista conclamato. Realizzo profitti parziali (24€ su 24.28€ posizione) per ridurre rischio.",
+    "dry_run": false
+  }
+]
