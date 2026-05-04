@@ -25,5 +25,14 @@
     "price": 1.055,
     "reason": "RSI=71.4 (IPERCOMPRATO) + MACD BEARISH_CROSS confermato + calo 4h=-0.93% + vol basso (0.08x). Segnale VENDITA MEDIA confermato. DOT è il candidato più debole del portafoglio con doppio segnale ribassista. Realizzo profitti su posizione che ha run-up positivo 24h ma mostra stanchezza tecnica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-04T08:30:53.000579+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 24.0,
+    "price": 7.985,
+    "reason": "RSI=75.7 (IPERCOMPRATO ESTREMO) + MACD hist positivo ma RSI troppo elevato indica possibile correzione imminente + 4h=-0.13% neutrale. Segnale VENDITA MEDIA. LINK ha performance forte (+2.57% 24h) ma è ai livelli massimi di ipercomprato. Realizzo profitti preventivamente.",
+    "dry_run": false
   }
 ]
