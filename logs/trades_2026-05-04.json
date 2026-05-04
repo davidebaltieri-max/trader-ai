@@ -7,5 +7,14 @@
     "price": 1.055,
     "reason": "RSI=71.4 IPERCOMPRATO + MACD BEARISH_CROSS confermato + 1h=-0.93% + 4h=-0.93%. Segnale VENDITA FORTE. DOT è in corruzione tecnica con momentum ribassista conclamato. Realizzo profitti parziali (24€ su 24.28€ posizione) per ridurre rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-04T08:07:55.324000+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 24.0,
+    "price": 7.945,
+    "reason": "RSI=73.5 IPERCOMPRATO + MACD hist positivo ma RSI estremo + 4h=-0.50%. Segnale VENDITA MEDIA-FORTE. LINK è in zona di massimo relativo con divergenza fra MACD debole e RSI ipercomprato. Vendo 24€ su 24.15€ per lock-in profitti.",
+    "dry_run": false
   }
 ]
