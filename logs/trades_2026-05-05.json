@@ -70,5 +70,14 @@
     "price": 8.385,
     "reason": "RSI=71.8 IPERCOMPRATO + 24h=+3.97% (miglior performer). LINK ha segnato picco locale con RSI oltre threshold critico. Volume ridotto (vol×=0.57x) tradisce esaurimento buyers. MACD positivo ma struttura RSI suggerisce ritracciamento. Realizzo il +4% e libero capitale per rotation su asset in accumulo (ATOM, UNI).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T12:31:03.458471+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2067,
+    "reason": "Posizione difensiva: XRP ha momentum piatto (24h=+1.36% vs media portafoglio +2.3%) con RSI=64.9 in zona neutra-alta senza driving force. Movimento laterale suggerisce sottoperformance relativa. Realizzo liquidità per re-allocare su DOT (vol×=9.88x, RSI=66.7, trend accelerato) e ATOM (RSI=32.0 IPERVENDUTO con setup di rimbalzo).",
+    "dry_run": false
   }
 ]
