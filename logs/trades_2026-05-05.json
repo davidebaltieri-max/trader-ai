@@ -106,5 +106,14 @@
     "price": 1.209,
     "reason": "RSI=72.1 (IPERCOMPRATO) + volume basso (0.93x) + MACD hist minimo (0.0005). XRP è in zona di correzione con momentum debole. Presa di profitto parziale su posizione sovrappesata (20.77 unità) per preservare guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T21:30:57.341587+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.2252,
+    "reason": "RSI=85.9 IPERCOMPRATO (>70) + MACD hist vicino a zero con potenziale inversione. ADA ha già guadagnato +4.80% in 24h. Realizzo profitti su posizione sovra-estesa prima di correzione.",
+    "dry_run": false
   }
 ]
