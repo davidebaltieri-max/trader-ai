@@ -79,5 +79,14 @@
     "price": 1.2067,
     "reason": "Posizione difensiva: XRP ha momentum piatto (24h=+1.36% vs media portafoglio +2.3%) con RSI=64.9 in zona neutra-alta senza driving force. Movimento laterale suggerisce sottoperformance relativa. Realizzo liquidità per re-allocare su DOT (vol×=9.88x, RSI=66.7, trend accelerato) e ATOM (RSI=32.0 IPERVENDUTO con setup di rimbalzo).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T13:01:05.440197+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.2215,
+    "reason": "RSI=90.8 (IPERCOMPRATO estremo) + MACD hist minimo (convergenza). ADA ha realizzato +3.80% in 24h. Vendita di profitto su posizione sovrappesata (138 unità) per ridurre esposizione e liberare slot. Segnale VENDITA FORTE confermato da RSI >80.",
+    "dry_run": false
   }
 ]
