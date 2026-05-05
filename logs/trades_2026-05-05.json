@@ -88,5 +88,14 @@
     "price": 0.2215,
     "reason": "RSI=90.8 (IPERCOMPRATO estremo) + MACD hist minimo (convergenza). ADA ha realizzato +3.80% in 24h. Vendita di profitto su posizione sovrappesata (138 unità) per ridurre esposizione e liberare slot. Segnale VENDITA FORTE confermato da RSI >80.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T13:01:06.573564+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 8.365,
+    "reason": "RSI=82.4 (IPERCOMPRATO) + momentum MACD convergente (hist=+0.0126 ma senza spinta). LINK ha realizzato +3.85% in 24h. Presa di profitto su posizione ipercomprata. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
