@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-05T08:01:04.237519+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.22,
+    "reason": "RSI=87.8 IPERCOMPRATO + momentum eccessivo dopo +2.23% in 24h. Realizzo profitti prima di correzione. ADA ha raggiunto massimo locale.",
+    "dry_run": false
+  }
+]
