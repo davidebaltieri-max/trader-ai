@@ -133,5 +133,14 @@
     "price": 8.375,
     "reason": "RSI=71.4 IPERCOMPRATO (>70) con BULLISH_CROSS MACD confermato, ma zona di ipercomprato richiede cautezione. Volume anomalo (vol×=+3.22x) suggerisce fine movimento. Realizo parte dei guadagni (+4.10% 24h).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T23:30:46.756305+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.2238,
+    "reason": "RSI=76.1 IPERCOMPRATO + 1h=-0.75% (prezzo in calo). ADA ha segnato +4.86% in 24h e raggiunge zona di presa di profitto. Anche se MACD hist è positivo, la combinazione RSI estremo + calo orario su asset già salito molto suggerisce realizzazione di gains. Operazione da €20 per ridurre l'esposizione.",
+    "dry_run": false
   }
 ]
