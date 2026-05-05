@@ -7,5 +7,14 @@
     "price": 0.22,
     "reason": "RSI=87.8 IPERCOMPRATO + momentum eccessivo dopo +2.23% in 24h. Realizzo profitti prima di correzione. ADA ha raggiunto massimo locale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T08:01:05.876295+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 8.215,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD positivo ma su livelli estremi. Volume×=2.49x conferma exhaustion. Presa di profitto a +3.27% 24h.",
+    "dry_run": false
   }
 ]
