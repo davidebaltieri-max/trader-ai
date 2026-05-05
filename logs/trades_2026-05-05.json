@@ -115,5 +115,14 @@
     "price": 0.2252,
     "reason": "RSI=85.9 IPERCOMPRATO (>70) + MACD hist vicino a zero con potenziale inversione. ADA ha già guadagnato +4.80% in 24h. Realizzo profitti su posizione sovra-estesa prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T21:30:58.626199+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 74.07,
+    "reason": "RSI=78.6 IPERCOMPRATO (>70) + MACD hist positivo ma momentum potrebbe esaurirsi. SOL a +2.52% 24h, posizione piccola (0.398 unità). Riduco esposizione in zona di presa di profitto.",
+    "dry_run": false
   }
 ]
