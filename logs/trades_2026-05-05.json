@@ -34,5 +34,14 @@
     "price": 0.2198,
     "reason": "RSI=85.7 IPERCOMPRATO + 24h=+2.42% (target take profit raggiunto). ADA ha generato momentum rialzista ma è entrata in territorio di ipercompra estremo. Realizzo profitti parziali (€20) per bloccare i guadagni e ridurre il rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T10:00:55.483944+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.2203,
+    "reason": "RSI=84.7 IPERCOMPRATO + momentum in calo nei prossimi minuti probabile. ADA ha performato bene (+2.13% 24h) e 4h=+1.66%, ma RSI estremo segnala correzione imminente. Realizzo profitti parziali su posizione grande (138 unità = €30.4 circa). Take profit preventivo.",
+    "dry_run": false
   }
 ]
