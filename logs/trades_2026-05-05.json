@@ -124,5 +124,14 @@
     "price": 74.07,
     "reason": "RSI=78.6 IPERCOMPRATO (>70) + MACD hist positivo ma momentum potrebbe esaurirsi. SOL a +2.52% 24h, posizione piccola (0.398 unità). Riduco esposizione in zona di presa di profitto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T21:30:59.845830+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 8.375,
+    "reason": "RSI=71.4 IPERCOMPRATO (>70) con BULLISH_CROSS MACD confermato, ma zona di ipercomprato richiede cautezione. Volume anomalo (vol×=+3.22x) suggerisce fine movimento. Realizo parte dei guadagni (+4.10% 24h).",
+    "dry_run": false
   }
 ]
