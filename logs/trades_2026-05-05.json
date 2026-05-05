@@ -61,5 +61,14 @@
     "price": 0.2211,
     "reason": "RSI=82.6 IPERCOMPRATO + 24h=+3.71% (guadagno realizzato). ADA ha raggiunto zona di ipercomprato estremo con momentum rialzista esaurito. MACD ancora positivo ma RSI segnala correzione imminente. Realizzo profitto parziale su posizione sovrappesata (138 unità). Target: liberare slot e ridurre esposizione su asset ipercorrelati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T12:31:02.269026+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.385,
+    "reason": "RSI=71.8 IPERCOMPRATO + 24h=+3.97% (miglior performer). LINK ha segnato picco locale con RSI oltre threshold critico. Volume ridotto (vol×=0.57x) tradisce esaurimento buyers. MACD positivo ma struttura RSI suggerisce ritracciamento. Realizzo il +4% e libero capitale per rotation su asset in accumulo (ATOM, UNI).",
+    "dry_run": false
   }
 ]
