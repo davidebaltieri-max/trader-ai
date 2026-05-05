@@ -16,5 +16,14 @@
     "price": 8.215,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD positivo ma su livelli estremi. Volume×=2.49x conferma exhaustion. Presa di profitto a +3.27% 24h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T08:01:07.098511+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 10.0,
+    "price": 69179.805,
+    "reason": "BTC mostra BEARISH_CROSS su MACD (hist=-11.1483 ↓decrescente) + RSI=66.3 in avvicinamento zona ipercomprato. Segnale ribassista dominante su timeframe 1h/4h. Riduco esposizione.",
+    "dry_run": false
   }
 ]
