@@ -25,5 +25,14 @@
     "price": 69179.805,
     "reason": "BTC mostra BEARISH_CROSS su MACD (hist=-11.1483 ↓decrescente) + RSI=66.3 in avvicinamento zona ipercomprato. Segnale ribassista dominante su timeframe 1h/4h. Riduco esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T09:01:04.015829+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.2198,
+    "reason": "RSI=85.7 IPERCOMPRATO + 24h=+2.42% (target take profit raggiunto). ADA ha generato momentum rialzista ma è entrata in territorio di ipercompra estremo. Realizzo profitti parziali (€20) per bloccare i guadagni e ridurre il rischio di correzione.",
+    "dry_run": false
   }
 ]
