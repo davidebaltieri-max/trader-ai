@@ -43,5 +43,14 @@
     "price": 0.2203,
     "reason": "RSI=84.7 IPERCOMPRATO + momentum in calo nei prossimi minuti probabile. ADA ha performato bene (+2.13% 24h) e 4h=+1.66%, ma RSI estremo segnala correzione imminente. Realizzo profitti parziali su posizione grande (138 unità = €30.4 circa). Take profit preventivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-05T10:00:56.485565+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2003,
+    "reason": "MACD BEARISH_CROSS confermato (hist=-0.0001 decrescente) + RSI=46.5 in discesa. 1h=-0.14%, 4h=+0.11% ma momentum ribassista in corso. Posizione neutra/negativa: realizzo per liberare slot e capitale.",
+    "dry_run": false
   }
 ]
