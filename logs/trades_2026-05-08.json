@@ -124,5 +124,14 @@
     "price": 1945.21,
     "reason": "RSI=31.9 (ipervenduto), MACD hist crescente positivo, volume moderato (+0.20x), 4h=-0.59% in fase di stabilizzazione. Segnale di acquisto medio-forte su support tecnico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T06:01:07.090766+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.365,
+    "reason": "RSI=33.3 (ipervenduto), MACD hist positivo crescente, vol×=+0.60x, trend rialzista confermato. Infrastruttura DeFi con momentum positivo - acquisizione strategica.",
+    "dry_run": false
   }
 ]
