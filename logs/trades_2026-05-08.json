@@ -223,5 +223,14 @@
     "price": 0.2324,
     "reason": "RSI=72.4 IPERCOMPRATO + 1h=-0.39% + 4h positivo ma momentum stagnante. ADA ha raggiunto zone di ipercomprato dopo +4.78% 24h. Realizza profitti parziali e riduce volatilità in portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T23:40:52.384886+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 77.93,
+    "reason": "SOL ipercomprato (RSI=71.0) + MACD bearish cross confermato + calo 1h=-0.55% + 4h=-0.87%. Segnale VENDITA FORTE. Realizzo profitti su posizione volatile in area di resistenza.",
+    "dry_run": false
   }
 ]
