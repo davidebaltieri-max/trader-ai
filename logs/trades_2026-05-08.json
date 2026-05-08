@@ -160,5 +160,14 @@
     "price": 1.125,
     "reason": "DOT mostra segnale ACQUISTO MEDIO confermato: RSI=55.6 (neutrale ma non oversold), MACD hist positivo e crescente (+0.0010), 4h=+0.90% (momentum rialzista), vol×=+2.81x (volume elevato). Performance 24h=+0.90% e volatilità media (+0.75%) indicano consolidamento rialzista. Profilo PERFORMANTE: interoperabilità in momentum, slot libero disponibile. Entry point su pull-back relativo con conferma tecnica multi-timeframe.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T09:30:52.843876+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 30.0,
+    "price": 8.165,
+    "reason": "AVAX mostra segnale ACQUISTO FORTE: RSI=64.3 (zona neutra rialzista), MACD hist positivo e crescente (+0.0099), momentum confermato su 1h=+0.49%, 4h=+0.87%, 24h=+1.12%. Volume eccezionale vol×=+8.75x (spike rilevante). Layer 1 alternativo in accelerazione con volatilità controllata (+0.29%). Profilo PERFORMANTE predilige L1 alternativi in momentum: segnale affidabile, importo maggiore giustificato.",
+    "dry_run": false
   }
 ]
