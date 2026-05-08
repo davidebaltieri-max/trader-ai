@@ -61,5 +61,14 @@
     "price": 2.905,
     "reason": "RSI=43.8 (zona neutra bassa), MACD hist positivo crescente, vol×=+2.61x (volume forte!), 4h=+0.34% (inversione positiva). Alta volatilità (+0.59%) su DeFi liquidity con momentum crescente. Operazione piccola ma volume elevato suggerisce interesse istituzionale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T05:00:54.056859+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 74.995,
+    "reason": "RSI=33.7 (ipervenduto) + MACD hist crescente positivo + volume×=0.67 moderato + 4h=-0.21% (consolidamento) + momentum rialzista confermato. SOL è in zona di rimbalzo potenziale con segnali MACD bullish. Operazione forte su dip moderato, coerente con profilo performante.",
+    "dry_run": false
   }
 ]
