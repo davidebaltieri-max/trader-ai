@@ -88,5 +88,14 @@
     "price": 2.905,
     "reason": "RSI=43.8 (zona neutra bassa) + MACD hist positivo crescente + volume×=2.61 (ALTO, confermazione) + 4h=+0.34% (momentum positivo intraday) + volatilità=0.59% media. UNI mostra segnali bullish con volume elevato, settore DeFi in recupero. Segnale ACQUISTO MEDIO-FORTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T05:30:50.918343+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 74.995,
+    "reason": "RSI=33.7 (ipervenduto) + MACD hist crescente positivo + vol×=+0.67x + momentum rialzista confermato. SOL ha cali moderati intraday (-0.49% 1h) ma MACD bullish. Segnale ACQUISTO MEDIO-FORTE su layer 1 alternativo con potenziale rimbalzo.",
+    "dry_run": false
   }
 ]
