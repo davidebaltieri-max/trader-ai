@@ -196,5 +196,14 @@
     "price": 8.805,
     "reason": "RSI=71.8 (IPERCOMPRATO) + 1h=-0.45% (divergenza negativa) + vol×=+3.99x (picco di volume anomalo, spesso precede inversione). Realizza profitti (+3.17% 24h) prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T23:30:52.814832+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 78.005,
+    "reason": "RSI=72.7 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=-0.42% + 4h=-0.74%. Segnale VENDITA FORTE confermato da 3 indicatori. SOL ha performato (+3.20% 24h) ma momentum sta invertendo. Libera slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
