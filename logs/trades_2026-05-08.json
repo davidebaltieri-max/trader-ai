@@ -25,5 +25,14 @@
     "price": 8.07,
     "reason": "RSI=52.8 (zona neutra-rialzista), MACD hist positivo e crescente (+0.0053), volume alto (×1.02), volatilità moderata (0.35%). Layer 1 alternativo con momentum rialzista confermato. Posizione strategica per diversificazione su layer 1.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T02:01:06.755341+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 18.0,
+    "price": 2.905,
+    "reason": "RSI=43.8 (neutro), MACD hist positivo e crescente (+0.0017), ma VOLUME ECCEZIONALMENTE ALTO (×2.61) → segnale di accumulo istituzionale. Infrastruttura DeFi critica, momentum rialzista confermato. Entry aggressivo su segnale volume.",
+    "dry_run": false
   }
 ]
