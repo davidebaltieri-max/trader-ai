@@ -34,5 +34,14 @@
     "price": 2.905,
     "reason": "RSI=43.8 (neutro), MACD hist positivo e crescente (+0.0017), ma VOLUME ECCEZIONALMENTE ALTO (×2.61) → segnale di accumulo istituzionale. Infrastruttura DeFi critica, momentum rialzista confermato. Entry aggressivo su segnale volume.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T04:30:47.620171+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 74.995,
+    "reason": "RSI=33.7 (ipervenduto), MACD hist crescente positivo, vol×=+0.67x, 4h=-0.21% (debolezza limitata). Momentum rialzista in formazione su L1 alternativo con buon potenziale di rimbalzo. Operazione media-forte su settore in rotazione.",
+    "dry_run": false
   }
 ]
