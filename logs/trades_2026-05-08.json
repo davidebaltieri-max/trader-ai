@@ -106,5 +106,14 @@
     "price": 8.365,
     "reason": "RSI=33.3 (ipervenduto) + MACD hist positivo crescente + vol×=+0.60x. Infrastruttura DeFi in condizione di oversold con momentum rialzista. Segnale ACQUISTO MEDIO su settore strategico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T05:30:52.878344+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 18.0,
+    "price": 2.905,
+    "reason": "RSI=43.8 (zona neutra-bassa) + MACD hist positivo crescente + vol×=+2.61x (volume elevato, possibile accumulation) + 4h=+0.34%. Segnale ACQUISTO MEDIO su DeFi hub con volume in aumento marcato e momentum positivo.",
+    "dry_run": false
   }
 ]
