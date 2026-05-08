@@ -214,5 +214,14 @@
     "price": 8.755,
     "reason": "RSI=70.9 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=-0.11% + 4h=-0.45%. Segnale VENDITA MEDIA-FORTE. Momentum ribassista confermato dopo rialzo 24h (+4.41%). Ridimensiona posizione in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T23:30:54.761446+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 18.0,
+    "price": 0.2324,
+    "reason": "RSI=72.4 IPERCOMPRATO + 1h=-0.39% + 4h positivo ma momentum stagnante. ADA ha raggiunto zone di ipercomprato dopo +4.78% 24h. Realizza profitti parziali e riduce volatilità in portafoglio.",
+    "dry_run": false
   }
 ]
