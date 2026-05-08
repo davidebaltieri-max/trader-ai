@@ -7,5 +7,14 @@
     "price": 1.105,
     "reason": "MACD bearish cross + RSI 50 + momentum ribassista confermato. Vol 1.59x indica esaurimento. Vendo per liberare capital per rimbalzi più forti",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T02:01:04.447926+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 25.0,
+    "price": 1945.205,
+    "reason": "RSI=31.9 (ipervenduto), MACD hist positivo e crescente, volume in aumento (+0.20x). Segnale ACQUISTO MEDIO su trend rialzista confermato. ETH è large cap fondamentale per profilo performante, calo del -2.01% 24h offre entry aggressivo.",
+    "dry_run": false
   }
 ]
