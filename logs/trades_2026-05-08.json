@@ -133,5 +133,14 @@
     "price": 8.365,
     "reason": "RSI=33.3 (ipervenduto), MACD hist positivo crescente, vol×=+0.60x, trend rialzista confermato. Infrastruttura DeFi con momentum positivo - acquisizione strategica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T06:24:36.849521+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 25.0,
+    "price": 1945.205,
+    "reason": "RSI=31.9 (ipervenduto) + MACD hist positivo e crescente + volume moderato. ETH mostra segnali di accumulo con momentum rialzista confermato. Calo da -2.01% in 24h rappresenta entry point solido per profilo performante.",
+    "dry_run": false
   }
 ]
