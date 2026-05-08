@@ -187,5 +187,14 @@
     "price": 1.165,
     "reason": "RSI=72.7 (IPERCOMPRATO) + volatilità elevata 0.87% + 1h=+0.00% (momentum frenato). Segnale di possibile ritracciamento. Posizione già in gain (+4.46% 24h).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T19:30:49.998068+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 22.0,
+    "price": 8.805,
+    "reason": "RSI=71.8 (IPERCOMPRATO) + 1h=-0.45% (divergenza negativa) + vol×=+3.99x (picco di volume anomalo, spesso precede inversione). Realizza profitti (+3.17% 24h) prima della correzione.",
+    "dry_run": false
   }
 ]
