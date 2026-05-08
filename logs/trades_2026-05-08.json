@@ -232,5 +232,14 @@
     "price": 77.93,
     "reason": "SOL ipercomprato (RSI=71.0) + MACD bearish cross confermato + calo 1h=-0.55% + 4h=-0.87%. Segnale VENDITA FORTE. Realizzo profitti su posizione volatile in area di resistenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T23:40:53.229086+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 8.745,
+    "reason": "LINK ipercomprato (RSI=70.9) + MACD bearish cross confermato + volume elevato (vol×=+0.60x) + calo 1h=-0.11% + 4h=-0.45%. Segnale VENDITA FORTE. Esce da momentum rialzista.",
+    "dry_run": false
   }
 ]
