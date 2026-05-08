@@ -79,5 +79,14 @@
     "price": 8.365,
     "reason": "RSI=33.3 (ipervenduto) + MACD hist positivo crescente + volume×=0.60 + infrastruttura DeFi in correzione moderata (-1.06% 24h). Segnale ACQUISTO MEDIO confermato. LINK è asset strategico del portafoglio, opportunità di accumulo su dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T05:00:55.944920+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 22.0,
+    "price": 2.905,
+    "reason": "RSI=43.8 (zona neutra bassa) + MACD hist positivo crescente + volume×=2.61 (ALTO, confermazione) + 4h=+0.34% (momentum positivo intraday) + volatilità=0.59% media. UNI mostra segnali bullish con volume elevato, settore DeFi in recupero. Segnale ACQUISTO MEDIO-FORTE.",
+    "dry_run": false
   }
 ]
