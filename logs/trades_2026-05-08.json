@@ -151,5 +151,14 @@
     "price": 74.995,
     "reason": "RSI=33.7 (ipervenduto) + MACD hist positivo e crescente + volume elevato (0.67x). SOL mantiene stabilità relativa con -0.28% su 24h e segnali bullish in formazione. Buon rapporto risk/reward per dip-buying.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T09:30:51.781106+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.125,
+    "reason": "DOT mostra segnale ACQUISTO MEDIO confermato: RSI=55.6 (neutrale ma non oversold), MACD hist positivo e crescente (+0.0010), 4h=+0.90% (momentum rialzista), vol×=+2.81x (volume elevato). Performance 24h=+0.90% e volatilità media (+0.75%) indicano consolidamento rialzista. Profilo PERFORMANTE: interoperabilità in momentum, slot libero disponibile. Entry point su pull-back relativo con conferma tecnica multi-timeframe.",
+    "dry_run": false
   }
 ]
