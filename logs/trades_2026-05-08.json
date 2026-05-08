@@ -70,5 +70,14 @@
     "price": 74.995,
     "reason": "RSI=33.7 (ipervenduto) + MACD hist crescente positivo + volume×=0.67 moderato + 4h=-0.21% (consolidamento) + momentum rialzista confermato. SOL è in zona di rimbalzo potenziale con segnali MACD bullish. Operazione forte su dip moderato, coerente con profilo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T05:00:54.998861+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.365,
+    "reason": "RSI=33.3 (ipervenduto) + MACD hist positivo crescente + volume×=0.60 + infrastruttura DeFi in correzione moderata (-1.06% 24h). Segnale ACQUISTO MEDIO confermato. LINK è asset strategico del portafoglio, opportunità di accumulo su dip.",
+    "dry_run": false
   }
 ]
