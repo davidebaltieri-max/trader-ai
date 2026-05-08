@@ -241,5 +241,14 @@
     "price": 8.745,
     "reason": "LINK ipercomprato (RSI=70.9) + MACD bearish cross confermato + volume elevato (vol×=+0.60x) + calo 1h=-0.11% + 4h=-0.45%. Segnale VENDITA FORTE. Esce da momentum rialzista.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T23:40:54.028002+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 1.165,
+    "reason": "DOT ipercomprato (RSI=71.4) + 24h ha già segnato +4.46%. MACD hist crescente ma RSI estremo suggerisce ritracciamento imminente. Realizza profitti su posizione overbought.",
+    "dry_run": false
   }
 ]
