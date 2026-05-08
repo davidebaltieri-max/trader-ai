@@ -16,5 +16,14 @@
     "price": 1945.205,
     "reason": "RSI=31.9 (ipervenduto), MACD hist positivo e crescente, volume in aumento (+0.20x). Segnale ACQUISTO MEDIO su trend rialzista confermato. ETH è large cap fondamentale per profilo performante, calo del -2.01% 24h offre entry aggressivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T02:01:05.634986+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 8.07,
+    "reason": "RSI=52.8 (zona neutra-rialzista), MACD hist positivo e crescente (+0.0053), volume alto (×1.02), volatilità moderata (0.35%). Layer 1 alternativo con momentum rialzista confermato. Posizione strategica per diversificazione su layer 1.",
+    "dry_run": false
   }
 ]
