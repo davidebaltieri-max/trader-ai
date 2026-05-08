@@ -43,5 +43,14 @@
     "price": 74.995,
     "reason": "RSI=33.7 (ipervenduto), MACD hist crescente positivo, vol×=+0.67x, 4h=-0.21% (debolezza limitata). Momentum rialzista in formazione su L1 alternativo con buon potenziale di rimbalzo. Operazione media-forte su settore in rotazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T04:30:48.806361+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.365,
+    "reason": "RSI=33.3 (ipervenduto), MACD hist positivo crescente, vol×=+0.60x, infrastruttura DeFi in dip moderato (-1.06% 24h). Segnale di acquisto medio con buona confermazione su settore strategico.",
+    "dry_run": false
   }
 ]
