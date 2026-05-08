@@ -52,5 +52,14 @@
     "price": 8.365,
     "reason": "RSI=33.3 (ipervenduto), MACD hist positivo crescente, vol×=+0.60x, infrastruttura DeFi in dip moderato (-1.06% 24h). Segnale di acquisto medio con buona confermazione su settore strategico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T04:30:49.964812+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.905,
+    "reason": "RSI=43.8 (zona neutra bassa), MACD hist positivo crescente, vol×=+2.61x (volume forte!), 4h=+0.34% (inversione positiva). Alta volatilità (+0.59%) su DeFi liquidity con momentum crescente. Operazione piccola ma volume elevato suggerisce interesse istituzionale.",
+    "dry_run": false
   }
 ]
