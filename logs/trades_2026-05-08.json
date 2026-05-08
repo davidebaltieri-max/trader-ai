@@ -115,5 +115,14 @@
     "price": 2.905,
     "reason": "RSI=43.8 (zona neutra-bassa) + MACD hist positivo crescente + vol×=+2.61x (volume elevato, possibile accumulation) + 4h=+0.34%. Segnale ACQUISTO MEDIO su DeFi hub con volume in aumento marcato e momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T06:01:05.844888+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 25.0,
+    "price": 1945.21,
+    "reason": "RSI=31.9 (ipervenduto), MACD hist crescente positivo, volume moderato (+0.20x), 4h=-0.59% in fase di stabilizzazione. Segnale di acquisto medio-forte su support tecnico.",
+    "dry_run": false
   }
 ]
