@@ -142,5 +142,14 @@
     "price": 1945.205,
     "reason": "RSI=31.9 (ipervenduto) + MACD hist positivo e crescente + volume moderato. ETH mostra segnali di accumulo con momentum rialzista confermato. Calo da -2.01% in 24h rappresenta entry point solido per profilo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-08T06:24:37.887662+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 74.995,
+    "reason": "RSI=33.7 (ipervenduto) + MACD hist positivo e crescente + volume elevato (0.67x). SOL mantiene stabilità relativa con -0.28% su 24h e segnali bullish in formazione. Buon rapporto risk/reward per dip-buying.",
+    "dry_run": false
   }
 ]
