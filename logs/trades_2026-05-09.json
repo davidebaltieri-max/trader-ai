@@ -106,5 +106,14 @@
     "price": 79.45,
     "reason": "RSI=75.4 IPERCOMPRATO (massimo) + MACD hist negativo decrescente + 1h=-0.13%. Segnale VENDITA FORTE. SOL a +5.69% in 24h è in zona di estrema compravendita. Riduco posizione per proteggere i guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T07:01:28.296164+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 79.405,
+    "reason": "SOL in IPERCOMPRATO (RSI=70.6), MACD hist negativo decrescente, 1h=-0.04%. Segnale VENDITA MEDIA confermato. Profitto da realizzare prima della correzione attesa. Posizione ridotta da 0.398 a ~0.08 unità.",
+    "dry_run": false
   }
 ]
