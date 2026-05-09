@@ -124,5 +124,14 @@
     "price": 0.2334,
     "reason": "ADA in zona neutra (RSI=59), MACD hist negativo ma prossimo a cross con volume alto (vol×=+0.87x). Momentum giornaliero positivo (+4.52% 24h) suggerisce accumulazione su dip. Segnale ACQUISTO MEDIO-OPPORTUNISTICO. Diversificazione layer 1.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T07:01:30.081665+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 20.0,
+    "price": 1964.99,
+    "reason": "ETH RSI=66.1 (vicino a ipercomprato ma non ancora), MACD hist negativo ma trend 24h positivo (+1.30%). Entry su dip moderato con potenziale rimbalzo. Large cap defensiva in portafoglio. Segnale ACQUISTO CONSERVATIVO-OPPORTUNISTICO.",
+    "dry_run": false
   }
 ]
