@@ -88,5 +88,14 @@
     "price": 8.945,
     "reason": "RSI=71.4 IPERCOMPRATO + volatilità alta (+0.39%) + 4h=+1.25% già sfruttato. Riduco esposizione su posizione ipercomprata per proteggere gains e liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T06:30:45.281831+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 11.33,
+    "price": 1967.14,
+    "reason": "RSI=70.3 IPERCOMPRATO + MACD hist negativo decrescente + 1h=+0.09% (debole). Segnale VENDITA MEDIA. ETH ha fatto +0.74% in 24h, tempo di prendere profitti parziali prima di una correzione attesa.",
+    "dry_run": false
   }
 ]
