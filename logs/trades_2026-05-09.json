@@ -133,5 +133,14 @@
     "price": 1964.99,
     "reason": "ETH RSI=66.1 (vicino a ipercomprato ma non ancora), MACD hist negativo ma trend 24h positivo (+1.30%). Entry su dip moderato con potenziale rimbalzo. Large cap defensiva in portafoglio. Segnale ACQUISTO CONSERVATIVO-OPPORTUNISTICO.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T22:29:39.877852+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2082,
+    "reason": "RSI=70.5 IPERCOMPRATO + MACD hist positivo stabile. Volume alto (1.30x) ma segnali di ritrazione su 4h (-0.07%). Riduco posizione prima di possibile pullback.",
+    "dry_run": false
   }
 ]
