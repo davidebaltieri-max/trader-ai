@@ -43,5 +43,14 @@
     "price": 79.49,
     "reason": "RSI=75.6 IPERCOMPRATO + 1h=+0.18% debole. SOL ha rallied +5.93% in 24h. Realizza profitti su momentum estremo prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T04:01:01.086175+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.95,
+    "reason": "RSI=73.2 IPERCOMPRATO + MACD hist positivo ma momentum ipervenduto. LINK +6.29% in 24h. Take profit su livello estremo di RSI.",
+    "dry_run": false
   }
 ]
