@@ -142,5 +142,14 @@
     "price": 1.2082,
     "reason": "RSI=70.5 IPERCOMPRATO + MACD hist positivo stabile. Volume alto (1.30x) ma segnali di ritrazione su 4h (-0.07%). Riduco posizione prima di possibile pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T23:00:57.004890+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 8.475,
+    "reason": "RSI=73.1 IPERCOMPRATO + MACD hist crescente ma zona di ipercompra critica. Realizzo profitto su posizione in eccesso di volatilità. AVAX ha segnato +0.12% 1h e +0.24% 4h — momentum rialzista saturo. Vendo €20 (~2.36 unità) per bloccare guadagni e liberare liquidità per opportunità di dip-buying su altri asset.",
+    "dry_run": false
   }
 ]
