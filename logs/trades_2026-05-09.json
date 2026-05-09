@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-09T01:00:55.453257+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.165,
+    "reason": "RSI=71.4 (IPERCOMPRATO) + MACD hist decrescente + 24h=+5.41% già realizzato. Correzione probabile. Riduco esposizione su posizione gonfiata (21.85 unità, ~€25.5). Target: bloccare profitti e liberare slot.",
+    "dry_run": false
+  }
+]
