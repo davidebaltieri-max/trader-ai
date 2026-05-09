@@ -115,5 +115,14 @@
     "price": 79.405,
     "reason": "SOL in IPERCOMPRATO (RSI=70.6), MACD hist negativo decrescente, 1h=-0.04%. Segnale VENDITA MEDIA confermato. Profitto da realizzare prima della correzione attesa. Posizione ridotta da 0.398 a ~0.08 unità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T07:01:29.257840+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 30.0,
+    "price": 0.2334,
+    "reason": "ADA in zona neutra (RSI=59), MACD hist negativo ma prossimo a cross con volume alto (vol×=+0.87x). Momentum giornaliero positivo (+4.52% 24h) suggerisce accumulazione su dip. Segnale ACQUISTO MEDIO-OPPORTUNISTICO. Diversificazione layer 1.",
+    "dry_run": false
   }
 ]
