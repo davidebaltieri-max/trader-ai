@@ -34,5 +34,14 @@
     "price": 1.2144,
     "reason": "RSI=72.0 🔴IPERCOMPRATO + 1h=+0.09% (momentum debolissimo in 1h nonostante +2.81% 24h). Vol×=0.70 basso. Segnale di esaurimento rialzista.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T04:00:59.961709+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 79.49,
+    "reason": "RSI=75.6 IPERCOMPRATO + 1h=+0.18% debole. SOL ha rallied +5.93% in 24h. Realizza profitti su momentum estremo prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
