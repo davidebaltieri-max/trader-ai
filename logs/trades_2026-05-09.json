@@ -52,5 +52,14 @@
     "price": 8.95,
     "reason": "RSI=73.2 IPERCOMPRATO + MACD hist positivo ma momentum ipervenduto. LINK +6.29% in 24h. Take profit su livello estremo di RSI.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T04:01:02.197712+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 18.0,
+    "price": 1.2133,
+    "reason": "RSI=72.0 IPERCOMPRATO + MACD hist quasi piatto. XRP +2.71% in 24h ma RSI segnala correzione imminente. Vendi quota per ridimensionare posizione sovrappesata.",
+    "dry_run": false
   }
 ]
