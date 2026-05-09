@@ -7,5 +7,14 @@
     "price": 1.165,
     "reason": "RSI=71.4 (IPERCOMPRATO) + MACD hist decrescente + 24h=+5.41% già realizzato. Correzione probabile. Riduco esposizione su posizione gonfiata (21.85 unità, ~€25.5). Target: bloccare profitti e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T03:30:52.261000+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 27.2,
+    "price": 8.955,
+    "reason": "RSI=75.0 🔴IPERCOMPRATO + MACD hist crescente ma RSI estremo indica correzione imminente. Volume anomalo (vol×=5.26x) suggerisce esaurimento bullish. Realizza profitti su posizione in ipercomprato.",
+    "dry_run": false
   }
 ]
