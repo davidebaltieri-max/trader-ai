@@ -97,5 +97,14 @@
     "price": 1967.14,
     "reason": "RSI=70.3 IPERCOMPRATO + MACD hist negativo decrescente + 1h=+0.09% (debole). Segnale VENDITA MEDIA. ETH ha fatto +0.74% in 24h, tempo di prendere profitti parziali prima di una correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T06:30:46.231019+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 10.0,
+    "price": 79.45,
+    "reason": "RSI=75.4 IPERCOMPRATO (massimo) + MACD hist negativo decrescente + 1h=-0.13%. Segnale VENDITA FORTE. SOL a +5.69% in 24h è in zona di estrema compravendita. Riduco posizione per proteggere i guadagni.",
+    "dry_run": false
   }
 ]
