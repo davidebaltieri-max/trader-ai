@@ -79,5 +79,14 @@
     "price": 1.214,
     "reason": "RSI=72.2 IPERCOMPRATO + MACD hist minuscolo (+0.0002) senza slancio + 1h=+0.07% debole. Posizione in sovracquisto con momentum che si esaurisce. Realizzo profitto parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T04:30:48.897442+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 8.945,
+    "reason": "RSI=71.4 IPERCOMPRATO + volatilità alta (+0.39%) + 4h=+1.25% già sfruttato. Riduco esposizione su posizione ipercomprata per proteggere gains e liberare liquidità.",
+    "dry_run": false
   }
 ]
