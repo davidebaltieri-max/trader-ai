@@ -61,5 +61,14 @@
     "price": 1.2133,
     "reason": "RSI=72.0 IPERCOMPRATO + MACD hist quasi piatto. XRP +2.71% in 24h ma RSI segnala correzione imminente. Vendi quota per ridimensionare posizione sovrappesata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T04:30:47.087545+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 79.48,
+    "reason": "RSI=77.6 IPERCOMPRATO + 1h=-0.10% negativo + MACD hist crescente ma RSI estremo segnala correzione imminente. Realizzo profitto su posizione volatile in zona di rischio.",
+    "dry_run": false
   }
 ]
