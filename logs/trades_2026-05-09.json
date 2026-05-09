@@ -16,5 +16,14 @@
     "price": 8.955,
     "reason": "RSI=75.0 🔴IPERCOMPRATO + MACD hist crescente ma RSI estremo indica correzione imminente. Volume anomalo (vol×=5.26x) suggerisce esaurimento bullish. Realizza profitti su posizione in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T03:30:53.170271+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 32.44,
+    "price": 0.2349,
+    "reason": "RSI=70.4 🔴IPERCOMPRATO + MACD hist=0.0000 flat (perdita momentum). Dopo +5% in 24h, segnale di correzione. Fissa guadagni prima del pullback.",
+    "dry_run": false
   }
 ]
