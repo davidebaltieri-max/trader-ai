@@ -70,5 +70,14 @@
     "price": 79.48,
     "reason": "RSI=77.6 IPERCOMPRATO + 1h=-0.10% negativo + MACD hist crescente ma RSI estremo segnala correzione imminente. Realizzo profitto su posizione volatile in zona di rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-09T04:30:48.002406+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 18.0,
+    "price": 1.214,
+    "reason": "RSI=72.2 IPERCOMPRATO + MACD hist minuscolo (+0.0002) senza slancio + 1h=+0.07% debole. Posizione in sovracquisto con momentum che si esaurisce. Realizzo profitto parziale.",
+    "dry_run": false
   }
 ]
