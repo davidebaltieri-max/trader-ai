@@ -70,5 +70,14 @@
     "price": 1.2119,
     "reason": "RSI=73.5 IPERCOMPRATO + vol×=2.53x elevato + 1h=+0.17% (momentum debole). VENDITA MEDIA: posizione gonfiata da volume speculativo, ridurre esposizione prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T10:30:50.895940+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 30.0,
+    "price": 1974.965,
+    "reason": "RSI=45.4 (zona neutra bassa) + MACD hist=-0.3956 ma inizio trend rialzista su 4h=-0.11% (prossimo bullish cross) + 24h=+0.63%. ACQUISTO MEDIO: entry su pullback prima della ripresa, momentum rialzista emergente su timeframe superiore.",
+    "dry_run": false
   }
 ]
