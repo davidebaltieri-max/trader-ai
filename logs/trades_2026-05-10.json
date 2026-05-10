@@ -43,5 +43,14 @@
     "price": 1.2126,
     "reason": "RSI=71.4 IPERCOMPRATO (>70) + 1h=+0.12% debole. MACD hist positivo ma crescita marginale (+0.0010). Volume×=2.30x elevato suggerisce completamento della spinta rialzista. Riduco posizione prima della correzione tecnica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T10:00:59.538601+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 1.155,
+    "reason": "BULLISH_CROSS confermato su MACD + RSI=50.0 (neutro ma equilibrato) + 1h=+0.88% momentum positivo + 24h=+1.77% trend crescente + vol×=1.45x volume in aumento. Segnale ACQUISTO FORTE multi-indicatore. DOT ha massimo potenziale nel profilo performance su layer 1 alternativi.",
+    "dry_run": false
   }
 ]
