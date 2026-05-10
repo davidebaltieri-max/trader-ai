@@ -7,5 +7,14 @@
     "price": 8.915,
     "reason": "RSI=87.0 IPERCOMPRATO + vol×=2.75x (spike massimo) + MACD hist positivo ma in zona di saturazione. Segnale di vendita media-forte per realizzare profitti prima della correzione attesa. LINK è il segnale più critico del portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T09:30:45.317651+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 27.0,
+    "price": 8.945,
+    "reason": "RSI=88.5 🔴IPERCOMPRATO (>70) + MACD hist positivo ma in zona estrema + vol×=2.95x elevato. Segnale di VENDITA FORTE. Realizzo profitti su posizione in ipercomprato per proteggermi da correzione imminente. Riduco esposizione su asset ad alto rischio di pull-back.",
+    "dry_run": false
   }
 ]
