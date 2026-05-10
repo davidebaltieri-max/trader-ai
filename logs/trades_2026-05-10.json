@@ -61,5 +61,14 @@
     "price": 8.925,
     "reason": "RSI=77.3 IPERCOMPRATO + vol×=4.01x (picco anomalo) + 1h=-0.22% (divergenza negativa). VENDITA MEDIA confermata: prendere profitti su picco di volume e ipercomprato prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T10:30:49.741234+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2119,
+    "reason": "RSI=73.5 IPERCOMPRATO + vol×=2.53x elevato + 1h=+0.17% (momentum debole). VENDITA MEDIA: posizione gonfiata da volume speculativo, ridurre esposizione prima della correzione.",
+    "dry_run": false
   }
 ]
