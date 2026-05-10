@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-10T09:00:56.127380+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.915,
+    "reason": "RSI=87.0 IPERCOMPRATO + vol×=2.75x (spike massimo) + MACD hist positivo ma in zona di saturazione. Segnale di vendita media-forte per realizzare profitti prima della correzione attesa. LINK è il segnale più critico del portafoglio.",
+    "dry_run": false
+  }
+]
