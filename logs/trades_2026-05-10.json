@@ -79,5 +79,14 @@
     "price": 1974.965,
     "reason": "RSI=45.4 (zona neutra bassa) + MACD hist=-0.3956 ma inizio trend rialzista su 4h=-0.11% (prossimo bullish cross) + 24h=+0.63%. ACQUISTO MEDIO: entry su pullback prima della ripresa, momentum rialzista emergente su timeframe superiore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T10:30:52.043034+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 79.645,
+    "reason": "RSI=58.3 (neutral-rialzista) + MACD hist=+0.0479 ↑crescente + vol×=2.00x sostenuto + 4h=+0.44%. ACQUISTO MEDIO: momentum rialzista confermato con volume robusto, dip buying su 1h=-0.51% per posizionarsi prima della ripresa.",
+    "dry_run": false
   }
 ]
