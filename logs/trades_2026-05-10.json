@@ -88,5 +88,14 @@
     "price": 79.645,
     "reason": "RSI=58.3 (neutral-rialzista) + MACD hist=+0.0479 ↑crescente + vol×=2.00x sostenuto + 4h=+0.44%. ACQUISTO MEDIO: momentum rialzista confermato con volume robusto, dip buying su 1h=-0.51% per posizionarsi prima della ripresa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T11:00:51.223566+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.915,
+    "reason": "RSI=72.7 IPERCOMPRATO + MACD hist positivo ma in zona di saturazione + volume elevato (vol×=2.62) suggerisce opportunità di take profit. Realizzo guadagni su posizione forte prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
