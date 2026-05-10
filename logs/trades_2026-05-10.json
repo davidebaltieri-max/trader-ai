@@ -34,5 +34,14 @@
     "price": 8.945,
     "reason": "RSI=87.0 IPERCOMPRATO (>70) + MACD hist positivo ma senza cross ribassista confermato. Volume×=4.16x anomalo indica possibile distribuzione. Realizzo profitti su posizione forte prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T10:00:58.620368+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2126,
+    "reason": "RSI=71.4 IPERCOMPRATO (>70) + 1h=+0.12% debole. MACD hist positivo ma crescita marginale (+0.0010). Volume×=2.30x elevato suggerisce completamento della spinta rialzista. Riduco posizione prima della correzione tecnica.",
+    "dry_run": false
   }
 ]
