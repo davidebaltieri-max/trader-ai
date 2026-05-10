@@ -52,5 +52,14 @@
     "price": 1.155,
     "reason": "BULLISH_CROSS confermato su MACD + RSI=50.0 (neutro ma equilibrato) + 1h=+0.88% momentum positivo + 24h=+1.77% trend crescente + vol×=1.45x volume in aumento. Segnale ACQUISTO FORTE multi-indicatore. DOT ha massimo potenziale nel profilo performance su layer 1 alternativi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T10:30:48.407880+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.925,
+    "reason": "RSI=77.3 IPERCOMPRATO + vol×=4.01x (picco anomalo) + 1h=-0.22% (divergenza negativa). VENDITA MEDIA confermata: prendere profitti su picco di volume e ipercomprato prima della correzione attesa.",
+    "dry_run": false
   }
 ]
