@@ -16,5 +16,14 @@
     "price": 8.945,
     "reason": "RSI=88.5 🔴IPERCOMPRATO (>70) + MACD hist positivo ma in zona estrema + vol×=2.95x elevato. Segnale di VENDITA FORTE. Realizzo profitti su posizione in ipercomprato per proteggermi da correzione imminente. Riduco esposizione su asset ad alto rischio di pull-back.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-10T09:30:46.456446+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 31.93,
+    "price": 80.23,
+    "reason": "RSI=83.2 🔴IPERCOMPRATO (>70) + MACD hist positivo ma momentum estremista + vol×=1.71x in aumento. Segnale di VENDITA FORTE. SOL è in zona di pericolo tecnico dopo rally 1h=+0.43%, 4h=+1.20%, 24h=+1.26%. Realizzo parte della posizione ad alta volatilità (0.20%).",
+    "dry_run": false
   }
 ]
