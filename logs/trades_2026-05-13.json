@@ -25,5 +25,14 @@
     "price": 9.195,
     "reason": "RSI=80.4 IPERCOMPRATO + MACD hist crescente ma su massimi locali + vol×=3.05x (picco di volume) suggerisce esaurimento rialzo. Realizza profitti su posizione con momentum estremo prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-13T09:30:58.156954+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.205,
+    "reason": "RSI=75.0 IPERCOMPRATO + 24h=+3.45% (corsa forte) + vol×=0.68x (volume in calo) indica possibile pull-back. Ridimensiona posizione su massimi recenti.",
+    "dry_run": false
   }
 ]
