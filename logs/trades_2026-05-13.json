@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-13T02:30:44.557364+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 1.165,
+    "reason": "DOT in IPERCOMPRATO estremo (RSI=100.0). Movimento parabolico su 1h/4h/24h (+1.75%) con volume molto basso (0.23x) indica momentum artificiale. Vendita di profitto su posizione sovradimensionata (47.4 unità). Libera slot per ribilanciamento.",
+    "dry_run": false
+  }
+]
