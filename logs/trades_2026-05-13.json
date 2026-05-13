@@ -34,5 +34,14 @@
     "price": 1.205,
     "reason": "RSI=75.0 IPERCOMPRATO + 24h=+3.45% (corsa forte) + vol×=0.68x (volume in calo) indica possibile pull-back. Ridimensiona posizione su massimi recenti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-13T10:01:00.393538+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.225,
+    "reason": "RSI=83.3 (IPERCOMPRATO) + 24h=+5.17% con volatilità alta (0.76%). DOT ha raggiunto zona di ipercomprato estremo. MACD ancora positivo ma RSI suggerisce correzione imminente. Realizzo +5.17% per ridurre rischio e liberare capitale.",
+    "dry_run": false
   }
 ]
