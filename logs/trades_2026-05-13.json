@@ -52,5 +52,14 @@
     "price": 1982.895,
     "reason": "RSI=78.5 (IPERCOMPRATO) + 24h=+1.76%. ETH in zona di ipercomprato con MACD positivo ma momentum su 1h debole (+0.04%). Take profit su rialzo recente. Riduco exposure su asset volatile in zona ipercomprata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-13T10:01:02.539386+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 18.0,
+    "price": 1.2548,
+    "reason": "RSI=74.1 (IPERCOMPRATO) + volume anomalo (vol×=5.13x). Spike di volume su asset in ipercomprato è segnale di potenziale top locale. MACD hist positivo ma decrescente (+0.0013). Profitto su movimento speculativo. Liberare slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
