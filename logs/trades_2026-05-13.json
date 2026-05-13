@@ -43,5 +43,14 @@
     "price": 1.225,
     "reason": "RSI=83.3 (IPERCOMPRATO) + 24h=+5.17% con volatilità alta (0.76%). DOT ha raggiunto zona di ipercomprato estremo. MACD ancora positivo ma RSI suggerisce correzione imminente. Realizzo +5.17% per ridurre rischio e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-13T10:01:01.435038+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 15.0,
+    "price": 1982.895,
+    "reason": "RSI=78.5 (IPERCOMPRATO) + 24h=+1.76%. ETH in zona di ipercomprato con MACD positivo ma momentum su 1h debole (+0.04%). Take profit su rialzo recente. Riduco exposure su asset volatile in zona ipercomprata.",
+    "dry_run": false
   }
 ]
