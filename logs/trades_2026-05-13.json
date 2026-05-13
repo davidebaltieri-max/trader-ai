@@ -7,5 +7,14 @@
     "price": 1.165,
     "reason": "DOT in IPERCOMPRATO estremo (RSI=100.0). Movimento parabolico su 1h/4h/24h (+1.75%) con volume molto basso (0.23x) indica momentum artificiale. Vendita di profitto su posizione sovradimensionata (47.4 unità). Libera slot per ribilanciamento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-13T02:30:45.562887+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 27.0,
+    "price": 8.885,
+    "reason": "LINK in IPERCOMPRATO (RSI=78.3) con volume basso (0.47x). MACD hist ancora positivo ma RSI suggerisce correzione imminente. Vendita parziale della posizione (1.5 unità su 3.04) per bloccare profitti e ridurre rischio.",
+    "dry_run": false
   }
 ]
