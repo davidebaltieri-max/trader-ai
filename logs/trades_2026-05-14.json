@@ -70,5 +70,14 @@
     "price": 1.195,
     "reason": "RSI=71.4 IPERCOMPRATO + MACD hist positivo ma in zona critica dopo rialzo 24h=+3.48%. Presa di profitto su posizione in ipercomprato. Prezzo €1.1950, vendita 20.92 unità (~€25). Obiettivo: realizzare guadagni prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-14T21:30:46.427516+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 20.0,
+    "price": 69733.79,
+    "reason": "RSI=70.0 IPERCOMPRATO + MACD BEARISH_CROSS confermato (hist=-14.1038 decrescente). Segnale VENDITA MEDIA. Prezzo €69733.79, vendita 0.00286 unità (~€20). Protezione profitto su movimento rialzista 24h=+2.90%, prima della correzione indicata dai cross ribassisti.",
+    "dry_run": false
   }
 ]
