@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-14T02:30:51.539335+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2226,
+    "reason": "XRP RSI=73.1 IPERCOMPRATO + 1h=-0.02% momentum negativo. Segnale di vendita media confermato. Realizza profitti su posizione gonfiata (20.77 unità = €25.37 totali). Ridimensiona per liberare slot e cash per dip-buying su asset più performanti.",
+    "dry_run": false
+  }
+]
