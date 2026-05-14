@@ -61,5 +61,14 @@
     "price": 1.195,
     "reason": "RSI=75.0 (IPERCOMPRATO ESTREMO) + 1h=-0.83% inversione negativa = riduzione prudenziale. DOT è il più sopravvalutato in questo momento. Libera liquidità per opportunità future.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-14T21:30:45.375481+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.195,
+    "reason": "RSI=71.4 IPERCOMPRATO + MACD hist positivo ma in zona critica dopo rialzo 24h=+3.48%. Presa di profitto su posizione in ipercomprato. Prezzo €1.1950, vendita 20.92 unità (~€25). Obiettivo: realizzare guadagni prima della correzione attesa.",
+    "dry_run": false
   }
 ]
