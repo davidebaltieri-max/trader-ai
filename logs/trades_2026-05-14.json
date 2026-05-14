@@ -34,5 +34,14 @@
     "price": 1.195,
     "reason": "RSI=77.8 (IPERCOMPRATO ESTREMO) + MACD hist positivo ma saturato. Asset ha performato +4.39% in 24h. Realizza profitti su posizione sovrappesata e riporta RSI sotto 70 per ridurre rischio correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-14T21:00:58.541387+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 25.0,
+    "price": 69781.93,
+    "reason": "RSI=71.1 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist=-10.8079 decrescente) + 1h=+0.22% debole = VENDITA FORTE confermata. Riduci esposizione sui massimi locali.",
+    "dry_run": false
   }
 ]
