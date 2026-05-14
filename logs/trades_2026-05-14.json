@@ -43,5 +43,14 @@
     "price": 69781.93,
     "reason": "RSI=71.1 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist=-10.8079 decrescente) + 1h=+0.22% debole = VENDITA FORTE confermata. Riduci esposizione sui massimi locali.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-14T21:00:59.718638+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2936,
+    "reason": "RSI=71.8 (IPERCOMPRATO) + 24h=+6.68% (rally forte) + 1h=+0.26% debole = correzione imminente probabile. XRP ha guadagnato molto in 24h, stima take profit intermedio.",
+    "dry_run": false
   }
 ]
