@@ -16,5 +16,14 @@
     "price": 1.2207,
     "reason": "RSI=78.2 (IPERCOMPRATO) + MACD hist positivo ma statico (crescita momentum bloccata) + 24h=-1.95%. Segnale VENDITA MEDIA su posizione sovraesposta (20.77 unità). Realizo profitti su asset in zona di resistenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-16T17:30:48.664382+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 18.0,
+    "price": 0.2203,
+    "reason": "RSI=75.0 (IPERCOMPRATO) + MACD hist piatto/débile (+0.0004, minimo) + 24h=-2.18%. Segnale VENDITA MEDIA. Posizione molto grande (126.92 unità) in asset senza momentum reale. Realizzo parzialmente e libero liquidità.",
+    "dry_run": false
   }
 ]
