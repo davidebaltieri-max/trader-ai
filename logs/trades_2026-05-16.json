@@ -7,5 +7,14 @@
     "price": 74.735,
     "reason": "RSI=78.7 (IPERCOMPRATO) + 24h=-3.21% (momentum negativo) + volatilità elevata (0.12%). Segnale VENDITA MEDIA per bloccare guadagni parziali e ridurre esposizione su asset in zona di correzione. Riduco posizione per fare spazio a opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-16T17:30:47.616272+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2207,
+    "reason": "RSI=78.2 (IPERCOMPRATO) + MACD hist positivo ma statico (crescita momentum bloccata) + 24h=-1.95%. Segnale VENDITA MEDIA su posizione sovraesposta (20.77 unità). Realizo profitti su asset in zona di resistenza.",
+    "dry_run": false
   }
 ]
