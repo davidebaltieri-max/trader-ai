@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-17T02:00:54.709853+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 1.085,
+    "reason": "Stop loss -5.22% attivato. Vendo 47.407 DOT a €1.085 per liberare slot e contenere perdita. MACD crescente suggerisce rimbalzo prossimo — opportunità di rientrata dopo correzione.",
+    "dry_run": false
+  }
+]
