@@ -7,5 +7,14 @@
     "price": 7.86,
     "reason": "AVAX mostra RSI=37.5 (zona debole) + MACD hist decrescente (trend ribassista). Performance 24h=-1.13%. Volume basso (0.19x). Posizione da 3.628 unità: vendita parziale per liberare liquidità e ridurre esposizione a L1 alternativi. Reimpiego su opportunità con momentum più forte (ATOM ipervenduto, ETH/ADA con BULLISH_CROSS).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-20T03:30:52.921951+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.055,
+    "reason": "DOT bloccato a RSI=50 (neutrale) + MACD hist=-0.0003 (decrescente, trend ribassista incipiente). Volume ultra-basso (0.08x), volatilità alta (0.57%) ma senza direzionalità. 24h=0% (stagnazione). Vendita di ridimensionamento da 47.407 unità per liberare spazio su asset con segnali più chiari (ATOM, ETH).",
+    "dry_run": false
   }
 ]
