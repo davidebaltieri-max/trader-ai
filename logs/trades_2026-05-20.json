@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-20T03:30:51.553873+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 28.5,
+    "price": 7.86,
+    "reason": "AVAX mostra RSI=37.5 (zona debole) + MACD hist decrescente (trend ribassista). Performance 24h=-1.13%. Volume basso (0.19x). Posizione da 3.628 unità: vendita parziale per liberare liquidità e ridurre esposizione a L1 alternativi. Reimpiego su opportunità con momentum più forte (ATOM ipervenduto, ETH/ADA con BULLISH_CROSS).",
+    "dry_run": false
+  }
+]
