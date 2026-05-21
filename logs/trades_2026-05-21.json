@@ -52,5 +52,14 @@
     "price": 8.425,
     "reason": "LINK in momentum rialzista confermato (MACD hist=+0.0143 crescente, RSI=66.7 in zona neutra-alta). Vol×=1.41 > 1.2 e +1.93% in 4h. Segnale ACQUISTO MEDIO affidabile con buon rapporto rischio/rendimento. Infrastruttura DeFi core nel portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-21T17:30:57.270871+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 27.52,
+    "price": 0.217,
+    "reason": "ADA ipercomprato (RSI=84.2>70) con MACD hist quasi piatto (+0.0005) e volume basso (0.80x). Segnale di possibile correzione vicina. Vendi ~126.82 unità a €0.2170 per bloccare i guadagni e ridurre rischio. Operazione prudente su asset estremamente ipercomprato.",
+    "dry_run": false
   }
 ]
