@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-21T02:30:43.062702+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 20.0,
+    "price": 1.19,
+    "reason": "RSI=70.8 IPERCOMPRATO (>70) + volume >1.09x + performance 24h=+2.28%. Posizione in profitto significativo. Riduci esposizione su asset in zona di saturazione per liberare liquidità.",
+    "dry_run": false
+  }
+]
