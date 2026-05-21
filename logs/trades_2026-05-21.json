@@ -43,5 +43,14 @@
     "price": 1.7375,
     "reason": "ATOM ipervenduto (RSI=27.9<30) con MACD hist negativo decrescente → segnale di rimbalzo forte. Vol× moderato (0.44), ma la sovravendita estrema e il potenziale mean reversion giustificano acquisto aggressivo in profilo PERFORMANTE. Entry ideale per dip-buying.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-21T17:30:55.788295+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.425,
+    "reason": "LINK in momentum rialzista confermato (MACD hist=+0.0143 crescente, RSI=66.7 in zona neutra-alta). Vol×=1.41 > 1.2 e +1.93% in 4h. Segnale ACQUISTO MEDIO affidabile con buon rapporto rischio/rendimento. Infrastruttura DeFi core nel portafoglio.",
+    "dry_run": false
   }
 ]
