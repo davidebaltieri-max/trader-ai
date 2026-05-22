@@ -34,5 +34,14 @@
     "price": 1.848,
     "reason": "RSI=70.0 IPERCOMPRATO + MACD hist positivo ma potenziale inversione + volatilità alta (+1.13%). Posizione in guadagno (+4.41% 24h), ridimensiona prima della correzione attesa dal segnale tecnico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-22T13:00:57.504236+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.61,
+    "reason": "RSI=71.1 IPERCOMPRATO + vol×=2.91x (volatilità estrema) + MACD hist positivo ma momentum potrebbe invertirsi. LINK ha già fatto +4.49% in 24h e mostra segnali di esaurimento. Realizzo profitti su posizione in area di rischio.",
+    "dry_run": false
   }
 ]
