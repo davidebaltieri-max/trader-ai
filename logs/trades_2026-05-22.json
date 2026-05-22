@@ -16,5 +16,14 @@
     "price": 1.8245,
     "reason": "RSI=90.2 MASSIMAMENTE IPERCOMPRATO + vol×=14.28x (volume esplosivo, possibile pump). MACD hist positivo ma RSI in zona di massima estensione. Vendo parziale (+5.15% in 24h) per gestire rischio, libero slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-22T09:30:46.881831+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 1.145,
+    "reason": "RSI=71.4 IPERCOMPRATO + MACD hist decrescente + spike da +5.56% in 24h. Realizza profitti su posizione vincente prima della correzione attesa. DOT ha raggiunto picco, momentum sta invertendo.",
+    "dry_run": false
   }
 ]
