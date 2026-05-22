@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-22T03:30:48.521277+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.125,
+    "reason": "RSI=80.0 IPERCOMPRATO + 24h=+6.60% con vol×=5.91x (spike anomalo). Rischio correzione imminente. Realizzo +6.60% su posizione in overbought. Riduco esposizione e libero slot per opportunità migliori.",
+    "dry_run": false
+  }
+]
