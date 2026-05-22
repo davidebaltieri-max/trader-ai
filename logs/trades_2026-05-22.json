@@ -7,5 +7,14 @@
     "price": 1.125,
     "reason": "RSI=80.0 IPERCOMPRATO + 24h=+6.60% con vol×=5.91x (spike anomalo). Rischio correzione imminente. Realizzo +6.60% su posizione in overbought. Riduco esposizione e libero slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-22T03:30:49.851092+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.8245,
+    "reason": "RSI=90.2 MASSIMAMENTE IPERCOMPRATO + vol×=14.28x (volume esplosivo, possibile pump). MACD hist positivo ma RSI in zona di massima estensione. Vendo parziale (+5.15% in 24h) per gestire rischio, libero slot.",
+    "dry_run": false
   }
 ]
