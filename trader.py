@@ -769,7 +769,13 @@ def main():
             log.error(f"✗ Errore vendita automatica {pair}: {e}")
 
     # AI
+    try:
     trades = ask_ai(claude, market_data, portfolio, eur_balance)
+except Exception as e:
+    if "529" in str(e) or "overloaded" in str(e).lower():
+        log.warning("API Anthropic sovraccarica — ciclo saltato, riprova al prossimo run")
+        sys.exit(0)
+    raise
     log.info(f"AI suggerisce {len(trades)} operazioni")
 
     # Esecuzione
