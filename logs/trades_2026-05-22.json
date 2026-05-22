@@ -43,5 +43,14 @@
     "price": 8.61,
     "reason": "RSI=71.1 IPERCOMPRATO + vol×=2.91x (volatilità estrema) + MACD hist positivo ma momentum potrebbe invertirsi. LINK ha già fatto +4.49% in 24h e mostra segnali di esaurimento. Realizzo profitti su posizione in area di rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-22T13:00:58.709252+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.862,
+    "reason": "MACD BEARISH_CROSS confermato (hist=-0.0000 ↓decrescente) + 1h=-0.74% (calo nell'ultima ora). Nonostante +4.30% in 24h, il cross ribassista segnala inversione. Esco per proteggere i guadagni prima che momentum si inverta completamente.",
+    "dry_run": false
   }
 ]
