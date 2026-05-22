@@ -25,5 +25,14 @@
     "price": 1.145,
     "reason": "RSI=71.4 IPERCOMPRATO + MACD hist decrescente + spike da +5.56% in 24h. Realizza profitti su posizione vincente prima della correzione attesa. DOT ha raggiunto picco, momentum sta invertendo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-22T09:30:47.908475+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.848,
+    "reason": "RSI=70.0 IPERCOMPRATO + MACD hist positivo ma potenziale inversione + volatilità alta (+1.13%). Posizione in guadagno (+4.41% 24h), ridimensiona prima della correzione attesa dal segnale tecnico.",
+    "dry_run": false
   }
 ]
