@@ -16,5 +16,14 @@
     "price": 66075.01,
     "reason": "RSI=63.3 elevato + MACD BEARISH_CROSS confermato (hist=-5.1965 decrescente) = segnale VENDITA MEDIA. 1h negativo (-0.16%), momentum ribassista in corso. Riduco esposizione al principale asset.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-24T02:30:49.416334+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 18.0,
+    "price": 1.1704,
+    "reason": "MACD BEARISH_CROSS confermato (hist=-0.0002 decrescente) + RSI=59.7 neutro + 1h negativo (-0.21%) = segnale VENDITA MEDIA. Vol× basso (0.20x) indica debolezza. Realizzo parziale.",
+    "dry_run": false
   }
 ]
