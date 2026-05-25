@@ -88,5 +88,14 @@
     "price": 1.836,
     "reason": "RSI=35.3 (zona bassa) + MACD hist decrescente (-0.0023) + 4h=-0.44%. Momentum ribassista in corso. Uscita tattica prima di potenziale ulteriore calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-25T17:00:58.398541+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 8.285,
+    "reason": "RSI=72.0 IPERCOMPRATO + vol×=1.77 (volume elevato). MACD hist positivo ma segnali di correzione imminente. Vendita parziale per consolidare guadagni e liberare capitale.",
+    "dry_run": false
   }
 ]
