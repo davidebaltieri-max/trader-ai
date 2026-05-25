@@ -79,5 +79,14 @@
     "price": 8.095,
     "reason": "RSI=76.0 IPERCOMPRATO (>70) con 1h=-0.37%. Segnale di vendita: correzione probabile. AVAX è la posizione con segnale più critico nel portafoglio. Riduco esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-25T16:01:00.333415+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.836,
+    "reason": "RSI=35.3 (zona bassa) + MACD hist decrescente (-0.0023) + 4h=-0.44%. Momentum ribassista in corso. Uscita tattica prima di potenziale ulteriore calo.",
+    "dry_run": false
   }
 ]
