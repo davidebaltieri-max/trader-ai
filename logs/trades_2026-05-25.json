@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-25T02:30:43.309877+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 1.065,
+    "reason": "DOT in IPERVENDUTO (RSI=25.0) ma MACD hist decrescente e negativo (-0.0033) + 4h=-1.85% indicano momentum ribassista confermato. Vendita per realizzare cassa e ridurre posizioni. Take profit strategico su asset debole nel timeframe attuale.",
+    "dry_run": false
+  }
+]
