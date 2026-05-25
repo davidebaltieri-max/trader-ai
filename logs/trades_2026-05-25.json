@@ -25,5 +25,14 @@
     "price": 8.015,
     "reason": "RSI=73.2 IPERCOMPRATO + MACD hist positivo crescente segnala possibile correzione imminente. Realizza profitti su posizione già forte (+1.26% 24h) prima della potenziale pullback. Libera 1 slot per dip-buying futuro.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-25T08:01:01.452598+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 26.0,
+    "price": 1.8365,
+    "reason": "RSI=76.2 IPERCOMPRATO (massimo critico) + 1h=-1.86% segnala inversione locale imminente. Nonostante 4h=+3.54% e 24h=+2.56%, il momentum sta esaurendo. Vendi prima del pullback, libera slot per opportunità.",
+    "dry_run": false
   }
 ]
