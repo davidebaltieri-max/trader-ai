@@ -16,5 +16,14 @@
     "price": 1.833,
     "reason": "RSI=74.8 (IPERCOMPRATO critico) + 1h=-2.08% (pressione al ribasso) + volatilità alta (1.04%). Nonostante MACD positivo, il segnale di ipercompra è dominante e l'azione recente mostra debolezza. Riduco posizione ATOM per liberare slot e cassa, in linea con rebalancing su momentum negativi nel breve termine.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-25T08:01:00.275527+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 29.0,
+    "price": 8.015,
+    "reason": "RSI=73.2 IPERCOMPRATO + MACD hist positivo crescente segnala possibile correzione imminente. Realizza profitti su posizione già forte (+1.26% 24h) prima della potenziale pullback. Libera 1 slot per dip-buying futuro.",
+    "dry_run": false
   }
 ]
