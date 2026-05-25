@@ -34,5 +34,14 @@
     "price": 1.8365,
     "reason": "RSI=76.2 IPERCOMPRATO (massimo critico) + 1h=-1.86% segnala inversione locale imminente. Nonostante 4h=+3.54% e 24h=+2.56%, il momentum sta esaurendo. Vendi prima del pullback, libera slot per opportunità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-25T11:30:45.864886+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 19.0,
+    "price": 8.195,
+    "reason": "RSI=77.8 (IPERCOMPRATO FORTE) + MACD hist positivo ma in zona di ipercomprato. Segnale di VENDITA MEDIA per ridurre l'esposizione su un asset in potenziale correzione. Realizziamo profitti parziali.",
+    "dry_run": false
   }
 ]
