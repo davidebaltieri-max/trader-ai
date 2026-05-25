@@ -52,5 +52,14 @@
     "price": 8.065,
     "reason": "RSI=82.1 (MASSIMO IPERCOMPRATO) + volat=+0.23% + 1h=0.00%. Segnale di VENDITA FORTE. AVAX è in condizione estrema di ipercomprato. Liquidazione tattica per liberare slot e capital per posizionamenti migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-25T14:30:46.174531+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 8.14,
+    "reason": "RSI=87.0 IPERCOMPRATO (>70) + MACD hist crescente ma asset al limite. Vendita parziale per lock-in profitti e liberare slot. AVAX ha fatto +0.87% in 1h, momentum estremo non sostenibile.",
+    "dry_run": false
   }
 ]
