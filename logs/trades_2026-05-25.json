@@ -61,5 +61,14 @@
     "price": 8.14,
     "reason": "RSI=87.0 IPERCOMPRATO (>70) + MACD hist crescente ma asset al limite. Vendita parziale per lock-in profitti e liberare slot. AVAX ha fatto +0.87% in 1h, momentum estremo non sostenibile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-25T14:30:47.141855+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 8.265,
+    "reason": "RSI=72.7 IPERCOMPRATO (>70) + segnale di correzione imminente. LINK mostra affaticamento tecnico nonostante MACD positivo. Vendita parziale prudenziale.",
+    "dry_run": false
   }
 ]
