@@ -7,5 +7,14 @@
     "price": 1.065,
     "reason": "DOT in IPERVENDUTO (RSI=25.0) ma MACD hist decrescente e negativo (-0.0033) + 4h=-1.85% indicano momentum ribassista confermato. Vendita per realizzare cassa e ridurre posizioni. Take profit strategico su asset debole nel timeframe attuale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-25T07:31:01.636425+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 26.0,
+    "price": 1.833,
+    "reason": "RSI=74.8 (IPERCOMPRATO critico) + 1h=-2.08% (pressione al ribasso) + volatilità alta (1.04%). Nonostante MACD positivo, il segnale di ipercompra è dominante e l'azione recente mostra debolezza. Riduco posizione ATOM per liberare slot e cassa, in linea con rebalancing su momentum negativi nel breve termine.",
+    "dry_run": false
   }
 ]
