@@ -7,5 +7,14 @@
     "price": 7.985,
     "reason": "AVAX mostra RSI=31.3 (ipervenduto) ma MACD hist=-0.0126 decrescente con trend ribassista confermato. 4h=-0.62% e volatilità elevata (0.36%). Vendita tattica per liberare slot e ridurre esposizione a momentum negativo. Posizione da ridimensionare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-26T05:30:48.788853+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.075,
+    "reason": "DOT in chiaro deterioramento: RSI=37.5 in flessione, MACD hist=-0.0016 decrescente, 4h=-0.92%, 24h=-1.82%, volatilità alta (0.69%). Segnale di vendita media confermato. Riduzione tattica per liberare liquidità.",
+    "dry_run": false
   }
 ]
