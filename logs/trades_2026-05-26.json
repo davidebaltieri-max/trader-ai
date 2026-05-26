@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-26T05:30:47.848289+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 7.985,
+    "reason": "AVAX mostra RSI=31.3 (ipervenduto) ma MACD hist=-0.0126 decrescente con trend ribassista confermato. 4h=-0.62% e volatilità elevata (0.36%). Vendita tattica per liberare slot e ridurre esposizione a momentum negativo. Posizione da ridimensionare.",
+    "dry_run": false
+  }
+]
