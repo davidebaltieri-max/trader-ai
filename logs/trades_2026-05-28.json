@@ -7,5 +7,14 @@
     "price": 1.025,
     "reason": "DOT mostra debolezza relativa: MACD hist decrescente (-0.0002), RSI 38.5 in zona neutra, 4h +0.98% ma 24h -3.74% con trend ribassista confermato. Posizione da ridurre per liberare slot e riallocare su segnali FORTI (AVAX, ADA, ATOM, LINK). Obiettivo: scendere da 8/7 a 7/7 posizioni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-28T10:30:56.321341+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.761,
+    "reason": "ATOM in crollo: RSI=22.2 (ipervenduto ma in free-fall), MACD hist negativo e decrescente (trend ribassista confermato), 1h=-0.51% 4h=-2.01% 24h=-7.63%, volatilità alta 0.50%. Volume×6.44x indica panic selling. Il segnale MACD negativo decrescente + crollo 24h suggerisce continuazione del trend ribassista. Vendita difensiva per ridurre l'esposizione al drawdown e liberare capitale per opportunità migrate verso asset con MACD bullish (BTC, ETH, SOL, XRP, AVAX).",
+    "dry_run": false
   }
 ]
