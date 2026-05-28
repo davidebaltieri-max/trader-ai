@@ -25,5 +25,14 @@
     "price": 70.475,
     "reason": "VENDITA MEDIA: RSI=53.2 (neutro) + MACD BEARISH_CROSS (hist=-0.0068↓decrescente) + vol×=+0.76x con trend negativo (24h=-0.54%). Piccola riduzione della posizione già sottodimensionata (0.185 SOL) per limitare danni su cross bearish confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-28T23:30:47.893486+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 15.0,
+    "price": 1.1292,
+    "reason": "VENDITA MEDIA: RSI=43.2 (zona bassa, debolezza relativa) + MACD BEARISH_CROSS (hist=-0.0010↓decrescente) + performance neutra/negativa rispetto al portafoglio. XRP non partecipa al rimbalzo, momentum ribassista. Ridimensiono posizione sovrappesata (20.77 unità).",
+    "dry_run": false
   }
 ]
