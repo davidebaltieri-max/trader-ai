@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-28T09:30:53.381103+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 1.025,
+    "reason": "DOT mostra debolezza relativa: MACD hist decrescente (-0.0002), RSI 38.5 in zona neutra, 4h +0.98% ma 24h -3.74% con trend ribassista confermato. Posizione da ridurre per liberare slot e riallocare su segnali FORTI (AVAX, ADA, ATOM, LINK). Obiettivo: scendere da 8/7 a 7/7 posizioni.",
+    "dry_run": false
+  }
+]
