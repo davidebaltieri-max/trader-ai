@@ -16,5 +16,14 @@
     "price": 7.655,
     "reason": "MACD BEARISH_CROSS confermato + RSI=58.3 prossimo a zona neutrale + 4h=-0.91% + hist negativo decrescente. Trend ribassista in formazione. Vendita preventiva (15€ ≈ 1.96 AVAX) per proteggere posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T02:30:47.029804+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.7805,
+    "reason": "RSI=73.0 (IPERCOMPRATO) + MACD hist crescente ma prezzo già in rally forte 1h=+1.75%. Realizzo profitti su posizione gonfiata, riduci rischio correzione imminente. Libera slot per dip-buying su LINK/AVAX/XRP",
+    "dry_run": false
   }
 ]
