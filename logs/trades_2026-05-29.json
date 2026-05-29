@@ -43,5 +43,14 @@
     "price": 1.764,
     "reason": "ATOM mostra BEARISH_CROSS confermato (MACD hist negativo decrescente), RSI=54.1 neutro ma in calo, 4h=-1.18% e 24h=-3.45% ribassista. Volatilità alta (0.90%) segnala stress. Necessario ridurre per liberare slot e realizzare perdita prima di ulteriore deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T06:30:49.573833+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 20.0,
+    "price": 1.1292,
+    "reason": "XRP mostra MACD hist negativo decrescente (momentum ribassista) con RSI=49.1 in zona neutra bassa. Segnale di debolezza relativa. Vendita parziale per consolidare posizione e liberare liquidità senza perdita (24h ancora positivo +2.15%).",
+    "dry_run": false
   }
 ]
