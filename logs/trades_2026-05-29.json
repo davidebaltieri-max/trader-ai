@@ -34,5 +34,14 @@
     "price": 7.705,
     "reason": "RSI=37.9 (sottozona neutra) + MACD BEARISH_CROSS confermato + 1h=-0.65% 4h=-0.65%. Segnale VENDITA MEDIA. Stop loss preventivo su infrastruttura DeFi debole. Libera capitale per rotazione momentum",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T06:30:48.498207+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.764,
+    "reason": "ATOM mostra BEARISH_CROSS confermato (MACD hist negativo decrescente), RSI=54.1 neutro ma in calo, 4h=-1.18% e 24h=-3.45% ribassista. Volatilità alta (0.90%) segnala stress. Necessario ridurre per liberare slot e realizzare perdita prima di ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
