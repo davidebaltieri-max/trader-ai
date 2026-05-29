@@ -61,5 +61,14 @@
     "price": 1.7635,
     "reason": "ATOM mostra BEARISH_CROSS (hist<0, decrescente), RSI=50.3 neutrale, performance negativa 24h=-3.19%. Momentum ribassista confermato. Riduco posizione in perdita per liberare slot e realloc su segnali bullish più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T07:01:02.873830+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.035,
+    "reason": "DOT in trend ribassista: 4h=-0.95%, 24h=-1.89%, RSI=40.0 (sotto 50), MACD decrescente. Segnali tecnici deteriorati. Riduco esposizione per creare liquidità su segnali bullish confermati.",
+    "dry_run": false
   }
 ]
