@@ -25,5 +25,14 @@
     "price": 1.7805,
     "reason": "RSI=73.0 (IPERCOMPRATO) + MACD hist crescente ma prezzo già in rally forte 1h=+1.75%. Realizzo profitti su posizione gonfiata, riduci rischio correzione imminente. Libera slot per dip-buying su LINK/AVAX/XRP",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T02:30:47.951108+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 7.705,
+    "reason": "RSI=37.9 (sottozona neutra) + MACD BEARISH_CROSS confermato + 1h=-0.65% 4h=-0.65%. Segnale VENDITA MEDIA. Stop loss preventivo su infrastruttura DeFi debole. Libera capitale per rotazione momentum",
+    "dry_run": false
   }
 ]
