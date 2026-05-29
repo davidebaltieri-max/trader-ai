@@ -70,5 +70,14 @@
     "price": 1.035,
     "reason": "DOT in trend ribassista: 4h=-0.95%, 24h=-1.89%, RSI=40.0 (sotto 50), MACD decrescente. Segnali tecnici deteriorati. Riduco esposizione per creare liquidità su segnali bullish confermati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T09:30:57.170612+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 24.77,
+    "price": 1.744,
+    "reason": "VENDITA FORTE: RSI=22.2 (IPERVENDUTO) + MACD hist negativo decrescente + 4h=-1.19% + 24h=-3.06%. Posizione in trend ribassista confermato. Realizzo perdita controllata (-5% stop loss) per liberare slot e riallocare su asset con momentum positivo. Posizione attualmente: 14.20 ATOM × €1.7440 = €24.77, vendo €25 ≈ 14.33 unità.",
+    "dry_run": false
   }
 ]
