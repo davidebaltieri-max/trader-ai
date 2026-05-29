@@ -79,5 +79,14 @@
     "price": 1.744,
     "reason": "VENDITA FORTE: RSI=22.2 (IPERVENDUTO) + MACD hist negativo decrescente + 4h=-1.19% + 24h=-3.06%. Posizione in trend ribassista confermato. Realizzo perdita controllata (-5% stop loss) per liberare slot e riallocare su asset con momentum positivo. Posizione attualmente: 14.20 ATOM × €1.7440 = €24.77, vendo €25 ≈ 14.33 unità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T09:30:58.250798+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 23.0,
+    "price": 1.1388,
+    "reason": "VENDITA MEDIA: RSI=76.2 (IPERCOMPRATO) + momentum estremamente spinto (24h=+2.58%). Segnale di possibile correzione imminente. Realizzo profitto (23/20.77 ATOM ≈ +10.7% da ultimo acquisto stimato). Vendo €23 ≈ 20.2 unità per de-rischiare su estremo ipercomprato.",
+    "dry_run": false
   }
 ]
