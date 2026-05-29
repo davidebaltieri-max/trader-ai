@@ -7,5 +7,14 @@
     "price": 1.771,
     "reason": "RSI=70.9 IPERCOMPRATO + MACD hist crescente ma già in zona di estensione + vol×=6.68x (spike anomalo) + 24h=-4.26% su timeframe lungo suggerisce correzione imminente. Realizzo profitto parziale (25€ ≈ 14.12 ATOM) per ridurre rischio e liberare 1 slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T00:07:56.023070+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 15.0,
+    "price": 7.655,
+    "reason": "MACD BEARISH_CROSS confermato + RSI=58.3 prossimo a zona neutrale + 4h=-0.91% + hist negativo decrescente. Trend ribassista in formazione. Vendita preventiva (15€ ≈ 1.96 AVAX) per proteggere posizione.",
+    "dry_run": false
   }
 ]
