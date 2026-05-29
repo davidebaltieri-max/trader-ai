@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-29T00:07:55.004701+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.771,
+    "reason": "RSI=70.9 IPERCOMPRATO + MACD hist crescente ma già in zona di estensione + vol×=6.68x (spike anomalo) + 24h=-4.26% su timeframe lungo suggerisce correzione imminente. Realizzo profitto parziale (25€ ≈ 14.12 ATOM) per ridurre rischio e liberare 1 slot.",
+    "dry_run": false
+  }
+]
