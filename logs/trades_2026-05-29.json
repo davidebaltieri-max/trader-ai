@@ -88,5 +88,14 @@
     "price": 1.1388,
     "reason": "VENDITA MEDIA: RSI=76.2 (IPERCOMPRATO) + momentum estremamente spinto (24h=+2.58%). Segnale di possibile correzione imminente. Realizzo profitto (23/20.77 ATOM ≈ +10.7% da ultimo acquisto stimato). Vendo €23 ≈ 20.2 unità per de-rischiare su estremo ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-29T09:30:59.284954+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 5.0,
+    "price": 63411.395,
+    "reason": "VENDITA CAUTELARE: RSI=72.9 (IPERCOMPRATO) + vol×=0.69x (volume BASSO, segnale fragile). Realizzo profit minimo su posizione micro (0.0050 BTC). Operazione simbolica ma coerente con gestione del rischio su asset ipercomprato con supporto volume debole.",
+    "dry_run": false
   }
 ]
