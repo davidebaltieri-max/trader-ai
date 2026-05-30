@@ -286,5 +286,14 @@
     "price": 1.7275,
     "reason": "ATOM: RSI=12.2 (IPERVENDUTO estremo) + MACD hist=-0.0020 (decrescente) + 1h=-0.63% + 4h=-0.74%. Segnale contradditorio: RSI suggerisce rimbalzo imminente, ma il momentum è al ribasso. Gestione del rischio: realizzo il 65% della posizione per bloccare liquidità. Se ATOM rimbalza (BULLISH_CROSS), rientro; se scende, ho ridotto l'esposizione. €1.7275×30≈€51.83 lordi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T22:30:48.336481+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 28.0,
+    "price": 1.015,
+    "reason": "DOT: 1h=-0.97% + 4h=-0.97% + 24h=-1.92% (trend ribassista confermato) + RSI=50.0 (neutro) + MACD hist=-0.0004 (decrescente) + vol×=+13.45x (spike di volume su vendite). Segnale VENDITA MEDIA. Realizzo il 27% della posizione per proteggere i guadagni. €1.0150×28≈€28.42 lordi.",
+    "dry_run": false
   }
 ]
