@@ -16,5 +16,14 @@
     "price": 1.025,
     "reason": "DOT mostra MACD hist decrescente (-0.0009) dopo rialzo 24h=+0.98%. RSI=42.9 in zona neutra ma 4h=+0.00% segnala stallo momentum. Correzione tecnica probabile dopo movimento. Vendita piccola per ridurre esposizione e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T01:30:49.672396+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 24.0,
+    "price": 1.1652,
+    "reason": "RSI=83.8 (IPERCOMPRATO) + momentum eccessivo (24h=+3.72%). Realizzo profitti su posizione oversold prima della correzione attesa. Volume×=1.40 conferma interesse ma segnala possibile esaurimento. Take profit tattico.",
+    "dry_run": false
   }
 ]
