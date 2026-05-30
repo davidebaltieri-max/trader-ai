@@ -106,5 +106,14 @@
     "price": 7.955,
     "reason": "RSI=88.0 IPERCOMPRATO + volume×2.43 (picco anomalo) + MACD hist positivo ma momentum già estremo. Realizzo profitto su posizione surriscaldata prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T03:01:00.363952+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 24.22,
+    "price": 1.1659,
+    "reason": "RSI=83.2 IPERCOMPRATO + vol×1.61 in aumento + +4.07% in 24h. Posizione extended dopo rally forte. Take profit parziale per ridurre esposizione a correzione.",
+    "dry_run": false
   }
 ]
