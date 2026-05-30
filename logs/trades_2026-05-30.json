@@ -250,5 +250,14 @@
     "price": 1.7415,
     "reason": "SEGNALE ACQUISTO FORTE: RSI=15.6 (IPERVENDUTO estremo) + MACD hist negativo decrescente ma in zona di inversione tipica dopo RSI<20. ATOM è in posizione estrema di oversold con volume moderato (0.84x). Dip-buying opportuno su asset con fondamentali solidi. Importo elevato per sfruttare condizione rara.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T21:57:45.832528+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.025,
+    "reason": "SEGNALE ACQUISTO MEDIO-FORTE: RSI=44.4 (zona neutra bassa) + MACD hist positivo crescente + 1h=+0.98% e 4h=+0.98% (momentum rialzista su timeframe corti) + vol×=+30.81x (volume esplosivo, possibile breakout). Nonostante 24h negativo, i segnali intraday sono molto bullish. Consolidamento dopo spike di volume.",
+    "dry_run": false
   }
 ]
