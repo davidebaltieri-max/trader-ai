@@ -304,5 +304,14 @@
     "price": 1.7265,
     "reason": "ATOM in IPERVENDUTO (RSI=12.2) con MACD hist negativo decrescente. RSI estremamente basso suggerisce rimbalzo imminente, ma il trend è ribassista confermato. Vendo parzialmente (55% della posizione ~€78.7) per realizzare liquidità e ridurre esposizione a trend negativo, mantenendo posizione residua per partecipare a potenziale rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T22:59:36.572070+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.015,
+    "reason": "DOT in downtrend marcato: 1h=-0.97%, 4h=-0.97%, 24h=-1.92%. Volume×13.45x confermava movimento direzionale ribassista con MACD hist negativo decrescente (RSI=50 neutrale ma trend chiaro). Vendo il 17.5% della posizione per cristallizzare liquidità prima di potenziale accelerazione negativa.",
+    "dry_run": false
   }
 ]
