@@ -97,5 +97,14 @@
     "price": 1729.265,
     "reason": "RSI=56.8 (zona neutra centrale) + MACD hist=+0.2036 ↑crescente + 1h=-0.11% ma 4h=+0.12% 24h=+0.71% (ripresa). Vol×=0.30 moderato. ACQUISTO MEDIO su large cap defensivo per bilanciare portafoglio. ETH offre stabilità relativa con momentum rialzista sottostante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T03:00:59.361950+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.61,
+    "price": 7.955,
+    "reason": "RSI=88.0 IPERCOMPRATO + volume×2.43 (picco anomalo) + MACD hist positivo ma momentum già estremo. Realizzo profitto su posizione surriscaldata prima di possibile correzione.",
+    "dry_run": false
   }
 ]
