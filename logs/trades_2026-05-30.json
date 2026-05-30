@@ -70,5 +70,14 @@
     "price": 7.885,
     "reason": "RSI=86.4 🔴IPERCOMPRATO + vol×=1.88 (volume elevato confermato) + MACD hist positivo ma divergenza classica di ipercomprato su 7h. VENDITA MEDIA confermata. Realizzo profitti su posizione in forte momentum al picco.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T02:30:49.182648+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 24.1,
+    "price": 1.1622,
+    "reason": "RSI=85.3 🔴IPERCOMPRATO + vol×=1.81 (volume forte) + 1h=-0.21% (debolezza nelle ultime candele) nonostante 4h/24h positivi. VENDITA MEDIA. Profitto dopo +3.57% in 24h, ma segnali di ritracciamento imminente su timeframe breve.",
+    "dry_run": false
   }
 ]
