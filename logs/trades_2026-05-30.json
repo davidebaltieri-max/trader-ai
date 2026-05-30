@@ -187,5 +187,14 @@
     "price": 1.025,
     "reason": "DOT in trend ribassista confermato: RSI=45.5 (zona neutra ma debole), MACD hist negativo e BEARISH_CROSS ▼, -0.97% su 4h e 24h, volume bassissimo (vol×=0.14). Momentum negativo. Riduco esposizione per liberare capitale su asset in momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T15:46:06.053444+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 15.0,
+    "price": 1735.24,
+    "reason": "ETH ipercomprato (RSI=77.9 🔴) con segnali di correzione imminente nonostante MACD ancora positivo. 1h=-0.06%, volatilità in aumento (+0.10%), volume elevato (+1.39x). Realizzazione parziale su resistenza tecnica per gestire il rischio su asset volatile.",
+    "dry_run": false
   }
 ]
