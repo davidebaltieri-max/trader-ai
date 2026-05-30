@@ -61,5 +61,14 @@
     "price": 1.1632,
     "reason": "RSI 80.8 IPERCOMPRATO + volume spike 1.76x ma MACD hist debolissimo (+0.0035). Segnale di esaurimento momentum nonostante bel run (+3.53% 24h). Vendi 17.2 unità (~€20) per consolidare guadagni in zona ad alto rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T02:30:48.308336+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.4,
+    "price": 7.885,
+    "reason": "RSI=86.4 🔴IPERCOMPRATO + vol×=1.88 (volume elevato confermato) + MACD hist positivo ma divergenza classica di ipercomprato su 7h. VENDITA MEDIA confermata. Realizzo profitti su posizione in forte momentum al picco.",
+    "dry_run": false
   }
 ]
