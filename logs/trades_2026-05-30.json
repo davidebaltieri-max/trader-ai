@@ -295,5 +295,14 @@
     "price": 1.015,
     "reason": "DOT: 1h=-0.97% + 4h=-0.97% + 24h=-1.92% (trend ribassista confermato) + RSI=50.0 (neutro) + MACD hist=-0.0004 (decrescente) + vol×=+13.45x (spike di volume su vendite). Segnale VENDITA MEDIA. Realizzo il 27% della posizione per proteggere i guadagni. €1.0150×28≈€28.42 lordi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T22:59:35.728077+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.7265,
+    "reason": "ATOM in IPERVENDUTO (RSI=12.2) con MACD hist negativo decrescente. RSI estremamente basso suggerisce rimbalzo imminente, ma il trend è ribassista confermato. Vendo parzialmente (55% della posizione ~€78.7) per realizzare liquidità e ridurre esposizione a trend negativo, mantenendo posizione residua per partecipare a potenziale rimbalzo.",
+    "dry_run": false
   }
 ]
