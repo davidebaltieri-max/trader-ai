@@ -43,5 +43,14 @@
     "price": 7.875,
     "reason": "RSI 84.0 IPERCOMPRATO + MACD hist positivo ma senza momentum crescente ulteriore. Realizza profitti su posizione inflazionata. LINK ha già performato (+2.08% 4h, +1.94% 24h). Vendi 2.28 unità (~€18) per locked-in gains e libera liquidità per dip-buying su asset con setup migliore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T02:01:00.665644+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.87,
+    "price": 0.2039,
+    "reason": "RSI 81.5 IPERCOMPRATO + momentum MACD hist quasi piatto (0.0006) nonostante rialzo recente. ADA in ipercomprato senza conferma di forza ulteriore. Vendi 127 unità (~€26) per lock profitti (+2.15% 4h, +1.69% 24h) e ridimensiona posizione oversized in zona di vulnerabilità.",
+    "dry_run": false
   }
 ]
