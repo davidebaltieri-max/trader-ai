@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-30T01:00:53.791749+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 20.0,
+    "price": 1.1548,
+    "reason": "XRP in IPERCOMPRATO (RSI=72.0). Segnale VENDITA MEDIA confermato: RSI>70 + momentum fortemente rialzista 24h=+3.00% suggerisce correzione imminente. Presa parziale di profitti su posizione overextended. Volume×=+0.64x modera la forza, quindi vendita parziale (€20) anzichè totale.",
+    "dry_run": false
+  }
+]
