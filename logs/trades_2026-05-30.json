@@ -115,5 +115,14 @@
     "price": 1.1659,
     "reason": "RSI=83.2 IPERCOMPRATO + vol×1.61 in aumento + +4.07% in 24h. Posizione extended dopo rally forte. Take profit parziale per ridurre esposizione a correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T03:30:47.184925+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.045,
+    "reason": "RSI=33.3 (IPERVENDUTO) + MACD hist crescente positivo + 1h=+0.97% + 4h=+1.96%. Segnale ACQUISTO MEDIO-FORTE: DOT è in zona di rimbalzo tecnico con momentum rialzista confermato. Volatilità controllata (0.59%), volume in aumento (0.26x). Posizione già detenuta, opportunità di accumulo a prezzi favorevoli.",
+    "dry_run": false
   }
 ]
