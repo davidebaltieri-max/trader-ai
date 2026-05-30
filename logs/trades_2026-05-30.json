@@ -178,5 +178,14 @@
     "price": 7.875,
     "reason": "LINK ha +3.15% in 24h (migliore performer) con volume rialzista (1.32x). RSI 52.6 neutrale, MACD hist negativo ma in contesto di trend positivo recente. Segnale ACQUISTO MEDIO per infrastruttura DeFi strategica. Consolidamento prima di potenziale breakout.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T15:46:04.963229+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.025,
+    "reason": "DOT in trend ribassista confermato: RSI=45.5 (zona neutra ma debole), MACD hist negativo e BEARISH_CROSS ▼, -0.97% su 4h e 24h, volume bassissimo (vol×=0.14). Momentum negativo. Riduco esposizione per liberare capitale su asset in momentum positivo.",
+    "dry_run": false
   }
 ]
