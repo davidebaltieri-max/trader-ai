@@ -313,5 +313,14 @@
     "price": 1.015,
     "reason": "DOT in downtrend marcato: 1h=-0.97%, 4h=-0.97%, 24h=-1.92%. Volume×13.45x confermava movimento direzionale ribassista con MACD hist negativo decrescente (RSI=50 neutrale ma trend chiaro). Vendo il 17.5% della posizione per cristallizzare liquidità prima di potenziale accelerazione negativa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T23:01:01.961155+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 45.0,
+    "price": 1.7255,
+    "reason": "ATOM in IPERVENDUTO (RSI=12.2) ma con MACD hist decrescente e performance 24h negativa (-0.63%). Il rimbalzo tecnico da ipervenduto è incerto dato il trend ribassista confermato. Liquidare per liberare slot e redeploy su segnali più forti. Realizziamo posizione per rotazione tattica.",
+    "dry_run": false
   }
 ]
