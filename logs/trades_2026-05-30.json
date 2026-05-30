@@ -7,5 +7,14 @@
     "price": 1.1548,
     "reason": "XRP in IPERCOMPRATO (RSI=72.0). Segnale VENDITA MEDIA confermato: RSI>70 + momentum fortemente rialzista 24h=+3.00% suggerisce correzione imminente. Presa parziale di profitti su posizione overextended. Volume×=+0.64x modera la forza, quindi vendita parziale (€20) anzichè totale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T01:00:54.763701+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 1.025,
+    "reason": "DOT mostra MACD hist decrescente (-0.0009) dopo rialzo 24h=+0.98%. RSI=42.9 in zona neutra ma 4h=+0.00% segnala stallo momentum. Correzione tecnica probabile dopo movimento. Vendita piccola per ridurre esposizione e liberare capitale.",
+    "dry_run": false
   }
 ]
