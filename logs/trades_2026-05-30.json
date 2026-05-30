@@ -133,5 +133,14 @@
     "price": 0.2034,
     "reason": "RSI=67.6 (zona alta ma non ancora ipercomprato) + MACD hist crescente positivo + 4h=+2.26% + 24h=+1.50%. Segnale ACQUISTO MEDIO: ADA mostra momentum rialzista solido con volumi in aumento (0.82x). Leggera debolezza 1h (-0.34%) è minore rispetto al trend 4h positivo. Entry opportuno prima di possibile breakout. Non ancora in portafoglio: diversificazione su Layer 1 alternativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T03:30:48.857816+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.7495,
+    "reason": "RSI=59.2 (zona neutra alta) + MACD hist positivo crescente + 1h=+0.81% + 4h=+0.69% + 24h=+1.10%. Segnale ACQUISTO DEBOLE-MEDIO: momentum rialzista confermato, trend stabile. Volatilità elevata (0.65%) ma gestibile. Settore interoperabilità sottorappresentato in portafoglio. Volume moderato (1.05x) su trend positivo.",
+    "dry_run": false
   }
 ]
