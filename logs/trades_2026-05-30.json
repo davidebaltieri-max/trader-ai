@@ -259,5 +259,14 @@
     "price": 1.025,
     "reason": "SEGNALE ACQUISTO MEDIO-FORTE: RSI=44.4 (zona neutra bassa) + MACD hist positivo crescente + 1h=+0.98% e 4h=+0.98% (momentum rialzista su timeframe corti) + vol×=+30.81x (volume esplosivo, possibile breakout). Nonostante 24h negativo, i segnali intraday sono molto bullish. Consolidamento dopo spike di volume.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T22:00:58.574405+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.735,
+    "reason": "ATOM RSI=15.2 IPERVENDUTO (segnale acquisto forte). MACD hist negativo decrescente suggerisce fondo imminente. Volume normale ma movimento coordinato con rimbalzo atteso. Dip-buying su calo moderato allineato al profilo PERFORMANTE. Entry aggressiva su asset sottopesato in portafoglio.",
+    "dry_run": false
   }
 ]
