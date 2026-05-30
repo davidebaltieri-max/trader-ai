@@ -52,5 +52,14 @@
     "price": 0.2039,
     "reason": "RSI 81.5 IPERCOMPRATO + momentum MACD hist quasi piatto (0.0006) nonostante rialzo recente. ADA in ipercomprato senza conferma di forza ulteriore. Vendi 127 unità (~€26) per lock profitti (+2.15% 4h, +1.69% 24h) e ridimensiona posizione oversized in zona di vulnerabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T02:01:01.660480+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 20.0,
+    "price": 1.1632,
+    "reason": "RSI 80.8 IPERCOMPRATO + volume spike 1.76x ma MACD hist debolissimo (+0.0035). Segnale di esaurimento momentum nonostante bel run (+3.53% 24h). Vendi 17.2 unità (~€20) per consolidare guadagni in zona ad alto rischio di correzione.",
+    "dry_run": false
   }
 ]
