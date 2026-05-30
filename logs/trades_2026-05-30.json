@@ -124,5 +124,14 @@
     "price": 1.045,
     "reason": "RSI=33.3 (IPERVENDUTO) + MACD hist crescente positivo + 1h=+0.97% + 4h=+1.96%. Segnale ACQUISTO MEDIO-FORTE: DOT è in zona di rimbalzo tecnico con momentum rialzista confermato. Volatilità controllata (0.59%), volume in aumento (0.26x). Posizione già detenuta, opportunità di accumulo a prezzi favorevoli.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T03:30:48.035264+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.2034,
+    "reason": "RSI=67.6 (zona alta ma non ancora ipercomprato) + MACD hist crescente positivo + 4h=+2.26% + 24h=+1.50%. Segnale ACQUISTO MEDIO: ADA mostra momentum rialzista solido con volumi in aumento (0.82x). Leggera debolezza 1h (-0.34%) è minore rispetto al trend 4h positivo. Entry opportuno prima di possibile breakout. Non ancora in portafoglio: diversificazione su Layer 1 alternativo.",
+    "dry_run": false
   }
 ]
