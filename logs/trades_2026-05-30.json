@@ -196,5 +196,14 @@
     "price": 1735.24,
     "reason": "ETH ipercomprato (RSI=77.9 🔴) con segnali di correzione imminente nonostante MACD ancora positivo. 1h=-0.06%, volatilità in aumento (+0.10%), volume elevato (+1.39x). Realizzazione parziale su resistenza tecnica per gestire il rischio su asset volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T18:30:48.225594+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 1.025,
+    "reason": "VENDITA MEDIA confermata: RSI=40.0 (zona neutra bassa) + MACD BEARISH_CROSS (hist negativo decrescente -0.0002) + performance negativa 4h=-0.97% e 24h=-1.92% + volume elevato (vol×=1.23). DOT in trend ribassista, necessario ridurre esposizione su posizione in perdita per liberare liquidità e riallocare su segnali più forti. Posizione da €97 consente rotazione strategica.",
+    "dry_run": false
   }
 ]
