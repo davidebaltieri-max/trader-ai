@@ -214,5 +214,14 @@
     "price": 7.715,
     "reason": "RSI=70.6 IPERCOMPRATO + MACD hist positivo ma momentum satura. Realizza profitti su posizione forte (1.72% in 24h). Ridimensiona esposizione su asset volatile in zona di estensione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T21:01:01.791703+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 4.82,
+    "price": 1736.71,
+    "reason": "MACD BEARISH_CROSS confermato + RSI=50.2 neutro ma in calo. Momentum ribassista su large cap. Vendi posizione microscopica (0.00277815) per liberare capital allocation.",
+    "dry_run": false
   }
 ]
