@@ -169,5 +169,14 @@
     "price": 70.695,
     "reason": "SOL mostra BULLISH_CROSS su MACD + RSI 53.2 (zona neutra bassa) + momentum crescente su 1h/4h/24h (+0.07%/+0.16%/+1.95%). Volume moderato (0.85x). Segnale ACQUISTO MEDIO confermato. SOL è layer 1 alt strategico con buon setup tecnico e margine di movimento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T14:01:01.986694+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 7.875,
+    "reason": "LINK ha +3.15% in 24h (migliore performer) con volume rialzista (1.32x). RSI 52.6 neutrale, MACD hist negativo ma in contesto di trend positivo recente. Segnale ACQUISTO MEDIO per infrastruttura DeFi strategica. Consolidamento prima di potenziale breakout.",
+    "dry_run": false
   }
 ]
