@@ -268,5 +268,14 @@
     "price": 1.735,
     "reason": "ATOM RSI=15.2 IPERVENDUTO (segnale acquisto forte). MACD hist negativo decrescente suggerisce fondo imminente. Volume normale ma movimento coordinato con rimbalzo atteso. Dip-buying su calo moderato allineato al profilo PERFORMANTE. Entry aggressiva su asset sottopesato in portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T22:00:59.565818+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 20.0,
+    "price": 1735.895,
+    "reason": "ETH BEARISH_CROSS confermato (MACD hist=-0.1555 decrescente) ma RSI=50 in zona neutra. Entry tattica per completare diversificazione large cap (BTC già in portafoglio). Correzione ordinaria, non panico. Volume relativo contenuto (0.96x) indica accumulo possibile.",
+    "dry_run": false
   }
 ]
