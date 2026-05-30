@@ -79,5 +79,14 @@
     "price": 1.1622,
     "reason": "RSI=85.3 🔴IPERCOMPRATO + vol×=1.81 (volume forte) + 1h=-0.21% (debolezza nelle ultime candele) nonostante 4h/24h positivi. VENDITA MEDIA. Profitto dopo +3.57% in 24h, ma segnali di ritracciamento imminente su timeframe breve.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T02:30:50.111377+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.035,
+    "reason": "RSI=42.9 (zona neutra favorevole) + MACD BULLISH_CROSS confermato + 1h=+0.97% 4h=+1.96% (momentum rialzista convergente su multi-timeframe) + vol×=0.41 discreto. ACQUISTO MEDIO-FORTE. DOT mostra trend in costruzione senza ipercomprato, ideale per aggiunta su slot libero.",
+    "dry_run": false
   }
 ]
