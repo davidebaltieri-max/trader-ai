@@ -160,5 +160,14 @@
     "price": 1.025,
     "reason": "RSI=45.5 neutrale + MACD hist negativo decrescente (trend ribassista) + 4h=-0.97% + volatilità alta (0.94%) = momentum negativo confermato. Riduciamo esposizione a layer 1 in debolezza, liberiamo capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-30T14:01:01.066726+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 70.695,
+    "reason": "SOL mostra BULLISH_CROSS su MACD + RSI 53.2 (zona neutra bassa) + momentum crescente su 1h/4h/24h (+0.07%/+0.16%/+1.95%). Volume moderato (0.85x). Segnale ACQUISTO MEDIO confermato. SOL è layer 1 alt strategico con buon setup tecnico e margine di movimento.",
+    "dry_run": false
   }
 ]
