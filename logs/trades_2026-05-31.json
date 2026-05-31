@@ -52,5 +52,14 @@
     "price": 0.2044,
     "reason": "ADA in IPERCOMPRATO (RSI=76.3) con MACD hist quasi piatto (0.0001). Dopo rialzo 24h=+1.54%, rischio correzione. Vendita parziale per cristallizzare guadagni e ridurre esposizione a correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-31T05:30:48.565849+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.7265,
+    "reason": "SEGNALE FORTE: RSI=27.9 🟢IPERVENDUTO (sotto 30) + volume×=2.13 (spike significativo) + 1h=+0.17% (rimbalzo iniziale). ATOM è in ipervenduto con volume anomalo alto, segnale classico di accumulo prima di rimbalzo. Momentum MACD ancora negativo ma volume conferma interesse buyer. Dip-buying su calo moderato allineato al profilo performante. Importo medio (€25) dato il segnale tecnico affidabile su più indicatori.",
+    "dry_run": false
   }
 ]
