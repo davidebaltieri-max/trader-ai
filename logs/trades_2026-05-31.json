@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-05-31T03:00:56.535961+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.7195,
+    "reason": "ATOM in IPERVENDUTO (RSI=23.5) ma momentum ribassista confermato: MACD hist negativo decrescente, 4h=-1.49%, 1h=-0.92%. Volume altissimo (5.98x) su candele rosse indica distribuzione. Posizione underwater, necessario ridurre esposizione su questo asset prima di un potenziale crollo maggiore. Vendita difensiva opportuna.",
+    "dry_run": false
+  }
+]
