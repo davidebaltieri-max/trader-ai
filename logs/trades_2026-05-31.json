@@ -16,5 +16,14 @@
     "price": 1.025,
     "reason": "DOT in downtrend confermato: RSI=40 (debole), MACD hist negativo decrescente, 4h=-0.97%, 24h=-0.97%. Volume basso (0.60x) su calo indica debolezza. Nessun segnale bullish. Riduzione di posizione per preservare capitale e preparare slot per entry più favorevoli.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-31T04:58:51.050677+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 19.82,
+    "price": 0.2044,
+    "reason": "RSI=76.3 IPERCOMPRATO (>70) + MACD hist positivo ma estremamente débole (+0.0001) = segnale VENDITA MEDIA confermato. ADA ha performato bene (+0.74% 4h, +1.54% 24h) ma è entrata in zona di correzione attesa. Vendo 97.09 unità a €0.2044 per incassare profitti e liberare liquidità su un asset che ha raggiunto massimo locale.",
+    "dry_run": false
   }
 ]
