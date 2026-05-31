@@ -25,5 +25,14 @@
     "price": 0.2044,
     "reason": "RSI=76.3 IPERCOMPRATO (>70) + MACD hist positivo ma estremamente débole (+0.0001) = segnale VENDITA MEDIA confermato. ADA ha performato bene (+0.74% 4h, +1.54% 24h) ma è entrata in zona di correzione attesa. Vendo 97.09 unità a €0.2044 per incassare profitti e liberare liquidità su un asset che ha raggiunto massimo locale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-31T04:58:52.251265+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 50.0,
+    "price": 1.7225,
+    "reason": "RSI=23.5 IPERVENDUTO (<30) CONFERMATO + MACD hist NEGATIVO decrescente (-0.0028) + 4h=-1.49% 24h=-0.23% = segnale VENDITA FORTE. Sebbene ipervenduto suggerisca rimbalzo, il MACD decrescente indica proseguimento trend ribassista. Volume anomalo (+5.98x) indica flush out. Vendo 45.606 unità a €1.7225 per preservare capitale e riallocare su opportunità più forti.",
+    "dry_run": false
   }
 ]
