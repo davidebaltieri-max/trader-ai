@@ -79,5 +79,14 @@
     "price": 7.925,
     "reason": "SEGNALE MEDIO: MACD=BULLISH_CROSS segnalato + RSI=50.0 (pivot neutrale) + 4h=+0.76% (trend positivo 4h) + volume×=+0.34x. Infrastruttura DeFi con cross bullish confermato. Importo piccolo (€12) poiché MACD appena in cross e momentum moderato, ma segnale tecnico valido per rotazione settoriale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-31T06:30:50.418831+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.72,
+    "reason": "ATOM in IPERVENDUTO (RSI=25.9) ma con MACD hist decrescente e 4h=-1.04%. Segnale contraddittorio: RSI suggerisce rimbalzo, ma momentum negativo non conferma. Riduciamo posizione (59.96 unità → ~45 unità) per realizzare perdita contenuta (-1.26% 24h) e liberare capitale per opportunità migliori. Portfolio pieno (7/7): priorità a rotazione tattica verso asset con momentum positivo confermato (AVAX, DOT).",
+    "dry_run": false
   }
 ]
