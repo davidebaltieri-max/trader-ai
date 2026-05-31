@@ -43,5 +43,14 @@
     "price": 1.7255,
     "reason": "ATOM in IPERVENDUTO (RSI=23.5) con MACD hist decrescente (-0.0028) e trend ribassista confermato (1h=-0.92%, 4h=-1.49%). Volume massimo (vol×=5.98x) indica capitolazione. Vendita tattica per realizzare perdita contenuta e liberare slot per opportunità migliori nel ciclo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-31T05:01:07.250395+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 19.85,
+    "price": 0.2044,
+    "reason": "ADA in IPERCOMPRATO (RSI=76.3) con MACD hist quasi piatto (0.0001). Dopo rialzo 24h=+1.54%, rischio correzione. Vendita parziale per cristallizzare guadagni e ridurre esposizione a correzione.",
+    "dry_run": false
   }
 ]
