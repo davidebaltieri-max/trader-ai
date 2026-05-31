@@ -70,5 +70,14 @@
     "price": 7.745,
     "reason": "SEGNALE MEDIO: MACD=BULLISH_CROSS confermato + 1h=+1.18% (momentum intraday positivo) + 4h=+0.39% + RSI=60.6 (zona neutra-bullish, non ipercomprato). Layer 1 alternativo in momentum rialzista con cross MACD confermato. Importo conservativo (€15) per diversificare su momentum settoriale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-31T05:30:50.257288+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 7.925,
+    "reason": "SEGNALE MEDIO: MACD=BULLISH_CROSS segnalato + RSI=50.0 (pivot neutrale) + 4h=+0.76% (trend positivo 4h) + volume×=+0.34x. Infrastruttura DeFi con cross bullish confermato. Importo piccolo (€12) poiché MACD appena in cross e momentum moderato, ma segnale tecnico valido per rotazione settoriale.",
+    "dry_run": false
   }
 ]
