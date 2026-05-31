@@ -61,5 +61,14 @@
     "price": 1.7265,
     "reason": "SEGNALE FORTE: RSI=27.9 🟢IPERVENDUTO (sotto 30) + volume×=2.13 (spike significativo) + 1h=+0.17% (rimbalzo iniziale). ATOM è in ipervenduto con volume anomalo alto, segnale classico di accumulo prima di rimbalzo. Momentum MACD ancora negativo ma volume conferma interesse buyer. Dip-buying su calo moderato allineato al profilo performante. Importo medio (€25) dato il segnale tecnico affidabile su più indicatori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-31T05:30:49.443652+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 15.0,
+    "price": 7.745,
+    "reason": "SEGNALE MEDIO: MACD=BULLISH_CROSS confermato + 1h=+1.18% (momentum intraday positivo) + 4h=+0.39% + RSI=60.6 (zona neutra-bullish, non ipercomprato). Layer 1 alternativo in momentum rialzista con cross MACD confermato. Importo conservativo (€15) per diversificare su momentum settoriale.",
+    "dry_run": false
   }
 ]
