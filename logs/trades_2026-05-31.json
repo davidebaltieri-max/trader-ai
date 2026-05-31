@@ -34,5 +34,14 @@
     "price": 1.7225,
     "reason": "RSI=23.5 IPERVENDUTO (<30) CONFERMATO + MACD hist NEGATIVO decrescente (-0.0028) + 4h=-1.49% 24h=-0.23% = segnale VENDITA FORTE. Sebbene ipervenduto suggerisca rimbalzo, il MACD decrescente indica proseguimento trend ribassista. Volume anomalo (+5.98x) indica flush out. Vendo 45.606 unità a €1.7225 per preservare capitale e riallocare su opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-05-31T05:01:06.050757+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.7255,
+    "reason": "ATOM in IPERVENDUTO (RSI=23.5) con MACD hist decrescente (-0.0028) e trend ribassista confermato (1h=-0.92%, 4h=-1.49%). Volume massimo (vol×=5.98x) indica capitolazione. Vendita tattica per realizzare perdita contenuta e liberare slot per opportunità migliori nel ciclo.",
+    "dry_run": false
   }
 ]
