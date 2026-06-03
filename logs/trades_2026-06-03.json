@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-03T13:01:13.478313+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.6485,
+    "reason": "RSI=82.8 IPERCOMPRATO (>70) + vol×=2.21x (picco di volume) + guadagno realizzato (+2.62% in 24h). Momentum estremo suggerisce correzione imminente. Vendo parte della posizione per realizzare profitti e ridurre esposizione al ribasso.",
+    "dry_run": false
+  }
+]
