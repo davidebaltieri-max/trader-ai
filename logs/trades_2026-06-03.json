@@ -7,5 +7,14 @@
     "price": 1.6485,
     "reason": "RSI=82.8 IPERCOMPRATO (>70) + vol×=2.21x (picco di volume) + guadagno realizzato (+2.62% in 24h). Momentum estremo suggerisce correzione imminente. Vendo parte della posizione per realizzare profitti e ridurre esposizione al ribasso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-03T13:01:14.994721+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.965,
+    "reason": "RSI=71.4 IPERCOMPRATO (>70) + vol×=1.17x in aumento. Segnale di possibile pullback nonostante MACD hist positivo. Volatile a +0.70% su 6h. Riduco esposizione su asset in ipercomprato.",
+    "dry_run": false
   }
 ]
