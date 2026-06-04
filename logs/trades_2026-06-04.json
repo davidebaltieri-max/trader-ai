@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-04T16:01:05.752444+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.5895,
+    "reason": "RSI=85.8 IPERCOMPRATO (>>70) | MACD hist positivo ma con pressione di realizzazione attesa | 1h=+1.34% e 4h=+3.04% già performanti | Vendita parziale per lock-in profitti su posizione surriscaldata e ridurre esposizione al rischio di correzione",
+    "dry_run": false
+  }
+]
