@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-07T03:30:48.278730+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 6.585,
+    "reason": "RSI=81.1 IPERCOMPRATO + MACD hist positivo ma segnali di esaurimento. LINK ha performato +3.13% in 24h. Realizza profitti su posizione sovraacquistata per liberare liquidità e ridurre esposizione al rischio di correzione.",
+    "dry_run": false
+  }
+]
