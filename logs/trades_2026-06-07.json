@@ -25,5 +25,14 @@
     "price": 55.6,
     "reason": "RSI=72.9 IPERCOMPRATO + vol×=+0.33x non esplosivo. SOL ha segnali di estenuazione dopo +1.96% 24h. Riduci esposizione su posizione ipercomprata, mantieni core holdings per momentum al rialzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-07T04:00:56.914626+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 26.0,
+    "price": 6.585,
+    "reason": "RSI=78.9 (IPERCOMPRATO ESTREMO) + MACD hist positivo ma stagnante + momentum non confermato da 1h=+0.30% debole. Realizza profitti su posizione già significativa (4.01 unità). Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
