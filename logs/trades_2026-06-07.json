@@ -43,5 +43,14 @@
     "price": 1.458,
     "reason": "RSI=79.3 (IPERCOMPRATO ESTREMO) + 1h=+0.55% positivo ma fragile + vol×=0.07 volume CROLLATO drasticamente (segnale di esaurimento). Posizione sovradimensionata (59.96 unità). Segnale VENDITA MEDIA forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-07T04:00:58.660318+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 25.0,
+    "price": 1386.59,
+    "reason": "ETH assente dal portafoglio (manca large cap complementare a BTC). RSI=71.2 (margine IPERCOMPRATO ma non critico come LINK/ATOM) + MACD hist=+3.1193 crescente + 4h=+1.81% + 24h=+4.01% momentum sostenuto. Large cap defensivo su trend rialzista confermato. Integra diversificazione.",
+    "dry_run": false
   }
 ]
