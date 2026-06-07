@@ -16,5 +16,14 @@
     "price": 1387.005,
     "reason": "RSI=73.1 IPERCOMPRATO + volatilità +0.62%. ETH in zona di ipercompratezza dopo +2.18% 24h. Vendi per ridurre esposizione BTC-correlata e generare cash per opportunità di dip-buying su cali moderati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-07T03:30:50.065468+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 55.6,
+    "reason": "RSI=72.9 IPERCOMPRATO + vol×=+0.33x non esplosivo. SOL ha segnali di estenuazione dopo +1.96% 24h. Riduci esposizione su posizione ipercomprata, mantieni core holdings per momentum al rialzo.",
+    "dry_run": false
   }
 ]
