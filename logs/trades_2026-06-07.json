@@ -52,5 +52,14 @@
     "price": 1386.59,
     "reason": "ETH assente dal portafoglio (manca large cap complementare a BTC). RSI=71.2 (margine IPERCOMPRATO ma non critico come LINK/ATOM) + MACD hist=+3.1193 crescente + 4h=+1.81% + 24h=+4.01% momentum sostenuto. Large cap defensivo su trend rialzista confermato. Integra diversificazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-07T04:30:50.626183+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 26.0,
+    "price": 6.555,
+    "reason": "RSI=72.5 IPERCOMPRATO + 1h=-0.61% + posizione in profitto. LINK ha raggiunto zona di sovraccompra con segnali di correzione imminente. Vendita tattica per realizzare guadagni e liberare slot per opportunità di dip-buying su altri asset.",
+    "dry_run": false
   }
 ]
