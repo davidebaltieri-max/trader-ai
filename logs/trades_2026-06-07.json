@@ -7,5 +7,14 @@
     "price": 6.585,
     "reason": "RSI=81.1 IPERCOMPRATO + MACD hist positivo ma segnali di esaurimento. LINK ha performato +3.13% in 24h. Realizza profitti su posizione sovraacquistata per liberare liquidità e ridurre esposizione al rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-07T03:30:49.269307+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 15.85,
+    "price": 1387.005,
+    "reason": "RSI=73.1 IPERCOMPRATO + volatilità +0.62%. ETH in zona di ipercompratezza dopo +2.18% 24h. Vendi per ridurre esposizione BTC-correlata e generare cash per opportunità di dip-buying su cali moderati.",
+    "dry_run": false
   }
 ]
