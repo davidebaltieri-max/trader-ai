@@ -79,5 +79,14 @@
     "price": 5.895,
     "reason": "AVAX mostra BEARISH_CROSS (MACD hist negativo decrescente -0.0004), RSI=48.8 in discesa, 1h=-0.84% 4h=-0.84% momentum ribassista confermato. Posizione in perdita potenziale. Uscita previa a ulteriore deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-07T10:30:54.745949+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 26.92,
+    "price": 54432.075,
+    "reason": "BTC RSI=70.7 IPERCOMPRATO + 1h=-0.02% stallo. Sebbene MACD hist positivo, RSI estremo su timeframe breve suggerisce correzione imminente. Take profit parziale su posizione massiccia.",
+    "dry_run": false
   }
 ]
