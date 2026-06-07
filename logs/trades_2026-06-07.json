@@ -70,5 +70,14 @@
     "price": 1.4495,
     "reason": "RSI=79.3 IPERCOMPRATO + 1h=+0.55% (unico positivo ma fragile) + vol×=+0.07x volume debolissimo. Asset in ipercompra con volume in calo: tipico setup di correzione. Liquidare posizione principale per raccogliere liquido e rientare su asset con momentum genuino.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-07T10:30:53.666401+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 11.31,
+    "price": 5.895,
+    "reason": "AVAX mostra BEARISH_CROSS (MACD hist negativo decrescente -0.0004), RSI=48.8 in discesa, 1h=-0.84% 4h=-0.84% momentum ribassista confermato. Posizione in perdita potenziale. Uscita previa a ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
