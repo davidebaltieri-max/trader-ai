@@ -34,5 +34,14 @@
     "price": 6.585,
     "reason": "RSI=78.9 (IPERCOMPRATO ESTREMO) + MACD hist positivo ma stagnante + momentum non confermato da 1h=+0.30% debole. Realizza profitti su posizione già significativa (4.01 unità). Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-07T04:00:57.737446+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.458,
+    "reason": "RSI=79.3 (IPERCOMPRATO ESTREMO) + 1h=+0.55% positivo ma fragile + vol×=0.07 volume CROLLATO drasticamente (segnale di esaurimento). Posizione sovradimensionata (59.96 unità). Segnale VENDITA MEDIA forte.",
+    "dry_run": false
   }
 ]
