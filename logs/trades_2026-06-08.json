@@ -34,5 +34,14 @@
     "price": 1.5025,
     "reason": "ATOM IPERCOMPRATO (RSI=75.0), MACD hist positivo ma in contesto di massimo locale. 24h=+5.94% forte already priced in. Realizza take profit parziale (~16.7% del capitale in ATOM) su posizione forte (59.96 unità). Fissa guadagni e prepara liquidità per reentry tattico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T04:01:04.107882+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 6.825,
+    "reason": "LINK BEARISH_CROSS confermato (MACD hist decrescente -0.0010), RSI=61.7 (zona resistenza), 4h=-0.87%, 1h=-0.58%, vol×=+1.08x su trend negativo. Segnale VENDITA MEDIA. Scavalca da posizione media (4.01 unità) per evitare ulteriori perdite su momentum ribassista confermato.",
+    "dry_run": false
   }
 ]
