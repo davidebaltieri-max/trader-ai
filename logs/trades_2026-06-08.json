@@ -178,5 +178,14 @@
     "price": 6.985,
     "reason": "RSI=63.6 (prossimo 70) + MACD BEARISH_CROSS (hist=-0.0008 decrescente) = segnale VENDITA MEDIA. Momentum sta invertendo, esco prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T20:01:03.242644+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.564,
+    "reason": "RSI=72.2 (ipercomprato), MACD hist positivo ma trend estremamente sovraccarico. ADA/DOT/SOL/LINK mostrano momentum più sostenibile. Realizziamo profitti su ATOM (+7.51% in 24h) prima di possibile correzione.",
+    "dry_run": false
   }
 ]
