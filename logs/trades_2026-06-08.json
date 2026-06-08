@@ -70,5 +70,14 @@
     "price": 57.01,
     "reason": "Incremento posizione SOL sottodimensionata (0.534 unità). RSI=58.3 (neutrale) + MACD BEARISH_CROSS ma 1h=-0.89% 4h=-1.28% 24h=+3.41% (forza sottostante). vol×=+0.50x. Dip-buying tattico su asset core L1 con volatilità contenuta (0.74%).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T05:01:03.475819+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.488,
+    "reason": "ATOM a RSI=75.0 IPERCOMPRATO + MACD hist crescente ma già in ipercompra. +5.94% in 24h suggerisce presa di profitto. Riduci posizione per bloccare guadagni e liberare slot per opportunità di dip-buying su asset in oversold (ETH RSI=38.8, ADA RSI=31.9)",
+    "dry_run": false
   }
 ]
