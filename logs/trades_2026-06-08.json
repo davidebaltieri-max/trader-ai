@@ -169,5 +169,14 @@
     "price": 0.855,
     "reason": "RSI=100.0 IPERCOMPRATO + MACD BEARISH_CROSS (hist=-0.0000 decrescente) = segnale VENDITA FORTE. Riduco posizione sovraesposta in trend ribassista confermato. Libero slot per rotazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T19:31:04.687291+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 6.985,
+    "reason": "RSI=63.6 (prossimo 70) + MACD BEARISH_CROSS (hist=-0.0008 decrescente) = segnale VENDITA MEDIA. Momentum sta invertendo, esco prima della correzione.",
+    "dry_run": false
   }
 ]
