@@ -88,5 +88,14 @@
     "price": 1.488,
     "reason": "ATOM in IPERCOMPRATO (RSI=75.0) con MACD hist positivo ma a rischio correzione. Posizione già con +5.94% 24h. Realizza profitti parziali (25€ = ~16.8 ATOM) prima del ritracciamento atteso. Mantieni base per upside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T05:30:52.026878+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 19.66,
+    "price": 0.1395,
+    "reason": "ADA ipervenduto (RSI=30.8) ma TREND RIBASSISTA confermato (MACD hist decrescente, 1h=-0.85% negativo). Volatilità alta (+0.66%) con momentum DOWN. Riduci esposizione prima di ulteriore calo. Stop loss defensivo su questa posizione weakness.",
+    "dry_run": false
   }
 ]
