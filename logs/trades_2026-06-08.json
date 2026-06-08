@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-08T03:30:53.162609+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 20.0,
+    "price": 1459.505,
+    "reason": "VENDITA MEDIA confermata: RSI=71.7 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist=-0.0200 decrescente) + 1h=-0.01% + 4h=-0.50%. Tre indicatori concordano sul ribasso. ETH ha performato bene (+5.30% 24h) ed è in zona di presa di profitto. Riduco posizione per fissare guadagni e liberare capitale.",
+    "dry_run": false
+  }
+]
