@@ -106,5 +106,14 @@
     "price": 0.1398,
     "reason": "RSI=28.0 IPERVENDUTO (segnale forte), vol×=+0.91 (volume in aumento), 1h=+0.22% (momentum positivo). ADA non in portafoglio, diversificazione su layer 1. MACD ancora negativo ma RSI ipervenduto suggerisce rimbalzo imminente. Operazione dimensionata a €25 per approfittare di entry in ipervenduto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T06:01:10.552079+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 20.0,
+    "price": 1437.635,
+    "reason": "RSI=32.3 (quasi ipervenduto), vol×=+0.99 (volume sostenuto), 24h=+2.13% (momentum giornaliero positivo). ETH assente dal portafoglio, gap critico in large cap. MACD hist negativo ma profondità del drawdown su 4h (-1.74%) crea setup di rimbalzo. €20 per entry conservativa su layer 1 principale.",
+    "dry_run": false
   }
 ]
