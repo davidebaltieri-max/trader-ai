@@ -115,5 +115,14 @@
     "price": 1437.635,
     "reason": "RSI=32.3 (quasi ipervenduto), vol×=+0.99 (volume sostenuto), 24h=+2.13% (momentum giornaliero positivo). ETH assente dal portafoglio, gap critico in large cap. MACD hist negativo ma profondità del drawdown su 4h (-1.74%) crea setup di rimbalzo. €20 per entry conservativa su layer 1 principale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T08:01:16.006146+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 50.0,
+    "price": 1.503,
+    "reason": "RSI=68.7 (ipercomprato) + MACD hist decrescente + momentum in calo. Libera slot per AVAX (BULLISH_CROSS + RSI=39.1)",
+    "dry_run": false
   }
 ]
