@@ -160,5 +160,14 @@
     "price": 6.955,
     "reason": "RSI=65.9 (ipercomprato) + MACD BEARISH_CROSS (hist negativo decrescente) + 4h=+0.58% confermano rotazione. Presa di profitto parziale su segnale di debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T19:31:03.318762+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.855,
+    "reason": "RSI=100.0 IPERCOMPRATO + MACD BEARISH_CROSS (hist=-0.0000 decrescente) = segnale VENDITA FORTE. Riduco posizione sovraesposta in trend ribassista confermato. Libero slot per rotazione tattica.",
+    "dry_run": false
   }
 ]
