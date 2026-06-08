@@ -187,5 +187,14 @@
     "price": 1.564,
     "reason": "RSI=72.2 (ipercomprato), MACD hist positivo ma trend estremamente sovraccarico. ADA/DOT/SOL/LINK mostrano momentum più sostenibile. Realizziamo profitti su ATOM (+7.51% in 24h) prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T20:09:03.524250+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 11.31,
+    "price": 5.895,
+    "reason": "RSI=72.2 (IPERCOMPRATO) + MACD BEARISH_CROSS (-0.0009 decrescente) + 1h=-0.17% + 4h=-0.17%. Segnale VENDITA MEDIA confermato. AVAX ha raggiunto ipercomprato ed è in correzione tecnica. Libera slot per ricapitalizzare.",
+    "dry_run": false
   }
 ]
