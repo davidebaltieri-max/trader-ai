@@ -97,5 +97,14 @@
     "price": 0.1395,
     "reason": "ADA ipervenduto (RSI=30.8) ma TREND RIBASSISTA confermato (MACD hist decrescente, 1h=-0.85% negativo). Volatilità alta (+0.66%) con momentum DOWN. Riduci esposizione prima di ulteriore calo. Stop loss defensivo su questa posizione weakness.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T06:01:09.556234+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1398,
+    "reason": "RSI=28.0 IPERVENDUTO (segnale forte), vol×=+0.91 (volume in aumento), 1h=+0.22% (momentum positivo). ADA non in portafoglio, diversificazione su layer 1. MACD ancora negativo ma RSI ipervenduto suggerisce rimbalzo imminente. Operazione dimensionata a €25 per approfittare di entry in ipervenduto.",
+    "dry_run": false
   }
 ]
