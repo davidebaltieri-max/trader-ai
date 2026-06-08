@@ -25,5 +25,14 @@
     "price": 1457.18,
     "reason": "ETH IPERCOMPRATO (RSI=70.2), MACD hist decrescente (negativo), 4h=-1.19%, 1h=-0.10%. Segnale VENDITA MEDIA confermato. Realizza partial take profit su posizione minuscola (0.00418 ETH) per liberare slot e cash, riducendo esposizione a correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T04:01:03.294038+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.5025,
+    "reason": "ATOM IPERCOMPRATO (RSI=75.0), MACD hist positivo ma in contesto di massimo locale. 24h=+5.94% forte already priced in. Realizza take profit parziale (~16.7% del capitale in ATOM) su posizione forte (59.96 unità). Fissa guadagni e prepara liquidità per reentry tattico.",
+    "dry_run": false
   }
 ]
