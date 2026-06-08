@@ -43,5 +43,14 @@
     "price": 6.825,
     "reason": "LINK BEARISH_CROSS confermato (MACD hist decrescente -0.0010), RSI=61.7 (zona resistenza), 4h=-0.87%, 1h=-0.58%, vol×=+1.08x su trend negativo. Segnale VENDITA MEDIA. Scavalca da posizione media (4.01 unità) per evitare ulteriori perdite su momentum ribassista confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T04:30:51.033480+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.495,
+    "reason": "RSI=75.0 (IPERCOMPRATO) + MACD hist positivo crescente ma valori estremi + 24h=+5.94% (massimo raggiunto). Realizzo profitti su posizione in forte rialzo prima della correzione tecnica attesa. Riduco rischio su questo asset volatile.",
+    "dry_run": false
   }
 ]
