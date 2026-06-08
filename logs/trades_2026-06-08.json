@@ -142,5 +142,14 @@
     "price": 0.845,
     "reason": "DOT in calo 1h=-1.18% mentre mercato sale, RSI=50 neutro, MACD hist quasi piatto. Posizione debole nel contesto rialzista. Libera slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T17:49:33.120311+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 0.855,
+    "reason": "RSI=100.0 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) + volume anomalo (7.54x) = segnale VENDITA FORTE. Riduzione posizione oversize prima della correzione attesa.",
+    "dry_run": false
   }
 ]
