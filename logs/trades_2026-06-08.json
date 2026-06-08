@@ -52,5 +52,14 @@
     "price": 1.495,
     "reason": "RSI=75.0 (IPERCOMPRATO) + MACD hist positivo crescente ma valori estremi + 24h=+5.94% (massimo raggiunto). Realizzo profitti su posizione in forte rialzo prima della correzione tecnica attesa. Riduco rischio su questo asset volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T04:30:52.003136+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1407,
+    "reason": "ADA non in portafoglio + RSI=56.1 (zona neutra inferiore) + MACD hist negativo ma decrescente (trend ribassista in corso) + vol×=+0.58x + 4h=-1.88% (dip moderato). Segnale ACQUISTO MEDIO: posizionamento su layer 1 alternativo in calo con momentum negativo in esaurimento. Entry tattico su volatilità.",
+    "dry_run": false
   }
 ]
