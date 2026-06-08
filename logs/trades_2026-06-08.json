@@ -79,5 +79,14 @@
     "price": 1.488,
     "reason": "ATOM a RSI=75.0 IPERCOMPRATO + MACD hist crescente ma già in ipercompra. +5.94% in 24h suggerisce presa di profitto. Riduci posizione per bloccare guadagni e liberare slot per opportunità di dip-buying su asset in oversold (ETH RSI=38.8, ADA RSI=31.9)",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T05:30:51.096054+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.488,
+    "reason": "ATOM in IPERCOMPRATO (RSI=75.0) con MACD hist positivo ma a rischio correzione. Posizione già con +5.94% 24h. Realizza profitti parziali (25€ = ~16.8 ATOM) prima del ritracciamento atteso. Mantieni base per upside.",
+    "dry_run": false
   }
 ]
