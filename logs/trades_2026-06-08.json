@@ -61,5 +61,14 @@
     "price": 0.1407,
     "reason": "ADA non in portafoglio + RSI=56.1 (zona neutra inferiore) + MACD hist negativo ma decrescente (trend ribassista in corso) + vol×=+0.58x + 4h=-1.88% (dip moderato). Segnale ACQUISTO MEDIO: posizionamento su layer 1 alternativo in calo con momentum negativo in esaurimento. Entry tattico su volatilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T04:30:52.932606+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 57.01,
+    "reason": "Incremento posizione SOL sottodimensionata (0.534 unità). RSI=58.3 (neutrale) + MACD BEARISH_CROSS ma 1h=-0.89% 4h=-1.28% 24h=+3.41% (forza sottostante). vol×=+0.50x. Dip-buying tattico su asset core L1 con volatilità contenuta (0.74%).",
+    "dry_run": false
   }
 ]
