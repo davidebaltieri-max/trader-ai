@@ -196,5 +196,14 @@
     "price": 5.895,
     "reason": "RSI=72.2 (IPERCOMPRATO) + MACD BEARISH_CROSS (-0.0009 decrescente) + 1h=-0.17% + 4h=-0.17%. Segnale VENDITA MEDIA confermato. AVAX ha raggiunto ipercomprato ed è in correzione tecnica. Libera slot per ricapitalizzare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T20:09:04.904246+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 27.94,
+    "price": 6.985,
+    "reason": "RSI=60.0 (limite superiore zona neutra) + MACD BEARISH_CROSS (-0.0008 decrescente) + 1h=-0.29% + 4h=+0.00%. Segnale VENDITA MEDIA. LINK mostra inversione di momentum dopo +4.80% in 24h. Opportunità di lock-in parziale.",
+    "dry_run": false
   }
 ]
