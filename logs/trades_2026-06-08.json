@@ -7,5 +7,14 @@
     "price": 1459.505,
     "reason": "VENDITA MEDIA confermata: RSI=71.7 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist=-0.0200 decrescente) + 1h=-0.01% + 4h=-0.50%. Tre indicatori concordano sul ribasso. ETH ha performato bene (+5.30% 24h) ed è in zona di presa di profitto. Riduco posizione per fissare guadagni e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T03:30:54.356271+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.497,
+    "reason": "VENDITA MEDIA: RSI=75.2 (IPERCOMPRATO estremo) + MACD hist=+0.0014 (crescente ma RSI già troppo elevato) + 1h=+1.35% (momentum esterno esaurito). ATOM è salito +6.01% in 24h ed è in zona di correzione probabile. Realizzo profitti su posizione maggiore del portafoglio.",
+    "dry_run": false
   }
 ]
