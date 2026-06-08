@@ -133,5 +133,14 @@
     "price": 1.533,
     "reason": "RSI=76.0 IPERCOMPRATO + volume spike 8.39x + correzione imminente. Realizza profitti su momentum estremo prima del pullback. ATOM ha fatto +3.37% in 24h su segnali esagerati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T14:31:01.228821+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.845,
+    "reason": "DOT in calo 1h=-1.18% mentre mercato sale, RSI=50 neutro, MACD hist quasi piatto. Posizione debole nel contesto rialzista. Libera slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
