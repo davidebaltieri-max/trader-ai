@@ -205,5 +205,14 @@
     "price": 6.985,
     "reason": "RSI=60.0 (limite superiore zona neutra) + MACD BEARISH_CROSS (-0.0008 decrescente) + 1h=-0.29% + 4h=+0.00%. Segnale VENDITA MEDIA. LINK mostra inversione di momentum dopo +4.80% in 24h. Opportunità di lock-in parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-08T20:30:57.510499+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.556,
+    "reason": "RSI=75.9 (IPERCOMPRATO) + MACD hist positivo ma in zona estrema. ATOM ha rallied +7.30% in 24h con basso volume (vol×=0.09). Realizza profitti su posizione forte prima della correzione attesa. Riduce anche il portafoglio da 8→7 slot.",
+    "dry_run": false
   }
 ]
