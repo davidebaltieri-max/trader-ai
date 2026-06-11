@@ -169,5 +169,14 @@
     "price": 0.825,
     "reason": "BEARISH_CROSS confermato + MACD hist decrescente + RSI=55.6 neutrale ma in discesa. Trend ribassista emergente su DOT nonostante +1h/+4h positivi. Ridimensiona posizione sovra-esposta (138.13 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T23:01:07.029541+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.735,
+    "reason": "ATOM ha raggiunto RSI=67.7 (prossimo a ipercomprato) con MACD BEARISH_CROSS confermato (hist negativo decrescente). Performance +12.28% 24h è un guadagno considerevole. Segnale di vendita media (RSI>60 + MACD hist<0) suggerisce presa di profitto. Volume stabile, momentum ribassista imminente.",
+    "dry_run": false
   }
 ]
