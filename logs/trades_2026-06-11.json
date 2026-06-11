@@ -61,5 +61,14 @@
     "price": 1.684,
     "reason": "RSI=75.3 IPERCOMPRATO (>70) + MACD hist positivo ma momentum eccessivo dopo +8.49% in 24h. Volatilità alta (0.88%). Realizzo profitti su posizione vincente, riduco esposizione al rischio di correzione sharp.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T13:31:08.188447+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.815,
+    "reason": "MACD hist=+0.0001 BULLISH_CROSS appena confermato + RSI=50.0 neutro in risalita + vol×=7.16x volume anomalo in aumento + 1h=0% stabile. Segnale di inversione momentum rialzista su volatilità elevata (0.73%). Posizionamento su potenziale breakout.",
+    "dry_run": false
   }
 ]
