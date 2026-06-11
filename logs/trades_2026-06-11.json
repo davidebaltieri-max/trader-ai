@@ -160,5 +160,14 @@
     "price": 1.749,
     "reason": "RSI=71.4 IPERCOMPRATO + MACD hist positivo ma momentum eccessivo dopo +12.63% in 24h. Realizza profitti su posizione forte (77.68 unità). Riduce rischio di correzione e libera liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T22:01:05.128828+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.825,
+    "reason": "BEARISH_CROSS confermato + MACD hist decrescente + RSI=55.6 neutrale ma in discesa. Trend ribassista emergente su DOT nonostante +1h/+4h positivi. Ridimensiona posizione sovra-esposta (138.13 unità).",
+    "dry_run": false
   }
 ]
