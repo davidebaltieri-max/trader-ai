@@ -97,5 +97,14 @@
     "price": 5.705,
     "reason": "SEGNALE MEDIO-FORTE: RSI=56.0 (zona neutra-rialzista), MACD hist=-0.0006 ↓decrescente (lievemente negativo ma in contrazione), 1h=+0.71% + 4h=+0.35% + 24h=+1.78% (momentum recente positivo). Volume anomalo vol×=+6.92x (segnale di interesse forte). Sebbene MACD sia negativo, la combinazione di volume esplosivo, RSI moderato e 24h positiva suggerisce movimento di accumulo. Dip-buying opportunistico su volume alta.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T16:01:16.000725+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.719,
+    "reason": "RSI=70.1 IPERCOMPRATO + MACD hist positivo ma momentum su timeframe più lungo decrescente. ATOM ha segnato +8.41% in 24h con volat alta (0.76%). Prendi profitti parziali su posizione in ipercomprato prima di possibile correzione. Conserva liquidità per opportunità di dip-buying su altri asset.",
+    "dry_run": false
   }
 ]
