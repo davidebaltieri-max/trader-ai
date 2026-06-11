@@ -115,5 +115,14 @@
     "price": 1.6935,
     "reason": "ATOM a RSI=74.6 (🔴IPERCOMPRATO) + MACD hist crescente ma raggiunto picco after +8.92% 24h. Volatilità elevata (0.97%). Realizzo profitti parziali su posizione che ha già performato, riduzo esposizione per bloccare gains e libero budget per opportunità di dip-buying su asset ribassisti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T16:31:02.997336+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.825,
+    "reason": "DOT con BEARISH_CROSS confermato + RSI=40.0 neutrale + MACD hist<0 decrescente + volatilità alta (0.73%). Segnale di vendita media. Realizzo parzialmente su questa posizione per ridurre esposizione a trend ribassista e consolidare capitale.",
+    "dry_run": false
   }
 ]
