@@ -133,5 +133,14 @@
     "price": 1.7125,
     "reason": "RSI=70.8 (IPERCOMPRATO) + MACD hist crescente ma in zona di saturazione + 24h=+7.26% (guadagno significativo). Realizzo profitti su posizione surriscaldata prima di possibile correzione. ATOM ha performato bene, ma il segnale di ipercompra con volatilità alta (0.88%) suggerisce prudenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T18:01:09.025146+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 58.07,
+    "reason": "RSI=72.6 IPERCOMPRATO + volatilità elevata (0.53%). SOL ha performato forte (+4.94% in 24h) ma è entrato in zona di correzione probabile. Realizzo profitti parziali su questa posizione per liberare liquidità e ridurre rischio in condizioni di ipercompra.",
+    "dry_run": false
   }
 ]
