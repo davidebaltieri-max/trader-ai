@@ -34,5 +34,14 @@
     "price": 56.445,
     "reason": "BEARISH_CROSS confermato su MACD + 1h=-1.09% + RSI=54.4 neutrale. Momentum negativo su timeframe breve. Vendo ~0.354 SOL a €56.4450 = €19.98 per ridurre esposizione in trend ribassista",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T13:01:11.939019+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.675,
+    "reason": "RSI=76.3 IPERCOMPRATO + MACD hist positivo ma momentum già espresso (24h +10.04%). Profitto realizzato su posizione forte. Volatilità 0.87% media-alta suggerisce consolidamento in arrivo. Vendita tattica per retrarre guadagni e liberare slot per opportunità su assets ipervenduti.",
+    "dry_run": false
   }
 ]
