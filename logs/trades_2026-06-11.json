@@ -43,5 +43,14 @@
     "price": 1.675,
     "reason": "RSI=76.3 IPERCOMPRATO + MACD hist positivo ma momentum già espresso (24h +10.04%). Profitto realizzato su posizione forte. Volatilità 0.87% media-alta suggerisce consolidamento in arrivo. Vendita tattica per retrarre guadagni e liberare slot per opportunità su assets ipervenduti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T13:01:13.040465+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 10.9,
+    "price": 5.675,
+    "reason": "RSI=63.6 + MACD BEARISH_CROSS + 1h=-0.35% 4h=-0.53%. Segnale VENDITA MEDIA confermato. Volatilità 0.39% bassa (post-movimenti). Riduzione posizione per contenere drawdown e proteggere capitale prima di possibile ritracciamento.",
+    "dry_run": false
   }
 ]
