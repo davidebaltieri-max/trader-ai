@@ -79,5 +79,14 @@
     "price": 56.5,
     "reason": "RSI=53.1 neutro-bullish + 4h=-0.28% drawdown minore + 24h=+0.41% positivo + vol×=1.09x. Momentum leggero al rialzo in zona neutra senza eccessi. Dip-buying su layer 1 alternativo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T14:01:17.707041+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.679,
+    "reason": "SEGNALE FORTE: RSI=68.1 (prossimo a ipercomprato ma momentum ancora rialzista), MACD hist=+0.0041 ↑crescente (unico in trend rialzista), 4h=+3.59% + 24h=+7.23% (trend confermato). Volume vol×=+1.19x. Sebbene RSI sia alto, il MACD positivo crescente è il segnale dominante e unico nel portafoglio. Operazione aggressiva su momentum confermato. Posizione già in portafoglio, ma il segnale giustifica aggiunta.",
+    "dry_run": false
   }
 ]
