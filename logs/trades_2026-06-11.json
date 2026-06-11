@@ -7,5 +7,14 @@
     "price": 1.673,
     "reason": "RSI=73.9 (IPERCOMPRATO) + MACD hist crescente ma momentum eccessivo. Realizza profitti su +9.39% 24h prima di correzione attesa. Posizione oltre soglia di sicurezza per profilo aggressive.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T12:30:56.651140+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 0.07,
+    "price": 6.735,
+    "reason": "Posizione minima (0.01 LINK) con scarso impatto. Liquidiamo per fare spazio e concentrare capitale su segnali più forti. Vol×=3.63x consente exit ordinata.",
+    "dry_run": false
   }
 ]
