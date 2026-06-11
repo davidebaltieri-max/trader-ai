@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-11T12:30:55.499214+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.673,
+    "reason": "RSI=73.9 (IPERCOMPRATO) + MACD hist crescente ma momentum eccessivo. Realizza profitti su +9.39% 24h prima di correzione attesa. Posizione oltre soglia di sicurezza per profilo aggressive.",
+    "dry_run": false
+  }
+]
