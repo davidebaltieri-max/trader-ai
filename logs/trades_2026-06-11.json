@@ -124,5 +124,14 @@
     "price": 0.825,
     "reason": "DOT con BEARISH_CROSS confermato + RSI=40.0 neutrale + MACD hist<0 decrescente + volatilità alta (0.73%). Segnale di vendita media. Realizzo parzialmente su questa posizione per ridurre esposizione a trend ribassista e consolidare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T17:31:04.917429+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.7125,
+    "reason": "RSI=70.8 (IPERCOMPRATO) + MACD hist crescente ma in zona di saturazione + 24h=+7.26% (guadagno significativo). Realizzo profitti su posizione surriscaldata prima di possibile correzione. ATOM ha performato bene, ma il segnale di ipercompra con volatilità alta (0.88%) suggerisce prudenza.",
+    "dry_run": false
   }
 ]
