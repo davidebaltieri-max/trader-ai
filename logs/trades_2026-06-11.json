@@ -142,5 +142,14 @@
     "price": 58.07,
     "reason": "RSI=72.6 IPERCOMPRATO + volatilità elevata (0.53%). SOL ha performato forte (+4.94% in 24h) ma è entrato in zona di correzione probabile. Realizzo profitti parziali su questa posizione per liberare liquidità e ridurre rischio in condizioni di ipercompra.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T18:01:10.100142+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.7375,
+    "reason": "RSI=73.4 IPERCOMPRATO + volatilità alta (0.93%) + MACD hist positivo ma senza conferma di continuo. ATOM ha gained +8.39% in 24h ed è il massimo di ipercompra nel portafoglio. Vendita parziale per proteggere i profitti e riposizionare.",
+    "dry_run": false
   }
 ]
