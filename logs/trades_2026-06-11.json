@@ -16,5 +16,14 @@
     "price": 6.735,
     "reason": "Posizione minima (0.01 LINK) con scarso impatto. Liquidiamo per fare spazio e concentrare capitale su segnali più forti. Vol×=3.63x consente exit ordinata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T12:41:10.567528+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.678,
+    "reason": "RSI=73.9 (IPERCOMPRATO) + 24h=+9.71% (rally forte) + MACD hist crescente ma RSI in territorio di correzione. Realizzo profitti su posizione in ipercompra. Vendo ~14.89 ATOM a €1.6780 = €24.98",
+    "dry_run": false
   }
 ]
