@@ -52,5 +52,14 @@
     "price": 5.675,
     "reason": "RSI=63.6 + MACD BEARISH_CROSS + 1h=-0.35% 4h=-0.53%. Segnale VENDITA MEDIA confermato. Volatilità 0.39% bassa (post-movimenti). Riduzione posizione per contenere drawdown e proteggere capitale prima di possibile ritracciamento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T13:31:06.802348+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.684,
+    "reason": "RSI=75.3 IPERCOMPRATO (>70) + MACD hist positivo ma momentum eccessivo dopo +8.49% in 24h. Volatilità alta (0.88%). Realizzo profitti su posizione vincente, riduco esposizione al rischio di correzione sharp.",
+    "dry_run": false
   }
 ]
