@@ -70,5 +70,14 @@
     "price": 0.815,
     "reason": "MACD hist=+0.0001 BULLISH_CROSS appena confermato + RSI=50.0 neutro in risalita + vol×=7.16x volume anomalo in aumento + 1h=0% stabile. Segnale di inversione momentum rialzista su volatilità elevata (0.73%). Posizionamento su potenziale breakout.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-11T13:31:09.443153+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 18.0,
+    "price": 56.5,
+    "reason": "RSI=53.1 neutro-bullish + 4h=-0.28% drawdown minore + 24h=+0.41% positivo + vol×=1.09x. Momentum leggero al rialzo in zona neutra senza eccessi. Dip-buying su layer 1 alternativo performante.",
+    "dry_run": false
   }
 ]
