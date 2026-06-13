@@ -7,5 +7,14 @@
     "price": 1.712,
     "reason": "RSI=72.7 (IPERCOMPRATO) + MACD hist positivo ma in zona di estrema compravendita. Profitto realizzato su posizione che ha raggiunto picco locale. Riduco esposizione su questo asset prima di correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-13T08:01:12.104204+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.855,
+    "reason": "RSI=100.0 IPERCOMPRATO (segnale VENDITA FORTE). Posizione in profitto significativo (+3.66% 24h). Realizzo guadagni prima della correzione attesa. DOT ha raggiunto massimo locale.",
+    "dry_run": false
   }
 ]
