@@ -25,5 +25,14 @@
     "price": 5.76,
     "reason": "RSI=75.0 IPERCOMPRATO (segnale VENDITA). Momentum euforico con volatilità elevata (+0.38% 24h). Volume×2.58 conferma dump imminente. Realizzo profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-13T08:01:14.698990+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.717,
+    "reason": "MACD BEARISH_CROSS confermato (hist negativo decrescente -0.0003). 4h=-0.64%, 24h=-0.29%. RSI=58.9 in calo. Trend ribassista in corso, esco prima dell'ulteriore discesa.",
+    "dry_run": false
   }
 ]
