@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-13T00:17:16.129394+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.712,
+    "reason": "RSI=72.7 (IPERCOMPRATO) + MACD hist positivo ma in zona di estrema compravendita. Profitto realizzato su posizione che ha raggiunto picco locale. Riduco esposizione su questo asset prima di correzione attesa.",
+    "dry_run": false
+  }
+]
