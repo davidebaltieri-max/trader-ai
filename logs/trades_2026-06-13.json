@@ -34,5 +34,14 @@
     "price": 1.717,
     "reason": "MACD BEARISH_CROSS confermato (hist negativo decrescente -0.0003). 4h=-0.64%, 24h=-0.29%. RSI=58.9 in calo. Trend ribassista in corso, esco prima dell'ulteriore discesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-13T23:30:52.108608+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.684,
+    "reason": "ATOM ipervenduto (RSI=23.9) ma momentum ribassista confermato: MACD hist negativo decrescente, 4h=-1.18%, volume anomalo (vol×=10.21x) suggerisce dump. Vendita preventiva per proteggere capitale e liberare slot per entry più forti. Take profit parziale su posizione debole.",
+    "dry_run": false
   }
 ]
