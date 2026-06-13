@@ -43,5 +43,14 @@
     "price": 1.684,
     "reason": "ATOM ipervenduto (RSI=23.9) ma momentum ribassista confermato: MACD hist negativo decrescente, 4h=-1.18%, volume anomalo (vol×=10.21x) suggerisce dump. Vendita preventiva per proteggere capitale e liberare slot per entry più forti. Take profit parziale su posizione debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-13T23:30:53.121095+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.845,
+    "reason": "DOT momentum ribassista: RSI=50.0 neutrale ma MACD hist negativo decrescente, 4h=-1.16%. Nonostante +3.66% 24h, il trend 4h e MACD divergono dal movimento giornaliero. Riduco esposizione per liberare liquidità e proteggere da potenziale correzione.",
+    "dry_run": false
   }
 ]
