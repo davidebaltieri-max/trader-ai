@@ -61,5 +61,14 @@
     "price": 0.1441,
     "reason": "RSI=33.3 + MACD BULLISH_CROSS appena formato ma 24h=-3.16% forte drawdown. Volume basso (vol×=0.26x). Riduco posizione oversized (177.32 unità) per liberare liquidità su asset con segnali misti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-14T20:01:12.162310+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.716,
+    "reason": "RSI=70.6 IPERCOMPRATO + MACD hist positivo ma in zona di sovraccompra + 1h=-0.64% negativa. Segnale VENDITA MEDIA: realizzo profitti su posizione tesa prima della correzione attesa.",
+    "dry_run": false
   }
 ]
