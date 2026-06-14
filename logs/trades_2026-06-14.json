@@ -70,5 +70,14 @@
     "price": 1.716,
     "reason": "RSI=70.6 IPERCOMPRATO + MACD hist positivo ma in zona di sovraccompra + 1h=-0.64% negativa. Segnale VENDITA MEDIA: realizzo profitti su posizione tesa prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-14T20:01:13.053461+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 12.0,
+    "price": 0.1439,
+    "reason": "RSI=31.4 borderline basso + MACD hist decrescente + 24h=-3.36% calo rilevante + 4h=-0.48%. Riduco esposizione su asset debole, libero liquidità per dip-buying su segnali più forti.",
+    "dry_run": false
   }
 ]
