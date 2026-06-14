@@ -52,5 +52,14 @@
     "price": 1.7235,
     "reason": "RSI=70.6 IPERCOMPRATO + vol×=3.87x picco anormale + MACD hist positivo ma momentum estremo. Realizzo profitti su posizione gonfiata da spike di volume. Riduco esposizione prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-14T19:31:02.269110+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1441,
+    "reason": "RSI=33.3 + MACD BULLISH_CROSS appena formato ma 24h=-3.16% forte drawdown. Volume basso (vol×=0.26x). Riduco posizione oversized (177.32 unità) per liberare liquidità su asset con segnali misti.",
+    "dry_run": false
   }
 ]
