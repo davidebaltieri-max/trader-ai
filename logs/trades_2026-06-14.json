@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-14T00:01:15.859413+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.6845,
+    "reason": "ATOM: RSI=26.9 (IPERVENDUTO) ma MACD hist decrescente negativo + vol×=5.37x anomalamente alta (possibile dump). Combinazione segnala possibile panic selling. Riduco posizione per realizzare perdite controllate e liberare capitale. Posizione già soffrente (-0.24% 24h), meglio uscire parzialmente.",
+    "dry_run": false
+  }
+]
