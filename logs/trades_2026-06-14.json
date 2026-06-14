@@ -7,5 +7,14 @@
     "price": 1.6845,
     "reason": "ATOM: RSI=26.9 (IPERVENDUTO) ma MACD hist decrescente negativo + vol×=5.37x anomalamente alta (possibile dump). Combinazione segnala possibile panic selling. Riduco posizione per realizzare perdite controllate e liberare capitale. Posizione già soffrente (-0.24% 24h), meglio uscire parzialmente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-14T00:01:16.759063+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.845,
+    "reason": "DOT: RSI=33.3 (zona bassa) ma MACD hist decrescente negativo, 1h=-1.18% (in calo), 4h=-1.18%. Trend ribassista confermato su timeframe brevi. Riduco posizione per bloccare liquidità e evitare ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
