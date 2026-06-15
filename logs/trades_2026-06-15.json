@@ -97,5 +97,14 @@
     "price": 6.03,
     "reason": "RSI=73.9 IPERCOMPRATO + vol×=1.89x (volume anomalo in salita) suggerisce esaurimento momentum. MACD hist positivo ma RSI estremo + 1h=+0.33% limita ulteriore upside. Riduzione parziale su ipercomprato",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T19:01:22.540062+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.703,
+    "reason": "RSI=36.2 (zona sottovalutazione) + MACD hist negativo ma stabile (-0.0028) su volatilità vol×=+0.66x = dip-buying opportunistico. ATOM è in calo relativo (-1.05% in 4h) mentre il mercato sale: setup di rimbalzo potenziale. Aggiungo posizione underperforming.",
+    "dry_run": false
   }
 ]
