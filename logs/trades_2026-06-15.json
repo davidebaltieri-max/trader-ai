@@ -16,5 +16,14 @@
     "price": 5.82,
     "reason": "AVAX segnala VENDITA FORTE: RSI=81.3 IPERCOMPRATO 🔴, MACD hist=+0.0230 ancora rialzista ma con volume eccezionale (vol×=+2.59x anomalo). 1h=-0.17% negativo, volatilità elevata +0.79%. Spike anomalo in acquisto con ipercomprato estremo suggerisce presa di profitti prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T04:31:04.984004+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.82,
+    "reason": "RSI=79.5 (IPERCOMPRATO estremo) + MACD hist positivo crescente ma momentum satura. Vol×=3.20x indica picco di entusiasmo. Realizzo profitti parziali su posizione che ha guadagnato +0.69% in 24h. Operazione difensiva per proteggere gains su asset in zona di estrema sovracompra.",
+    "dry_run": false
   }
 ]
