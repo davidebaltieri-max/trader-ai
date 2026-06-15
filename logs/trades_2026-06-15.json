@@ -7,5 +7,14 @@
     "price": 1.713,
     "reason": "ATOM segnala VENDITA MEDIA: RSI=61.6 (zona rialzista moderata ma in calo), MACD hist=-0.0004 con BEARISH_CROSS confermato ↓, 4h=-0.41% negativo, vol×=+0.49x neutrale. Momentum ribassista in formazione. Riduco posizione prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T03:30:57.304520+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.82,
+    "reason": "AVAX segnala VENDITA FORTE: RSI=81.3 IPERCOMPRATO 🔴, MACD hist=+0.0230 ancora rialzista ma con volume eccezionale (vol×=+2.59x anomalo). 1h=-0.17% negativo, volatilità elevata +0.79%. Spike anomalo in acquisto con ipercomprato estremo suggerisce presa di profitti prima di correzione.",
+    "dry_run": false
   }
 ]
