@@ -79,5 +79,14 @@
     "price": 1575.54,
     "reason": "RSI=78.7 IPERCOMPRATO + MACD hist positivo ma divergenza di momentum dopo rialzo 24h=+9.60%. Presa di profitto parziale su posizione minuscola (€1.89). Segnale di vendita media: ridimensionamento su ipercomprato",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T18:31:13.246320+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 64.97,
+    "reason": "RSI=76.8 IPERCOMPRATO + 1h=+0.14% (momentum decelerato rispetto +2.22% 4h) + vol×=0.46x (volume calante). Presa di profitto su posizione in rialzo (24h=+11.46%). Vendita media confermata",
+    "dry_run": false
   }
 ]
