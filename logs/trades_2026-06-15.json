@@ -25,5 +25,14 @@
     "price": 5.82,
     "reason": "RSI=79.5 (IPERCOMPRATO estremo) + MACD hist positivo crescente ma momentum satura. Vol×=3.20x indica picco di entusiasmo. Realizzo profitti parziali su posizione che ha guadagnato +0.69% in 24h. Operazione difensiva per proteggere gains su asset in zona di estrema sovracompra.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T04:31:05.873326+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 61.19,
+    "reason": "RSI=70.1 (IPERCOMPRATO) + 1h=-0.23% (momentum negativo intra-orario). MACD hist positivo ma segnali misti suggeriscono consolidamento. Ribalanceamento defensivo su posizione piccola per ridurre esposizione a potenziale correzione dopo +2.89% in 24h.",
+    "dry_run": false
   }
 ]
