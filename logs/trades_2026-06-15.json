@@ -34,5 +34,14 @@
     "price": 61.19,
     "reason": "RSI=70.1 (IPERCOMPRATO) + 1h=-0.23% (momentum negativo intra-orario). MACD hist positivo ma segnali misti suggeriscono consolidamento. Ribalanceamento defensivo su posizione piccola per ridurre esposizione a potenziale correzione dopo +2.89% in 24h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T05:31:00.854182+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 5.85,
+    "reason": "RSI=83.3 IPERCOMPRATO + MACD hist positivo ma setup di correzione imminente. Volume anomalo (vol×=3.05x) suggerisce picco di acquisti in esaurimento. Realizza profitti su posizione performante prima della correzione attesa.",
+    "dry_run": false
   }
 ]
