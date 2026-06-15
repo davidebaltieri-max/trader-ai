@@ -52,5 +52,14 @@
     "price": 0.865,
     "reason": "RSI=71.4 IPERCOMPRATO. Sebbene MACD sia positivo, il livello RSI estremo combined con volatilità elevata (0.77%) indica elevato rischio di pullback. Ridimensiona posizione con +4h=+1.18% già realizzato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T15:49:41.604588+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.7195,
+    "reason": "BEARISH_CROSS confermato su MACD (hist negativo decrescente) + RSI 64.1 in zona neutra alta + 1h negativo (-0.06%) + 4h negativo (-0.52%). Momentum ribassista in corso. Realizza profitti parziali prima di ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
