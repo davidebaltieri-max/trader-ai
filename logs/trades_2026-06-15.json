@@ -61,5 +61,14 @@
     "price": 1.7195,
     "reason": "BEARISH_CROSS confermato su MACD (hist negativo decrescente) + RSI 64.1 in zona neutra alta + 1h negativo (-0.06%) + 4h negativo (-0.52%). Momentum ribassista in corso. Realizza profitti parziali prima di ulteriore deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T15:49:43.387586+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 20.0,
+    "price": 1586.81,
+    "reason": "VENDITA FORTE: RSI 92.8 🔴IPERCOMPRATO estremo (massimo assoluto sul mercato) + MACD hist positivo ma in zona di rischio dopo spike massivo + volatilità elevata 0.78%. Realizza profitti su posizione minuscola prima di correzione inevitabile.",
+    "dry_run": false
   }
 ]
