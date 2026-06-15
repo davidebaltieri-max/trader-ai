@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-15T03:30:56.302967+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.713,
+    "reason": "ATOM segnala VENDITA MEDIA: RSI=61.6 (zona rialzista moderata ma in calo), MACD hist=-0.0004 con BEARISH_CROSS confermato ↓, 4h=-0.41% negativo, vol×=+0.49x neutrale. Momentum ribassista in formazione. Riduco posizione prima di potenziale correzione.",
+    "dry_run": false
+  }
+]
