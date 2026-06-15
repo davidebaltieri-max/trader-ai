@@ -106,5 +106,14 @@
     "price": 1.703,
     "reason": "RSI=36.2 (zona sottovalutazione) + MACD hist negativo ma stabile (-0.0028) su volatilità vol×=+0.66x = dip-buying opportunistico. ATOM è in calo relativo (-1.05% in 4h) mentre il mercato sale: setup di rimbalzo potenziale. Aggiungo posizione underperforming.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T19:01:23.680563+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.335,
+    "reason": "RSI=53.8 (zona neutra media) + MACD hist negativo (-0.0040 decrescente) ma recovery potenziale su momentum 24h=+8.37%. UNI stabile nelle ultime 4h (4h=0%) con vol×=+0.40x: setup contrarian su infrastruttura DeFi sottopesata nel portafoglio. Operazione piccola su momentum positivo medio.",
+    "dry_run": false
   }
 ]
