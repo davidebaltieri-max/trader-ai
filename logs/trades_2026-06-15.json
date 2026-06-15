@@ -43,5 +43,14 @@
     "price": 5.85,
     "reason": "RSI=83.3 IPERCOMPRATO + MACD hist positivo ma setup di correzione imminente. Volume anomalo (vol×=3.05x) suggerisce picco di acquisti in esaurimento. Realizza profitti su posizione performante prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-15T05:31:02.022707+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.865,
+    "reason": "RSI=71.4 IPERCOMPRATO. Sebbene MACD sia positivo, il livello RSI estremo combined con volatilità elevata (0.77%) indica elevato rischio di pullback. Ridimensiona posizione con +4h=+1.18% già realizzato.",
+    "dry_run": false
   }
 ]
