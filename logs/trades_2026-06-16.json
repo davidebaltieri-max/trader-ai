@@ -34,5 +34,14 @@
     "price": 2.595,
     "reason": "RSI=72.0 IPERCOMPRATO + volatilità alta 1.02% + spike 1h=+2.36%. Segnale VENDITA MEDIA confermato. Realizza profitto su rialzo aggressivo 24h=+14.04%.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-16T10:31:13.361854+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.724,
+    "reason": "RSI=74.0 IPERCOMPRATO + MACD hist=+0.0037 crescente ma livello di ipercomprato elevato. Correzione probabile. Realizza profitto parziale 24h=+1.65%.",
+    "dry_run": false
   }
 ]
