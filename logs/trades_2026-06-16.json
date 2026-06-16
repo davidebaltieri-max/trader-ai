@@ -25,5 +25,14 @@
     "price": 5.995,
     "reason": "RSI=75.8 IPERCOMPRATO + MACD hist crescente ma posizione già satura. Realizza profitto su rialzo 24h=+2.56% per liberare spazio e ridurre esposizione a correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-16T10:31:12.315742+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.595,
+    "reason": "RSI=72.0 IPERCOMPRATO + volatilità alta 1.02% + spike 1h=+2.36%. Segnale VENDITA MEDIA confermato. Realizza profitto su rialzo aggressivo 24h=+14.04%.",
+    "dry_run": false
   }
 ]
