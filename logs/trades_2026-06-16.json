@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-16T10:01:20.172463+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 16.0,
+    "price": 2.535,
+    "reason": "RSI=72.0 (IPERCOMPRATO) + MACD hist decrescente (-0.0035) + 1h=-0.39% = segnale VENDITA MEDIA confermato. UNI ha guadagnato +12.39% in 24h, profit-taking opportuno.",
+    "dry_run": false
+  }
+]
