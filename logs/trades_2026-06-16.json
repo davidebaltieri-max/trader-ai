@@ -7,5 +7,14 @@
     "price": 2.535,
     "reason": "RSI=72.0 (IPERCOMPRATO) + MACD hist decrescente (-0.0035) + 1h=-0.39% = segnale VENDITA MEDIA confermato. UNI ha guadagnato +12.39% in 24h, profit-taking opportuno.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-16T10:01:21.244387+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.722,
+    "reason": "RSI=72.6 (IPERCOMPRATO) + MACD hist positivo crescente ma overbought extremo. Posizione large (89 unità) permette exit parziale a prezzi alti con vol×=0.76x stagnante.",
+    "dry_run": false
   }
 ]
