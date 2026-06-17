@@ -7,5 +7,14 @@
     "price": 1.733,
     "reason": "RSI=79.7 IPERCOMPRATO + MACD hist positivo ma momentum in saturazione. Volume×=2.13 conferma spike speculativo. Realizza profitti su posizione in estensione prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T01:01:08.930107+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 18.73,
+    "price": 2.945,
+    "reason": "RSI=75.0 IPERCOMPRATO + +16.21% in 24h è rally parabólico. MACD hist positivo crescente ma su livelli estremi. Vendi per proteggere guadagni straordinari.",
+    "dry_run": false
   }
 ]
