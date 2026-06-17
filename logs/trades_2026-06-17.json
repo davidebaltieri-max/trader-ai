@@ -61,5 +61,14 @@
     "price": 0.885,
     "reason": "DOT in IPERCOMPRATO (RSI=75.0) dopo +1.15% in 4h. Volatilità moderata-alta (0.66%), ma assenza di MACD BEARISH_CROSS limita intensità segnale. Sell MEDIA per ridurre esposizione su picco locale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T02:01:07.425497+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 12.0,
+    "price": 5.995,
+    "reason": "AVAX in IPERCOMPRATO (RSI=71.4), prezzo -0.17% in 1h suggerisce potenziale correzione. Volume BASSO (0.23x) indica poco interesse a salire. Sell MEDIA precauzionale su zone critiche.",
+    "dry_run": false
   }
 ]
