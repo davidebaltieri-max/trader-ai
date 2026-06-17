@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-17T01:01:07.886679+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.733,
+    "reason": "RSI=79.7 IPERCOMPRATO + MACD hist positivo ma momentum in saturazione. Volume×=2.13 conferma spike speculativo. Realizza profitti su posizione in estensione prima di potenziale correzione.",
+    "dry_run": false
+  }
+]
