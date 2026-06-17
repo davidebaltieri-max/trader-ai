@@ -97,5 +97,14 @@
     "price": 3.075,
     "reason": "RSI=83.3 (MASSIMO IPERCOMPRATO) + 24h=+27.39% (rally esplosivo non sostenibile). MACD positivo ma RSI all'estremo suggerisce ritracciamento imminente. Protezione profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T03:37:56.186159+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.985,
+    "reason": "RSI=70.6 (IPERCOMPRATO) + MACD hist positivo ma momentum fragile su 1h=-0.50%. Realizzo profitto parziale su posizione in ipercomprato per ridurre esposizione e liberare liquidità. AVAX ha performato bene (+0.84% 24h, +1.18% 4h) ma è tempo di prendere profitti e riposizionare.",
+    "dry_run": false
   }
 ]
