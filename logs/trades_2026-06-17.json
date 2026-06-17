@@ -88,5 +88,14 @@
     "price": 6.03,
     "reason": "RSI=80.6 (IPERCOMPRATO) + vol×=0.17x (volume scarso, mancanza consenso). Già +1.69% 1h. Vendita tattica per ridurre esposizione su asset overextended.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T02:31:02.062241+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 22.0,
+    "price": 3.075,
+    "reason": "RSI=83.3 (MASSIMO IPERCOMPRATO) + 24h=+27.39% (rally esplosivo non sostenibile). MACD positivo ma RSI all'estremo suggerisce ritracciamento imminente. Protezione profitti.",
+    "dry_run": false
   }
 ]
