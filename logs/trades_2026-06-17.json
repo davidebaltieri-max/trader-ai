@@ -115,5 +115,14 @@
     "price": 1.718,
     "reason": "MACD BEARISH_CROSS confermato (hist=-0.0002 decrescente) + RSI=55.1 neutrale + 1h=-1.21% + vol×=+8.88x (picco di volume su ribasso). Segnale VENDITA MEDIA definitivo. MACD cross ribassista è indicatore affidabile di inversione momentum.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T03:37:58.483166+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 18.0,
+    "price": 3.035,
+    "reason": "RSI=70.0 (IPERCOMPRATO al limite) + 1h=-0.98% su rialzo massiccia 24h=+21.69%. Realizza profitto su guadagno straordinario (+21.69%). Anche se MACD hist è positivo, RSI ipercomprato + calo orario suggerisce consolidamento. Take profit cautelativo su posizione esplosiva.",
+    "dry_run": false
   }
 ]
