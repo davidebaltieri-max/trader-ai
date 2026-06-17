@@ -106,5 +106,14 @@
     "price": 5.985,
     "reason": "RSI=70.6 (IPERCOMPRATO) + MACD hist positivo ma momentum fragile su 1h=-0.50%. Realizzo profitto parziale su posizione in ipercomprato per ridurre esposizione e liberare liquidità. AVAX ha performato bene (+0.84% 24h, +1.18% 4h) ma è tempo di prendere profitti e riposizionare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T03:37:57.409658+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.718,
+    "reason": "MACD BEARISH_CROSS confermato (hist=-0.0002 decrescente) + RSI=55.1 neutrale + 1h=-1.21% + vol×=+8.88x (picco di volume su ribasso). Segnale VENDITA MEDIA definitivo. MACD cross ribassista è indicatore affidabile di inversione momentum.",
+    "dry_run": false
   }
 ]
