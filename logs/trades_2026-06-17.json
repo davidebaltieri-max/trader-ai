@@ -16,5 +16,14 @@
     "price": 2.945,
     "reason": "RSI=75.0 IPERCOMPRATO + +16.21% in 24h è rally parabólico. MACD hist positivo crescente ma su livelli estremi. Vendi per proteggere guadagni straordinari.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T01:31:05.981240+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1476,
+    "reason": "ACQUISTO FORTE: RSI=27.7 (IPERVENDUTO) + vol×=+1.83x (volume alto) + 24h=-3.65% (dip moderato) + MACD hist negativo ma prossimo a cross rialzista. ADA è in oversold estremo con volume crescente: setup classico per rimbalzo. Slot disponibile e momentum di rotazione favorevole.",
+    "dry_run": false
   }
 ]
