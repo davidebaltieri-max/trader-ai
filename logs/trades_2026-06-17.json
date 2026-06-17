@@ -133,5 +133,14 @@
     "price": 3.02,
     "reason": "RSI=70.8 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=-1.31% confermano correzione. UNI ha guadagnato +19.37% in 24h: realizza profitti. Segnale VENDITA FORTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T16:36:22.869552+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 21.57,
+    "price": 2.875,
+    "reason": "VENDITA MEDIA confermata: RSI=30.4 (zona bassa ma non ancora ipervenduto), MACD histogram negativo e decrescente (-0.0125) indicano momentum ribassista in corso. 1h=-0.35% e 4h=-0.69% confermano debolezza. Volatilità elevata (+2.29%) richiede gestione del rischio. Posizione in drawdown dopo rally 24h; realizzo parziale per liberare liquidità e ridurre rischio in fase di consolidamento.",
+    "dry_run": false
   }
 ]
