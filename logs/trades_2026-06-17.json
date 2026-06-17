@@ -79,5 +79,14 @@
     "price": 0.895,
     "reason": "RSI=80.0 (IPERCOMPRATO) + 4h=+2.30% (momentum esaurito). Presa di profitto su posizione overextended. DOT ha realizzato il rally, rischio correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T02:31:01.175304+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 6.03,
+    "reason": "RSI=80.6 (IPERCOMPRATO) + vol×=0.17x (volume scarso, mancanza consenso). Già +1.69% 1h. Vendita tattica per ridurre esposizione su asset overextended.",
+    "dry_run": false
   }
 ]
