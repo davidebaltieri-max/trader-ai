@@ -169,5 +169,14 @@
     "price": 1527.31,
     "reason": "ACQUISTO MEDIO: RSI=50.0 (zona neutra ma bilanciato) + MACD hist=+2.1413 crescente (momentum rialzista confermato) + 4h=+0.90% + 1h=-0.57% (pullback minore in trend rialzista). ETH non in portafoglio, slot disponibile, diversificazione su large cap con momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T17:01:20.582216+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.885,
+    "reason": "ACQUISTO MEDIO: RSI=66.7 (prossimo a ipercomprato ma non ancora) + MACD hist=+0.0020 crescente + vol×=+4.99 (volume ECCEZIONALMENTE elevato, segnale di forza) + 4h=+2.30% + 24h=+2.30% (coerente rialzo multiframe). DOT già in portafoglio ma il volume straordinario e il momentum confermano rialzo continuo.",
+    "dry_run": false
   }
 ]
