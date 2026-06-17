@@ -43,5 +43,14 @@
     "price": 2.905,
     "reason": "ACQUISTO MEDIO: UNI in trend rialzista confermato (24h=+15.48%, 4h=+3.19%) + RSI=67.6 (caldo ma non ancora overextended) + MACD hist=+0.0057 crescente + vol×=+1.13x. Momentum DeFi sta girando: operazione di rotazione settoriale in phase positiva. Entry aggressiva su momentum infrastruttura.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T02:01:05.541654+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 22.0,
+    "price": 2.975,
+    "reason": "UNI in IPERCOMPRATO (RSI=78.0) con volatilità ALTA (1.16%), +22.63% in 24h. Segnale VENDITA FORTE: momentum estremo richiede realizzazione parziale dei profitti. Volume elevato (1.65x) conferma interesse per uscite.",
+    "dry_run": false
   }
 ]
