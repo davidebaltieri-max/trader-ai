@@ -151,5 +151,14 @@
     "price": 56919.135,
     "reason": "VENDITA FORTE confermata: RSI=70.5 (IPERCOMPRATO), MACD histogram positivo ma il livello RSI estremo segnala correzione imminente. 1h=+0.42% mostra stallo dopo movimenti di 4h=+1.60%. Volume×=0.82x (sotto media) conferma perdita di spinta. Liquidazione tattica della posizione minore per cristallizzare guadagni su un asset volatile in territorio di ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T17:01:18.246720+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 2.835,
+    "reason": "ACQUISTO FORTE: RSI=29.2 (IPERVENDUTO) + MACD hist negativo ma in zona di inversione + vol×=+1.23 (volume in aumento) + 24h=+6.77% (momentum rialzista precedente). UNI è in forte correzione tecnica con segnali di rimbalzo imminente. Aggressivo su questo setup di mean reversion.",
+    "dry_run": false
   }
 ]
