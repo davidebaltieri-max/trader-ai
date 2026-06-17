@@ -70,5 +70,14 @@
     "price": 5.995,
     "reason": "AVAX in IPERCOMPRATO (RSI=71.4), prezzo -0.17% in 1h suggerisce potenziale correzione. Volume BASSO (0.23x) indica poco interesse a salire. Sell MEDIA precauzionale su zone critiche.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-17T02:31:00.156984+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.895,
+    "reason": "RSI=80.0 (IPERCOMPRATO) + 4h=+2.30% (momentum esaurito). Presa di profitto su posizione overextended. DOT ha realizzato il rally, rischio correzione imminente.",
+    "dry_run": false
   }
 ]
