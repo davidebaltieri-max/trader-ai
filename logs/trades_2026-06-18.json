@@ -16,5 +16,14 @@
     "price": 0.875,
     "reason": "DOT in zona neutra-debole (RSI=33.3) ma MACD hist negativo (-0.0011) con trend decrescente. Volume molto basso (0.20x), 1h=0%, 4h=0% segnalano stagnazione. Riduzione posizione sovrappesata (154 unità) per liberare capitale e slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-18T03:30:58.641216+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 50.0,
+    "price": 1.6095,
+    "reason": "ATOM in IPERVENDUTO (RSI=12.6) ma MACD hist negativo e decrescente (trend ribassista confermato). Già down -5.79% in 24h. Calo da 4h=-2.13% persistente. Volume elevato (1.14x) su ribasso = distribuzione. Posizione strategica da liberare per acquisire asset con segnali più forti. Stop loss preemptivo.",
+    "dry_run": false
   }
 ]
