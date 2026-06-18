@@ -25,5 +25,14 @@
     "price": 1.6095,
     "reason": "ATOM in IPERVENDUTO (RSI=12.6) ma MACD hist negativo e decrescente (trend ribassista confermato). Già down -5.79% in 24h. Calo da 4h=-2.13% persistente. Volume elevato (1.14x) su ribasso = distribuzione. Posizione strategica da liberare per acquisire asset con segnali più forti. Stop loss preemptivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-18T03:30:59.588332+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 23.98,
+    "price": 2.745,
+    "reason": "UNI in CROLLO: -8.33% in 24h, 1h=-3.85%, 4h=-2.48%. RSI=45.7 (neutrale ma in pressione). MACD hist positivo ma momentum non sufficiente a contrastare la caduta. Volume elevato (1.03x) su ribasso. Ridurre esposizione su questo asset debole per fare spazio.",
+    "dry_run": false
   }
 ]
