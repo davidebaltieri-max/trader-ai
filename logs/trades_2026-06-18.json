@@ -43,5 +43,14 @@
     "price": 0.855,
     "reason": "DOT IPERVENDUTO (RSI=28.6) ma MACD hist negativo e decrescente = rimbalzo non confermato. Volatilità alta (0.95%) su trend bearish. 1h=-1.15%, 4h=-1.15%. Segnale di acquisto debole. Liquidare parzialmente per raccogliere €55 totali da 3 vendite e riaprire slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-18T10:31:08.098512+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.591,
+    "reason": "ATOM in IPERVENDUTO (RSI=21.2) + BEARISH_CROSS MACD + calo 24h=-9.39% + 1h=-2.96% + 4h=-2.42%. Segnale VENDITA FORTE confermato da 4 indicatori concordi. Realizzo parzialmente per ridurre il drawdown e liberare capitale.",
+    "dry_run": false
   }
 ]
