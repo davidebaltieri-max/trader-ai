@@ -34,5 +34,14 @@
     "price": 2.745,
     "reason": "UNI in CROLLO: -8.33% in 24h, 1h=-3.85%, 4h=-2.48%. RSI=45.7 (neutrale ma in pressione). MACD hist positivo ma momentum non sufficiente a contrastare la caduta. Volume elevato (1.03x) su ribasso. Ridurre esposizione su questo asset debole per fare spazio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-18T03:31:00.479083+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.855,
+    "reason": "DOT IPERVENDUTO (RSI=28.6) ma MACD hist negativo e decrescente = rimbalzo non confermato. Volatilità alta (0.95%) su trend bearish. 1h=-1.15%, 4h=-1.15%. Segnale di acquisto debole. Liquidare parzialmente per raccogliere €55 totali da 3 vendite e riaprire slot.",
+    "dry_run": false
   }
 ]
