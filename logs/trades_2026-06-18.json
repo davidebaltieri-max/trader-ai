@@ -7,5 +7,14 @@
     "price": 1.6295,
     "reason": "ATOM in IPERVENDUTO (RSI=12.3) ma MACD hist decrescente e negativo (-0.0061) con momentum ribassista confermato. Performance 4h=-3.09%, 24h=-4.68%. Vendita difensiva per liberare slot e cristallizzare posizione debole prima di ulteriore deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-18T02:30:57.191106+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 35.0,
+    "price": 0.875,
+    "reason": "DOT in zona neutra-debole (RSI=33.3) ma MACD hist negativo (-0.0011) con trend decrescente. Volume molto basso (0.20x), 1h=0%, 4h=0% segnalano stagnazione. Riduzione posizione sovrappesata (154 unità) per liberare capitale e slot.",
+    "dry_run": false
   }
 ]
