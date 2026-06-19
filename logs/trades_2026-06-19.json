@@ -52,5 +52,14 @@
     "price": 0.825,
     "reason": "DOT in calo 24h=-2.35% con RSI=40 (zona bassa) + MACD hist positivo ma volume 1.67x elevato. Peggioramento 1h=-1.19% + 4h=+0.00% segnala debolezza. Rotazione settoriale: smobilizziamo per riallocare su momentum più positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-19T19:43:23.925335+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.571,
+    "reason": "ATOM con calo 24h=-3.86% + 4h=-2.36%, RSI=46.9 in zona neutra bassa, MACD hist negativo decrescente. Volume 1.30x elevato su trend ribassista. Riduzione posizione per liberare liquidità in fase di correzione di mercato.",
+    "dry_run": false
   }
 ]
