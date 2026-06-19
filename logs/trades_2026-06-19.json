@@ -34,5 +34,14 @@
     "price": 1.571,
     "reason": "ATOM mostra BEARISH_CROSS su MACD (hist negativo decrescente) + calo 24h=-4.50% + RSI=43.7 in discesa. Momentum ribassista confermato su 1h/4h. Vendita di posizione media per ridurre esposizione a trend negativo e accumulare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-19T19:43:22.171998+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.045,
+    "reason": "AVAX in IPERVENDUTO (RSI=26.8) con MACD hist negativo decrescente. Calo 4h=-5.82% + 24h=-8.39% con volume esplosivo (5.73x). Protezione capitale prioritaria: RSI estremo + trend ribassista confermato = VENDITA MEDIA per ridurre esposizione in questo asset volatile.",
+    "dry_run": false
   }
 ]
