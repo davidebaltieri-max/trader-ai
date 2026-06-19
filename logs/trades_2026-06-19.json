@@ -43,5 +43,14 @@
     "price": 5.045,
     "reason": "AVAX in IPERVENDUTO (RSI=26.8) con MACD hist negativo decrescente. Calo 4h=-5.82% + 24h=-8.39% con volume esplosivo (5.73x). Protezione capitale prioritaria: RSI estremo + trend ribassista confermato = VENDITA MEDIA per ridurre esposizione in questo asset volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-19T19:43:23.010985+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.825,
+    "reason": "DOT in calo 24h=-2.35% con RSI=40 (zona bassa) + MACD hist positivo ma volume 1.67x elevato. Peggioramento 1h=-1.19% + 4h=+0.00% segnala debolezza. Rotazione settoriale: smobilizziamo per riallocare su momentum più positivo.",
+    "dry_run": false
   }
 ]
