@@ -16,5 +16,14 @@
     "price": 1.6055,
     "reason": "RSI=73.5 IPERCOMPRATO + 24h=-4.50%. Momentum rialzista a brevissimo termine (1h/4h positivi) ma RSI elevato suggerisce correzione imminente. Vendi per liberare spazio e ridurre esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-19T19:30:56.759481+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.015,
+    "reason": "AVAX in IPERVENDUTO (RSI=27.3) ma con MACD hist negativo decrescente (trend ribassista confermato). Calo drastico 4h=-6.36%, 24h=-8.58% con volume esplosivo (11.01x). Sebbene ipervenduto, il BEARISH_CROSS su MACD + RSI estremo suggerisce ulteriore pressione al ribasso. Riduco esposizione su questa posizione debole per liberare cash e gestire rischio.",
+    "dry_run": false
   }
 ]
