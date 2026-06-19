@@ -7,5 +7,14 @@
     "price": 5.375,
     "reason": "RSI=76.0 IPERCOMPRATO + 24h=-7.07% calo significativo. Realizza profitti su posizione in perdita giornaliera. Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-19T14:01:28.460408+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.6055,
+    "reason": "RSI=73.5 IPERCOMPRATO + 24h=-4.50%. Momentum rialzista a brevissimo termine (1h/4h positivi) ma RSI elevato suggerisce correzione imminente. Vendi per liberare spazio e ridurre esposizione.",
+    "dry_run": false
   }
 ]
