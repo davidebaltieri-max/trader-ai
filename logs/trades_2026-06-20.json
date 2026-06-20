@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-20T00:01:18.832979+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.58,
+    "reason": "ATOM in IPERVENDUTO (RSI=26.2) con MACD decrescente (hist=-0.0004). Sebbene il segnale sia tecnicamente di rimbalzo, il momentum ribassista confermato e la volatilità moderata (+0.41%) suggeriscono prudenza. Vendita parziale per ridurre esposizione su questo asset debole e liberare capitale per opportunità migliori nel ciclo successivo.",
+    "dry_run": false
+  }
+]
