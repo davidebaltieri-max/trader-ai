@@ -133,5 +133,14 @@
     "price": 0.1421,
     "reason": "RSI=72.1 (IPERCOMPRATO) + MACD hist positivo ma stabilizzato (0.0001, quasi piatto) + 24h=+1.43% con momentum debole. Segnale di VENDITA MEDIA: ridimensiono posizione su ipercomprato per liberare cash.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T08:01:05.894453+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 62.335,
+    "reason": "RSI 78.5 IPERCOMPRATO + 1h negativa (-0.53%) = segnale di correzione. Vendita parziale per realizzare profitti e creare spazio per rotazione settoriale verso asset ipervenduti",
+    "dry_run": false
   }
 ]
