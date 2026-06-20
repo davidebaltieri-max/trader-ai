@@ -70,5 +70,14 @@
     "price": 61.38,
     "reason": "RSI=80.9 IPERCOMPRATO + vol×=3.35x picco anomalo + 1h=+0.66% in zona estrema. Segnale VENDITA FORTE: realizzo profitto su momentum speculativo. SOL ha già +2.69% in 24h, rischio correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T04:30:58.732866+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 19.4,
+    "price": 1493.28,
+    "reason": "RSI=70.1 IPERCOMPRATO + MACD hist=+0.3330 ma in decelerazione relativa vs BTC. Segnale VENDITA MEDIA: blocco profitti su ETH (1.08% in 24h) prima correzione. Posizione piccola (€19.37 notionale), uscita parziale strategica.",
+    "dry_run": false
   }
 ]
