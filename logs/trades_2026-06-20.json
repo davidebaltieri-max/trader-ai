@@ -34,5 +34,14 @@
     "price": 55354.095,
     "reason": "BTC in IPERCOMPRATO (RSI=73.8) a risk correzione. MACD hist positivo ma RSI estremo storico a questi livelli precede pullback. Vendita parziale posizione minuscola (0.00368688 BTC) per secured profit e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T03:01:04.956621+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.185,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma trend già esteso. AVAX ha perso -5.82% in 24h. Riduco esposizione su posizione gonfiata per raccogliere profitti parziali e liberare liquidità. Posizionamento difensivo con portafoglio pieno.",
+    "dry_run": false
   }
 ]
