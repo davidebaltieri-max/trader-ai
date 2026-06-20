@@ -52,5 +52,14 @@
     "price": 1.559,
     "reason": "RSI=15.7 IPERVENDUTO ma MACD hist negativo decrescente (trend ribassista in corso). ATOM ha perso -3.17% in 24h. Pur essendo tecnicamente vicino a rimbalzo, momentum è ancora al ribasso. Vendo per ridurre esposizione e attendere conferma di inversione su MACD prima di ri-accumulate.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T03:30:55.858938+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 60.97,
+    "reason": "SOL RSI=73.2 IPERCOMPRATO (>70). Segnale VENDITA MEDIA confermato: 1h=+0.53% ma RSI eccessivamente esteso dopo rally 24h=+0.79%. MACD hist positivo crescente, ma l'ipercompra su timeframe 30min rappresenta zona di presa profitti. Riduco posizione per realizzare guadagni e liberare capitale.",
+    "dry_run": false
   }
 ]
