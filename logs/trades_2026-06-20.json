@@ -106,5 +106,14 @@
     "price": 61.815,
     "reason": "VENDITA FORTE: RSI=84.0 IPERCOMPRATO estremo + 1h=+1.30% 4h=+1.85% momentum eccessivo + vol×=4.32x volume anomalo suggerisce esaurimento della spinta rialzista. Presa di profitto tattica su asset già performante (+3.35% 24h). Riduce esposizione al rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T04:49:33.292754+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 6.905,
+    "reason": "ACQUISTO MEDIO: RSI=56.3 neutrale + MACD=hist=+0.0003 BULLISH_CROSS confermato ↑crescente + 1h=+0.44% 4h=+0.44% momentum positivo consistente + vol×=0.46x stabile. Infrastruttura DeFi in diversificazione strategica, segnale tecnico pulito senza ipercomprato.",
+    "dry_run": false
   }
 ]
