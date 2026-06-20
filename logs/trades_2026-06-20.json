@@ -7,5 +7,14 @@
     "price": 1.58,
     "reason": "ATOM in IPERVENDUTO (RSI=26.2) con MACD decrescente (hist=-0.0004). Sebbene il segnale sia tecnicamente di rimbalzo, il momentum ribassista confermato e la volatilità moderata (+0.41%) suggeriscono prudenza. Vendita parziale per ridurre esposizione su questo asset debole e liberare capitale per opportunità migliori nel ciclo successivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T00:01:20.050922+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.835,
+    "reason": "DOT in momentum negativo: 4h=-1.19%, 24h=-2.35%, RSI=50.0 (zona neutra debole), MACD decrescente (hist=-0.0002). Volume spike (+1.48x) conferma pressione al ribasso. Vendita difensiva di posizione per proteggere il portafoglio prima di potenziale ulteriore correzione.",
+    "dry_run": false
   }
 ]
