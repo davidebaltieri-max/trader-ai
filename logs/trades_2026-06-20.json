@@ -88,5 +88,14 @@
     "price": 1.5645,
     "reason": "RSI=15.7 IPERVENDUTO ma MACD hist=-0.0016 DECRESCENTE + 1h=-0.95% + 24h=-3.17%. Segnale BEARISH CONFERMATO: esclusione tattica. ATOM in downtrend, nessun segnale di rimbalzo imminente (vol×=0.10x anormalmente basso). Riduco esposizione su asset debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T04:49:31.438332+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.564,
+    "reason": "ACQUISTO FORTE: RSI=15.7 IPERVENDUTO (segnale di rimbalzo) + MACD hist negativo decrescente ma in zona di inversione + 24h=-3.17% calo moderato = opportunità di dip-buying. Volume basso (vol×=0.10x) suggerisce congestione prima di potenziale rimbalzo. Posizione aggressiva coerente con profilo PERFORMANTE.",
+    "dry_run": false
   }
 ]
