@@ -79,5 +79,14 @@
     "price": 1493.28,
     "reason": "RSI=70.1 IPERCOMPRATO + MACD hist=+0.3330 ma in decelerazione relativa vs BTC. Segnale VENDITA MEDIA: blocco profitti su ETH (1.08% in 24h) prima correzione. Posizione piccola (€19.37 notionale), uscita parziale strategica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T04:30:59.566120+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.5645,
+    "reason": "RSI=15.7 IPERVENDUTO ma MACD hist=-0.0016 DECRESCENTE + 1h=-0.95% + 24h=-3.17%. Segnale BEARISH CONFERMATO: esclusione tattica. ATOM in downtrend, nessun segnale di rimbalzo imminente (vol×=0.10x anormalmente basso). Riduco esposizione su asset debole.",
+    "dry_run": false
   }
 ]
