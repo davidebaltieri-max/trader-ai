@@ -115,5 +115,14 @@
     "price": 6.905,
     "reason": "ACQUISTO MEDIO: RSI=56.3 neutrale + MACD=hist=+0.0003 BULLISH_CROSS confermato ↑crescente + 1h=+0.44% 4h=+0.44% momentum positivo consistente + vol×=0.46x stabile. Infrastruttura DeFi in diversificazione strategica, segnale tecnico pulito senza ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T05:01:08.511673+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 61.725,
+    "reason": "RSI=83.5 (IPERCOMPRATO) + 1h=+1.18% con volatilità elevata (0.31%) + vol×=4.67x (picco di volume). Segnale di VENDITA FORTE: correzione imminente probabile. Realizzo profitti su momentum estremo.",
+    "dry_run": false
   }
 ]
