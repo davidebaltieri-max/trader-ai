@@ -25,5 +25,14 @@
     "price": 1.563,
     "reason": "ATOM in IPERVENDUTO (RSI=16.2) con MACD hist negativo decrescente e trend ribassista confermato (-0.51% 1h, -0.83% 4h, -3.58% 24h). Vendita per realizzare perdita controllata e liberare slot per opportunità più promettenti. Volume basso (0.10x) suggerisce assenza di interesse buyers.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T02:01:07.955542+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 20.0,
+    "price": 55354.095,
+    "reason": "BTC in IPERCOMPRATO (RSI=73.8) a risk correzione. MACD hist positivo ma RSI estremo storico a questi livelli precede pullback. Vendita parziale posizione minuscola (0.00368688 BTC) per secured profit e liberare capitale.",
+    "dry_run": false
   }
 ]
