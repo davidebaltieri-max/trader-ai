@@ -61,5 +61,14 @@
     "price": 60.97,
     "reason": "SOL RSI=73.2 IPERCOMPRATO (>70). Segnale VENDITA MEDIA confermato: 1h=+0.53% ma RSI eccessivamente esteso dopo rally 24h=+0.79%. MACD hist positivo crescente, ma l'ipercompra su timeframe 30min rappresenta zona di presa profitti. Riduco posizione per realizzare guadagni e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T04:30:57.853095+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 61.38,
+    "reason": "RSI=80.9 IPERCOMPRATO + vol×=3.35x picco anomalo + 1h=+0.66% in zona estrema. Segnale VENDITA FORTE: realizzo profitto su momentum speculativo. SOL ha già +2.69% in 24h, rischio correzione imminente.",
+    "dry_run": false
   }
 ]
