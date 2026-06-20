@@ -43,5 +43,14 @@
     "price": 5.185,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma trend già esteso. AVAX ha perso -5.82% in 24h. Riduco esposizione su posizione gonfiata per raccogliere profitti parziali e liberare liquidità. Posizionamento difensivo con portafoglio pieno.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T03:01:05.876070+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.559,
+    "reason": "RSI=15.7 IPERVENDUTO ma MACD hist negativo decrescente (trend ribassista in corso). ATOM ha perso -3.17% in 24h. Pur essendo tecnicamente vicino a rimbalzo, momentum è ancora al ribasso. Vendo per ridurre esposizione e attendere conferma di inversione su MACD prima di ri-accumulate.",
+    "dry_run": false
   }
 ]
