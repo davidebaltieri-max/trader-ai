@@ -97,5 +97,14 @@
     "price": 1.564,
     "reason": "ACQUISTO FORTE: RSI=15.7 IPERVENDUTO (segnale di rimbalzo) + MACD hist negativo decrescente ma in zona di inversione + 24h=-3.17% calo moderato = opportunità di dip-buying. Volume basso (vol×=0.10x) suggerisce congestione prima di potenziale rimbalzo. Posizione aggressiva coerente con profilo PERFORMANTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-20T04:49:32.382211+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 61.815,
+    "reason": "VENDITA FORTE: RSI=84.0 IPERCOMPRATO estremo + 1h=+1.30% 4h=+1.85% momentum eccessivo + vol×=4.32x volume anomalo suggerisce esaurimento della spinta rialzista. Presa di profitto tattica su asset già performante (+3.35% 24h). Riduce esposizione al rischio di correzione.",
+    "dry_run": false
   }
 ]
