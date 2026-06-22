@@ -25,5 +25,14 @@
     "price": 1.592,
     "reason": "RSI=78.5 IPERCOMPRATO + momentum rialzista in esaurimento. ATOM ha registrato +2.58% in 24h su volumi alti (1.52x). Realizza profitti prima della correzione attesa. Slot liberato per opportunità future.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-22T10:01:11.166201+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.445,
+    "reason": "BEARISH_CROSS confermato su MACD (hist=-0.0013) + RSI=54.8 neutro + calo 4h=-0.91%. Trend ribassista in corso. Riduzione posizione per preservare capitale.",
+    "dry_run": false
   }
 ]
