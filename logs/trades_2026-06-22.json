@@ -16,5 +16,14 @@
     "price": 1.571,
     "reason": "RSI=66.3 ipercomprato (>60), 1h negativo (-0.13%), MACD hist crescente suggerisce possibile correzione. Vendita media per liberare slot e incassare. Prezzo supportato da vol× basso (0.14), exit ordinata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-22T10:01:10.066416+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.592,
+    "reason": "RSI=78.5 IPERCOMPRATO + momentum rialzista in esaurimento. ATOM ha registrato +2.58% in 24h su volumi alti (1.52x). Realizza profitti prima della correzione attesa. Slot liberato per opportunità future.",
+    "dry_run": false
   }
 ]
