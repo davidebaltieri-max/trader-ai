@@ -7,5 +7,14 @@
     "price": 5.635,
     "reason": "RSI=72.7 IPERCOMPRATO (>70) con volatilità alta +0.59%. AVAX ha segnato +2.92% in 24h e +1.62% in 4h. Realizza profitti prima della correzione attesa. Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-23T20:31:16.124730+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.795,
+    "reason": "RSI=66.7 (prossimo al sovrabbottamento >70) con momentum positivo ma volat bassa +0.37% e vol× basso +0.28x. Realizza profitti su posizione in rialzo (+1.27% 1h/4h) prima dell'esaurimento del movimento.",
+    "dry_run": false
   }
 ]
