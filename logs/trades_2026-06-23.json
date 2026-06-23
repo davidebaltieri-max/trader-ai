@@ -34,5 +34,14 @@
     "price": 5.7,
     "reason": "RSI=73.3 (IPERCOMPRATO) + 24h=+4.97% (gain significativo) + volatilità elevata 0.51%. Profit-taking su posizione in momentum rialzista ma ormai satura. Libera liquidità per dip-buying su ATOM.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-23T23:53:27.535940+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 61.19,
+    "reason": "RSI=73.1 (IPERCOMPRATO) + vol×=1.60x (volume elevato) + 24h=-2.77% (divergenza negativa). Vendi prima di possibile correzione. Posizione piccola, riduzione tattica.",
+    "dry_run": false
   }
 ]
