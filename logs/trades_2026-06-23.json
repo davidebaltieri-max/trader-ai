@@ -16,5 +16,14 @@
     "price": 0.795,
     "reason": "RSI=66.7 (prossimo al sovrabbottamento >70) con momentum positivo ma volat bassa +0.37% e vol× basso +0.28x. Realizza profitti su posizione in rialzo (+1.27% 1h/4h) prima dell'esaurimento del movimento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-23T20:31:17.432392+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.514,
+    "reason": "RSI=30.8 (ipervenduto) MA MACD hist NEGATIVO e DECRESCENTE (-0.0005). Segnale BEARISH confermato. Sell per contenere perdite su posizione debole (-5.38% 24h). Stop loss preventivo.",
+    "dry_run": false
   }
 ]
