@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-23T20:31:14.855064+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.635,
+    "reason": "RSI=72.7 IPERCOMPRATO (>70) con volatilità alta +0.59%. AVAX ha segnato +2.92% in 24h e +1.62% in 4h. Realizza profitti prima della correzione attesa. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
+  }
+]
