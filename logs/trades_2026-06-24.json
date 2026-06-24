@@ -16,5 +16,14 @@
     "price": 61.225,
     "reason": "RSI=76.1 IPERCOMPRATO (>70). MACD hist positivo ma crescente mostra esaurimento momentum. Vol×=0.75 in calo. Vendita di riduzione rischio su posizione sovrabbondante tecnicamente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-24T02:31:06.803203+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.645,
+    "reason": "MACD BEARISH_CROSS confermato (hist=-0.0002 decrescente). 1h=-1.57% negativa. Volatilità alta +0.68%. Segnale VENDITA MEDIA per contenere perdite su posizione in debolezza tecnica.",
+    "dry_run": false
   }
 ]
