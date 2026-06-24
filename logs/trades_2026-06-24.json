@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-24T02:31:04.362817+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.805,
+    "reason": "RSI=100.0 IPERCOMPRATO estremo (>70 confermato). Volume×=2.30 molto elevato indica possibile inversione. Volatile +0.37%. Vendita tattica per realizzare guadagni e ridurre rischio su posizione che ha raggiunto picco tecnico.",
+    "dry_run": false
+  }
+]
