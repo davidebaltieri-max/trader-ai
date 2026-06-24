@@ -7,5 +7,14 @@
     "price": 0.805,
     "reason": "RSI=100.0 IPERCOMPRATO estremo (>70 confermato). Volume×=2.30 molto elevato indica possibile inversione. Volatile +0.37%. Vendita tattica per realizzare guadagni e ridurre rischio su posizione che ha raggiunto picco tecnico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-24T02:31:05.553451+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 18.0,
+    "price": 61.225,
+    "reason": "RSI=76.1 IPERCOMPRATO (>70). MACD hist positivo ma crescente mostra esaurimento momentum. Vol×=0.75 in calo. Vendita di riduzione rischio su posizione sovrabbondante tecnicamente.",
+    "dry_run": false
   }
 ]
