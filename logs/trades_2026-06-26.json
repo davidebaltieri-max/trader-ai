@@ -61,5 +61,14 @@
     "price": 52287.385,
     "reason": "RSI=50.0 neutrale + MACD hist=+0.7905 ↑crescente (più alto tra tutti gli asset) + 24h=+0.40% + vol×=+0.34. Segnale ACQUISTO MEDIO: Bitcoin mostra momentum rialzista puro senza surriscaldamento. Dip-buying su movimento stabile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T20:30:59.732294+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 63.955,
+    "reason": "RSI=71.6 IPERCOMPRATO + MACD hist positivo ma momentum sta saturando. SOL ha già +9.91% in 24h, profitto significativo realizzato. Riduci esposizione prima della correzione inevitabile.",
+    "dry_run": false
   }
 ]
