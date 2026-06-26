@@ -88,5 +88,14 @@
     "price": 0.755,
     "reason": "RSI=75.0 IPERCOMPRATO 🔴 + 24h=-3.85% (divergenza negativa: RSI altissimo ma prezzo scende). MACD hist positivo ma volume molto basso (vol×=0.56). Segnale di debolezza. Riduci prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T23:01:04.010116+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.745,
+    "reason": "RSI=75.0 (IPERCOMPRATO) + MACD hist positivo ma senza cross rialzista confermato + 24h=-3.85%. Correzione tecnica probabile. Realizzo profitti parziali su posizione sovraccarica.",
+    "dry_run": false
   }
 ]
