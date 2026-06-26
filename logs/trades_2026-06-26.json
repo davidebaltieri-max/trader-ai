@@ -97,5 +97,14 @@
     "price": 0.745,
     "reason": "RSI=75.0 (IPERCOMPRATO) + MACD hist positivo ma senza cross rialzista confermato + 24h=-3.85%. Correzione tecnica probabile. Realizzo profitti parziali su posizione sovraccarica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T23:01:05.674336+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.735,
+    "reason": "RSI=74.6 (IPERCOMPRATO) + BULLISH_CROSS recente ma already +5.13% in 24h e vol×=1.58x (estremo). Riduco esposizione prima della correzione fisiologica su posizione in rally.",
+    "dry_run": false
   }
 ]
