@@ -16,5 +16,14 @@
     "price": 0.755,
     "reason": "RSI=75.0 IPERCOMPRATO + 1h=+0.00% (neutro) + 24h=-3.85% (weakness sottostante). Divergenza negativa: momentum 4h positivo ma performance 24h negativa. Vendo parte per ridurre rischio e riallocare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T18:31:04.298872+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 16.58,
+    "price": 6.425,
+    "reason": "RSI=75.7 IPERCOMPRATO + 1h=-0.15% (negativo). Segnale di correzione in corso. Volume×=+0.49x moderato. Vendo per protezione e per consolidare la posizione.",
+    "dry_run": false
   }
 ]
