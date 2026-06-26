@@ -7,5 +7,14 @@
     "price": 63.495,
     "reason": "RSI=75.0 IPERCOMPRATO + 1h=-0.25% (negativo). SOL ha segnato +9.22% in 24h con momentum forte ma ora mostra ipercomprato. Riduco posizione per proteggere guadagni e liberare slot per dip-buying su altri asset.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T18:31:03.087347+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.755,
+    "reason": "RSI=75.0 IPERCOMPRATO + 1h=+0.00% (neutro) + 24h=-3.85% (weakness sottostante). Divergenza negativa: momentum 4h positivo ma performance 24h negativa. Vendo parte per ridurre rischio e riallocare.",
+    "dry_run": false
   }
 ]
