@@ -70,5 +70,14 @@
     "price": 63.955,
     "reason": "RSI=71.6 IPERCOMPRATO + MACD hist positivo ma momentum sta saturando. SOL ha già +9.91% in 24h, profitto significativo realizzato. Riduci esposizione prima della correzione inevitabile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T20:31:00.808227+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 18.0,
+    "price": 0.1298,
+    "reason": "RSI=71.8 IPERCOMPRATO + volatilità alta (0.77%). ADA a +4.59% 24h, posizione già profittevole. MACD hist quasi piatto (0.0001) = momentum debole nonostante RSI elevato. Exit parziale prudenziale.",
+    "dry_run": false
   }
 ]
