@@ -52,5 +52,14 @@
     "price": 6.395,
     "reason": "RSI=65.1 (prossimo a ipercomprato ma non ancora) + MACD hist=+0.0101 crescente + vol×=+0.59 + segnale ACQUISTO MEDIO confermato. LINK è infrastruttura DeFi fondamentale, momentum costruisce gradualmente. Entro con posizione strategica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T19:01:08.552662+00:00",
+    "action": "buy",
+    "pair": "BTC-EUR",
+    "amount_eur": 18.0,
+    "price": 52287.385,
+    "reason": "RSI=50.0 neutrale + MACD hist=+0.7905 ↑crescente (più alto tra tutti gli asset) + 24h=+0.40% + vol×=+0.34. Segnale ACQUISTO MEDIO: Bitcoin mostra momentum rialzista puro senza surriscaldamento. Dip-buying su movimento stabile.",
+    "dry_run": false
   }
 ]
