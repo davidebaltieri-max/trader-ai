@@ -79,5 +79,14 @@
     "price": 0.1298,
     "reason": "RSI=71.8 IPERCOMPRATO + volatilità alta (0.77%). ADA a +4.59% 24h, posizione già profittevole. MACD hist quasi piatto (0.0001) = momentum debole nonostante RSI elevato. Exit parziale prudenziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T20:31:01.850297+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.755,
+    "reason": "RSI=75.0 IPERCOMPRATO 🔴 + 24h=-3.85% (divergenza negativa: RSI altissimo ma prezzo scende). MACD hist positivo ma volume molto basso (vol×=0.56). Segnale di debolezza. Riduci prima della correzione.",
+    "dry_run": false
   }
 ]
