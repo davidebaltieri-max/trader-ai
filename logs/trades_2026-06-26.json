@@ -25,5 +25,14 @@
     "price": 6.425,
     "reason": "RSI=75.7 IPERCOMPRATO + 1h=-0.15% (negativo). Segnale di correzione in corso. Volume×=+0.49x moderato. Vendo per protezione e per consolidare la posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-26T19:01:05.549841+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.745,
+    "reason": "RSI=75.0 IPERCOMPRATO + 1h=-1.32% + 24h=-5.06%. Segnale VENDITA MEDIA confermato. DOT mostra esaurimento rialzista con pressione ribassista nelle ultime ore. Realizzo profitti su posizione large (114.86 unità).",
+    "dry_run": false
   }
 ]
