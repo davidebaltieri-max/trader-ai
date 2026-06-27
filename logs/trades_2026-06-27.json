@@ -7,5 +7,14 @@
     "price": 1.395,
     "reason": "ATOM in IPERVENDUTO (RSI=21.7) ma MACD hist negativo e decrescente. Momentum ribassista confermato su 4h (-1.14%) e 24h (-1.14%). Posizione in calo, nessun segnale di rimbalzo imminente. Realizzo perdita limitata e libero capitale per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-27T02:30:59.144762+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 63.155,
+    "reason": "SOL momentum contrastante: +8.54% 24h ma RSI=36.6 (zona neutra bassa) con MACD hist negativo e decrescente. Volume elevato (1.41x) suggerisce esaurimento spinta rialzista. Realizzo profitti parziali da +8.54% giornaliero.",
+    "dry_run": false
   }
 ]
