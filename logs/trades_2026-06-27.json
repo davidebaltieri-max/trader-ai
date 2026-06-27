@@ -34,5 +34,14 @@
     "price": 0.745,
     "reason": "DOT IPERVENDUTO (RSI=25.0) ma BEARISH_CROSS confermato su MACD con hist decrescente. Cali multiframe (1h=-1.33%, 4h=-1.33%, 24h=-1.33%) indicano pressione ribassista strutturale. Volume basso (0.19x) suggerisce scarso supporto. Vendita conservativa per ridurre posizioni deboli e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-27T08:01:10.494921+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1294,
+    "reason": "ADA in zona neutra (RSI=44.4) ma MACD hist decrescente e BEARISH_CROSS confermato. Calo 4h=-0.46% con volatilità elevata (0.31%) senza supporto rialzista. Vendita parziale per ridurre exposure su posizione debole.",
+    "dry_run": false
   }
 ]
