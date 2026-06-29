@@ -70,5 +70,14 @@
     "price": 1.3385,
     "reason": "ATOM in IPERVENDUTO (RSI=15.7) ma MACD hist decrescente e 24h=-3.76% con 4h=-3.06%. Momentum ribassista confermato. Riduco posizione per liberare liquidità e contenere perdite su trend negativo strutturale. Vendo €25 (≈18.7 unità) mantenendo core holding.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T16:44:32.805002+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.715,
+    "reason": "DOT: RSI=33.3 (limite inferiore zona neutra), ma 1h=-1.39% 4h=-1.39% con vol×=2.97x (volume spike in fase negativa). MACD hist decrescente. Breakout ribassista confermato da volume. Vendo €18 (≈25.2 unità) per de-risking.",
+    "dry_run": false
   }
 ]
