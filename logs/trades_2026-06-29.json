@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-29T09:31:04.391348+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.715,
+    "reason": "RSI=75.0 IPERCOMPRATO (>70) — correzione probabile. Momentum decrescente necessario per ridurre rischio su posizione sovraesposta. Realistico take profit su rally recente.",
+    "dry_run": false
+  }
+]
