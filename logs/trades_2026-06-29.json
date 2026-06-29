@@ -16,5 +16,14 @@
     "price": 6.415,
     "reason": "MACD BEARISH_CROSS confermato + hist<0 decrescente + RSI=63.3 in zona media-alta. Segnale VENDITA MEDIA coerente. Ridimensiona posizione infrastruttura DeFi su segnale ribassista.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T09:31:06.915899+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.38,
+    "reason": "MACD BEARISH_CROSS + RSI=55.7 neutrale + hist decrescente. Momentum negativo confermato. Ridimensiona per fare spazio a rotazione verso settori con segnali bullish più forti.",
+    "dry_run": false
   }
 ]
