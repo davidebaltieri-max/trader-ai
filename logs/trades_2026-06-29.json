@@ -34,5 +34,14 @@
     "price": 63.945,
     "reason": "SOL mostra momentum rialzista confermato: RSI 47.2 (zona neutra bassa), MACD hist positivo crescente, 1h +0.14%, 4h +0.46%, 24h +2.39% (trend clear positivo). Volume ×0.83 moderato. Profilo performante + trend solido su timeframe multipli = segnale ACQUISTO MEDIO-FORTE. Posizione piccola in SOL (1.058) non ottimale per profilo aggressivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T10:01:11.417309+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.715,
+    "reason": "DOT è in IPERCOMPRATO confermato: RSI 75.0 (>>70), MACD hist positivo ma già al top della divergenza, volat alta +0.71%. Scenario tipico di correzione imminente. Profilo performante deve ruotare momentum. Riduzione parziale di posizione sovrappesata (114.86 unità) per proteggere profitti e liberare capitale.",
+    "dry_run": false
   }
 ]
