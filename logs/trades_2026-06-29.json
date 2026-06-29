@@ -25,5 +25,14 @@
     "price": 1.38,
     "reason": "MACD BEARISH_CROSS + RSI=55.7 neutrale + hist decrescente. Momentum negativo confermato. Ridimensiona per fare spazio a rotazione verso settori con segnali bullish più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T10:01:10.217959+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 63.945,
+    "reason": "SOL mostra momentum rialzista confermato: RSI 47.2 (zona neutra bassa), MACD hist positivo crescente, 1h +0.14%, 4h +0.46%, 24h +2.39% (trend clear positivo). Volume ×0.83 moderato. Profilo performante + trend solido su timeframe multipli = segnale ACQUISTO MEDIO-FORTE. Posizione piccola in SOL (1.058) non ottimale per profilo aggressivo.",
+    "dry_run": false
   }
 ]
