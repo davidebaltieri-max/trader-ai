@@ -106,5 +106,14 @@
     "price": 1.333,
     "reason": "RSI=17.9 (IPERVENDUTO) + MACD hist negativo decrescente + 4h=-2.12% + 24h=-2.98%. Segnale ribassista confermato. Realizziamo parzialmente per liberare liquidità e ridurre esposizione su asset in trend negativo. Freziamo capitale per opportunità di dip-buying su altri asset con momentum positivo (es. AVAX, SOL, DOT che mantengono trend rialzista).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T18:01:07.292582+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 0.7,
+    "price": 1420.2,
+    "reason": "RSI=73.3 (IPERCOMPRATO) + 1h=-0.11% con volatilità media alta (0.86%). Anche se MACD hist è ancora positivo crescente, l'ipercomprato accentuato suggerisce correzione imminente. Vendiamo posizione minuscola (0.0005 ETH) per bloccare profitti e ridurre rischio in asset sovraelevato. Preserviamo esposizione minimale per upside ma realizziamo parte dei guadagni.",
+    "dry_run": false
   }
 ]
