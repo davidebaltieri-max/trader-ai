@@ -61,5 +61,14 @@
     "price": 1.37,
     "reason": "RSI=25.0 IPERVENDUTO ma MACD hist decrescente (trend ribassista confermato). Volume×6.64 estremo indica vendita istituzionale. 4h=-0.94% + 24h=-1.30% confermano debolezza strutturale. Vendita totale posizione per liberare slot e evitare ulteriore perdita.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T16:44:31.444368+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3385,
+    "reason": "ATOM in IPERVENDUTO (RSI=15.7) ma MACD hist decrescente e 24h=-3.76% con 4h=-3.06%. Momentum ribassista confermato. Riduco posizione per liberare liquidità e contenere perdite su trend negativo strutturale. Vendo €25 (≈18.7 unità) mantenendo core holding.",
+    "dry_run": false
   }
 ]
