@@ -43,5 +43,14 @@
     "price": 0.715,
     "reason": "DOT è in IPERCOMPRATO confermato: RSI 75.0 (>>70), MACD hist positivo ma già al top della divergenza, volat alta +0.71%. Scenario tipico di correzione imminente. Profilo performante deve ruotare momentum. Riduzione parziale di posizione sovrappesata (114.86 unità) per proteggere profitti e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T10:01:12.603079+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 30.0,
+    "price": 1381.745,
+    "reason": "ETH entra in zona di opportunità: RSI 38.8 (sotto 50), MACD hist negativo ma decrescente (possibile inversione prossima), 1h flat +0.04% ma vol × 2.46x (volume ALTO = accumulation). Manca completamente nel portafoglio nonostante profilo aggressivo (large cap essenziale). Questa è aggressione su dip leggero con volume supporting. Segnale ACQUISTO OPPORTUNISTICO.",
+    "dry_run": false
   }
 ]
