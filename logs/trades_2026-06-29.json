@@ -133,5 +133,14 @@
     "price": 1414.805,
     "reason": "ETH non in portafoglio, segnale ACQUISTO FORTE: RSI=69.1 (prossimo a ipercomprato ma ancora in momentum), MACD hist=+4.5282 crescente ↑, 4h=+2.92% + 24h=+2.65% trend rialzista confermato, vol×=+0.97x stabile. Diversificazione su large cap con momentum rialzista. Profilo PERFORMANTE richiede ETH nello spettro. Slot disponibile: 1/7.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T21:01:08.635299+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.825,
+    "reason": "AVAX mostra BEARISH_CROSS su MACD (hist negativo decrescente) + RSI neutro a 60.0 + calo 1h (-0.85%) e 4h (-1.02%). Momentum ribassista confermato. Riduco posizione per liberare capital allocation verso segnali più forti.",
+    "dry_run": false
   }
 ]
