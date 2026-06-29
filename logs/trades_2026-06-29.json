@@ -52,5 +52,14 @@
     "price": 1381.745,
     "reason": "ETH entra in zona di opportunità: RSI 38.8 (sotto 50), MACD hist negativo ma decrescente (possibile inversione prossima), 1h flat +0.04% ma vol × 2.46x (volume ALTO = accumulation). Manca completamente nel portafoglio nonostante profilo aggressivo (large cap essenziale). Questa è aggressione su dip leggero con volume supporting. Segnale ACQUISTO OPPORTUNISTICO.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T13:02:45.966312+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 50.0,
+    "price": 1.37,
+    "reason": "RSI=25.0 IPERVENDUTO ma MACD hist decrescente (trend ribassista confermato). Volume×6.64 estremo indica vendita istituzionale. 4h=-0.94% + 24h=-1.30% confermano debolezza strutturale. Vendita totale posizione per liberare slot e evitare ulteriore perdita.",
+    "dry_run": false
   }
 ]
