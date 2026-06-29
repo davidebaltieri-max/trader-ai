@@ -7,5 +7,14 @@
     "price": 0.715,
     "reason": "RSI=75.0 IPERCOMPRATO (>70) — correzione probabile. Momentum decrescente necessario per ridurre rischio su posizione sovraesposta. Realistico take profit su rally recente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T09:31:05.701460+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 19.89,
+    "price": 6.415,
+    "reason": "MACD BEARISH_CROSS confermato + hist<0 decrescente + RSI=63.3 in zona media-alta. Segnale VENDITA MEDIA coerente. Ridimensiona posizione infrastruttura DeFi su segnale ribassista.",
+    "dry_run": false
   }
 ]
