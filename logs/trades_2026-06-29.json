@@ -79,5 +79,14 @@
     "price": 0.715,
     "reason": "DOT: RSI=33.3 (limite inferiore zona neutra), ma 1h=-1.39% 4h=-1.39% con vol×=2.97x (volume spike in fase negativa). MACD hist decrescente. Breakout ribassista confermato da volume. Vendo €18 (≈25.2 unità) per de-risking.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T17:31:01.593169+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.344,
+    "reason": "ATOM in IPERVENDUTO (RSI=19.1) ma MACD hist decrescente e negativo (-0.0037) con trend ribassista confermato su 4h (-2.62%) e 24h (-3.33%). Segnale di debolezza strutturale, non rimbalzo. Vendita per limitare esposizione a settore in perdita e liberare liquido per opportunità più promettenti.",
+    "dry_run": false
   }
 ]
