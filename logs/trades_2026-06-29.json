@@ -142,5 +142,14 @@
     "price": 5.825,
     "reason": "AVAX mostra BEARISH_CROSS su MACD (hist negativo decrescente) + RSI neutro a 60.0 + calo 1h (-0.85%) e 4h (-1.02%). Momentum ribassista confermato. Riduco posizione per liberare capital allocation verso segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T21:31:02.579133+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 20.0,
+    "price": 1413.915,
+    "reason": "RSI=74.6 (IPERCOMPRATO) + 4h=-0.69% + volatilità alta (+0.83%). Segnale VENDITA MEDIA: correzione probabile dopo rally 24h=+3.03%. Riduco posizione su asset in zona di resistenza.",
+    "dry_run": false
   }
 ]
