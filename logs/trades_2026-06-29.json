@@ -151,5 +151,14 @@
     "price": 1413.915,
     "reason": "RSI=74.6 (IPERCOMPRATO) + 4h=-0.69% + volatilità alta (+0.83%). Segnale VENDITA MEDIA: correzione probabile dopo rally 24h=+3.03%. Riduco posizione su asset in zona di resistenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T23:01:11.855894+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 8.0,
+    "price": 1409.57,
+    "reason": "RSI=70.7 IPERCOMPRATO + MACD BEARISH_CROSS confermato + 1h=-0.30% + 4h=-0.75%. Segnale VENDITA MEDIO-FORTE. Riduco posizione sovraesposta prima di correzione.",
+    "dry_run": false
   }
 ]
