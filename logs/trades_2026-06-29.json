@@ -88,5 +88,14 @@
     "price": 1.344,
     "reason": "ATOM in IPERVENDUTO (RSI=19.1) ma MACD hist decrescente e negativo (-0.0037) con trend ribassista confermato su 4h (-2.62%) e 24h (-3.33%). Segnale di debolezza strutturale, non rimbalzo. Vendita per limitare esposizione a settore in perdita e liberare liquido per opportunità più promettenti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T17:31:02.832971+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 30.0,
+    "price": 1425.05,
+    "reason": "ETH IPERCOMPRATO (RSI=72.7) con volatilità elevata (+0.88%) e volume in aumento (+0.68x). Malgrado MACD positivo crescente, il segnale di ipercomprato su timeframe corto richiede presa di profitto. Movimento +3.28% in 24h consiglia realizzazione.",
+    "dry_run": false
   }
 ]
