@@ -169,5 +169,14 @@
     "price": 65.78,
     "reason": "RSI=70.6 IPERCOMPRATO + MACD hist negativo decrescente + 1h=-0.18% + 4h=-1.05%. Nonostante +5.57% a 24h, il momentum si sta invertendo. Riduco per lock-in parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T23:01:14.200269+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.331,
+    "reason": "RSI=32.8 IPERVENDUTO ma MACD BEARISH_CROSS confermato + 1h=-1.11% + 24h=-3.83%. Vendita tattica per tagliare perdite moderate e liberare capitale per opportunità migliori.",
+    "dry_run": false
   }
 ]
