@@ -115,5 +115,14 @@
     "price": 1420.2,
     "reason": "RSI=73.3 (IPERCOMPRATO) + 1h=-0.11% con volatilità media alta (0.86%). Anche se MACD hist è ancora positivo crescente, l'ipercomprato accentuato suggerisce correzione imminente. Vendiamo posizione minuscola (0.0005 ETH) per bloccare profitti e ridurre rischio in asset sovraelevato. Preserviamo esposizione minimale per upside ma realizziamo parte dei guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T18:30:59.862613+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.342,
+    "reason": "ATOM in ipervenduto (RSI=30.0), segnale di possibile rimbalzo. Volume in aumento (+1.06x). MACD negativo decrescente indica fine trend ribassista imminente. 4h=-0.66% ma 1h=+0.75% suggerisce inversion point. Dip-buying aggressivo su L1 alternativo in correzione. Slot disponibile: 1/7.",
+    "dry_run": false
   }
 ]
