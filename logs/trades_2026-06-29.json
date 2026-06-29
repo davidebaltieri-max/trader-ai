@@ -124,5 +124,14 @@
     "price": 1.342,
     "reason": "ATOM in ipervenduto (RSI=30.0), segnale di possibile rimbalzo. Volume in aumento (+1.06x). MACD negativo decrescente indica fine trend ribassista imminente. 4h=-0.66% ma 1h=+0.75% suggerisce inversion point. Dip-buying aggressivo su L1 alternativo in correzione. Slot disponibile: 1/7.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-06-29T18:31:00.847474+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 30.0,
+    "price": 1414.805,
+    "reason": "ETH non in portafoglio, segnale ACQUISTO FORTE: RSI=69.1 (prossimo a ipercomprato ma ancora in momentum), MACD hist=+4.5282 crescente ↑, 4h=+2.92% + 24h=+2.65% trend rialzista confermato, vol×=+0.97x stabile. Diversificazione su large cap con momentum rialzista. Profilo PERFORMANTE richiede ETH nello spettro. Slot disponibile: 1/7.",
+    "dry_run": false
   }
 ]
