@@ -7,5 +7,14 @@
     "price": 0.1315,
     "reason": "RSI=74.8 IPERCOMPRATO (>70) + MACD hist positivo ma in zona di sovraccompra estrema. ADA ha registrato +3.54% in 24h con vol× basso (0.51). Realizza profitti parziali prima di una possibile correzione. Take profit preventivo su posizione overextended.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-01T07:31:07.226358+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 20.0,
+    "price": 51416.185,
+    "reason": "BTC RSI=54.2 (neutrale) MA MACD hist=-11.3987 ↓BEARISH_CROSS confermato + 1h=-0.06% + 4h=-0.76% + 24h=-1.36%. Trend ribassista in corso. Anche se non raggiunto stop loss rigoroso, la conferma BEARISH_CROSS su BTC (asset core) merita riduzione cautelare della posizione per preservare capitale.",
+    "dry_run": false
   }
 ]
