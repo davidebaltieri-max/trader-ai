@@ -133,5 +133,14 @@
     "price": 0.1489,
     "reason": "RSI=84.9 🔴IPERCOMPRATO (>70) + 1h=+0.27% debole + 4h=+2.12% momentum esaurito. Correzione probabile. Take profit parziale su posizione in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T15:01:09.956737+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1494,
+    "reason": "RSI=85.3 IPERCOMPRATO + 24h=+6.87% (massimo raggiunto). Segnale di vendita forte per prendere profitti. ADA ha performato bene ma è in territorio di ipercomprato con rischio di correzione. Riduzione posizione per proteggere guadagni.",
+    "dry_run": false
   }
 ]
