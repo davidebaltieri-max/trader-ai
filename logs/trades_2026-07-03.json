@@ -70,5 +70,14 @@
     "price": 0.1441,
     "reason": "RSI=64.2 + MACD hist decrescente + 1h=-0.28% (segnale VENDITA MEDIA). ADA mostra debolezza oraria nonostante +5.88% 24h. MACD in inversione ribassista. Realizziamo €15 su posizione sovraesposta (345.39 unità) per ridurre rischio e liberare €30 di liquidità per dip-buying opportunistico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T12:54:09.232681+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1473,
+    "reason": "RSI=80.6 IPERCOMPRATO + 1h=-0.47% negativo. Segnale VENDITA MEDIA confermato. ADA ha avuto rialzo 24h=+5.14%, raggiunto livelli di sovrabbondanza. Realizzo profitti parziali prima di eventuale correzione.",
+    "dry_run": false
   }
 ]
