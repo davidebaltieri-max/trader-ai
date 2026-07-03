@@ -241,5 +241,14 @@
     "price": 6.945,
     "reason": "LINK RSI=71.4 (IPERCOMPRATO) + MACD hist=+0.0068 debole + vol×=8.90 (volatilità molto alta, rischio pullback). Nonostante momentum rialzista, RSI elevato e volatilità estrema richiedono realizzazione parziale di profitti (+2.36% 24h).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T21:31:09.007885+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.775,
+    "reason": "RSI=80.0 IPERCOMPRATO + volatilità elevata 0.67% + già +5.48% in 24h. Posizione in overbought. Realizza profitti parziali prima di possibile correzione.",
+    "dry_run": false
   }
 ]
