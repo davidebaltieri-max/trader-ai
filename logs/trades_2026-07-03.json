@@ -178,5 +178,14 @@
     "price": 0.1496,
     "reason": "RSI=83.1 IPERCOMPRATO + 24h=+6.85% (gain significativo). ADA ha raggiunto condizioni di estremo rialzo con momentum che può invertire. Vendita parziale per cristallizzare gains e liberare liquidità per opportunità migliori su dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T15:31:01.473104+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.765,
+    "reason": "RSI=71.4 IPERCOMPRATO + 4h=+4.05% molto aggressivo in short timeframe. Anche con MACD positivo, il livello RSI richiede take profit. DOT ha performato bene (+2.67% in 24h), realizzo profitti.",
+    "dry_run": false
   }
 ]
