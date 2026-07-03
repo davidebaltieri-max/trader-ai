@@ -16,5 +16,14 @@
     "price": 5.965,
     "reason": "RSI=71.4 IPERCOMPRATO + MACD hist positivo crescente (saturazione). Sebbene AVAX abbia momentum, l'ipercomprato è evidente. Vendita parziale per de-risking su una posizione che ha già performato (+1.36% 24h). Libero liquidità per opportunità in dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T04:01:12.434899+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 30.0,
+    "price": 0.1455,
+    "reason": "RSI=72.3 IPERCOMPRATO + 1h=+0.00% (momentum frenato) + MACD hist positivo ma in zona di possibile inversione dopo rally 24h=+7.21%. Vendita tattica su picco di ipercomprato per realizzare guadagni e liberare slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
