@@ -52,5 +52,14 @@
     "price": 0.1444,
     "reason": "RSI=62.1 in zona media-alta + MACD hist decrescente indica perdita di momentum. ADA ha performato bene (+6.10% 24h) ma segnali tecnici si indeboliscono. Riduco posizione sovra-concentrata (345.39 unità) e realizzo parziali profitti per gestione del rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T07:31:03.304018+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3805,
+    "reason": "RSI=70.3 🔴IPERCOMPRATO (segnale VENDITA MEDIA). ATOM ha raggiunto zona di ipercompra con MACD hist positivo crescente ma RSI>70 indica correzione imminente. Realizziamo profitti parziali (123.62 unità = ~€170.38 totali). Vendita da €25 riduce esposizione al ribasso preservando upside.",
+    "dry_run": false
   }
 ]
