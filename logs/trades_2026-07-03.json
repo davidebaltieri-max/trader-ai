@@ -187,5 +187,14 @@
     "price": 0.765,
     "reason": "RSI=71.4 IPERCOMPRATO + 4h=+4.05% molto aggressivo in short timeframe. Anche con MACD positivo, il livello RSI richiede take profit. DOT ha performato bene (+2.67% in 24h), realizzo profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T16:01:20.939726+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1526,
+    "reason": "RSI=88.0 🔴IPERCOMPRATO (>70). ADA ha avuto rally forte +9.17% in 24h con volume elevato (+1.35x). Segnale VENDITA FORTE: RSI estremo + MACD hist positivo ma in zona di ipercomprato. Realizzo profitti su questa posizione overextended prima della correzione attesa.",
+    "dry_run": false
   }
 ]
