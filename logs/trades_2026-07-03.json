@@ -97,5 +97,14 @@
     "price": 6.845,
     "reason": "LINK mostra segnale ACQUISTO MEDIO: RSI=65.4 (zona neutra-alta), MACD hist=+0.0041 (positivo crescente), 4h=+0.74%, vol×=+1.61x (volume in aumento). Momentum rialzista confermato senza ipercomprato. Infrastruttura DeFi in trend positivo multi-timeframe. €25 per capitalizzare momentum moderato-forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T13:01:17.529789+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.393,
+    "reason": "ATOM mostra VENDITA MEDIA: RSI=76.4 🔴IPERCOMPRATO (>70), MACD hist=+0.0013 (positivo ma estremamente debole, quasi flat), vol×=+2.94x (altissimo volume). Segnale di ipercomprato con momentum che si sta esaurendo. Liquidazione parziale (30€ su posizione di €172) per proteggere gains e ridurre esposizione a correzione.",
+    "dry_run": false
   }
 ]
