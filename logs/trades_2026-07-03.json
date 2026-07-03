@@ -79,5 +79,14 @@
     "price": 0.1473,
     "reason": "RSI=80.6 IPERCOMPRATO + 1h=-0.47% negativo. Segnale VENDITA MEDIA confermato. ADA ha avuto rialzo 24h=+5.14%, raggiunto livelli di sovrabbondanza. Realizzo profitti parziali prima di eventuale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T12:54:10.253892+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 1.83,
+    "price": 1514.935,
+    "reason": "RSI=76.7 IPERCOMPRATO + 1h=-0.40% negativo. Segnale VENDITA MEDIA. ETH ha performato bene (+4.38% 24h), RSI molto elevato suggerisce correzione imminente. Riduco posizione prima del pullback.",
+    "dry_run": false
   }
 ]
