@@ -169,5 +169,14 @@
     "price": 0.765,
     "reason": "RSI=71.4 IPERCOMPRATO (>70) + volatilità elevata (0.83%) + MACD hist positivo ma senza conferma di continuazione. Proteggi profitti dopo +2.67% 24h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T15:31:00.538011+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1496,
+    "reason": "RSI=83.1 IPERCOMPRATO + 24h=+6.85% (gain significativo). ADA ha raggiunto condizioni di estremo rialzo con momentum che può invertire. Vendita parziale per cristallizzare gains e liberare liquidità per opportunità migliori su dip.",
+    "dry_run": false
   }
 ]
