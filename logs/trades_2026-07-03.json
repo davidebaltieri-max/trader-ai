@@ -223,5 +223,14 @@
     "price": 0.1585,
     "reason": "ADA RSI=84.5 (IPERCOMPRATO massimo) + 1h=-0.75% (momentum negativo) + MACD hist crescente ma in zona di estrema ipercompra. Realizzo profitti su posizione in guadagno (+12.97% 24h) per ridurre il rischio di correzione. Vendo €25 su 345.39 unità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T20:01:19.118400+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.775,
+    "reason": "DOT RSI=75.0 (IPERCOMPRATO) + MACD hist positivo ma debole (+0.0013) + vol×=0.68 (volume basso). Posizione in forte guadagno (+5.48% 24h) ma RSI al limite superiore suggerisce correzione imminente. Realizzo profitti parziali.",
+    "dry_run": false
   }
 ]
