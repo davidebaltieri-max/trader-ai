@@ -214,5 +214,14 @@
     "price": 6.865,
     "reason": "MACD BEARISH_CROSS confermato (hist<0 decrescente) + vol×=2.90x elevato indica accumulo di selling pressure. RSI=62.5 in zona neutra-alta. Esco parzialmente per ridurre esposizione su segnale ribassista confermato",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T20:01:18.002303+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1585,
+    "reason": "ADA RSI=84.5 (IPERCOMPRATO massimo) + 1h=-0.75% (momentum negativo) + MACD hist crescente ma in zona di estrema ipercompra. Realizzo profitti su posizione in guadagno (+12.97% 24h) per ridurre il rischio di correzione. Vendo €25 su 345.39 unità.",
+    "dry_run": false
   }
 ]
