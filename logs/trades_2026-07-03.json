@@ -115,5 +115,14 @@
     "price": 1.3945,
     "reason": "RSI=82.8 IPERCOMPRATO + volume anomalo (vol×=4.98x) indica distribuzione. MACD hist positivo ma l'ipercomprato su timeframe breve espone a correzione. Realizzo profitti parziali (ATOM +2.34% 24h) su una posizione stratosferica in RSI.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T13:31:10.358127+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1489,
+    "reason": "RSI=80.8 IPERCOMPRATO + 1h=+1.29% indica momentum exhaustion probabile. ADA ha già performato (+5.83% 24h), segnale classico di presa di profitti. MACD hist quasi al limite (0.0002), rischio di inversione.",
+    "dry_run": false
   }
 ]
