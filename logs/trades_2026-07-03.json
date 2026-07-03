@@ -250,5 +250,14 @@
     "price": 0.775,
     "reason": "RSI=80.0 IPERCOMPRATO + volatilità elevata 0.67% + già +5.48% in 24h. Posizione in overbought. Realizza profitti parziali prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T21:31:10.236275+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1565,
+    "reason": "RSI=74.4 IPERCOMPRATO + volatilità alta 1.02% + gain +11.54% in 24h. Segnale di take profit su momentum esplosivo. Cassa per opportunità su dip.",
+    "dry_run": false
   }
 ]
