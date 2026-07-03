@@ -142,5 +142,14 @@
     "price": 0.1494,
     "reason": "RSI=85.3 IPERCOMPRATO + 24h=+6.87% (massimo raggiunto). Segnale di vendita forte per prendere profitti. ADA ha performato bene ma è in territorio di ipercomprato con rischio di correzione. Riduzione posizione per proteggere guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T15:01:10.862037+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.765,
+    "reason": "RSI=71.4 IPERCOMPRATO + MACD hist crescente ma volume basso (vol×=0.34x). 4h=+4.05% conferma il movimento al rialzo già significativo. Vendita parziale per realizzare profitti e ridurre rischio di correzione.",
+    "dry_run": false
   }
 ]
