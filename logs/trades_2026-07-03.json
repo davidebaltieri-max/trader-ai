@@ -88,5 +88,14 @@
     "price": 1514.935,
     "reason": "RSI=76.7 IPERCOMPRATO + 1h=-0.40% negativo. Segnale VENDITA MEDIA. ETH ha performato bene (+4.38% 24h), RSI molto elevato suggerisce correzione imminente. Riduco posizione prima del pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T13:01:15.984872+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 6.845,
+    "reason": "LINK mostra segnale ACQUISTO MEDIO: RSI=65.4 (zona neutra-alta), MACD hist=+0.0041 (positivo crescente), 4h=+0.74%, vol×=+1.61x (volume in aumento). Momentum rialzista confermato senza ipercomprato. Infrastruttura DeFi in trend positivo multi-timeframe. €25 per capitalizzare momentum moderato-forte.",
+    "dry_run": false
   }
 ]
