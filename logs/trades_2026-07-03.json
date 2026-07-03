@@ -124,5 +124,14 @@
     "price": 0.1489,
     "reason": "RSI=80.8 IPERCOMPRATO + 1h=+1.29% indica momentum exhaustion probabile. ADA ha già performato (+5.83% 24h), segnale classico di presa di profitti. MACD hist quasi al limite (0.0002), rischio di inversione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T14:31:03.200984+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1489,
+    "reason": "RSI=84.9 🔴IPERCOMPRATO (>70) + 1h=+0.27% debole + 4h=+2.12% momentum esaurito. Correzione probabile. Take profit parziale su posizione in ipercomprato.",
+    "dry_run": false
   }
 ]
