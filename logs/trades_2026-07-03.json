@@ -232,5 +232,14 @@
     "price": 0.775,
     "reason": "DOT RSI=75.0 (IPERCOMPRATO) + MACD hist positivo ma debole (+0.0013) + vol×=0.68 (volume basso). Posizione in forte guadagno (+5.48% 24h) ma RSI al limite superiore suggerisce correzione imminente. Realizzo profitti parziali.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T20:01:20.260590+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 6.945,
+    "reason": "LINK RSI=71.4 (IPERCOMPRATO) + MACD hist=+0.0068 debole + vol×=8.90 (volatilità molto alta, rischio pullback). Nonostante momentum rialzista, RSI elevato e volatilità estrema richiedono realizzazione parziale di profitti (+2.36% 24h).",
+    "dry_run": false
   }
 ]
