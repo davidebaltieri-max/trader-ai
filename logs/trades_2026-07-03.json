@@ -106,5 +106,14 @@
     "price": 1.393,
     "reason": "ATOM mostra VENDITA MEDIA: RSI=76.4 🔴IPERCOMPRATO (>70), MACD hist=+0.0013 (positivo ma estremamente debole, quasi flat), vol×=+2.94x (altissimo volume). Segnale di ipercomprato con momentum che si sta esaurendo. Liquidazione parziale (30€ su posizione di €172) per proteggere gains e ridurre esposizione a correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T13:31:09.227431+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3945,
+    "reason": "RSI=82.8 IPERCOMPRATO + volume anomalo (vol×=4.98x) indica distribuzione. MACD hist positivo ma l'ipercomprato su timeframe breve espone a correzione. Realizzo profitti parziali (ATOM +2.34% 24h) su una posizione stratosferica in RSI.",
+    "dry_run": false
   }
 ]
