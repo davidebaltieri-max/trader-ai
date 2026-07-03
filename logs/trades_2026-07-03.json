@@ -259,5 +259,14 @@
     "price": 0.1565,
     "reason": "RSI=74.4 IPERCOMPRATO + volatilità alta 1.02% + gain +11.54% in 24h. Segnale di take profit su momentum esplosivo. Cassa per opportunità su dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T21:31:11.310941+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 6.975,
+    "reason": "RSI=73.3 IPERCOMPRATO + MACD hist positivo ma in plateau. Profit-taking su asset infrastrutturale dopo rally. Libera liquidità.",
+    "dry_run": false
   }
 ]
