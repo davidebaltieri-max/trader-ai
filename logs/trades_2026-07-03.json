@@ -7,5 +7,14 @@
     "price": 0.1437,
     "reason": "RSI=73.3 IPERCOMPRATO + MACD hist positivo crescente (momentum saturo su timeframe breve). ADA ha registrato +6.13% in 24h con volume×2.63 (picco). Segnale di vendita media: realizzo profitti su posizione sovraesposta prima di possibile correzione. Slot liberato per rotazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T01:31:08.521058+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.965,
+    "reason": "RSI=71.4 IPERCOMPRATO + MACD hist positivo crescente (saturazione). Sebbene AVAX abbia momentum, l'ipercomprato è evidente. Vendita parziale per de-risking su una posizione che ha già performato (+1.36% 24h). Libero liquidità per opportunità in dip.",
+    "dry_run": false
   }
 ]
