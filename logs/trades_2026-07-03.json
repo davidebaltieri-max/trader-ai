@@ -205,5 +205,14 @@
     "price": 0.1507,
     "reason": "RSI=78.9 IPERCOMPRATO (>70) + 24h=+7.94% rally forte suggerisce correzione imminente. ADA ha avuto momentum rialzista eccezionale; realizzo profitti prima della possibile pull-back. Vendo ~165 unità a €0.1507",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-03T16:31:02.632986+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 6.865,
+    "reason": "MACD BEARISH_CROSS confermato (hist<0 decrescente) + vol×=2.90x elevato indica accumulo di selling pressure. RSI=62.5 in zona neutra-alta. Esco parzialmente per ridurre esposizione su segnale ribassista confermato",
+    "dry_run": false
   }
 ]
