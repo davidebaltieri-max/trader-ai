@@ -43,5 +43,14 @@
     "price": 0.1666,
     "reason": "RSI=74.7 🔴IPERCOMPRATO. Performance +1.22% in 4h ma indicatore segnala correzione imminente. Riduzione tattica in zona di resistenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-05T17:31:05.451474+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 15.0,
+    "price": 6.075,
+    "reason": "RSI=74.3 🔴IPERCOMPRATO. Sebbene AVAX mostri momentum positivo (+1.50% 24h), RSI suggerisce pullback probabile. Profit-taking tattico prima di correzione.",
+    "dry_run": false
   }
 ]
