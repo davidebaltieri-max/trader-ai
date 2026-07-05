@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-05T08:31:17.991341+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 5.965,
+    "reason": "AVAX in IPERVENDUTO (RSI=25.0) ma con MACD decrescente e 4h=-1.00%. Segnale contraddittorio: RSI suggerisce rimbalzo ma momentum è negativo. Vendo per ridurre volatilità estrema e liberare slot per opportunità più solide. Take profit partially.",
+    "dry_run": false
+  }
+]
