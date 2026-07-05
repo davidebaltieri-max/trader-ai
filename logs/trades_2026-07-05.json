@@ -16,5 +16,14 @@
     "price": 1.3595,
     "reason": "ATOM in IPERVENDUTO (RSI=15.5) ma MACD decrescente e 4h=-2.79%. Momentum ribassista confermato. Riduci posizione prima di ulteriore calo. Libera capitale per dip-buy su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-05T16:01:19.008823+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.765,
+    "reason": "RSI=100.0 IPERCOMPRATO + momentum eccessivo. DOT ha rallied 1.32% in 1h e 4h con volume 3.48x. Riduco posizione per bloccare gain e liberare capitale per opportunità di dip-buy su asset ipervenduti.",
+    "dry_run": false
   }
 ]
