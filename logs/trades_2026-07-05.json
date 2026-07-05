@@ -7,5 +7,14 @@
     "price": 5.965,
     "reason": "AVAX in IPERVENDUTO (RSI=25.0) ma con MACD decrescente e 4h=-1.00%. Segnale contraddittorio: RSI suggerisce rimbalzo ma momentum è negativo. Vendo per ridurre volatilità estrema e liberare slot per opportunità più solide. Take profit partially.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-05T08:31:19.168935+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3595,
+    "reason": "ATOM in IPERVENDUTO (RSI=15.5) ma MACD decrescente e 4h=-2.79%. Momentum ribassista confermato. Riduci posizione prima di ulteriore calo. Libera capitale per dip-buy su segnali più forti.",
+    "dry_run": false
   }
 ]
