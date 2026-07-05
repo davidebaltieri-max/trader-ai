@@ -25,5 +25,14 @@
     "price": 0.765,
     "reason": "RSI=100.0 IPERCOMPRATO + momentum eccessivo. DOT ha rallied 1.32% in 1h e 4h con volume 3.48x. Riduco posizione per bloccare gain e liberare capitale per opportunità di dip-buy su asset ipervenduti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-05T17:31:03.566791+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.765,
+    "reason": "RSI=100.0 🔴IPERCOMPRATO estremo (segnale di vendita forte). Volume massivo (vol×=3.22x). Necessario ridurre posizione in zona di ipercomprato per bloccare profitti e liberare capital allocation.",
+    "dry_run": false
   }
 ]
