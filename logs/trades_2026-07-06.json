@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-06T00:01:26.951136+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.765,
+    "reason": "RSI=100.0 ESTREMO IPERCOMPRATO - correzione imminente, stagnazione momentum (1h/4h=0%)",
+    "dry_run": false
+  }
+]
