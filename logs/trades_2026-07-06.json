@@ -43,5 +43,14 @@
     "price": 1.408,
     "reason": "RSI=75.9 IPERCOMPRATO (massimo raggiunto) + 1h=-0.21% (inversione) + 24h=+2.40% (guadagno realizzato). Segnale di VENDITA MEDIA: trimestre positivo ma RSI ai massimi indica correzione probabile. Ridurre posizione su ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-06T23:03:09.144626+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.775,
+    "reason": "DOT RSI=80.0 🔴IPERCOMPRATO + vol×=1.15 elevato + 24h=+2.63% già performante. Realizzo profitti su posizione sovraccarica per riposizionare su opportunità migliori. Take profit preventivo su momentum estremo.",
+    "dry_run": false
   }
 ]
