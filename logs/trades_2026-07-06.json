@@ -34,5 +34,14 @@
     "price": 6.115,
     "reason": "RSI=75.0 IPERCOMPRATO + 1h=+0.33% (momentum debole) + 24h=+1.32%. Segnale di VENDITA MEDIA: realizzare profitti su asset in ipercomprato. Sebbene MACD positivo, l'RSI elevato suggerisce spazio limitato al rialzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-06T22:31:19.339303+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 22.0,
+    "price": 1.408,
+    "reason": "RSI=75.9 IPERCOMPRATO (massimo raggiunto) + 1h=-0.21% (inversione) + 24h=+2.40% (guadagno realizzato). Segnale di VENDITA MEDIA: trimestre positivo ma RSI ai massimi indica correzione probabile. Ridurre posizione su ipercomprato.",
+    "dry_run": false
   }
 ]
