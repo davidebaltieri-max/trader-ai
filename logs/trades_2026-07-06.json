@@ -52,5 +52,14 @@
     "price": 0.775,
     "reason": "DOT RSI=80.0 🔴IPERCOMPRATO + vol×=1.15 elevato + 24h=+2.63% già performante. Realizzo profitti su posizione sovraccarica per riposizionare su opportunità migliori. Take profit preventivo su momentum estremo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-06T23:03:10.120659+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.4035,
+    "reason": "ATOM RSI=73.3 🔴IPERCOMPRATO + 1h=-0.99% divergenza negativa + vol×=0.86 ancora alto. Realizza profitto su posizione satura prima della possibile correzione. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
