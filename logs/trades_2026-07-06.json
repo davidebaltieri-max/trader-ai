@@ -16,5 +16,14 @@
     "price": 55541.315,
     "reason": "RSI=79.4 IPERCOMPRATO + momentum debole 1h=-0.09% - realizzare profitti prima correzione",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-06T22:31:16.696408+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.775,
+    "reason": "RSI=80.0 IPERCOMPRATO + 1h=+0.00% (stallo momentum) + 24h=+2.63% (forte apprezzamento). Segnale di VENDITA MEDIA: prendere profitti su posizione in ipercomprato prima di possibile correzione. MACD ancora positivo ma RSI suggerisce ritracciamento imminente.",
+    "dry_run": false
   }
 ]
