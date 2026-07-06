@@ -7,5 +7,14 @@
     "price": 0.765,
     "reason": "RSI=100.0 ESTREMO IPERCOMPRATO - correzione imminente, stagnazione momentum (1h/4h=0%)",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-06T00:01:28.181105+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 20.0,
+    "price": 55541.315,
+    "reason": "RSI=79.4 IPERCOMPRATO + momentum debole 1h=-0.09% - realizzare profitti prima correzione",
+    "dry_run": false
   }
 ]
