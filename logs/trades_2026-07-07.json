@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-07T02:31:18.937929+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 5.945,
+    "reason": "AVAX RSI=25.0 (IPERVENDUTO) ma MACD hist=-0.0168 decrescente + 4h=-2.78% + volume spike 22.08x anomalo. Segnale di panico vendita. Realizzo profitto parziale su posizione sovraesposta (4.337 unità) prima che il rimbalzo si sviluppi. Mantengo 0.5-1 unità per eventual dip-buy successivo.",
+    "dry_run": false
+  }
+]
