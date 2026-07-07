@@ -16,5 +16,14 @@
     "price": 0.1589,
     "reason": "ADA RSI=40.0 + MACD hist=-0.0002 (cross ribassista imminente) + 24h=-3.75% (peggior performer) + 1h=-1.00% + vol×=1.55x. Momentum negativo confermato. Riduco posizione sovra-allocata (345 unità) per liberare capitale e ridurre esposizione al downside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-07T12:31:23.858936+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 6.965,
+    "reason": "RSI=70.8 IPERCOMPRATO + MACD hist positivo ma momentum decelerante. Realizza profitti su posizione in sovrabbondanza tecnica. Libera slot per opportunità ribassiste.",
+    "dry_run": false
   }
 ]
