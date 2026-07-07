@@ -25,5 +25,14 @@
     "price": 6.965,
     "reason": "RSI=70.8 IPERCOMPRATO + MACD hist positivo ma momentum decelerante. Realizza profitti su posizione in sovrabbondanza tecnica. Libera slot per opportunità ribassiste.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-07T12:31:25.123601+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.765,
+    "reason": "RSI=33.3 IPERVENDUTO ma in TREND RIBASSISTA: 4h=-1.30% 24h=-1.30%, MACD hist negativo decrescente, vol× estremamente basso (0.06). Questa è weakness, non opportunity. Esce dalla posizione.",
+    "dry_run": false
   }
 ]
