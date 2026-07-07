@@ -7,5 +7,14 @@
     "price": 5.945,
     "reason": "AVAX RSI=25.0 (IPERVENDUTO) ma MACD hist=-0.0168 decrescente + 4h=-2.78% + volume spike 22.08x anomalo. Segnale di panico vendita. Realizzo profitto parziale su posizione sovraesposta (4.337 unità) prima che il rimbalzo si sviluppi. Mantengo 0.5-1 unità per eventual dip-buy successivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-07T02:31:20.153065+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1589,
+    "reason": "ADA RSI=40.0 + MACD hist=-0.0002 (cross ribassista imminente) + 24h=-3.75% (peggior performer) + 1h=-1.00% + vol×=1.55x. Momentum negativo confermato. Riduco posizione sovra-allocata (345 unità) per liberare capitale e ridurre esposizione al downside.",
+    "dry_run": false
   }
 ]
