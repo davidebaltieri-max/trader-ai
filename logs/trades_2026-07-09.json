@@ -7,5 +7,14 @@
     "price": 5.775,
     "reason": "RSI=78.4 IPERCOMPRATO (>70) + MACD hist positivo ma in zona di eccesso. Momentum rialzista riconosciuto ma segnale di correzione imminente. Realizzo profitti su posizione volatile con +2.48% 1h. Protezione del capitale su asset ad alta volatilità (0.65%).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-09T06:01:40.708464+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.38,
+    "reason": "RSI=73.7 IPERCOMPRATO (>70) + volume molto basso (vol×=0.16). Segnale di correzione con scarso supporto al rialzo. Take profit parziale su posizione divenuta vulnerabile. MACD crescente ma RSI eccessivo suggerisce pullback.",
+    "dry_run": false
   }
 ]
