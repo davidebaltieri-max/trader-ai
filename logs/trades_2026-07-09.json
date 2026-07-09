@@ -25,5 +25,14 @@
     "price": 1.358,
     "reason": "ATOM in ipervenduto (RSI=23.5) ma segnali contrastanti: MACD hist negativo e decrescente, volume esplosivo (14.66x) indica capitolazione. Vendo posizione significativa per liberare liquido e rebalance. Momentum ribassista confermato con trend negativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-09T18:31:17.432083+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 18.0,
+    "price": 0.1462,
+    "reason": "ADA mostra debolezza: RSI=42.5 (zona neutra bassa), MACD hist negativo e decrescente, 4h=-0.81%, trend ribassista in corso. Volume basso (0.22x). Vendo per ridurre esposizione a posizione in perdita di momentum.",
+    "dry_run": false
   }
 ]
