@@ -34,5 +34,14 @@
     "price": 0.1462,
     "reason": "ADA mostra debolezza: RSI=42.5 (zona neutra bassa), MACD hist negativo e decrescente, 4h=-0.81%, trend ribassista in corso. Volume basso (0.22x). Vendo per ridurre esposizione a posizione in perdita di momentum.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-09T18:31:18.685151+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.725,
+    "reason": "DOT in correzione: 24h=-2.67%, RSI=60.0 neutrale ma in calo, volume basso (0.49x) con volatilità alta (0.83%). MACD hist appena positivo ma senza forza. Vendo per liberare liquidità dato portafoglio pieno e momentum debole.",
+    "dry_run": false
   }
 ]
