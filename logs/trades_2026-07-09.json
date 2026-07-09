@@ -16,5 +16,14 @@
     "price": 1.38,
     "reason": "RSI=73.7 IPERCOMPRATO (>70) + volume molto basso (vol×=0.16). Segnale di correzione con scarso supporto al rialzo. Take profit parziale su posizione divenuta vulnerabile. MACD crescente ma RSI eccessivo suggerisce pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-09T18:31:16.104148+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.358,
+    "reason": "ATOM in ipervenduto (RSI=23.5) ma segnali contrastanti: MACD hist negativo e decrescente, volume esplosivo (14.66x) indica capitolazione. Vendo posizione significativa per liberare liquido e rebalance. Momentum ribassista confermato con trend negativo.",
+    "dry_run": false
   }
 ]
