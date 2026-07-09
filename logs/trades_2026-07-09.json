@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-09T06:01:39.392075+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 5.775,
+    "reason": "RSI=78.4 IPERCOMPRATO (>70) + MACD hist positivo ma in zona di eccesso. Momentum rialzista riconosciuto ma segnale di correzione imminente. Realizzo profitti su posizione volatile con +2.48% 1h. Protezione del capitale su asset ad alta volatilità (0.65%).",
+    "dry_run": false
+  }
+]
