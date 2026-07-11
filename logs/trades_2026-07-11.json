@@ -16,5 +16,14 @@
     "price": 0.1462,
     "reason": "ADA mostra BEARISH_CROSS (MACD hist negativo decrescente) + RSI=42.4 in discesa + 1h=-0.41% + 4h=-0.55%. Trend ribassista confermato. Vendita per contenere perdite e ridimensionare posizione debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T02:31:09.092585+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.406,
+    "reason": "RSI=73.0 IPERCOMPRATO + MACD hist positivo ma su livelli estremi. Correzione probabile. Realizzo profitti su posizione forte (ATOM +2.63% in 24h). Riduci rischio in ipercomprato.",
+    "dry_run": false
   }
 ]
