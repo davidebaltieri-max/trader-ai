@@ -43,5 +43,14 @@
     "price": 1.397,
     "reason": "RSI=71.7 IPERCOMPRATO + MACD hist positivo ma momentum in territorio sovraccomprato. Realizza profitti su posizione in ipercomprato prima di correzione. ATOM ha guadagnato +2.48% in 24h, profittevole da trimestre.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T04:31:22.138521+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1457,
+    "reason": "RSI=30.0 IPERVENDUTO ma MACD hist negativo decrescente segnala continuazione ribasso. Pattern di debolezza: -0.27% 4h + -0.61% 24h. Ridimensiona posizione (345 unità è sovraesposta) prima di ulteriore calo.",
+    "dry_run": false
   }
 ]
