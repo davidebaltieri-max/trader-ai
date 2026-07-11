@@ -61,5 +61,14 @@
     "price": 7.005,
     "reason": "RSI=80.0 (IPERCOMPRATO) + MACD hist positivo ma momentum debole. Realizzo profitti su posizione gonfia. LINK ha +3.39% su 24h, è momento di prendere guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T05:31:16.484309+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3995,
+    "reason": "RSI=71.7 (IPERCOMPRATO) + MACD hist decrescente. Correzione probabile dopo rally di +2.48%. Vendo parzialmente per proteggere i guadagni e liberare slot.",
+    "dry_run": false
   }
 ]
