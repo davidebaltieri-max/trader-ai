@@ -34,5 +34,14 @@
     "price": 67.995,
     "reason": "SOL in BEARISH_CROSS MACD (hist negativo decrescente) + RSI=46.4 in discesa + 1h/4h negativi. Momentum ribassista confermato. Stop prima che peggiori ulteriormente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T04:31:21.195653+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.397,
+    "reason": "RSI=71.7 IPERCOMPRATO + MACD hist positivo ma momentum in territorio sovraccomprato. Realizza profitti su posizione in ipercomprato prima di correzione. ATOM ha guadagnato +2.48% in 24h, profittevole da trimestre.",
+    "dry_run": false
   }
 ]
