@@ -160,5 +160,14 @@
     "price": 56406.08,
     "reason": "RSI=74.5 IPERCOMPRATO + MACD hist crescente ma segnale di ipercompramento manifesto. Vendi posizione piccola (0.0027 BTC) per liberare slot e cassa per dip-buying successivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T20:01:28.394566+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.915,
+    "reason": "RSI=75.0 (IPERCOMPRATO). MACD hist positivo ma in zona di saturazione. Volatilità moderata (0.27%). Profitto realizzabile: 4.33700000 × €5.9150 = €25.65. Vendita parziale per bloccare guadagni e ridurre esposizione su asset ipercomprato.",
+    "dry_run": false
   }
 ]
