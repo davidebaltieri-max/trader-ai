@@ -178,5 +178,14 @@
     "price": 1.408,
     "reason": "RSI=71.4 (IPERCOMPRATO). MACD hist negativo e DECRESCENTE = divergenza ribassista. 24h=+3.31% è rally significativo. Vendita tattica di posizione sovraesposta (107.99 unità) per incassare profitti prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T20:01:30.813134+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 7.075,
+    "reason": "MACD BEARISH_CROSS confermato (hist negativo e decrescente). RSI=64.7 in discesa. 1h=-0.28% (negativo). Segnale SELL MEDIO: momentum ribassista in corso. Vendita preventiva su infrastruttura DeFi debole.",
+    "dry_run": false
   }
 ]
