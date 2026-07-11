@@ -106,5 +106,14 @@
     "price": 0.765,
     "reason": "RSI=40.0 (zona neutra-bassa) + MACD hist=-0.0017 🔴decrescente (bearish divergence). Nonostante il +5.56% a 24h, il momentum sta invertendo su timeframe medio. Calo di volume (vol×=0.28). Realizza parzialmente per ridurre esposizione su segnale bearish confermato da MACD negativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T07:31:19.481500+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 18.0,
+    "price": 5.885,
+    "reason": "RSI=44.4 (neutra-bassa) + MACD hist=-0.0025 🔴decrescente + flat 1h/4h (0.00%/-0.17%) + volume basso (vol×=0.62). Nessun momentum positivo. Realizza per liberare slot e capitale per opportunità migliori con segnali MACD bullish confermati.",
+    "dry_run": false
   }
 ]
