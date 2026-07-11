@@ -142,5 +142,14 @@
     "price": 0.1471,
     "reason": "RSI=72.4 (IPERCOMPRATO) + MACD hist=+0.0002 (quasi piatto, segnale debole) + vol×=+0.27x molto basso. ADA mostra ipercompro senza conferma di momentum solido. Realizzo parzialmente per ridurre rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T11:49:17.490422+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.775,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist decrescente. DOT ha fatto +8.33% in 24h e +1.30% in 1h. Segnale di correzione imminente. Realizzo profitti parziali (posizione: 114.86 unità = ~€88.91, vendo ~€25 = ~4 unità a supporto psicologico).",
+    "dry_run": false
   }
 ]
