@@ -115,5 +115,14 @@
     "price": 5.885,
     "reason": "RSI=44.4 (neutra-bassa) + MACD hist=-0.0025 🔴decrescente + flat 1h/4h (0.00%/-0.17%) + volume basso (vol×=0.62). Nessun momentum positivo. Realizza per liberare slot e capitale per opportunità migliori con segnali MACD bullish confermati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T08:31:26.173988+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 8.0,
+    "price": 56251.41,
+    "reason": "RSI=70.2 (IPERCOMPRATO) + MACD hist positivo ma momentum su timeframe breve debole (1h=+0.14%). BTC ha raggiunto zona di ipercompro senza volumi esplosivi (vol×=+0.62x basso). Riduco esposizione su questo livello di prezzo per fare spazio a setup più promettenti.",
+    "dry_run": false
   }
 ]
