@@ -196,5 +196,14 @@
     "price": 5.915,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist crescente ma con RSI estremo suggerisce correzione imminente. Realizzo profitti parziali (4.337 AVAX × €5.915 = €25.65 portafoglio). Vendo €20 per ridurre esposizione su asset surriscaldato e liberare liquidità per opportunità ribassiste.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T20:03:46.410124+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.408,
+    "reason": "RSI=71.4 IPERCOMPRATO + MACD hist decrescente = segnale VENDITA MEDIA confermato. Atom ha performato bene (+3.31% in 24h) ma mostra estensione. Realizzo parzialmente i guadagni (107.997 ATOM × €1.408 = €152.25 portafoglio). Vendo €15 per gestire il rischio.",
+    "dry_run": false
   }
 ]
