@@ -187,5 +187,14 @@
     "price": 7.075,
     "reason": "MACD BEARISH_CROSS confermato (hist negativo e decrescente). RSI=64.7 in discesa. 1h=-0.28% (negativo). Segnale SELL MEDIO: momentum ribassista in corso. Vendita preventiva su infrastruttura DeFi debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T20:03:44.469981+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.915,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist crescente ma con RSI estremo suggerisce correzione imminente. Realizzo profitti parziali (4.337 AVAX × €5.915 = €25.65 portafoglio). Vendo €20 per ridurre esposizione su asset surriscaldato e liberare liquidità per opportunità ribassiste.",
+    "dry_run": false
   }
 ]
