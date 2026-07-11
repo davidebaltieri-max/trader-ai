@@ -97,5 +97,14 @@
     "price": 6.985,
     "reason": "RSI=71.4 🔴IPERCOMPRATO (>70) — segnale VENDITA FORTE. LINK ha raggiunto zona di ipercompra con MACD hist ancora positivo crescente, ma l'RSI estremo segnala correzione imminente. Realizza profitti su questa posizione prima della retrazione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T07:31:18.564557+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.765,
+    "reason": "RSI=40.0 (zona neutra-bassa) + MACD hist=-0.0017 🔴decrescente (bearish divergence). Nonostante il +5.56% a 24h, il momentum sta invertendo su timeframe medio. Calo di volume (vol×=0.28). Realizza parzialmente per ridurre esposizione su segnale bearish confermato da MACD negativo.",
+    "dry_run": false
   }
 ]
