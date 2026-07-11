@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-11T00:31:17.245319+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.409,
+    "reason": "RSI=72.5 IPERCOMPRATO + MACD hist positivo crescente suggerisce presa di profitto. ATOM ha segnato +2.62% 24h e momentum è elevato. Vendita parziale per bloccare guadagni e liberare slot per rotazione settoriale.",
+    "dry_run": false
+  }
+]
