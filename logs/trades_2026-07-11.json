@@ -52,5 +52,14 @@
     "price": 0.1457,
     "reason": "RSI=30.0 IPERVENDUTO ma MACD hist negativo decrescente segnala continuazione ribasso. Pattern di debolezza: -0.27% 4h + -0.61% 24h. Ridimensiona posizione (345 unità è sovraesposta) prima di ulteriore calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T05:31:15.575713+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.005,
+    "reason": "RSI=80.0 (IPERCOMPRATO) + MACD hist positivo ma momentum debole. Realizzo profitti su posizione gonfia. LINK ha +3.39% su 24h, è momento di prendere guadagni.",
+    "dry_run": false
   }
 ]
