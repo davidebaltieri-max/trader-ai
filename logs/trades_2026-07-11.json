@@ -133,5 +133,14 @@
     "price": 68.32,
     "reason": "RSI=74.2 (IPERCOMPRATO) + 24h=-1.34% (momentum ribassista recente) + MACD hist positivo ma decrescente in fase di inversione. SOL ha perso trazione nelle ultime 24h nonostante ipercompro. Realizzo profitti parziali prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T08:31:28.519495+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 10.0,
+    "price": 0.1471,
+    "reason": "RSI=72.4 (IPERCOMPRATO) + MACD hist=+0.0002 (quasi piatto, segnale debole) + vol×=+0.27x molto basso. ADA mostra ipercompro senza conferma di momentum solido. Realizzo parzialmente per ridurre rischio.",
+    "dry_run": false
   }
 ]
