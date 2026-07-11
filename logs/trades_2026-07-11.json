@@ -124,5 +124,14 @@
     "price": 56251.41,
     "reason": "RSI=70.2 (IPERCOMPRATO) + MACD hist positivo ma momentum su timeframe breve debole (1h=+0.14%). BTC ha raggiunto zona di ipercompro senza volumi esplosivi (vol×=+0.62x basso). Riduco esposizione su questo livello di prezzo per fare spazio a setup più promettenti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-11T08:31:27.397293+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 68.32,
+    "reason": "RSI=74.2 (IPERCOMPRATO) + 24h=-1.34% (momentum ribassista recente) + MACD hist positivo ma decrescente in fase di inversione. SOL ha perso trazione nelle ultime 24h nonostante ipercompro. Realizzo profitti parziali prima della correzione attesa.",
+    "dry_run": false
   }
 ]
