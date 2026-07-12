@@ -25,5 +25,14 @@
     "price": 0.1447,
     "reason": "ADA ipercomprato (RSI 73.2) con calo 1h (-0.14%), MACD hist minimo (0.0003). Segnale di debole momentum rialzista. Realizza profitti su posizione large.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-12T13:31:19.123659+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.745,
+    "reason": "DOT trend ribassista confermato: MACD BEARISH_CROSS (hist -0.0002), calo 4h/24h (-1.33%/-2.63%), RSI neutro. Stop loss preventivo su posizione in difficoltà.",
+    "dry_run": false
   }
 ]
