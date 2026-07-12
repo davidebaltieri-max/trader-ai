@@ -16,5 +16,14 @@
     "price": 67.7,
     "reason": "SOL ipercomprato (RSI 81.4), momentum estremo con volatilità alta (0.13%). Profilo performante vende su picchi per ruotare su opportunità sottovalutate. Take profit preventivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-12T13:31:18.101216+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1447,
+    "reason": "ADA ipercomprato (RSI 73.2) con calo 1h (-0.14%), MACD hist minimo (0.0003). Segnale di debole momentum rialzista. Realizza profitti su posizione large.",
+    "dry_run": false
   }
 ]
