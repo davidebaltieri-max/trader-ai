@@ -7,5 +7,14 @@
     "price": 1.374,
     "reason": "ATOM in IPERVENDUTO (RSI=24.2) con MACD hist decrescente negativo (-0.0028). Segnale di vendita tattica per cristallizzare posizione prima di potenziale ulteriore calo. Volume basso (vol×=0.17) suggerisce scarso interesse. Vendo €25 (~18 unit) per liberare capitale e ridurre esposizione a questo asset debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-12T13:31:17.033413+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 67.7,
+    "reason": "SOL ipercomprato (RSI 81.4), momentum estremo con volatilità alta (0.13%). Profilo performante vende su picchi per ruotare su opportunità sottovalutate. Take profit preventivo.",
+    "dry_run": false
   }
 ]
