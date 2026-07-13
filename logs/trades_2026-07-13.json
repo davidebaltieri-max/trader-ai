@@ -7,5 +7,14 @@
     "price": 5.81,
     "reason": "RSI=74.2 IPERCOMPRATO + 4h=+2.28% (raggiunto momentum rialzista locale). Realizzo profitti su AVAX prima della correzione attesa. Position: 4.337 AVAX × €5.81 = €25.2 realizzati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-13T12:01:41.726981+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 22.0,
+    "price": 6.935,
+    "reason": "MACD BEARISH_CROSS (hist=-0.0004 decrescente) + 4h=-0.72% + RSI=48.0 (in calo). Momentum ribassista confermato. Realizzo per ridare spazio nel portafoglio dopo accumulo ATOM.",
+    "dry_run": false
   }
 ]
