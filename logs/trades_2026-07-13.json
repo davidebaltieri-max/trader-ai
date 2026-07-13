@@ -16,5 +16,14 @@
     "price": 6.935,
     "reason": "MACD BEARISH_CROSS (hist=-0.0004 decrescente) + 4h=-0.72% + RSI=48.0 (in calo). Momentum ribassista confermato. Realizzo per ridare spazio nel portafoglio dopo accumulo ATOM.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-13T13:31:24.131203+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 5.82,
+    "reason": "RSI=71.9 (IPERCOMPRATO) + MACD hist positivo crescente indica esaurimento del momentum al rialzo. AVAX ha guadagnato +4.12% in 24h con volatilità alta (0.65%). Realizza profitti prima della correzione attesa.",
+    "dry_run": false
   }
 ]
