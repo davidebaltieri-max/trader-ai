@@ -25,5 +25,14 @@
     "price": 6.955,
     "reason": "LINK: RSI=50.0, MACD hist positivo crescente, 4h=+0.87% momentum positivo, volume +1.47x. DeFi infrastructure in setup bullish. Segnale ACQUISTO MEDIO confermato. Infrastruttura DeFi è prioritaria nel profilo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-14T00:52:14.595664+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 28.0,
+    "price": 1564.715,
+    "reason": "ETH: RSI=69.7 (prossimo a ipercomprato 70), MACD hist positivo e crescente, momentum 1h=+0.28% 4h=+0.81% confermato. Volume +0.88x. Sebbene RSI elevato, MACD strong e 4h momentum positivo giustificano entry su large cap. Trailing stop -3% protegge da correzione. Operazione forte su pilastro portfolio.",
+    "dry_run": false
   }
 ]
