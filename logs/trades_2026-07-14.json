@@ -43,5 +43,14 @@
     "price": 1.332,
     "reason": "ATOM in BEARISH_CROSS (MACD hist<0 decrescente), RSI=31.4 in ipervenduto ma con momentum negativo confermato. Perdita -3.20% in 24h. Posizione debole: vendita per liberare slot e ridurre esposizione a trend ribassista. Realizzazione parziale per rotazione verso asset con momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-14T03:53:45.046052+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1381,
+    "reason": "ADA stagnante: RSI=49.0 (neutro), 1h=4h=0%, MACD hist quasi piatto (+0.0001 crescente lento). Posizione con 345 unità ma senza momentum. Vendita parziale per ridurre esposizione e liberare capitale per rerotazione su asset con segnali più forti.",
+    "dry_run": false
   }
 ]
