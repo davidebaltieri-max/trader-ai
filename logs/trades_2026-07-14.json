@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-14T00:31:21.921100+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 24.66,
+    "price": 5.685,
+    "reason": "AVAX in IPERVENDUTO (RSI=24.3) ma MACD histogram decrescente (-0.0097) segnala momentum ribassista confermato. Volume spike (3.86x) + volatilità elevata (0.46%) indicano pressione al ribasso. Realizzo parziale per proteggere il capitale e liberare slot per opportunità migliori con segnali più chiari.",
+    "dry_run": false
+  }
+]
