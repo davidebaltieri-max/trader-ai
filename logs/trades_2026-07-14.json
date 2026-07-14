@@ -16,5 +16,14 @@
     "price": 0.735,
     "reason": "DOT presenta RSI=50.0 (zona neutra inferiore), MACD hist positivo crescente, volume spike +2.93x (segnale di accumulazione). 1h/4h/24h trend leggermente negativo ma MACD bullish e volume anomalo suggeriscono dip-buying su interoperabilità. Momentum in transizione verso rialzo. Operazione media-forte allineata a profilo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-14T00:52:13.523619+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 6.955,
+    "reason": "LINK: RSI=50.0, MACD hist positivo crescente, 4h=+0.87% momentum positivo, volume +1.47x. DeFi infrastructure in setup bullish. Segnale ACQUISTO MEDIO confermato. Infrastruttura DeFi è prioritaria nel profilo performante.",
+    "dry_run": false
   }
 ]
