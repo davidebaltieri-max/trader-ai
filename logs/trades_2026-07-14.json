@@ -79,5 +79,14 @@
     "price": 1.335,
     "reason": "ATOM mostra BEARISH_CROSS su MACD (hist=-0.0004 decrescente) + RSI=36.6 (ipervenduto ma in territorio ribassista) + performance terribile 24h=-3.96% + vol×=2.55x (capitolazione). Momentum negativo confermato. Riduco posizione per liberare slot e limitare perdite.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-14T08:34:00.985019+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 20.0,
+    "price": 1564.72,
+    "reason": "ETH mostra MACD hist=-0.2131 decrescente (trend ribassista in corso) + RSI=49.3 (neutro ma privo di slancio) + 4h=-0.09% (debolezza). Posizione ridotta per cash management e rotazione verso asset con momentum positivo più forte.",
+    "dry_run": false
   }
 ]
