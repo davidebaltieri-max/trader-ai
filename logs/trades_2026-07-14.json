@@ -70,5 +70,14 @@
     "price": 1.335,
     "reason": "BEARISH_CROSS confermato su MACD (hist negativo decrescente) + RSI=39.4 (prossimo a ipervenduto ma tendenza chiara al ribasso) + 1h=-0.45% + 4h=-0.59% + 24h=-3.60% con volatilità alta (+2.54x volume). Momentum ribassista cristallizzato. Riduco posizione per liberare capitale prima di ulteriori cali e preservo liquidità per entry migliori su altre coppie con segnali rialzisti",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-14T08:33:59.928164+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.335,
+    "reason": "ATOM mostra BEARISH_CROSS su MACD (hist=-0.0004 decrescente) + RSI=36.6 (ipervenduto ma in territorio ribassista) + performance terribile 24h=-3.96% + vol×=2.55x (capitolazione). Momentum negativo confermato. Riduco posizione per liberare slot e limitare perdite.",
+    "dry_run": false
   }
 ]
