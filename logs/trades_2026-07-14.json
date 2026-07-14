@@ -97,5 +97,14 @@
     "price": 1.334,
     "reason": "ATOM in forte ribasso: RSI=37.5 (ipervenduto ma in discesa), MACD hist negativo decrescente, -3.88% in 24h, -0.82% 1h. Posizione in portafoglio ha subito perdita significativa. Vendita tattica per liberare capitale e ridurre esposizione a trend ribassista confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-14T10:01:41.771359+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 6.945,
+    "reason": "LINK mostra BEARISH_CROSS su MACD (hist negativo), RSI=55.6 neutrale ma declinante, volume elevato (1.62x). Segnale di vendita media confermato. Riduco posizione per proteggere da ulteriore correzione.",
+    "dry_run": false
   }
 ]
