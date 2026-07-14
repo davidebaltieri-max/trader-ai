@@ -88,5 +88,14 @@
     "price": 1564.72,
     "reason": "ETH mostra MACD hist=-0.2131 decrescente (trend ribassista in corso) + RSI=49.3 (neutro ma privo di slancio) + 4h=-0.09% (debolezza). Posizione ridotta per cash management e rotazione verso asset con momentum positivo più forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-14T10:01:40.283620+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.334,
+    "reason": "ATOM in forte ribasso: RSI=37.5 (ipervenduto ma in discesa), MACD hist negativo decrescente, -3.88% in 24h, -0.82% 1h. Posizione in portafoglio ha subito perdita significativa. Vendita tattica per liberare capitale e ridurre esposizione a trend ribassista confermato.",
+    "dry_run": false
   }
 ]
