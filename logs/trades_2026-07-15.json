@@ -16,5 +16,14 @@
     "price": 1.361,
     "reason": "RSI=77.8 IPERCOMPRATO (livello critico) + MACD hist positivo ma in contesto di divergenza. Riduco esposizione su questo massimo locale per contenere volatilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-15T01:31:16.115261+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 7.285,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist negativo decrescente. Segnale VENDITA MEDIA confermato. LINK ha fatto +5.96% in 24h, opportunità di realizzare guadagni e ridurre esposizione su asset in correzione. Libera liquidità per dip-buying.",
+    "dry_run": false
   }
 ]
