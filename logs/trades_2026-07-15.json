@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-15T01:01:34.294329+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 7.295,
+    "reason": "RSI=70.6 IPERCOMPRATO + MACD hist negativo decrescente + 1h=+0.41% ma momentum ribassista confermato. Realizzo profitti su posizione in ipercomprato prima della correzione attesa.",
+    "dry_run": false
+  }
+]
