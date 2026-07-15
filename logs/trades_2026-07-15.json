@@ -70,5 +70,14 @@
     "price": 7.375,
     "reason": "RSI=70.4 IPERCOMPRATO + MACD hist decrescente (momentum ribassista confermato). Segnale VENDITA FORTE. Realizzo profitti su posizione in ipercomprato prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-15T12:01:43.473606+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.745,
+    "reason": "RSI=40.0 zona neutra bassa + MACD hist negativo decrescente + 1h=-1.33% (ribasso), vol×=0.15x molto basso. Momentum ribassista incipiente, assenza di forza. Vendo per ridurre esposizione e liberare slot.",
+    "dry_run": false
   }
 ]
