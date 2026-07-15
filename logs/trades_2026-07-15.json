@@ -106,5 +106,14 @@
     "price": 0.1446,
     "reason": "ADA BEARISH_CROSS confermato (MACD hist decrescente) + RSI=53.8 neutrale + 1h=-0.28% negativo + 4h=-0.34% negativo. Segnale VENDITA MEDIA su trend ribassista in corso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-15T16:01:48.250569+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 68.09,
+    "reason": "SOL BEARISH_CROSS confermato (MACD hist=-0.0113 decrescente) + RSI=50.9 neutrale + 1h=-0.13% negativo. Momentum ribassista, exit preventiva per liberare liquidity.",
+    "dry_run": false
   }
 ]
