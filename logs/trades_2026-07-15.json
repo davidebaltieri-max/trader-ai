@@ -25,5 +25,14 @@
     "price": 7.285,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist negativo decrescente. Segnale VENDITA MEDIA confermato. LINK ha fatto +5.96% in 24h, opportunità di realizzare guadagni e ridurre esposizione su asset in correzione. Libera liquidità per dip-buying.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-15T01:31:17.123202+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.362,
+    "reason": "RSI=77.8 IPERCOMPRATO (massimo criticità). Sebbene MACD hist positivo crescente, RSI estremo segnala correzione imminente. Vendita parziale per realizzare guadagni (+0.89% 24h) e proteggersi da pullback. ATOM volatile, ritirata prudente giustificata.",
+    "dry_run": false
   }
 ]
