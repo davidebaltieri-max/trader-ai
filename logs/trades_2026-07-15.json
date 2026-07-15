@@ -52,5 +52,14 @@
     "price": 1.365,
     "reason": "RSI=77.8 IPERCOMPRATO (>70) + MACD hist positivo ma momentum debole su 4h/1h. Realizza profitti su posizione gonfiata. ATOM ha generato +1.11% in 24h, take profit appropriato su situazione ipercomprata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-15T04:31:23.634355+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1426,
+    "reason": "RSI=41.8 (neutrale ma decrescente) + MACD hist negativo decrescente + 4h=-0.97% + volume×=+4.79x indica distribuzione. Realizza parzialmente prima di potenziale correzione. ADA è la posizione più grande in unità, ridimensionamento strategico.",
+    "dry_run": false
   }
 ]
