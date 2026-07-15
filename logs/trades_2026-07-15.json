@@ -88,5 +88,14 @@
     "price": 1.385,
     "reason": "RSI=70.8 IPERCOMPRATO + MACD hist positivo ma momentum decrescente. Posizione raggiunta zona di take profit. ATOM ha performato bene (+1.84% 24h) ma segnale di correzione imminente. Riduco esposizione su posizione al limite massimo di ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-15T16:01:45.352658+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 8.0,
+    "price": 1685.365,
+    "reason": "ETH RSI=75.4 IPERCOMPRATO + 1h=-0.12% negativo. Segnale VENDITA MEDIA confermato. Realizza profitti su posizione sovraesposta prima di possibile correzione.",
+    "dry_run": false
   }
 ]
