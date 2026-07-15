@@ -79,5 +79,14 @@
     "price": 0.745,
     "reason": "RSI=40.0 zona neutra bassa + MACD hist negativo decrescente + 1h=-1.33% (ribasso), vol×=0.15x molto basso. Momentum ribassista incipiente, assenza di forza. Vendo per ridurre esposizione e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-15T12:50:16.218255+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 45.0,
+    "price": 1.385,
+    "reason": "RSI=70.8 IPERCOMPRATO + MACD hist positivo ma momentum decrescente. Posizione raggiunta zona di take profit. ATOM ha performato bene (+1.84% 24h) ma segnale di correzione imminente. Riduco esposizione su posizione al limite massimo di ipercomprato.",
+    "dry_run": false
   }
 ]
