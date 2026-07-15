@@ -61,5 +61,14 @@
     "price": 0.1426,
     "reason": "RSI=41.8 (neutrale ma decrescente) + MACD hist negativo decrescente + 4h=-0.97% + volume×=+4.79x indica distribuzione. Realizza parzialmente prima di potenziale correzione. ADA è la posizione più grande in unità, ridimensionamento strategico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-15T12:01:42.231932+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 7.375,
+    "reason": "RSI=70.4 IPERCOMPRATO + MACD hist decrescente (momentum ribassista confermato). Segnale VENDITA FORTE. Realizzo profitti su posizione in ipercomprato prima della correzione attesa.",
+    "dry_run": false
   }
 ]
