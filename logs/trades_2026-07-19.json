@@ -7,5 +7,14 @@
     "price": 7.285,
     "reason": "RSI=73.3 (IPERCOMPRATO) + volume elevato (vol×=1.15). Realizza profitti su momentum rialzista estremo prima della correzione attesa. LINK ha segnato +1.81% 24h ed è in territorio di sovrabbondanza di acquirenti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-19T04:23:12.449867+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1456,
+    "reason": "BEARISH_CROSS confermato (MACD hist=-0.0000 ↓) + RSI=56.8 in discesa + 1h=-0.14%. Momentum ribassista in formazione. Ridimensiona posizione large (345.39 unità) prima della correzione.",
+    "dry_run": false
   }
 ]
