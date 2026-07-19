@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-19T04:23:11.245991+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.285,
+    "reason": "RSI=73.3 (IPERCOMPRATO) + volume elevato (vol×=1.15). Realizza profitti su momentum rialzista estremo prima della correzione attesa. LINK ha segnato +1.81% 24h ed è in territorio di sovrabbondanza di acquirenti.",
+    "dry_run": false
+  }
+]
