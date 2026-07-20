@@ -7,5 +7,14 @@
     "price": 1.307,
     "reason": "RSI=74.4 IPERCOMPRATO (>70) + MACD hist positivo ma momentum già esteso. Segnale VENDITA MEDIA confermato. Realizzo profitti su posizione in overbought dopo rialzo recente. Libero liquidità per rotazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-20T20:01:11.980080+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.725,
+    "reason": "RSI=75.0 (IPERCOMPRATO) + vol×=1.32x elevato + MACD hist positivo ma overbought estremo. Ridurre posizione in ipercomprato per proteggere profitti e liberare liquidità.",
+    "dry_run": false
   }
 ]
