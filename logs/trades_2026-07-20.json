@@ -16,5 +16,14 @@
     "price": 0.725,
     "reason": "RSI=75.0 (IPERCOMPRATO) + vol×=1.32x elevato + MACD hist positivo ma overbought estremo. Ridurre posizione in ipercomprato per proteggere profitti e liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-20T20:01:13.197793+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.306,
+    "reason": "RSI=70.9 (IPERCOMPRATO) + vol×=0.61x moderato + volatilità=0.79% medio-alta. Segnale di correzione probabile. Vendita tattica per gestire overbought.",
+    "dry_run": false
   }
 ]
