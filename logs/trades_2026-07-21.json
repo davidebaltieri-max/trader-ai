@@ -25,5 +25,14 @@
     "price": 1688.675,
     "reason": "RSI=75.5 IPERCOMPRATO + MACD hist positivo ma piatto (potenziale divergenza negativa) + 24h=+4.09%. Posizione minuscola (0.00015464 ETH) = vendita simbolica ma protettiva. Realizza prima della possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-21T06:31:10.315223+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 5.835,
+    "reason": "AVAX mostra momentum rialzista confermato: RSI=68.2 (zona neutra alta), MACD hist positivo e crescente, 4h=+1.74% e 24h=+4.10%. Volume in aumento (vol×=0.69x). Volatilità moderata (0.33%). Segnale ACQUISTO MEDIO confermato. Performance a 24h positiva e trend in atto. Perfetto per profilo PERFORMANTE su layer 1 alternativo.",
+    "dry_run": false
   }
 ]
