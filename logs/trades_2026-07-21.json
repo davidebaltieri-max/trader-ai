@@ -34,5 +34,14 @@
     "price": 5.835,
     "reason": "AVAX mostra momentum rialzista confermato: RSI=68.2 (zona neutra alta), MACD hist positivo e crescente, 4h=+1.74% e 24h=+4.10%. Volume in aumento (vol×=0.69x). Volatilità moderata (0.33%). Segnale ACQUISTO MEDIO confermato. Performance a 24h positiva e trend in atto. Perfetto per profilo PERFORMANTE su layer 1 alternativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-21T06:31:11.823629+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 49.17,
+    "price": 7.635,
+    "reason": "LINK in IPERCOMPRATO critico: RSI=78.9 (>70), MACD hist positivo ma trend maturo. 1h=+0.00% con 4h=+1.46% suggerisce momentum che stanca. Possibile correzione imminente. Volatilità moderata (0.28%) ma RSI troppo elevato. Segnale VENDITA MEDIA prudenziale per proteggere guadagni su posizione in overbought.",
+    "dry_run": false
   }
 ]
