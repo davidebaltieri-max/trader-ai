@@ -16,5 +16,14 @@
     "price": 0.745,
     "reason": "RSI=80.0 IPERCOMPRATO + MACD hist crescente ma su livelli alti + volume×=1.87x. Posizione già in grande guadagno. Realizza profitti parziali per ridurre rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-21T06:01:18.676762+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 0.26,
+    "price": 1688.675,
+    "reason": "RSI=75.5 IPERCOMPRATO + MACD hist positivo ma piatto (potenziale divergenza negativa) + 24h=+4.09%. Posizione minuscola (0.00015464 ETH) = vendita simbolica ma protettiva. Realizza prima della possibile correzione.",
+    "dry_run": false
   }
 ]
