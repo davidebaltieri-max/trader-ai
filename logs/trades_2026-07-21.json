@@ -43,5 +43,14 @@
     "price": 7.635,
     "reason": "LINK in IPERCOMPRATO critico: RSI=78.9 (>70), MACD hist positivo ma trend maturo. 1h=+0.00% con 4h=+1.46% suggerisce momentum che stanca. Possibile correzione imminente. Volatilità moderata (0.28%) ma RSI troppo elevato. Segnale VENDITA MEDIA prudenziale per proteggere guadagni su posizione in overbought.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-21T06:31:13.178868+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.32,
+    "reason": "ATOM in ACCUMULO: RSI=63.1 (zona neutra, non ancora saturo), MACD hist positivo e crescente (+0.0015), 4h=+0.38% costante. Volume moderato (vol×=0.67x). Non è un segnale esplosivo ma è una posizione in cui già siamo esposti. Il momentum è lentamente positivo. Integrazione con slot libero per aggiungere su sottoperformatore di settore interoperabilità.",
+    "dry_run": false
   }
 ]
