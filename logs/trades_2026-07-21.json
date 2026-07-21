@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-21T06:01:15.669169+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.635,
+    "reason": "RSI=87.0 IPERCOMPRATO (estremo) + MACD hist positivo ma elevato + volume×=6.97x (picco anomalo). Realizza profitti su posizione già forte (+4.80% 24h). Segnale VENDITA FORTE confermato da RSI massimo storico.",
+    "dry_run": false
+  }
+]
