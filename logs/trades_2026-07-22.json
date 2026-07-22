@@ -34,5 +34,14 @@
     "price": 0.1542,
     "reason": "RSI=70.7 IPERCOMPRATO + vol×=7.01x anomalo (potenziale pump). ADA ha performato bene (+1.65% 4h, +0.98% 1h). Realizzo profitti su posizione sovrapesata prima di possibile correzione. Mantieni core position, riduci risk.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T15:01:24.073899+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.283,
+    "reason": "RSI=29.8 IPERVENDUTO ma MACD hist decrescente (-0.0015) + 4h=-1.84% confermano trend ribassista in corso. Non è rimbalzo, è continuazione del calo. Realizza perdita contenuta, libera capitale per entry di qualità superiore su AVAX/SOL.",
+    "dry_run": false
   }
 ]
