@@ -70,5 +70,14 @@
     "price": 1.2805,
     "reason": "RSI=33.8 IPERVENDUTO ma MACD hist NEGATIVO e DECRESCENTE (-0.0010) = trend ribassista confermato. 1h=-0.54% + 4h=-0.62% = momentum DOWN. Fuori dalla zona di accumulo ideale, meglio uscire e rientrare su rimbalzo più sicuro.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T18:31:08.301776+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 24.49,
+    "price": 5.79,
+    "reason": "RSI=80.0 IPERCOMPRATO (>70) — segnale VENDITA FORTE. AVAX ha raggiunto zona di presa profitti dopo rally. Ridurre posizione per proteggere guadagni e liberare liquidità per opportunità di rimbalzo su asset in ipervenduto.",
+    "dry_run": false
   }
 ]
