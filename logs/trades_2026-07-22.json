@@ -25,5 +25,14 @@
     "price": 0.152,
     "reason": "RSI=71.7 IPERCOMPRATO + MACD hist positivo ma senza cross rialzista. Volatilità elevata (+0.30%). Profitto realizzato (345.39 unità × €0.152 ≈ €52.5). Riduco posizione overbought prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T15:01:22.626424+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1542,
+    "reason": "RSI=70.7 IPERCOMPRATO + vol×=7.01x anomalo (potenziale pump). ADA ha performato bene (+1.65% 4h, +0.98% 1h). Realizzo profitti su posizione sovrapesata prima di possibile correzione. Mantieni core position, riduci risk.",
+    "dry_run": false
   }
 ]
