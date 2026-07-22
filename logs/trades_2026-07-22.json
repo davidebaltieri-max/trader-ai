@@ -115,5 +115,14 @@
     "price": 1.285,
     "reason": "SEGNALE ACQUISTO MEDIO-FORTE: RSI=33.8 (ipervenduto), MACD hist=+0.0001 con BULLISH_CROSS confermato, 1h=+0.55% positivo, vol×=+0.61x. ATOM mostra rimbalzo tecnico da zona ipervenduta con momentum rialzista confermato. Posizione già in portafoglio (134.57 unità), opportunità di accumulo su dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T19:31:13.284553+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.785,
+    "reason": "SEGNALE ACQUISTO MODERATO: RSI=68.4 (prossimo a ipercomprato ma non ancora), MACD hist=+0.0063 crescente positivo, vol×=+4.96x (volume molto elevato, >2x baseline), 4h=+0.17% positivo. Volume esplosivo + momentum rialzista suggeriscono breakout in corso. Entrata tattica su volume.",
+    "dry_run": false
   }
 ]
