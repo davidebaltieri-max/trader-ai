@@ -43,5 +43,14 @@
     "price": 1.283,
     "reason": "RSI=29.8 IPERVENDUTO ma MACD hist decrescente (-0.0015) + 4h=-1.84% confermano trend ribassista in corso. Non è rimbalzo, è continuazione del calo. Realizza perdita contenuta, libera capitale per entry di qualità superiore su AVAX/SOL.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T16:31:14.422445+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1567,
+    "reason": "RSI=74.2 IPERCOMPRATO + momentum in debolezza relativa (4h=+3.57% ma MACD hist molto basso +0.0006). ADA ha fatto un'impennata di 24h=+2.96%, raggiunge zona di take profit naturale. Vendo parte per realizzare guadagni e liberare spazio/capitale.",
+    "dry_run": false
   }
 ]
