@@ -97,5 +97,14 @@
     "price": 0.735,
     "reason": "DOT in zona ipervenduta (RSI=42.9, sotto 50), volume spike massivo (+3.63x), volatilità elevata (+0.91%), e 4h positivo (+1.37%). Momentum ribassista (MACD hist negativo) in fase di potenziale inversione. Acquisto aggressivo su dip con alto upside potenziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T19:01:21.161005+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2855,
+    "reason": "ATOM in accumulo (RSI=41.7 zona neutra-bassa), 1h positivo (+0.16%), volume in aumento (+0.62x). MACD hist negativo ma stabilizzato. Possibile rimbalzo su supporto dopo correzione. Posizione difensiva nella strategia diversificata.",
+    "dry_run": false
   }
 ]
