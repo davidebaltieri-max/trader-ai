@@ -7,5 +7,14 @@
     "price": 7.635,
     "reason": "RSI=76.9 IPERCOMPRATO (>70) — segnale VENDITA FORTE. LINK ha raggiunto zona di correzione con momentum rialzista ancora presente (MACD hist positivo crescente) ma ipercomprato su timeframe 7h. Realizzo parziale profitti prima della correzione attesa. Importo moderato (€25) per uscita tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T04:13:59.301782+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3,
+    "reason": "RSI=31.0 IPERVENDUTO ma MACD hist negativo decrescente (-0.0017) — trend ribassista in corso. Nonostante ipervenduto, la mancanza di bullish cross e MACD decrescente indica debolezza strutturale. Exit parziale prima di ulteriore calo. Vol×=0.46x (basso) suggerisce consolidamento ribassista.",
+    "dry_run": false
   }
 ]
