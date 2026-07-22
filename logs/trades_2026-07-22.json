@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-22T04:13:58.082424+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.635,
+    "reason": "RSI=76.9 IPERCOMPRATO (>70) — segnale VENDITA FORTE. LINK ha raggiunto zona di correzione con momentum rialzista ancora presente (MACD hist positivo crescente) ma ipercomprato su timeframe 7h. Realizzo parziale profitti prima della correzione attesa. Importo moderato (€25) per uscita tattica.",
+    "dry_run": false
+  }
+]
