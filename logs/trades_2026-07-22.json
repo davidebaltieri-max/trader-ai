@@ -124,5 +124,14 @@
     "price": 5.785,
     "reason": "SEGNALE ACQUISTO MODERATO: RSI=68.4 (prossimo a ipercomprato ma non ancora), MACD hist=+0.0063 crescente positivo, vol×=+4.96x (volume molto elevato, >2x baseline), 4h=+0.17% positivo. Volume esplosivo + momentum rialzista suggeriscono breakout in corso. Entrata tattica su volume.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T19:31:14.666026+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 18.0,
+    "price": 0.1534,
+    "reason": "SEGNALE VENDITA MEDIO: RSI=60.3 (sopra 60), MACD hist=negativo con BEARISH_CROSS confermato, 4h=-1.16% negativo, 1h=-0.58% negativo. Momentum ribassista in consolidamento, volatilità elevata (+0.81%). Riduzione posizione sovrapesata (345.39 unità) su segnale tecnico negativo multi-timeframe.",
+    "dry_run": false
   }
 ]
