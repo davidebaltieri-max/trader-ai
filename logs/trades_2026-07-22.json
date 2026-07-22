@@ -88,5 +88,14 @@
     "price": 7.555,
     "reason": "MACD BEARISH_CROSS + hist<0 decrescente + 1h=-0.66% — segnale VENDITA MEDIA. Momentum ribassista confermato. LINK mostra debolezza tecnica. Exit posizione per ridurre esposizione e attendere migliore entry point.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T19:01:19.661178+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.735,
+    "reason": "DOT in zona ipervenduta (RSI=42.9, sotto 50), volume spike massivo (+3.63x), volatilità elevata (+0.91%), e 4h positivo (+1.37%). Momentum ribassista (MACD hist negativo) in fase di potenziale inversione. Acquisto aggressivo su dip con alto upside potenziale.",
+    "dry_run": false
   }
 ]
