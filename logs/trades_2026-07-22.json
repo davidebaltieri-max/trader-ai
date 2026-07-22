@@ -61,5 +61,14 @@
     "price": 5.81,
     "reason": "RSI=71.4 IPERCOMPRATO + 1h=-0.34% (lieve calo in corso). MACD hist positivo ma su valore basso (+0.0144). Posizione AVAX ha buona performance 4h=+1.58%, conviene realizzare profitti e ridurre esposizione in area di resistenza tecnica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T16:31:18.932780+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.2805,
+    "reason": "RSI=33.8 IPERVENDUTO ma MACD hist NEGATIVO e DECRESCENTE (-0.0010) = trend ribassista confermato. 1h=-0.54% + 4h=-0.62% = momentum DOWN. Fuori dalla zona di accumulo ideale, meglio uscire e rientrare su rimbalzo più sicuro.",
+    "dry_run": false
   }
 ]
