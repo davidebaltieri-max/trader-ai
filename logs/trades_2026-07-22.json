@@ -52,5 +52,14 @@
     "price": 0.1567,
     "reason": "RSI=74.2 IPERCOMPRATO + momentum in debolezza relativa (4h=+3.57% ma MACD hist molto basso +0.0006). ADA ha fatto un'impennata di 24h=+2.96%, raggiunge zona di take profit naturale. Vendo parte per realizzare guadagni e liberare spazio/capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T16:31:15.897957+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.81,
+    "reason": "RSI=71.4 IPERCOMPRATO + 1h=-0.34% (lieve calo in corso). MACD hist positivo ma su valore basso (+0.0144). Posizione AVAX ha buona performance 4h=+1.58%, conviene realizzare profitti e ridurre esposizione in area di resistenza tecnica.",
+    "dry_run": false
   }
 ]
