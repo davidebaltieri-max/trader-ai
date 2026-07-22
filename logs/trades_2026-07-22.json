@@ -79,5 +79,14 @@
     "price": 5.79,
     "reason": "RSI=80.0 IPERCOMPRATO (>70) — segnale VENDITA FORTE. AVAX ha raggiunto zona di presa profitti dopo rally. Ridurre posizione per proteggere guadagni e liberare liquidità per opportunità di rimbalzo su asset in ipervenduto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-22T18:31:09.567279+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 16.2,
+    "price": 7.555,
+    "reason": "MACD BEARISH_CROSS + hist<0 decrescente + 1h=-0.66% — segnale VENDITA MEDIA. Momentum ribassista confermato. LINK mostra debolezza tecnica. Exit posizione per ridurre esposizione e attendere migliore entry point.",
+    "dry_run": false
   }
 ]
