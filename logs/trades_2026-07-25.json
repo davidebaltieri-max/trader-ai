@@ -25,5 +25,14 @@
     "price": 1.219,
     "reason": "RSI=38.2 (zona neutra bassa, vicino ipervenduto), MACD hist crescente positivo (+0.0016), 1h=+0.41%, 4h=+0.66%. Segnale ACQUISTO MEDIO confermato. ATOM è in posizione di forza tecnica con momentum rialzista e prezzo resiliente. Slot libero disponibile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-25T14:31:10.557636+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 30.0,
+    "price": 0.1436,
+    "reason": "RSI=71.4 (IPERCOMPRATO), 1h=-0.14%, 4h trend positivo ma RSI estremo suggerisce correzione imminente. MACD hist ancora positivo (+0.0002) ma molto debole. Riduco posizione ADA per bloccare parziali guadagni e liberare capitale su asset con momentum migliore.",
+    "dry_run": false
   }
 ]
