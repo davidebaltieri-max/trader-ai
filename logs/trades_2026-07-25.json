@@ -16,5 +16,14 @@
     "price": 0.1437,
     "reason": "RSI=73.7 IPERCOMPRATO + MACD hist quasi piatto (0.0002) nonostante segnali rialzisti su 1h/4h. Divergenza: momentum debole vs prezzo alto. Volume elevato (1.48x) ma senza conferma MACD convincente. Riduco esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-25T14:31:09.203261+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.219,
+    "reason": "RSI=38.2 (zona neutra bassa, vicino ipervenduto), MACD hist crescente positivo (+0.0016), 1h=+0.41%, 4h=+0.66%. Segnale ACQUISTO MEDIO confermato. ATOM è in posizione di forza tecnica con momentum rialzista e prezzo resiliente. Slot libero disponibile.",
+    "dry_run": false
   }
 ]
