@@ -34,5 +34,14 @@
     "price": 0.1436,
     "reason": "RSI=71.4 (IPERCOMPRATO), 1h=-0.14%, 4h trend positivo ma RSI estremo suggerisce correzione imminente. MACD hist ancora positivo (+0.0002) ma molto debole. Riduco posizione ADA per bloccare parziali guadagni e liberare capitale su asset con momentum migliore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-25T14:45:49.037681+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1442,
+    "reason": "RSI=78.9 (IPERCOMPRATO) + MACD hist positivo ma in decelerazione (0.0002) + 24h=-0.48% negativo. Realizza profitti su posizione oversized (345 unità). Vendita media per ridurre esposizione su asset in zona di correzione.",
+    "dry_run": false
   }
 ]
