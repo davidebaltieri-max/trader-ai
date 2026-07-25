@@ -43,5 +43,14 @@
     "price": 0.1442,
     "reason": "RSI=78.9 (IPERCOMPRATO) + MACD hist positivo ma in decelerazione (0.0002) + 24h=-0.48% negativo. Realizza profitti su posizione oversized (345 unità). Vendita media per ridurre esposizione su asset in zona di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-25T14:45:50.361484+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 30.0,
+    "price": 3.235,
+    "reason": "RSI=45.5 (zona neutra inferiore) + MACD hist>0 e crescente (+0.0048) + 4h=+0.62% positivo + vol×=3.14x volume alto. Segnale ACQUISTO MEDIO confermato. UNI in weakness tecnica ma momentum interno rialzista. Entry aggressivo su asset DeFi con potenziale rimbalzo.",
+    "dry_run": false
   }
 ]
