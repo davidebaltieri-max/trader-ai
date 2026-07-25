@@ -52,5 +52,14 @@
     "price": 3.235,
     "reason": "RSI=45.5 (zona neutra inferiore) + MACD hist>0 e crescente (+0.0048) + 4h=+0.62% positivo + vol×=3.14x volume alto. Segnale ACQUISTO MEDIO confermato. UNI in weakness tecnica ma momentum interno rialzista. Entry aggressivo su asset DeFi con potenziale rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-25T14:45:51.641756+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 7.345,
+    "reason": "RSI=60.0 (zona neutra) + MACD hist>0 e crescente (+0.0083) + 4h=+0.82% positivo + 24h=-1.61% vendita moderata. Segnale ACQUISTO MEDIO. Consolidamento su infrastruttura DeFi critica con momentum interno confermato dal MACD.",
+    "dry_run": false
   }
 ]
