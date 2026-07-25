@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-25T14:01:23.952334+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 19.5,
+    "price": 5.715,
+    "reason": "RSI=88.5 IPERCOMPRATO ESTREMO + volatilità alta (0.79%) + volume massivo (4.14x). Correzione imminente. Realizzo profitti su rally strong (1h=+2.70%, 4h=+3.83%, 24h=+3.83%). Possibile pullback dopo ipercompra.",
+    "dry_run": false
+  }
+]
