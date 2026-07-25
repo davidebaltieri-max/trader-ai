@@ -7,5 +7,14 @@
     "price": 5.715,
     "reason": "RSI=88.5 IPERCOMPRATO ESTREMO + volatilità alta (0.79%) + volume massivo (4.14x). Correzione imminente. Realizzo profitti su rally strong (1h=+2.70%, 4h=+3.83%, 24h=+3.83%). Possibile pullback dopo ipercompra.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-25T14:01:25.269881+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 15.0,
+    "price": 0.1437,
+    "reason": "RSI=73.7 IPERCOMPRATO + MACD hist quasi piatto (0.0002) nonostante segnali rialzisti su 1h/4h. Divergenza: momentum debole vs prezzo alto. Volume elevato (1.48x) ma senza conferma MACD convincente. Riduco esposizione.",
+    "dry_run": false
   }
 ]
