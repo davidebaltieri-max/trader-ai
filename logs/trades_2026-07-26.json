@@ -43,5 +43,14 @@
     "price": 7.545,
     "reason": "RSI=71.9 (IPERCOMPRATO) + vol×=+1.71x elevato + 1h=-0.79% negativo. Segnale VENDITA MEDIA confermato. LINK ha già +2.86% in 24h, preso profit su momentum",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-26T17:31:09.785391+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.425,
+    "reason": "RSI=75.7 (IPERCOMPRATO) + vol×=+1.69x elevato + 1h=-1.15% negativo + volatilità +0.99%. Segnale VENDITA MEDIA forte. UNI ha già +5.86% in 24h, realizzo gains",
+    "dry_run": false
   }
 ]
