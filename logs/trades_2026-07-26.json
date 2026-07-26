@@ -25,5 +25,14 @@
     "price": 7.395,
     "reason": "LINK mostra BEARISH_CROSS MACD + RSI=64.3 (trend discendente) + MACD hist negativo e decrescente. Momentum ribassista confermato. Ridurre esposizione infrastruttura DeFi in fase di debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-26T11:43:29.542929+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.345,
+    "reason": "RSI=80.0 IPERCOMPRATO + MACD hist positivo ma momentum extremo su timeframe corto (1h=+1.82%, 4h=+4.04%). Volume anomalo (vol×=+12.76x). Realizza parzialmente i guadagni (+4% in 24h) per fissare profitti e ridurre rischio di correzione imminente. Vendi €20 (~6 UNI) mantenendo posizione ridotta.",
+    "dry_run": false
   }
 ]
