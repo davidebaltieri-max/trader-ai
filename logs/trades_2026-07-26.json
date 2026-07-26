@@ -52,5 +52,14 @@
     "price": 3.425,
     "reason": "RSI=75.7 (IPERCOMPRATO) + vol×=+1.69x elevato + 1h=-1.15% negativo + volatilità +0.99%. Segnale VENDITA MEDIA forte. UNI ha già +5.86% in 24h, realizzo gains",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-26T17:31:11.111268+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.2245,
+    "reason": "MACD BEARISH_CROSS (hist=-0.0000 decrescente) + RSI=54.5 neutrale ma in leggero calo + 1h=+0.00% flat. Segnale VENDITA MEDIA per uscire prima della correzione confermata da MACD",
+    "dry_run": false
   }
 ]
