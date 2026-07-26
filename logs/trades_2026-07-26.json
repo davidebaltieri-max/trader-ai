@@ -7,5 +7,14 @@
     "price": 0.725,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD BULLISH_CROSS ma RSI estremo suggerisce correzione imminente. Realizzare profitti su momentum positivo prima della reversione. DOT ha +1.39% 1h/4h, segnale di take profit preventivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-26T08:01:16.833986+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1451,
+    "reason": "ADA mostra BEARISH_CROSS MACD + RSI=52.4 + calo 1h=-0.89% + volume estremo (vol×=+10.30x) suggerisce movimento manipolativo. MACD hist a zero e decrescente conferma inversione ribassista. Uscire da posizione volatile.",
+    "dry_run": false
   }
 ]
