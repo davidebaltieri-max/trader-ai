@@ -16,5 +16,14 @@
     "price": 0.1451,
     "reason": "ADA mostra BEARISH_CROSS MACD + RSI=52.4 + calo 1h=-0.89% + volume estremo (vol×=+10.30x) suggerisce movimento manipolativo. MACD hist a zero e decrescente conferma inversione ribassista. Uscire da posizione volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-26T08:01:17.882176+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 7.395,
+    "reason": "LINK mostra BEARISH_CROSS MACD + RSI=64.3 (trend discendente) + MACD hist negativo e decrescente. Momentum ribassista confermato. Ridurre esposizione infrastruttura DeFi in fase di debolezza.",
+    "dry_run": false
   }
 ]
