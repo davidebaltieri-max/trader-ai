@@ -16,5 +16,14 @@
     "price": 1.225,
     "reason": "ATOM mostra BEARISH_CROSS su MACD (hist negativo decrescente a -0.0000) con RSI neutro (50.0) e 4h=+0.41%. Segnale di inversione ribassista imminente. Prevenire ulteriore degradazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-27T01:01:13.382260+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.365,
+    "reason": "UNI segnale VENDITA FORTE: RSI=20.0 (IPERVENDUTO ma in discesa), MACD hist=-0.0093 (decrescente/BEARISH), 1h=-1.17% (negativo), 4h=-0.88% (negativo). Pattern di ribasso confermato su 1h e 4h. Realizzo profitti parziali (24h +4.33%) prima di possibile correzione ulteriore. Libero spazio di portafoglio per rotazione su momentum positivo.",
+    "dry_run": false
   }
 ]
