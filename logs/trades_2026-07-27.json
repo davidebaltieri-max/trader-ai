@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-27T00:01:20.523330+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.405,
+    "reason": "UNI in IPERVENDUTO (RSI 28.6) ma MACD negativo decrescente (hist=-0.0075) con 1h=-0.58% e 4h=0.00% segnalano debolezza prolungata. Momentum ribassista confermato. Ridurre esposizione su questo asset.",
+    "dry_run": false
+  }
+]
