@@ -7,5 +7,14 @@
     "price": 3.405,
     "reason": "UNI in IPERVENDUTO (RSI 28.6) ma MACD negativo decrescente (hist=-0.0075) con 1h=-0.58% e 4h=0.00% segnalano debolezza prolungata. Momentum ribassista confermato. Ridurre esposizione su questo asset.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-27T00:01:22.060387+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.225,
+    "reason": "ATOM mostra BEARISH_CROSS su MACD (hist negativo decrescente a -0.0000) con RSI neutro (50.0) e 4h=+0.41%. Segnale di inversione ribassista imminente. Prevenire ulteriore degradazione.",
+    "dry_run": false
   }
 ]
