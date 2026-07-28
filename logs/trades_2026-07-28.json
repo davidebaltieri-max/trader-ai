@@ -25,5 +25,14 @@
     "price": 7.4,
     "reason": "RSI=70.4 IPERCOMPRATO. MACD hist positivo (+0.0108) ma RSI prossimo a zona di esaurimento. Volume×=2.65x alto. Profit-taking su posizione infrastruttura DeFi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-28T22:01:18.505387+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.141,
+    "reason": "RSI=71.8 IPERCOMPRATO (>70) + MACD hist positivo crescente ma momentum satura. Segnale VENDITA MEDIA confermato. ADA ha guadagnato +1.08% in 24h su trend ipercomprato. Realizzo profitti parziali prima della correzione attesa.",
+    "dry_run": false
   }
 ]
