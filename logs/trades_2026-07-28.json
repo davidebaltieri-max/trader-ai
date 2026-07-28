@@ -34,5 +34,14 @@
     "price": 0.141,
     "reason": "RSI=71.8 IPERCOMPRATO (>70) + MACD hist positivo crescente ma momentum satura. Segnale VENDITA MEDIA confermato. ADA ha guadagnato +1.08% in 24h su trend ipercomprato. Realizzo profitti parziali prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-28T22:01:19.710761+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 7.4,
+    "reason": "RSI=70.4 IPERCOMPRATO (>70) + 1h=+0.54% ma segnale VENDITA MEDIA. LINK mostra ipercompra significativa dopo gain 24h positivo. Vendo posizione per liberare slot e capitalizzare.",
+    "dry_run": false
   }
 ]
