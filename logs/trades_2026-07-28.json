@@ -16,5 +16,14 @@
     "price": 0.1409,
     "reason": "RSI=71.4 IPERCOMPRATO (massimo raggiunto). MACD hist quasi piatto (+0.0002). Anche se 24h=+1.00%, il segnale tecnico di ipercomprato su timeframe breve è evidente. Ridimensiona posizione prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-28T21:59:33.342580+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 7.4,
+    "reason": "RSI=70.4 IPERCOMPRATO. MACD hist positivo (+0.0108) ma RSI prossimo a zona di esaurimento. Volume×=2.65x alto. Profit-taking su posizione infrastruttura DeFi.",
+    "dry_run": false
   }
 ]
