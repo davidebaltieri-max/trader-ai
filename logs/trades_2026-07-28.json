@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-28T09:01:22.289954+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1382,
+    "reason": "RSI=82.9 IPERCOMPRATO (>70) + MACD hist positivo ma in zona di sovraccompra. ADA ha registrato +1.02% in 4h e +0.07% in 1h dopo un -4.56% in 24h: pattern classico di pullback su ipercompra. Vendita media per realizzare profitti e liberare liquidità per opportunità di dip-buying su asset ipervenduti.",
+    "dry_run": false
+  }
+]
