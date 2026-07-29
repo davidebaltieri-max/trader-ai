@@ -16,5 +16,14 @@
     "price": 0.1437,
     "reason": "MACD BEARISH_CROSS confermato + RSI=60.8 (prossimo a ipercomprato) + 4h=-0.89% + volat alta (0.76%). Segnale ribassista dopo il rally 24h (+4.35%). Riduzione rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T08:01:20.106833+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.665,
+    "reason": "DOT ipercomprato (RSI=100.0), nessun movimento 1h/4h (0.00%), momentum debole. Riduco posizione sovraesposta in asset stagnante per liberare capitale.",
+    "dry_run": false
   }
 ]
