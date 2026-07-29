@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-29T07:01:22.489745+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.665,
+    "reason": "RSI=100.0 IPERCOMPRATO (estremo) + 24h=-5.63% + volume basso (0.62x). Segnale di vendita forte per lock-in parziale su posizione in calo. Ridimensionamento necessario prima di correzione.",
+    "dry_run": false
+  }
+]
