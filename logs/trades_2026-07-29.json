@@ -34,5 +34,14 @@
     "price": 1.1275,
     "reason": "ATOM bearish cross confermato (MACD hist decrescente), calo 24h=-6.02%, RSI=40.4 in zona neutra ma tendenza ribassista. Vendo per proteggere capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T12:01:32.192348+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 3.555,
+    "reason": "RSI=87.1 🔴IPERCOMPRATO + MACD hist positivo ma 1h=+1.14% rappresenta picco locale su candela 30min. Realizzare profitti su gain +5.95% 24h. Operazione defensiva in portafoglio pieno.",
+    "dry_run": false
   }
 ]
