@@ -88,5 +88,14 @@
     "price": 3.555,
     "reason": "RSI=81.2 IPERCOMPRATO + MACD hist=+0.0096 in discesa da picchi precedenti. Realizza +3.80% 24h. Trimma posizione su estremità rialzista.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T18:01:20.805242+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.675,
+    "reason": "DOT ipercomprato (RSI=100.0), nessun movimento 1h/4h, MACD hist positivo ma in contesto di estremo overextension. Riduco posizione per realizzare parziali e liberare capitale per dip-buying su ATOM",
+    "dry_run": false
   }
 ]
