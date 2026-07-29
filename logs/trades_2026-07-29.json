@@ -70,5 +70,14 @@
     "price": 3.555,
     "reason": "RSI=76.5 IPERCOMPRATO + MACD hist positivo crescente = momentum rialzista ma a rischio correzione. Sell parziale su picco per proteggere guadagni (+4.72% 24h)",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T14:01:24.946846+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.665,
+    "reason": "RSI=100.0 IPERCOMPRATO + 24h=-4.29% + vol×=3.19x (picco anomalo). Riduco posizione per bloccare profitti e liberare capitale. DOT ha subito sell-off nonostante spike volume.",
+    "dry_run": false
   }
 ]
