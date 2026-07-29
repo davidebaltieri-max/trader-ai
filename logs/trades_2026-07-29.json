@@ -79,5 +79,14 @@
     "price": 0.665,
     "reason": "RSI=100.0 IPERCOMPRATO + 24h=-4.29% + vol×=3.19x (picco anomalo). Riduco posizione per bloccare profitti e liberare capitale. DOT ha subito sell-off nonostante spike volume.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T14:01:26.813988+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.555,
+    "reason": "RSI=81.2 IPERCOMPRATO + MACD hist=+0.0096 in discesa da picchi precedenti. Realizza +3.80% 24h. Trimma posizione su estremità rialzista.",
+    "dry_run": false
   }
 ]
