@@ -97,5 +97,14 @@
     "price": 0.675,
     "reason": "DOT ipercomprato (RSI=100.0), nessun movimento 1h/4h, MACD hist positivo ma in contesto di estremo overextension. Riduco posizione per realizzare parziali e liberare capitale per dip-buying su ATOM",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T18:01:22.287811+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1455,
+    "reason": "ADA in ipercomprato (RSI=59.2 prossimo a 60+), correzione likely dopo gain 4.53% in 24h. MACD hist positivo ma pressione tecnica elevata. Realizzazione parziale",
+    "dry_run": false
   }
 ]
