@@ -43,5 +43,14 @@
     "price": 3.555,
     "reason": "RSI=87.1 🔴IPERCOMPRATO + MACD hist positivo ma 1h=+1.14% rappresenta picco locale su candela 30min. Realizzare profitti su gain +5.95% 24h. Operazione defensiva in portafoglio pieno.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T12:01:33.947033+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.665,
+    "reason": "RSI=100.0 🔴IPERCOMPRATO estremo + 24h=-4.29% trend ribassista sottostante. Volume×=+2.35x conferma movimento. Stop loss preventivo su posizione significativa.",
+    "dry_run": false
   }
 ]
