@@ -7,5 +7,14 @@
     "price": 0.665,
     "reason": "RSI=100.0 IPERCOMPRATO (estremo) + 24h=-5.63% + volume basso (0.62x). Segnale di vendita forte per lock-in parziale su posizione in calo. Ridimensionamento necessario prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T07:01:23.985089+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1437,
+    "reason": "MACD BEARISH_CROSS confermato + RSI=60.8 (prossimo a ipercomprato) + 4h=-0.89% + volat alta (0.76%). Segnale ribassista dopo il rally 24h (+4.35%). Riduzione rischio.",
+    "dry_run": false
   }
 ]
