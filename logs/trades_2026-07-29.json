@@ -25,5 +25,14 @@
     "price": 0.665,
     "reason": "DOT ipercomprato (RSI=100.0), nessun movimento 1h/4h (0.00%), momentum debole. Riduco posizione sovraesposta in asset stagnante per liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-29T08:01:21.326837+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.1275,
+    "reason": "ATOM bearish cross confermato (MACD hist decrescente), calo 24h=-6.02%, RSI=40.4 in zona neutra ma tendenza ribassista. Vendo per proteggere capitale.",
+    "dry_run": false
   }
 ]
