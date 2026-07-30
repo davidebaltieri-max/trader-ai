@@ -16,5 +16,14 @@
     "price": 0.1476,
     "reason": "RSI=83.8 🔴IPERCOMPRATO (massimo assoluto) + MACD hist crescente ma RSI eccessivo (>80 è estremo). 1h=+1.03% 4h=+3.22% = guadagni già significativi. Rischio correzione alta. Vendita preventiva su posizione sovraelevata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-30T14:40:29.393804+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 7.365,
+    "reason": "RSI=70.0 🔴IPERCOMPRATO (al limite soglia vendita) + vol×=0.43x (volume non sostenuto) + MACD hist ancora positivo ma RSI suggerisce correzione imminente. Trim position su segnale di vendita media.",
+    "dry_run": false
   }
 ]
