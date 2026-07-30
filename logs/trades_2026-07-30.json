@@ -43,5 +43,14 @@
     "price": 0.1494,
     "reason": "RSI=74.0 🔴IPERCOMPRATO (>70) — segnale VENDITA MEDIA. ADA ha volat=+0.98% (elevata) e vol×=+3.23x (volume impennato), tipico di spike speculativo. 4h=+3.75% e 24h=+4.04% suggeriscono correzione imminente. Ridurre posizione per bloccare guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-30T17:01:32.069801+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 3.865,
+    "reason": "RSI=97.4 IPERCOMPRATO + MACD hist positivo ma a rischio correzione. UNI ha performato +10.89% in 24h con vol×=+0.86x. Realizza profitti su posizione in ipercomprato per liberare slot e proteggere guadagni. Stop loss implicito a -5% da entry corrente.",
+    "dry_run": false
   }
 ]
