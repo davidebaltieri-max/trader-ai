@@ -34,5 +34,14 @@
     "price": 3.785,
     "reason": "RSI=96.8 🔴IPERCOMPRATO (>70) — segnale VENDITA FORTE confermato. UNI ha avuto +8.91% in 24h e +4.99% in 4h con momentum estremo. Realizzare profitti su questo picco è opportuno secondo il profilo performante. Stop alla sovraesposizione su questo asset volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-30T16:23:23.350588+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 18.0,
+    "price": 0.1494,
+    "reason": "RSI=74.0 🔴IPERCOMPRATO (>70) — segnale VENDITA MEDIA. ADA ha volat=+0.98% (elevata) e vol×=+3.23x (volume impennato), tipico di spike speculativo. 4h=+3.75% e 24h=+4.04% suggeriscono correzione imminente. Ridurre posizione per bloccare guadagni.",
+    "dry_run": false
   }
 ]
