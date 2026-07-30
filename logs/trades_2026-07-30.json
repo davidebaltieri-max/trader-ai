@@ -25,5 +25,14 @@
     "price": 7.365,
     "reason": "RSI=70.0 🔴IPERCOMPRATO (al limite soglia vendita) + vol×=0.43x (volume non sostenuto) + MACD hist ancora positivo ma RSI suggerisce correzione imminente. Trim position su segnale di vendita media.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-30T16:23:21.806670+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.785,
+    "reason": "RSI=96.8 🔴IPERCOMPRATO (>70) — segnale VENDITA FORTE confermato. UNI ha avuto +8.91% in 24h e +4.99% in 4h con momentum estremo. Realizzare profitti su questo picco è opportuno secondo il profilo performante. Stop alla sovraesposizione su questo asset volatile.",
+    "dry_run": false
   }
 ]
