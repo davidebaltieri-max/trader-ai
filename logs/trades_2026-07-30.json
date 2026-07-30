@@ -7,5 +7,14 @@
     "price": 3.73,
     "reason": "RSI=87.5 🔴IPERCOMPRATO (>70) + vol×=2.54x elevato + 4h=+4.78% (già significativo guadagno realizzato). Segnale VENDITA FORTE: momentum è esaurito, correzione probabile. Realizzo profitto su posizione in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-30T14:40:27.980718+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1476,
+    "reason": "RSI=83.8 🔴IPERCOMPRATO (massimo assoluto) + MACD hist crescente ma RSI eccessivo (>80 è estremo). 1h=+1.03% 4h=+3.22% = guadagni già significativi. Rischio correzione alta. Vendita preventiva su posizione sovraelevata.",
+    "dry_run": false
   }
 ]
