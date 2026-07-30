@@ -52,5 +52,14 @@
     "price": 3.865,
     "reason": "RSI=97.4 IPERCOMPRATO + MACD hist positivo ma a rischio correzione. UNI ha performato +10.89% in 24h con vol×=+0.86x. Realizza profitti su posizione in ipercomprato per liberare slot e proteggere guadagni. Stop loss implicito a -5% da entry corrente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-30T17:01:33.637963+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 8.0,
+    "price": 56193.73,
+    "reason": "RSI=46.5 neutrale + MACD hist negativo e decrescente. BTC mostra debolezza relativa: 1h=-0.07%, 4h=-0.39%, vol×=+0.45x basso. Piccola realizzazione su posizione minima (0.00242 BTC) per libertà operativa. Trend ribassista confermato.",
+    "dry_run": false
   }
 ]
