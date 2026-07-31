@@ -7,5 +7,14 @@
     "price": 1.0695,
     "reason": "ATOM in free fall: RSI=10.4 (IPERVENDUTO estremo), MACD hist decrescente, -2.82% 1h/-4.81% 4h/-5.82% 24h. Momentum ribassista confermato. Riduco esposizione su posizione debole per liberare liquidità e limitare ulteriori perdite.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-07-31T04:31:20.142250+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.255,
+    "reason": "LINK in ipervenduto: RSI=28.6, MACD hist=-0.0116 decrescente, -0.14% 1h/-0.96% 4h/-0.96% 24h. Volume basso (0.14x) segnala scarso interesse. Riduco posizione per liberare capitale.",
+    "dry_run": false
   }
 ]
