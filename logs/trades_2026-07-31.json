@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-07-31T04:31:18.724174+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.0695,
+    "reason": "ATOM in free fall: RSI=10.4 (IPERVENDUTO estremo), MACD hist decrescente, -2.82% 1h/-4.81% 4h/-5.82% 24h. Momentum ribassista confermato. Riduco esposizione su posizione debole per liberare liquidità e limitare ulteriori perdite.",
+    "dry_run": false
+  }
+]
