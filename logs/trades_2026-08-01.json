@@ -43,5 +43,14 @@
     "price": 1.0675,
     "reason": "VENDITA MEDIA: RSI=50 (neutrale), MACD hist=+0.0018 (debolissimo), ma 24h=-5.07% + 1h=-0.37% (calo recente). Vol×=0.20 (volume molto basso = scarso interesse). ATOM mostra debolezza relativa rispetto a BTC/ETH con segnali MACD insufficienti per mantenere posizione in portafoglio pieno. Realizziamo per liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-01T08:01:22.717856+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 28.0,
+    "price": 3.545,
+    "reason": "UNI in IPERVENDUTO (RSI=4.8, estremo) + MACD hist negativo decrescente (-0.0156) + calo 24h=-7.07% + vol basso (0.26x). Vendita per ridurre esposizione su asset debole e liberare capitale per opportunità di dip-buying su segnali più forti.",
+    "dry_run": false
   }
 ]
