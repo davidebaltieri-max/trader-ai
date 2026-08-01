@@ -79,5 +79,14 @@
     "price": 3.575,
     "reason": "RSI=13.6 IPERVENDUTO suggerisce rimbalzo, MA 24h=-6.28% + 4h=-3.24% + MACD hist=-0.0137 decrescente indicano trend ribassista in corso. Segnale conflittuale, ma la pressione vendita è dominante. Riduco esposizione su asset debolissimo prima di ulteriori cali.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-01T09:31:13.654800+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 3.555,
+    "reason": "UNI in IPERVENDUTO (RSI=8.7) con MACD hist negativo decrescente (-0.0097). Calo 24h -5.07% ha raggiunto zona critica. Vendita defensiva per liberare capitale e ridurre posizioni in perdita, con potenziale riacquisto a livelli più bassi dopo rimbalzo.",
+    "dry_run": false
   }
 ]
