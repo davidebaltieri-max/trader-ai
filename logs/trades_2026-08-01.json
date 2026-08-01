@@ -61,5 +61,14 @@
     "price": 7.055,
     "reason": "LINK in zona oversold (RSI=47.8 tendente al ribasso) + calo 24h=-3.02% + 4h=-0.98% + MACD hist positivo ma debole (+0.0012). Volume elevato (1.32x) indica pressione vendita. Riduco posizione per contenere drawdown.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-01T08:38:42.849600+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 30.0,
+    "price": 0.15,
+    "reason": "RSI=70.3 IPERCOMPRATO + vol×=+3.67x (picco anomalo) + 1h=+1.01% (momentum in esaurimento dopo spike). Segnale VENDITA MEDIA confermato. ADA ha raggiunto livello di resistenza con volatilità elevata; realizzo profitti su rialzo parabólico prima della correzione attesa.",
+    "dry_run": false
   }
 ]
