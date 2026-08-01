@@ -88,5 +88,14 @@
     "price": 3.555,
     "reason": "UNI in IPERVENDUTO (RSI=8.7) con MACD hist negativo decrescente (-0.0097). Calo 24h -5.07% ha raggiunto zona critica. Vendita defensiva per liberare capitale e ridurre posizioni in perdita, con potenziale riacquisto a livelli più bassi dopo rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-01T09:31:14.710135+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 7.025,
+    "reason": "LINK mostra momentum ribassista confermato: RSI=39.1 (zona bassa), MACD hist negativo decrescente (-0.0037), calo 4h -1.54% e 24h -3.17%. Volume basso (vol×=0.44x) suggerisce assenza di supporto. Stop defensivo prima di ulteriori deterioramenti.",
+    "dry_run": false
   }
 ]
