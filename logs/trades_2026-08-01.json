@@ -34,5 +34,14 @@
     "price": 3.565,
     "reason": "VENDITA FORTE confermata: RSI=8.3 (IPERVENDUTO ma in calo massivo), MACD hist=-0.0186 (negativo decrescente), 4h=-4.55% + 24h=-7.75% (trend ribassista accentuato), vol×=2.48 (volume alto in fase di calo). UNI in crollo verticale dopo gap ribassista. Realizziamo posizione per ridistribuire capitale verso asset con momentum positivo e segnali meno deteriorati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-01T07:01:18.673478+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 29.99,
+    "price": 1.0675,
+    "reason": "VENDITA MEDIA: RSI=50 (neutrale), MACD hist=+0.0018 (debolissimo), ma 24h=-5.07% + 1h=-0.37% (calo recente). Vol×=0.20 (volume molto basso = scarso interesse). ATOM mostra debolezza relativa rispetto a BTC/ETH con segnali MACD insufficienti per mantenere posizione in portafoglio pieno. Realizziamo per liberare capitale.",
+    "dry_run": false
   }
 ]
