@@ -16,5 +16,14 @@
     "price": 3.555,
     "reason": "UNI in IPERVENDUTO (RSI=7.4) ma con MACD hist negativo decrescente (-0.0194). Momentum ribassista confermato su 4h (-5.33%) e 24h (-9.21%). Volatilità elevata (+0.72%). Volume spike (+2.96x) indica distribuzione. Vendita media per limitare danni e liberare capitale prima di ulteriore discesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-01T06:13:32.768542+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 7.085,
+    "reason": "LINK calo significativo 24h (-3.41%), RSI neutrale (50.0) ma MACD hist positivo (+0.0077) debole. 1h negativo (-0.84%), volume basso (0.35x). Posizione sofferente con momentum incerto. Riduzione posizione per migliorare rapporto rischio/rendimento.",
+    "dry_run": false
   }
 ]
