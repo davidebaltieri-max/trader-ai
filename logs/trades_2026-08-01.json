@@ -52,5 +52,14 @@
     "price": 3.545,
     "reason": "UNI in IPERVENDUTO (RSI=4.8, estremo) + MACD hist negativo decrescente (-0.0156) + calo 24h=-7.07% + vol basso (0.26x). Vendita per ridurre esposizione su asset debole e liberare capitale per opportunità di dip-buying su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-01T08:01:24.449462+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.055,
+    "reason": "LINK in zona oversold (RSI=47.8 tendente al ribasso) + calo 24h=-3.02% + 4h=-0.98% + MACD hist positivo ma debole (+0.0012). Volume elevato (1.32x) indica pressione vendita. Riduco posizione per contenere drawdown.",
+    "dry_run": false
   }
 ]
