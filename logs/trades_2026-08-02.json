@@ -97,5 +97,14 @@
     "price": 1.084,
     "reason": "VENDITA MEDIA: RSI=71.4 (IPERCOMPRATO, sopra soglia 70) + 1h=-0.55% (negativa) + MACD hist positivo ma in contesto di ipercomprato suggerisce profit-taking. Posizione in eccesso di calore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T12:01:28.181307+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1638,
+    "reason": "RSI=73.1 IPERCOMPRATO + 1h=+1.24% (picco locale) + MACD hist decrescente. Segnale di VENDITA MEDIA confermato. ADA ha guadagnato +8.99% in 24h, take profit raggiunto. Realizza profitti prima della correzione attesa.",
+    "dry_run": false
   }
 ]
