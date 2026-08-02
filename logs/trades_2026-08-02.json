@@ -106,5 +106,14 @@
     "price": 0.1638,
     "reason": "RSI=73.1 IPERCOMPRATO + 1h=+1.24% (picco locale) + MACD hist decrescente. Segnale di VENDITA MEDIA confermato. ADA ha guadagnato +8.99% in 24h, take profit raggiunto. Realizza profitti prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T12:01:29.501348+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.0905,
+    "reason": "RSI=70.9 IPERCOMPRATO (soglia critica) + vol×=+1.56x (volume elevato) + MACD hist positivo ma decrescente (momentum in perdita). Segnale di VENDITA MEDIA. Realizza profitti sulla posizione prima della correzione.",
+    "dry_run": false
   }
 ]
