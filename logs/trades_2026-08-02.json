@@ -25,5 +25,14 @@
     "price": 1.0905,
     "reason": "RSI=81.1 IPERCOMPRATO (massimo critico) + 1h=-0.27%. Malgrado MACD positivo, il livello RSI rappresenta zona di correzione ad alta probabilità. Vendi su forza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T09:31:13.967182+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1632,
+    "reason": "RSI=83.8 (IPERCOMPRATO) + 24h=+9.30% (forte rally). Momentum rialzista confermato da MACD hist positivo crescente, ma RSI estremamente elevato segnala correzione imminente. Realizzo profitti su posizione in ipercomprato prima del pullback.",
+    "dry_run": false
   }
 ]
