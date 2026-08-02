@@ -124,5 +124,14 @@
     "price": 54687.18,
     "reason": "RSI=22.9 IPERVENDUTO è segnale di rimbalzo, MA 1h=-0.09%, 4h=-0.46%, 24h=-0.03% tutti negativi. MACD hist=-48.3842 severamente negativo (massimo ribasso). Trim posizione BTC per raccogliere liquidità e ridurre drawdown in trend ribassista confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T13:10:26.854650+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.0895,
+    "reason": "RSI=72.9 IPERCOMPRATO + MACD hist positivo ma senza cross rialzista confermato. ADA anch'essa ipercomprata (RSI=71.3) ma con segnali meno chiari. ATOM mostra momentum ribassista potenziale dopo spike. Realizzo profitti su posizione performante (ATOM +1.30% 24h) prima di possibile correzione.",
+    "dry_run": false
   }
 ]
