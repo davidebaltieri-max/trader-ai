@@ -70,5 +70,14 @@
     "price": 1.086,
     "reason": "RSI=75.5 IPERCOMPRATO + MACD hist crescente ma su valori molto bassi (+0.0017). Posizione sovrapesata (174.02 unità). Riduco esposizione prima correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T10:13:25.826182+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.695,
+    "reason": "RSI=71.4 IPERCOMPRATO + volatilità elevata (+0.91%) + posizione anomala (1h=+1.45% e 4h=+1.45% con 24h=n/d indica spike recente). Vendo parzialmente per cristallizzare guadagni.",
+    "dry_run": false
   }
 ]
