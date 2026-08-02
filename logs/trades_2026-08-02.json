@@ -43,5 +43,14 @@
     "price": 1.0905,
     "reason": "RSI=81.1 (IPERCOMPRATO) + vol×=+2.82x (volume anomalo). MACD hist positivo crescente, ma RSI in zona rossa. Profitti realizzati, rilascio capitale per opportunità di dip-buying su asset con segnali contrari.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T09:31:16.146472+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 16.0,
+    "price": 0.695,
+    "reason": "RSI=71.4 (IPERCOMPRATO) + vol×=+0.35x (volume basso, debole). MACD hist positivo ma momentum non confermato da volume. Riduco posizione per liberare slot e capitale.",
+    "dry_run": false
   }
 ]
