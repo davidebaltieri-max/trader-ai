@@ -52,5 +52,14 @@
     "price": 0.695,
     "reason": "RSI=71.4 (IPERCOMPRATO) + vol×=+0.35x (volume basso, debole). MACD hist positivo ma momentum non confermato da volume. Riduco posizione per liberare slot e capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T10:13:23.503064+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1624,
+    "reason": "RSI=80.0 IPERCOMPRATO + 24h=+8.99% (spike anomalo) + volatilità alta (+0.44%). Correzione probabile dopo momentum esplosivo. Realizzo profitti parziali su posizione sovraesposta.",
+    "dry_run": false
   }
 ]
