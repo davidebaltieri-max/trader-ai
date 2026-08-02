@@ -133,5 +133,14 @@
     "price": 1.0895,
     "reason": "RSI=72.9 IPERCOMPRATO + MACD hist positivo ma senza cross rialzista confermato. ADA anch'essa ipercomprata (RSI=71.3) ma con segnali meno chiari. ATOM mostra momentum ribassista potenziale dopo spike. Realizzo profitti su posizione performante (ATOM +1.30% 24h) prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T13:10:28.179463+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1649,
+    "reason": "RSI=71.3 IPERCOMPRATO + MACD hist negativo decrescente. Nonostante performance positiva 24h (+8.77%), il segnale tecnico indica zona di ipercompra con momentum ribassista. Realizzo parte della posizione per ridurre rischio.",
+    "dry_run": false
   }
 ]
