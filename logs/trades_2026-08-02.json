@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-02T09:01:21.499138+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 23.4,
+    "price": 0.1612,
+    "reason": "RSI=84.5 IPERCOMPRATO + 24h=+7.68% (momentum esaurito). Realizza profitti su posizione vincente. Volume basso (0.43x) segnala esaurimento rally.",
+    "dry_run": false
+  }
+]
