@@ -34,5 +34,14 @@
     "price": 0.1632,
     "reason": "RSI=83.8 (IPERCOMPRATO) + 24h=+9.30% (forte rally). Momentum rialzista confermato da MACD hist positivo crescente, ma RSI estremamente elevato segnala correzione imminente. Realizzo profitti su posizione in ipercomprato prima del pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T09:31:15.150261+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.0905,
+    "reason": "RSI=81.1 (IPERCOMPRATO) + vol×=+2.82x (volume anomalo). MACD hist positivo crescente, ma RSI in zona rossa. Profitti realizzati, rilascio capitale per opportunità di dip-buying su asset con segnali contrari.",
+    "dry_run": false
   }
 ]
