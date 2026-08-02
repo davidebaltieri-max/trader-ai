@@ -115,5 +115,14 @@
     "price": 1.0905,
     "reason": "RSI=70.9 IPERCOMPRATO (soglia critica) + vol×=+1.56x (volume elevato) + MACD hist positivo ma decrescente (momentum in perdita). Segnale di VENDITA MEDIA. Realizza profitti sulla posizione prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T12:01:30.753162+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 12.0,
+    "price": 54687.18,
+    "reason": "RSI=22.9 IPERVENDUTO è segnale di rimbalzo, MA 1h=-0.09%, 4h=-0.46%, 24h=-0.03% tutti negativi. MACD hist=-48.3842 severamente negativo (massimo ribasso). Trim posizione BTC per raccogliere liquidità e ridurre drawdown in trend ribassista confermato.",
+    "dry_run": false
   }
 ]
