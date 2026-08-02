@@ -16,5 +16,14 @@
     "price": 7.215,
     "reason": "RSI=72.5 IPERCOMPRATO + 1h=-0.82% in calo. MACD hist positivo ma RSI estremamente elevato suggerisce correzione imminente. Blocca profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T09:01:24.153671+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.0905,
+    "reason": "RSI=81.1 IPERCOMPRATO (massimo critico) + 1h=-0.27%. Malgrado MACD positivo, il livello RSI rappresenta zona di correzione ad alta probabilità. Vendi su forza.",
+    "dry_run": false
   }
 ]
