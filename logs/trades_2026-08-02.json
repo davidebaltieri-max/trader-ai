@@ -7,5 +7,14 @@
     "price": 0.1612,
     "reason": "RSI=84.5 IPERCOMPRATO + 24h=+7.68% (momentum esaurito). Realizza profitti su posizione vincente. Volume basso (0.43x) segnala esaurimento rally.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T09:01:22.820566+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 7.215,
+    "reason": "RSI=72.5 IPERCOMPRATO + 1h=-0.82% in calo. MACD hist positivo ma RSI estremamente elevato suggerisce correzione imminente. Blocca profitti.",
+    "dry_run": false
   }
 ]
