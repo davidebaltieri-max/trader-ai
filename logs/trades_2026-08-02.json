@@ -88,5 +88,14 @@
     "price": 0.1617,
     "reason": "VENDITA MEDIA confermata: RSI=73.5 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist=-0.0000, crossover ribassista) + 1h=-0.98% (negativa). ADA ha performato +8.16% in 24h ed è entrato in fase di correzione. Realizza parziale profitto su spike.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T11:01:23.929088+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.084,
+    "reason": "VENDITA MEDIA: RSI=71.4 (IPERCOMPRATO, sopra soglia 70) + 1h=-0.55% (negativa) + MACD hist positivo ma in contesto di ipercomprato suggerisce profit-taking. Posizione in eccesso di calore.",
+    "dry_run": false
   }
 ]
