@@ -79,5 +79,14 @@
     "price": 0.695,
     "reason": "RSI=71.4 IPERCOMPRATO + volatilità elevata (+0.91%) + posizione anomala (1h=+1.45% e 4h=+1.45% con 24h=n/d indica spike recente). Vendo parzialmente per cristallizzare guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-02T11:01:22.436224+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1617,
+    "reason": "VENDITA MEDIA confermata: RSI=73.5 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist=-0.0000, crossover ribassista) + 1h=-0.98% (negativa). ADA ha performato +8.16% in 24h ed è entrato in fase di correzione. Realizza parziale profitto su spike.",
+    "dry_run": false
   }
 ]
