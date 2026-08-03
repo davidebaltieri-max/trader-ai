@@ -52,5 +52,14 @@
     "price": 0.715,
     "reason": "RSI=71.4 🔴IPERCOMPRATO + vol×=1.36x (volume elevato) + 24h=+5.88% (rally sostenuto). Momentum rialzista in corso (MACD hist positivo crescente) ma RSI indica esaurimento. Vendi posizione parzialmente per realizzare +5.88%.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T16:31:08.746062+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.395,
+    "reason": "RSI=30.3 (IPERVENDUTO) + MACD=hist=-0.0104 (decrescente, momentum ribassista) + 1h=-2.86%, 4h=-3.68%, 24h=-6.85% (trend ribassista confermato multi-timeframe). Segnale di ulteriore debolezza: esce dalla posizione prima di ulteriori cali.",
+    "dry_run": false
   }
 ]
