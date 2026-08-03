@@ -250,5 +250,14 @@
     "price": 3.405,
     "reason": "RSI=21.4 IPERVENDUTO ma MACD hist negativo decrescente + 24h=-6.58% conferma trend ribassista. Posizione debole in calo. Vendi il 48% per ridurre exposure in questo asset fragile, liberando slot per rotazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T21:31:12.768882+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.1935,
+    "reason": "RSI=72.2 IPERCOMPRATO + 24h=+9.37% movimento forte completato. Realizza profitti su posizione in estensione. ATOM ha segnato +9.37% in 24h: take profit parziale su momentum esteso.",
+    "dry_run": false
   }
 ]
