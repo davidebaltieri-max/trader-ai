@@ -187,5 +187,14 @@
     "price": 1.207,
     "reason": "ATOM in IPERCOMPRATO estremo (RSI=86.7), rialzo esplosivo 24h=+11.68% e 1h=+2.82% suggerisce possibile correzione imminente. Realizzo parziale profitti su momentum eccedente prima di potenziale pullback. Mantengo posizione residua per ulteriori rialzi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T20:31:16.541727+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.191,
+    "reason": "ATOM ipercomprato (RSI=74.1 >70) con volatilità alta (1.26%). Nonostante MACD positivo, il momentum è al limite: +9.96% in 24h rappresenta un picco su cui realizzare profitti. Vol× 1.96x conferma accumulo e potenziale correzione imminente. Take profit parziale tattico.",
+    "dry_run": false
   }
 ]
