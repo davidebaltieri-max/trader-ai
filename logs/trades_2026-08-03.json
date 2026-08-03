@@ -259,5 +259,14 @@
     "price": 1.1935,
     "reason": "RSI=72.2 IPERCOMPRATO + 24h=+9.37% movimento forte completato. Realizza profitti su posizione in estensione. ATOM ha segnato +9.37% in 24h: take profit parziale su momentum esteso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T21:31:14.310509+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 7.145,
+    "reason": "RSI=36.4 basso + MACD hist DECRESCENTE + 24h=-1.11%. Nessun momentum rialzista confermato. Libera liquida per rotazione verso asset con segnali forti (UNI ipervenduto).",
+    "dry_run": false
   }
 ]
