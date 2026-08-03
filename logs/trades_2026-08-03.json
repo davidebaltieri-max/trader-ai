@@ -25,5 +25,14 @@
     "price": 1.165,
     "reason": "RSI=85.5 IPERCOMPRATO ESTREMO + volatilità elevata (0.74%) + volume massivo (7.49x) = correzione imminente altamente probabile. ATOM è in rally straordinario (+9.61% 24h) ma ha raggiunto livelli insostenibili. Vendita parziale per realizzare profitti e ridurre esposizione al rischio di pullback violento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T15:40:17.797473+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.475,
+    "reason": "RSI=42.3 + MACD BEARISH_CROSS confermato (hist=-0.0016 decrescente) + 1h=-0.57% + 24h=-4.40% = trend ribassista in corso. Volume anomalo (4.89x) indica accumulo di vendite. UNI è l'unica posizione in chiaro ribasso con segnale tecnico negativo confermato. Vendita difensiva per preservare capitale.",
+    "dry_run": false
   }
 ]
