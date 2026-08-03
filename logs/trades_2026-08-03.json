@@ -223,5 +223,14 @@
     "price": 64.235,
     "reason": "SOL ipercomprato (RSI=73.0 >70) nonostante MACD positivo. Volume in aumento (1.01x) con momentum esplosivo. Presa di profitto tattica su un top locale evidente prima della possibile correzione a breve termine.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T20:42:33.166193+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 12.0,
+    "price": 3.415,
+    "reason": "UNI in segnale VENDITA MEDIA: RSI=33.3 (basso) MA MACD hist negativo decrescente (trend ribassista confermato), volatilità alta (0.91%), 24h=-6.83%. Sebbene sottotono, il MACD ribassista e il calo 24h confermano debolezza. Exit tattica per ridurre esposizione.",
+    "dry_run": false
   }
 ]
