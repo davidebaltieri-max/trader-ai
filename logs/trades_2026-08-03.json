@@ -16,5 +16,14 @@
     "price": 1.1095,
     "reason": "RSI=70.4 IPERCOMPRATO + 24h=+3.45% + MACD hist crescente ma ormai in zona di resistenza. Realizzo parzialmente (~22 unità a €1.1095) per bloccare gains e ridurre rischio di pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T15:40:16.284947+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 45.0,
+    "price": 1.165,
+    "reason": "RSI=85.5 IPERCOMPRATO ESTREMO + volatilità elevata (0.74%) + volume massivo (7.49x) = correzione imminente altamente probabile. ATOM è in rally straordinario (+9.61% 24h) ma ha raggiunto livelli insostenibili. Vendita parziale per realizzare profitti e ridurre esposizione al rischio di pullback violento.",
+    "dry_run": false
   }
 ]
