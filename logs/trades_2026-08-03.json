@@ -106,5 +106,14 @@
     "price": 0.715,
     "reason": "RSI=71.4 IPERCOMPRATO. DOT ha performance eccezionale (+5.88% in 24h, volume ×11.27x molto alto). RSI sopra 70 + movimento molto aggressivo suggerisce consolidamento imminente. Vendita parziale per incassare guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T17:31:27.148034+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 63.955,
+    "reason": "RSI=73.6 IPERCOMPRATO. SOL è entrata in zona ipercomprata. Sebbene momentum sia positivo (4h +0.69%, MACD crescente), l'RSI elevato con volatilità media richiede gestione del rischio. Riduzione della posizione.",
+    "dry_run": false
   }
 ]
