@@ -232,5 +232,14 @@
     "price": 3.415,
     "reason": "UNI in segnale VENDITA MEDIA: RSI=33.3 (basso) MA MACD hist negativo decrescente (trend ribassista confermato), volatilità alta (0.91%), 24h=-6.83%. Sebbene sottotono, il MACD ribassista e il calo 24h confermano debolezza. Exit tattica per ridurre esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T21:01:15.778755+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.1935,
+    "reason": "RSI=74.1 IPERCOMPRATO + MACD hist crescente ma RSI eccessivo dopo +9.96% 24h. Realizza profitti su posizione vincente. Volume alto (2.23x) conferma interesse. Vendi il 21% della posizione per lock-in profitti.",
+    "dry_run": false
   }
 ]
