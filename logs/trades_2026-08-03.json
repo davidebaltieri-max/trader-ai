@@ -70,5 +70,14 @@
     "price": 1.1635,
     "reason": "RSI=83.9 IPERCOMPRATO (soglia critica >70) + 1h=-0.51% + MACD hist crescente ma RSI estremo suggerisce correzione imminente. ATOM ha performato +9.52% in 24h. Realizzo parziale profitto su questa posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T17:01:18.200982+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.715,
+    "reason": "RSI=71.4 IPERCOMPRATO + 1h=+0.00% (stagnazione dopo rally) + vol×=+1.36x alto. DOT ha rallied +5.88% in 24h e +2.86% in 4h. Momentum sta esaurendosi. Realizzo profitto parziale.",
+    "dry_run": false
   }
 ]
