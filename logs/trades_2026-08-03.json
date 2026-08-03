@@ -160,5 +160,14 @@
     "price": 3.385,
     "reason": "VENDITA FORTE: RSI=27.3 (ipervenduto ma in trend ribassista), MACD hist=-0.0087 (decrescente/negativo), 4h=-3.43%, 24h=-7.40%. Trend ribassista confermato. Realizzo perdita contenuta (-7.4% in 24h) per liberare slot e capitale per opportunità migliori su momentum rialzista.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T19:24:36.275570+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.202,
+    "reason": "PRESA DI PROFITTO: RSI=86.4 (ipercomprato estremo), MACD hist positivo ma asset al massimo relativo. Gain +11.4% in 24h. Vendo il 50% per bloccare profitti su asset surriscaldato, mantenendo posizione residua per upside.",
+    "dry_run": false
   }
 ]
