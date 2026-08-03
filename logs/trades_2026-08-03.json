@@ -115,5 +115,14 @@
     "price": 63.955,
     "reason": "RSI=73.6 IPERCOMPRATO. SOL è entrata in zona ipercomprata. Sebbene momentum sia positivo (4h +0.69%, MACD crescente), l'RSI elevato con volatilità media richiede gestione del rischio. Riduzione della posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T18:01:28.162259+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.178,
+    "reason": "ATOM a RSI=85.6 (IPERCOMPRATO estremo) + 4h=+5.17% + 24h=+10.70%. Momentum rialzista molto forte ma estremamente overbought. Realizzo profitti su questa impennata dopo il +10.70% giornaliero. MACD ancora positivo confermando trend, ma RSI a 85.6 segnala correzione imminente ad alta probabilità.",
+    "dry_run": false
   }
 ]
