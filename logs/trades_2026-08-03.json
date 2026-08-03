@@ -97,5 +97,14 @@
     "price": 1.167,
     "reason": "RSI=84.9 IPERCOMPRATO ESTREMO (massimo del range). ATOM ha fatto +10.08% in 24h e +4.85% in 4h. Sebbene MACD sia positivo, l'RSI a 84.9 è un segnale di correzione imminente. Realizziamo profitti su questo movimento forte prima di un pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T17:31:25.689953+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.715,
+    "reason": "RSI=71.4 IPERCOMPRATO. DOT ha performance eccezionale (+5.88% in 24h, volume ×11.27x molto alto). RSI sopra 70 + movimento molto aggressivo suggerisce consolidamento imminente. Vendita parziale per incassare guadagni.",
+    "dry_run": false
   }
 ]
