@@ -61,5 +61,14 @@
     "price": 3.395,
     "reason": "RSI=30.3 (IPERVENDUTO) + MACD=hist=-0.0104 (decrescente, momentum ribassista) + 1h=-2.86%, 4h=-3.68%, 24h=-6.85% (trend ribassista confermato multi-timeframe). Segnale di ulteriore debolezza: esce dalla posizione prima di ulteriori cali.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T17:01:17.054687+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.1635,
+    "reason": "RSI=83.9 IPERCOMPRATO (soglia critica >70) + 1h=-0.51% + MACD hist crescente ma RSI estremo suggerisce correzione imminente. ATOM ha performato +9.52% in 24h. Realizzo parziale profitto su questa posizione.",
+    "dry_run": false
   }
 ]
