@@ -88,5 +88,14 @@
     "price": 3.395,
     "reason": "RSI=29.4 IPERVENDUTO (segnale di rimbalzo imminente) + MACD hist=-0.0128 decrescente (trend ribassista) + 24h=-6.85%. Tuttavia, posizione piccola: realizzo la perdita acuta per liberare capitale e rotare verso opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T17:31:24.103790+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.167,
+    "reason": "RSI=84.9 IPERCOMPRATO ESTREMO (massimo del range). ATOM ha fatto +10.08% in 24h e +4.85% in 4h. Sebbene MACD sia positivo, l'RSI a 84.9 è un segnale di correzione imminente. Realizziamo profitti su questo movimento forte prima di un pullback.",
+    "dry_run": false
   }
 ]
