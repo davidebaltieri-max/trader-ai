@@ -133,5 +133,14 @@
     "price": 3.415,
     "reason": "UNI a RSI=35.3 (zona bassa) + MACD hist=-0.0108 (decrescente, BEARISH) + 4h=-4.48% + 24h=-5.54%. Segnale VENDITA MEDIA confermato. L'andamento ribassista è chiaro, MACD in fase negativa. Realizzo prima che il decremento continui.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T19:01:20.112315+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 3.395,
+    "reason": "UNI in IPERVENDUTO (RSI=28.1) con MACD decrescente (hist=-0.0080) e calo 24h=-7.12%. Segnale di vendita su rimbalzo tecnico: realizzo profitti prima di ulteriore debolezza. Volume basso (0.12x) suggerisce mercato poco interessato.",
+    "dry_run": false
   }
 ]
