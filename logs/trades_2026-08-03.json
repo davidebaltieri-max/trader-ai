@@ -43,5 +43,14 @@
     "price": 1.163,
     "reason": "RSI=83.7 🔴IPERCOMPRATO estremo + vol×=17.82x (picco anomalo di volume) + 1h=-0.51% (inversione imminente). ATOM ha già realizzato +9.74% in 24h. Segnale VENDITA FORTE: cristallizza profitti prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T16:31:07.719048+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.715,
+    "reason": "RSI=71.4 🔴IPERCOMPRATO + vol×=1.36x (volume elevato) + 24h=+5.88% (rally sostenuto). Momentum rialzista in corso (MACD hist positivo crescente) ma RSI indica esaurimento. Vendi posizione parzialmente per realizzare +5.88%.",
+    "dry_run": false
   }
 ]
