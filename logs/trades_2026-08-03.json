@@ -241,5 +241,14 @@
     "price": 1.1935,
     "reason": "RSI=74.1 IPERCOMPRATO + MACD hist crescente ma RSI eccessivo dopo +9.96% 24h. Realizza profitti su posizione vincente. Volume alto (2.23x) conferma interesse. Vendi il 21% della posizione per lock-in profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T21:01:16.999544+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 3.405,
+    "reason": "RSI=21.4 IPERVENDUTO ma MACD hist negativo decrescente + 24h=-6.58% conferma trend ribassista. Posizione debole in calo. Vendi il 48% per ridurre exposure in questo asset fragile, liberando slot per rotazione tattica.",
+    "dry_run": false
   }
 ]
