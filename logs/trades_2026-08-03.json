@@ -205,5 +205,14 @@
     "price": 64.275,
     "reason": "SOL ipercomprato (RSI=75.3 >70) in zona rossa. MACD positivo ma RSI estremo segnala correzione imminente. Realizza profitti sul movimento 4h (+0.85%) per liberare liquidità e ridurre esposizione su asset volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T20:42:30.886207+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.1925,
+    "reason": "ATOM ipercomprato (RSI=73.6 >70) con volatilità alta (1.26%) e volume estremo (2.14x). Pur avendo MACD positivo crescente, il segnale RSI + momentum esplosivo (9.87% in 24h) suggerisce correzione imminente. Realizzo profitto su posizione vincente prima del pullback.",
+    "dry_run": false
   }
 ]
