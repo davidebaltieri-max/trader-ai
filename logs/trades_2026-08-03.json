@@ -169,5 +169,14 @@
     "price": 1.202,
     "reason": "PRESA DI PROFITTO: RSI=86.4 (ipercomprato estremo), MACD hist positivo ma asset al massimo relativo. Gain +11.4% in 24h. Vendo il 50% per bloccare profitti su asset surriscaldato, mantenendo posizione residua per upside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T19:31:09.939017+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 30.0,
+    "price": 3.39,
+    "reason": "UNI in IPERVENDUTO (RSI=27.3), MACD histogram negativo e decrescente (-0.0087), calo 24h=-7.40%. Segnale SELL MEDIO confermato. Realizzo perdita controllata per liberare slot e capitale per opportunità migliori su asset con momentum rialzista più forte.",
+    "dry_run": false
   }
 ]
