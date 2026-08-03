@@ -178,5 +178,14 @@
     "price": 3.39,
     "reason": "UNI in IPERVENDUTO (RSI=27.3), MACD histogram negativo e decrescente (-0.0087), calo 24h=-7.40%. Segnale SELL MEDIO confermato. Realizzo perdita controllata per liberare slot e capitale per opportunità migliori su asset con momentum rialzista più forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T19:31:11.287781+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.207,
+    "reason": "ATOM in IPERCOMPRATO estremo (RSI=86.7), rialzo esplosivo 24h=+11.68% e 1h=+2.82% suggerisce possibile correzione imminente. Realizzo parziale profitti su momentum eccedente prima di potenziale pullback. Mantengo posizione residua per ulteriori rialzi.",
+    "dry_run": false
   }
 ]
