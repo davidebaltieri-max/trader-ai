@@ -124,5 +124,14 @@
     "price": 1.178,
     "reason": "ATOM a RSI=85.6 (IPERCOMPRATO estremo) + 4h=+5.17% + 24h=+10.70%. Momentum rialzista molto forte ma estremamente overbought. Realizzo profitti su questa impennata dopo il +10.70% giornaliero. MACD ancora positivo confermando trend, ma RSI a 85.6 segnala correzione imminente ad alta probabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T18:01:30.005672+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.415,
+    "reason": "UNI a RSI=35.3 (zona bassa) + MACD hist=-0.0108 (decrescente, BEARISH) + 4h=-4.48% + 24h=-5.54%. Segnale VENDITA MEDIA confermato. L'andamento ribassista è chiaro, MACD in fase negativa. Realizzo prima che il decremento continui.",
+    "dry_run": false
   }
 ]
