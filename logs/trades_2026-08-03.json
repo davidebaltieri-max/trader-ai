@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-03T10:01:22.147878+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 35.0,
+    "price": 0.695,
+    "reason": "RSI=100.0 IPERCOMPRATO + 24h=+6.06% (gain significativo) + vol×=10.86x (picco anomalo). Realizzo profitti su questo picco di momentum prima della correzione attesa. Vendo ~50 unità a €0.6950.",
+    "dry_run": false
+  }
+]
