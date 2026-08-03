@@ -34,5 +34,14 @@
     "price": 3.475,
     "reason": "RSI=42.3 + MACD BEARISH_CROSS confermato (hist=-0.0016 decrescente) + 1h=-0.57% + 24h=-4.40% = trend ribassista in corso. Volume anomalo (4.89x) indica accumulo di vendite. UNI è l'unica posizione in chiaro ribasso con segnale tecnico negativo confermato. Vendita difensiva per preservare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-03T16:31:06.595479+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.163,
+    "reason": "RSI=83.7 🔴IPERCOMPRATO estremo + vol×=17.82x (picco anomalo di volume) + 1h=-0.51% (inversione imminente). ATOM ha già realizzato +9.74% in 24h. Segnale VENDITA FORTE: cristallizza profitti prima della correzione attesa.",
+    "dry_run": false
   }
 ]
