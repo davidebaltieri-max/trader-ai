@@ -7,5 +7,14 @@
     "price": 1.202,
     "reason": "RSI=70.2 (IPERCOMPRATO) + MACD hist decrescente + 24h=+9.57% (momentum estinguibile). Realizza profitti su posizione in massima estensione. ATOM ha raggiunto picco di sovracquisto con segnali di correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-04T09:01:20.876382+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.365,
+    "reason": "RSI=41.7 (zona neutra bassa) + MACD hist ancora positivo (+0.0041) MA 24h=-3.71% (divergenza ribassista). Volume spike a 2.02x indica movimento rilevante. Ridimensiona su debolezza relativa.",
+    "dry_run": false
   }
 ]
