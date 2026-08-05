@@ -34,5 +34,14 @@
     "price": 1.168,
     "reason": "RSI=24.5 IPERVENDUTO + MACD hist=-0.0015 decrescente + 1h=-0.60% + 4h=-1.19% + 24h=-1.68%. Trend ribassista confermato. Volume×=2.86 alto ma direzionato al ribasso. Riduzione posizione per liberare capitale in zona di debolezza estrema.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-05T12:31:18.559115+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 35.0,
+    "price": 0.735,
+    "reason": "RSI=42.9 neutro ma MACD hist=-0.0017 decrescente (BEARISH_CROSS implicito). 24h=+2.78% guadagno positivo, 4h=+1.37% momentum recente ma divergenza MACD negativa segnala esaurimento. Realizza parziale profitto su pump diurno.",
+    "dry_run": false
   }
 ]
