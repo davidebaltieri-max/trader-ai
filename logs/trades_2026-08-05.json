@@ -16,5 +16,14 @@
     "price": 0.1656,
     "reason": "RSI=36.4 (IPERVENDUTO) + MACD hist negativo decrescente + 24h=-2.36% + 4h=-0.78%. Sebbene RSI sia basso, il trend è in calo continuo. Vendita tattica per liberare liquidità e posizionarsi su asset con momentum migliore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-05T07:01:28.929948+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.735,
+    "reason": "RSI=50.0 (neutrale) + MACD hist negativo decrescente + 1h=-1.35% + 4h=-2.67%. Nonostante +4.29% in 24h (dato storico), gli ultimi timeframe mostrano forte pressione ribassista. Vol×=1.10 conferma interesse ma al ribasso. Vendita strategica per lock-in parziale.",
+    "dry_run": false
   }
 ]
