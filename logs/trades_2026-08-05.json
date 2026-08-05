@@ -7,5 +7,14 @@
     "price": 3.445,
     "reason": "RSI=85.7 (IPERCOMPRATO) + MACD hist positivo crescente ma a livelli estremi. Segnale di VENDITA MEDIA per realizzare profitti prima di correzione. UNI ha performance +1.78% in 24h, opportunità di lock-in su posizione surriscaldata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-05T07:01:27.858822+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 15.0,
+    "price": 0.1656,
+    "reason": "RSI=36.4 (IPERVENDUTO) + MACD hist negativo decrescente + 24h=-2.36% + 4h=-0.78%. Sebbene RSI sia basso, il trend è in calo continuo. Vendita tattica per liberare liquidità e posizionarsi su asset con momentum migliore.",
+    "dry_run": false
   }
 ]
