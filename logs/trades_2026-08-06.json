@@ -97,5 +97,14 @@
     "price": 5.615,
     "reason": "RSI=32.6 IPERVENDUTO + MACD=BULLISH_CROSS (+0.0017 crescente) + 4h=+0.90% + vol×=0.79x. Segnale ACQUISTO MEDIO-FORTE su asset in oversold con conferma tecnica. Opportunità di rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-06T17:34:33.855377+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 25.0,
+    "price": 1661.275,
+    "reason": "RSI=65.8 zona neutra alta + MACD hist=+0.9666 crescente + 4h=+0.64% + 24h=+0.31%. Momentum rialzista confermato su crypto dominante. Entro su ETH per diversificare verso large cap durante fase positiva.",
+    "dry_run": false
   }
 ]
