@@ -79,5 +79,14 @@
     "price": 1.193,
     "reason": "RSI=74.7 IPERCOMPRATO + vol×=4.53x (picco anomalo) + 1h=-0.75% negativo. Segnale VENDITA MEDIA confermato. Realizzo profitti su spike di volume ed evito correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-06T17:34:31.224097+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 7.225,
+    "reason": "RSI=78.4 IPERCOMPRATO + 1h=+0.98% ma momentum MACD hist ancora positivo crescente = zona di exit strategica. Realizzo su picco prima della correzione attesa.",
+    "dry_run": false
   }
 ]
