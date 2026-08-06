@@ -34,5 +34,14 @@
     "price": 1.1895,
     "reason": "RSI=77.4 IPERCOMPRATO (>70) + 1h=+2.86% (ipercomprato a breve termine) + volatilità media 0.62%. Segnale VENDITA MEDIA: realizza profitti prima della correzione. Vendo ~168 unità a €1.1895 ≈ €20",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-06T15:40:28.655433+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 13.0,
+    "price": 0.715,
+    "reason": "RSI=33.3 (ipervenduto, ma decrescente) + MACD hist decrescente + 24h=-4.05% + 4h=-1.39% + vol×=0.17x (volume basso). Momentum ribassista confermato. Vendo ~18 unità a €0.7150 ≈ €13 per fermare le perdite prima di ulteriori cali",
+    "dry_run": false
   }
 ]
