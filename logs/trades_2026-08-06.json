@@ -52,5 +52,14 @@
     "price": 0.1787,
     "reason": "RSI=81.9 IPERCOMPRATO + 1h=+1.36% in territorio overbought. ADA ha segnato +8.03% in 24h con volume×4.13x: correzione probabile nel breve termine. Realizza profitti su questo rialzo esplosivo (145.39 unità × €0.1787 = €25.99). Stop loss implicito su posizione sovraelevata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-06T16:10:00.446513+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.197,
+    "reason": "RSI=79.2 IPERCOMPRATO + 4h=+3.54% + vol×4.90x evidenziano ipercompra. MACD hist=+0.0056 crescente ma RSI in territorio di vendita è segnale di consolidamento/correzione imminente. Ridimensiona posizione (174.02 unità × €1.1970 = €208.08, vendi ~16.7 unità). Preserva core holding.",
+    "dry_run": false
   }
 ]
