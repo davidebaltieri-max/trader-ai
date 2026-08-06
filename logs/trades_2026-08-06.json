@@ -43,5 +43,14 @@
     "price": 0.715,
     "reason": "RSI=33.3 (ipervenduto, ma decrescente) + MACD hist decrescente + 24h=-4.05% + 4h=-1.39% + vol×=0.17x (volume basso). Momentum ribassista confermato. Vendo ~18 unità a €0.7150 ≈ €13 per fermare le perdite prima di ulteriori cali",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-06T16:09:58.891759+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.99,
+    "price": 0.1787,
+    "reason": "RSI=81.9 IPERCOMPRATO + 1h=+1.36% in territorio overbought. ADA ha segnato +8.03% in 24h con volume×4.13x: correzione probabile nel breve termine. Realizza profitti su questo rialzo esplosivo (145.39 unità × €0.1787 = €25.99). Stop loss implicito su posizione sovraelevata.",
+    "dry_run": false
   }
 ]
