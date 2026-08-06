@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-06T15:01:28.007644+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1744,
+    "reason": "RSI 84.2 IPERCOMPRATO + volatilità 0.77% elevata + guadagno realizzato dopo +5.32% in 4h. Profitto bloccato prima della correzione attesa. Libera slot per opportunità migliori.",
+    "dry_run": false
+  }
+]
