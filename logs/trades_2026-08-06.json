@@ -16,5 +16,14 @@
     "price": 0.715,
     "reason": "RSI 33.3 basso ma MACD hist decrescente + 24h=-4.05% + vol× basso 0.16. Trend ribassista confermato. Stop loss preventivo per limitare downside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-06T15:40:24.686890+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 26.0,
+    "price": 0.1809,
+    "reason": "RSI=88.6 IPERCOMPRATO (>70) + volatilità alta 0.90% + 1h=+3.62% (picco locale probabile). Segnale VENDITA FORTE: realizza profitti su ADA prima della correzione attesa. Vendo ~143 unità a €0.1809 ≈ €26",
+    "dry_run": false
   }
 ]
