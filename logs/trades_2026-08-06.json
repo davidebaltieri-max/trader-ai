@@ -88,5 +88,14 @@
     "price": 7.225,
     "reason": "RSI=78.4 IPERCOMPRATO + 1h=+0.98% ma momentum MACD hist ancora positivo crescente = zona di exit strategica. Realizzo su picco prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-06T17:34:32.567459+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 30.0,
+    "price": 5.615,
+    "reason": "RSI=32.6 IPERVENDUTO + MACD=BULLISH_CROSS (+0.0017 crescente) + 4h=+0.90% + vol×=0.79x. Segnale ACQUISTO MEDIO-FORTE su asset in oversold con conferma tecnica. Opportunità di rimbalzo.",
+    "dry_run": false
   }
 ]
