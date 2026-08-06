@@ -61,5 +61,14 @@
     "price": 1.197,
     "reason": "RSI=79.2 IPERCOMPRATO + 4h=+3.54% + vol×4.90x evidenziano ipercompra. MACD hist=+0.0056 crescente ma RSI in territorio di vendita è segnale di consolidamento/correzione imminente. Ridimensiona posizione (174.02 unità × €1.1970 = €208.08, vendi ~16.7 unità). Preserva core holding.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-06T16:10:01.896310+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 0.715,
+    "reason": "RSI=33.3 + MACD hist=-0.0013 DECRESCENTE + 24h=-4.05% + 4h=-1.39%: momentum ribassista confermato. Anche se ipervenduto non è ancora supportato da BULLISH_CROSS MACD (hist ancora negativo). Vendi parzialmente (181.625 × €0.7150 = €129.86, vendi ~16.8 unità = €12) per ridurre esposizione a settore debole.",
+    "dry_run": false
   }
 ]
