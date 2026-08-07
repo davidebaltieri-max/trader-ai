@@ -7,5 +7,14 @@
     "price": 1.1725,
     "reason": "ATOM ipervenduto (RSI=20.8) con MACD decrescente e hist negativo. Segnale di correzione ribassista. Riduco posizione prima di potenziale ulteriore calo, liberando slot per opportunità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-07T10:31:15.851939+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 20.0,
+    "price": 56269.22,
+    "reason": "BTC ipercomprato (RSI=74.1) con volume moderato (vol×=1.10x). Anche se MACD ancora positivo, RSI estremo segnala rischio correzione imminente. Realizzo parzialmente per gestire il rischio.",
+    "dry_run": false
   }
 ]
