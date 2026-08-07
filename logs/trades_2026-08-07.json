@@ -34,5 +34,14 @@
     "price": 56287.59,
     "reason": "RSI=74.2 IPERCOMPRATO + MACD hist positivo ma segnale di correzione imminente. BTC/ETH/SOL tutti sopra RSI 70 = pressione ribassista. Realizziamo profitti parziali sul top leader.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-07T11:31:14.848773+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.167,
+    "reason": "ATOM ipervenduto (RSI=24.4) con MACD decrescente (hist=-0.0011) e calo 1h=-0.68%. Segnale di vendita tattica per liberare slot e ridistribuire su setup rialzisti più forti. Volume anomalo (5.97x) suggerisce possibile continuazione ribassista nel breve termine.",
+    "dry_run": false
   }
 ]
