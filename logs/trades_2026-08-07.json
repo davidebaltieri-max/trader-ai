@@ -16,5 +16,14 @@
     "price": 56269.22,
     "reason": "BTC ipercomprato (RSI=74.1) con volume moderato (vol×=1.10x). Anche se MACD ancora positivo, RSI estremo segnala rischio correzione imminente. Realizzo parzialmente per gestire il rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-07T11:01:19.526652+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.17,
+    "reason": "RSI=25.0 IPERVENDUTO + MACD hist decrescente (negativo) + 1h=-0.59% + 4h=-0.17%. Segnale VENDITA MEDIA confermato. ATOM è in trend ribassista; realizziamo profitti parziali per liberare liquidità e ridurre rischio.",
+    "dry_run": false
   }
 ]
