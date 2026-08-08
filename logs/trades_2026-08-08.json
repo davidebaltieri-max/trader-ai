@@ -16,5 +16,14 @@
     "price": 7.175,
     "reason": "RSI=82.4 IPERCOMPRATO (massimo della sessione) + vol×=1.84 (alta attività). MACD hist crescente ma RSI in zona di massima estensione rialzista. Vendita conservativa su eccesso ipercomprato. Take profit tattico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-08T14:31:15.957236+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 3.455,
+    "reason": "UNI RSI=30.0 (IPERVENDUTO) + MACD hist=-0.0026 (decrescente) + 4h=-0.58% + 24h=-0.58%. Segnale di vendita su debolezza confermata. Realizzo parzialmente per liberare slot e preparare capitale per opportunità migliori. Stop loss preventivo su posizione sovraesposta in fase ribassista.",
+    "dry_run": false
   }
 ]
