@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-08T09:32:18.953504+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 64.805,
+    "reason": "RSI=81.6 IPERCOMPRATO + MACD hist positivo ma momentum su timeframe 4h rallentato. Profit-taking su posizione volatile in zona di ipercomprato. Libera slot per rotazione tattica verso settori con momentum migliore.",
+    "dry_run": false
+  }
+]
