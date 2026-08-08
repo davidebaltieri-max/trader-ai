@@ -7,5 +7,14 @@
     "price": 64.805,
     "reason": "RSI=81.6 IPERCOMPRATO + MACD hist positivo ma momentum su timeframe 4h rallentato. Profit-taking su posizione volatile in zona di ipercomprato. Libera slot per rotazione tattica verso settori con momentum migliore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-08T09:32:20.258486+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 7.175,
+    "reason": "RSI=82.4 IPERCOMPRATO (massimo della sessione) + vol×=1.84 (alta attività). MACD hist crescente ma RSI in zona di massima estensione rialzista. Vendita conservativa su eccesso ipercomprato. Take profit tattico.",
+    "dry_run": false
   }
 ]
