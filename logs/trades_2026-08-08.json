@@ -34,5 +34,14 @@
     "price": 0.705,
     "reason": "DOT RSI=75.0 (IPERCOMPRATO) + volatilità alta (+0.73%) + 1h=0% (stallo dopo rialzo). Presa parziale di profitto su posizione in ipercomprato per ridurre esposizione e consolidare guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-08T16:27:02.961759+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 65.995,
+    "reason": "RSI=78.6 IPERCOMPRATO + 1h=-0.29% (debolezza intra-oraria) + momentum MACD positivo ma in una zona di ipercomprato significa elevato rischio di correzione. Riduco posizione per realizzare guadagni e liberare slot.",
+    "dry_run": false
   }
 ]
