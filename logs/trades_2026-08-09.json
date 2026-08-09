@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-09T21:57:33.967601+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 3.535,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma in contesto di estensione. Vol×=1.83x segnala interesse ma il livello di ipercompra suggerisce presa di profitto. UNI +2.92% in 24h: realizzare guadagni prima di possibile correzione. Libera 1 slot per dip-buying su asset sottovalutati.",
+    "dry_run": false
+  }
+]
