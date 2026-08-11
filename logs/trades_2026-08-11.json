@@ -7,5 +7,14 @@
     "price": 7.265,
     "reason": "RSI=76.5 IPERCOMPRATO + MACD hist positivo ma momentum satura. Realizza profitti su posizione in overbought estremo prima di correzione. Libera slot per dip-buying strategico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-11T04:01:26.586329+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.475,
+    "reason": "RSI=83.3 IPERCOMPRATO MASSIMO + 1h=+0.29% localizzato. Segnale VENDITA MEDIA confermato. Prendere profitti prima della potenziale correzione, libera capacità operativa.",
+    "dry_run": false
   }
 ]
