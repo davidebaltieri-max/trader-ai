@@ -70,5 +70,14 @@
     "price": 3.415,
     "reason": "RSI=46.7 neutrale ma MACD hist DECRESCENTE (-0.0030) + 4h=-1.73%. Momentum ribassista confermato. Posizione debole, libera spazio per entry su setup più interessanti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-11T09:29:57.192447+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.505,
+    "reason": "RSI=82.9 IPERCOMPRATO + MACD hist positivo crescente ma su massimi locali. Segnale VENDITA MEDIA per realizzare guadagni (+5.92% in 24h). Riduco l'esposizione su asset a rischio di correzione.",
+    "dry_run": false
   }
 ]
