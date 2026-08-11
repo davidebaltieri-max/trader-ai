@@ -34,5 +34,14 @@
     "price": 7.275,
     "reason": "RSI 76.5 (IPERCOMPRATO) + 24h +2.39% (rally esaurito) + vol×0.54 suggerisce esaurimento momentum. Vendo il 40% per take profit parziale e riduco l'esposizione su asset in correzione tecnica",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-11T04:31:19.522943+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 3.475,
+    "reason": "RSI=87.5 IPERCOMPRATO + MACD hist positivo crescente indica momentum esaurito. Vendita forte su ipercomprato per liberare slot e realizzare profitti. UNI ha performato bene (+2.05% 4h, +0.87% 1h) ma il segnale di ipercomprato richiede riduzione dell'esposizione.",
+    "dry_run": false
   }
 ]
