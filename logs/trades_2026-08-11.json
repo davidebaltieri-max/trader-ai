@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-11T04:01:25.138301+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.265,
+    "reason": "RSI=76.5 IPERCOMPRATO + MACD hist positivo ma momentum satura. Realizza profitti su posizione in overbought estremo prima di correzione. Libera slot per dip-buying strategico.",
+    "dry_run": false
+  }
+]
