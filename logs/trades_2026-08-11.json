@@ -97,5 +97,14 @@
     "price": 7.515,
     "reason": "RSI=88.6 IPERCOMPRATO + MACD hist crescente ma senza bearish cross. Segnale di vendita media per prendere profitti su movimento +5.03% in 24h. Volume moderato (0.50x) suggerisce consolidamento. Riduco esposizione su asset ipercomprato per liberare slot e riequilibrare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-11T11:14:08.231904+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.228,
+    "reason": "RSI=70.7 IPERCOMPRATO + MACD hist positivo crescente senza bearish cross. Volume elevato (4.46x) indica possibile eccesso di domanda. Vendo frazione per prendere profitti e liberare 1 slot per opportunità di dip-buying.",
+    "dry_run": false
   }
 ]
