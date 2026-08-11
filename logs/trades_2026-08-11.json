@@ -52,5 +52,14 @@
     "price": 7.265,
     "reason": "RSI=76.5 IPERCOMPRATO. LINK è in zona rossa di ipercomprato con volume elevato (vol×=+0.54x). Vendita parziale opportunistica per realizzare profitti e liberare capitale in vista di opportunità migliori su asset ipervenduti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-11T08:31:10.843395+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 7.335,
+    "reason": "RSI=70.8 IPERCOMPRATO + MACD hist crescente ma su livelli estremi. Realizza profitti su posizione in overbought. LINK ha performato (+3.09% in 24h), opportuno prendere guadagni prima della correzione attesa.",
+    "dry_run": false
   }
 ]
