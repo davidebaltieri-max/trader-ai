@@ -79,5 +79,14 @@
     "price": 7.505,
     "reason": "RSI=82.9 IPERCOMPRATO + MACD hist positivo crescente ma su massimi locali. Segnale VENDITA MEDIA per realizzare guadagni (+5.92% in 24h). Riduco l'esposizione su asset a rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-11T09:30:00.191729+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.645,
+    "reason": "RSI=70.0 IPERCOMPRATO + MACD hist positivo ma momentum in fase di consolidamento (4h=+0.00%). Segnale VENDITA per ridurre posizione su asset saturo. Libera slot per dip-buying.",
+    "dry_run": false
   }
 ]
