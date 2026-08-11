@@ -115,5 +115,14 @@
     "price": 7.485,
     "reason": "RSI=76.9 IPERCOMPRATO + 1h=-0.66% + MACD hist positivo ma segnali di correzione imminente. LINK ha avuto +4.03% in 24h ed è in zona di vendita forte. Riduco posizione per bloccare guadagni e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-11T12:31:11.407380+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 3.345,
+    "reason": "RSI=23.8 IPERVENDUTO + MACD hist=-0.0084 DECRESCENTE (bearish). Nonostante ipervenduto, il trend è ribassista con -3.74% in 24h. Vendo per uscire da posizione debole e liberare slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
