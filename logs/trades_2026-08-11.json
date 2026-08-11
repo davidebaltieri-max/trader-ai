@@ -142,5 +142,14 @@
     "price": 1.24,
     "reason": "RSI=84.8 SEVERAMENTE IPERCOMPRATO (massimo criticità). Anche con MACD positivo, il livello RSI è insostenibile. Realizza profitti su +3.25% 24h prima del ritracciamento fisiologico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-11T15:56:21.644923+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 29.22,
+    "price": 3.195,
+    "reason": "RSI=11.5 (IPERVENDUTO ma in discesa libera), MACD hist negativo e decrescente, 4h=-4.75% 24h=-6.69%. Segnale di panico di mercato senza conferma di rimbalzo. Vendita per liberare slot e ridurre esposizione a questo asset in crollo strutturale.",
+    "dry_run": false
   }
 ]
