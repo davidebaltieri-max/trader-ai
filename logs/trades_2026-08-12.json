@@ -16,5 +16,14 @@
     "price": 7.565,
     "reason": "RSI=64.7 alto + MACD hist<0 (decrescente) + 1h=-0.53% (pressione ribasso) = VENDITA MEDIA, riduzione rischio su posizione",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-12T07:01:27.056297+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 28.68,
+    "price": 3.135,
+    "reason": "UNI in IPERVENDUTO (RSI=26.1) ma con MACD BEARISH_CROSS confermato e calo 24h=-9.25%. Segnale di VENDITA MEDIA concordante: RSI<30 + MACD hist negativo decrescente + 4h=-4.56%. Realizzo perdita contenuta per liberare slot e capitale per dip-buying su segnali più forti.",
+    "dry_run": false
   }
 ]
