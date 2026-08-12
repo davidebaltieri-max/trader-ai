@@ -88,5 +88,14 @@
     "price": 3.065,
     "reason": "UNI in IPERVENDUTO (RSI=20.0) ma MACD hist negativo decrescente (-0.0128) conferma trend ribassista in corso. Calo 24h=-10.53% indica pressione al ribasso forte. Vendita per liberare slot e ridurre esposizione a momentum negativo confermato. Venderò ~7.8 UNI a €3.0650 ≈ €24.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-12T11:01:27.495940+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 36.0,
+    "price": 1655.47,
+    "reason": "ETH in IPERCOMPRATO (RSI=80.2 🔴) con MACD hist positivo ma già in fase di estensione massima. Segnale VENDITA MEDIA: RSI>70 + momentum che inizia a mostrare segnali di saturazione. Profitto realizzato su posizione pesante. Venderò ~0.0217 ETH a €1655.47 ≈ €36.",
+    "dry_run": false
   }
 ]
