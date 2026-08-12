@@ -43,5 +43,14 @@
     "price": 5.385,
     "reason": "ACQUISTO MEDIO: RSI=31.8 (prossimo ipervenduto) + MACD hist=+0.0010 (inizio bullish) + vol×=1.49x (aumento moderato). Layer 1 alternativo in dip moderato (-3.41% 24h). Diversificazione settoriale e posizionamento su correzione tecnica controllata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-12T07:32:00.445782+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 22.0,
+    "price": 0.685,
+    "reason": "ACQUISTO MEDIO: 1h=+1.47% (momentum positivo recente) + vol×=4.11x (volume spike) + volatilità=+0.97% (zona media). Interoperabilità in ripresa dopo piattezza 4h. Capitale utilizzato sfruttando lo slot disponibile per massimizzare esposizione su momentum positivo.",
+    "dry_run": false
   }
 ]
