@@ -7,5 +7,14 @@
     "price": 3.275,
     "reason": "RSI=72.7 IPERCOMPRATO + vol×=+2.05x (top locale probabile) + 24h=-4.36% debolezza sottostante = VENDITA FORTE",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-12T03:31:17.166967+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 7.565,
+    "reason": "RSI=64.7 alto + MACD hist<0 (decrescente) + 1h=-0.53% (pressione ribasso) = VENDITA MEDIA, riduzione rischio su posizione",
+    "dry_run": false
   }
 ]
