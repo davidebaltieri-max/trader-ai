@@ -61,5 +61,14 @@
     "price": 1636.825,
     "reason": "ACQUISTO MODERATO: RSI=65.1 (precomprato ma non ancora critico) + MACD hist=+0.1604 (trend rialzista in corso) + 1h=+0.12% 4h=+0.15% (momentum positivo multi-timeframe). Large cap in consolidamento al rialzo, operazione difensiva a posizione minore per anchor di volatilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-12T08:01:25.630540+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 23.63,
+    "price": 3.005,
+    "reason": "UNI in CRISI: RSI=8.8 (ipervenduto estremo), -4.78% 1h/-8.84% 4h/-12.57% 24h, volume×53.18x anomalo, MACD decrescente. Questo è un dump panico. Vendo per cristallizzare e liberare slot (8→7 posizioni), reimpiegando capitale su setup più favorevoli. Stop loss precauzionale.",
+    "dry_run": false
   }
 ]
