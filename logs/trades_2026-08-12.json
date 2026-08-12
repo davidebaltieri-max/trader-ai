@@ -25,5 +25,14 @@
     "price": 3.135,
     "reason": "UNI in IPERVENDUTO (RSI=26.1) ma con MACD BEARISH_CROSS confermato e calo 24h=-9.25%. Segnale di VENDITA MEDIA concordante: RSI<30 + MACD hist negativo decrescente + 4h=-4.56%. Realizzo perdita contenuta per liberare slot e capitale per dip-buying su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-12T07:31:58.464618+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 3.135,
+    "reason": "ACQUISTO FORTE: RSI=25.0 (IPERVENDUTO) + vol×=13.40x (spike massivo) + 1h=-3.70% (correzione acuta). Segnale di rimbalzo imminente su asset infrastruttura DeFi. LINK positivo (+3.69% 24h) suggerisce rotazione settoriale verso DeFi. Momentum ribassista esagerato, alto potenziale di reversal.",
+    "dry_run": false
   }
 ]
