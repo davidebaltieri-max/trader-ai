@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-12T03:31:15.736284+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 18.0,
+    "price": 3.275,
+    "reason": "RSI=72.7 IPERCOMPRATO + vol×=+2.05x (top locale probabile) + 24h=-4.36% debolezza sottostante = VENDITA FORTE",
+    "dry_run": false
+  }
+]
