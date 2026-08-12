@@ -79,5 +79,14 @@
     "price": 3.055,
     "reason": "UNI in IPERVENDUTO (RSI=20.0) ma MACD hist NEGATIVO E DECRESCENTE (-0.0128) + 1h=-0.65% + 4h=-2.55% segnala trend ribassista confermato. Vendo per liberare slot e ridurre esposizione a trend negativo. Realizzo liquidità per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-12T11:01:26.230521+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 24.0,
+    "price": 3.065,
+    "reason": "UNI in IPERVENDUTO (RSI=20.0) ma MACD hist negativo decrescente (-0.0128) conferma trend ribassista in corso. Calo 24h=-10.53% indica pressione al ribasso forte. Vendita per liberare slot e ridurre esposizione a momentum negativo confermato. Venderò ~7.8 UNI a €3.0650 ≈ €24.",
+    "dry_run": false
   }
 ]
