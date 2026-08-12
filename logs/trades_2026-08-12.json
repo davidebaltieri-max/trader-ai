@@ -70,5 +70,14 @@
     "price": 3.005,
     "reason": "UNI in CRISI: RSI=8.8 (ipervenduto estremo), -4.78% 1h/-8.84% 4h/-12.57% 24h, volume×53.18x anomalo, MACD decrescente. Questo è un dump panico. Vendo per cristallizzare e liberare slot (8→7 posizioni), reimpiegando capitale su setup più favorevoli. Stop loss precauzionale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-12T10:56:52.183788+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 24.0,
+    "price": 3.055,
+    "reason": "UNI in IPERVENDUTO (RSI=20.0) ma MACD hist NEGATIVO E DECRESCENTE (-0.0128) + 1h=-0.65% + 4h=-2.55% segnala trend ribassista confermato. Vendo per liberare slot e ridurre esposizione a trend negativo. Realizzo liquidità per opportunità migliori.",
+    "dry_run": false
   }
 ]
