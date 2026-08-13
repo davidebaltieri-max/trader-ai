@@ -79,5 +79,14 @@
     "price": 1.319,
     "reason": "RSI=89.0 IPERCOMPRATO + MACD hist crescente ma momentum eccessivo. ATOM ha performato +5.36% in 24h e +4.44% in 4h: realizzo parzialmente (+10% target raggiunto). Riduco posizione sovraesposta prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-13T15:54:41.454100+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.015,
+    "reason": "RSI=21.1 IPERVENDUTO ma MACD hist negativo decrescente con trend ribassista confermato. UNI ha perso terreno (-0.98% in 4h), -0.33% 24h. Segnale di debolezza prolungata: exit per liberare liquidità e rientrare meglio.",
+    "dry_run": false
   }
 ]
