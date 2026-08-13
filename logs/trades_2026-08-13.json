@@ -115,5 +115,14 @@
     "price": 1.3085,
     "reason": "ATOM ipercomprato (RSI=73.1 >70). Sebbene MACD sia positivo, il movimento +4.80% in 24h ha raggiunto zona pericolosa. Volume elevato (vol×=1.61) conferma interesse ma trend potrebbe invertirsi. Vendo 25€ (~19 unità) per crystallize gains e ridurre rischio correzione, mantenendo posizione residua.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-13T18:56:51.912596+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 3.015,
+    "reason": "UNI in debolezza: RSI=38.5 (zona neutra bassa), MACD hist negativo e decrescente. Calo -1.63% in 24h. Volume moderato (vol×=0.74). Vendo 15€ per ridurre esposizione a settore DeFi sofferente e liberare slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
