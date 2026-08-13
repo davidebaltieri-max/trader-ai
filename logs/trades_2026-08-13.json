@@ -61,5 +61,14 @@
     "price": 1.322,
     "reason": "RSI=92.9 IPERCOMPRATO (>70) + MACD hist positivo ma momentum eccessivo dopo +7.23% in 4h. Realizza profitti su posizione in forte rialzo per ridurre rischio di correzione. Libera slot per opportunità di dip-buying su asset ipervenduti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-13T15:31:20.210530+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 3.005,
+    "reason": "RSI=16.7 IPERVENDUTO ma MACD hist negativo decrescente (trend ribassista). 4h=-1.63% conferma debolezza. Stop loss precauzionale prima di ulteriore deterioramento. Libera capitale.",
+    "dry_run": false
   }
 ]
