@@ -16,5 +16,14 @@
     "price": 3.015,
     "reason": "RSI=17.6 (IPERVENDUTO) MA MACD hist=-0.0120 decrescente + 1h=-0.99% + 4h=-3.22% + 24h=-1.63%. Trend ribassista confermato. Vendita per limitare ulteriori perdite su asset in downtrend strutturale. Libera spazio di portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-13T14:31:22.788366+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3125,
+    "reason": "ATOM in IPERCOMPRATO (RSI=90.1), momentum eccessivo dopo +7.11% in 4h e +5.99% in 24h. MACD ancora crescente ma RSI estremo segnala correzione imminente. Realizzo profitti su posizione sovraperformante prima del ritracciamento.",
+    "dry_run": false
   }
 ]
