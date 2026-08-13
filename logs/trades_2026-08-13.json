@@ -7,5 +7,14 @@
     "price": 1.303,
     "reason": "RSI=89.4 (IPERCOMPRATO estremo) + MACD hist positivo ma in zona di saturazione. ATOM ha segnato +7.69% in 4h e +4.75% in 24h. Vendita parziale per realizzare guadagni e ridurre esposizione in ipercomprato. Libera uno slot per dip-buying su asset con segnali più interessanti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-13T14:01:31.182027+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 3.015,
+    "reason": "RSI=17.6 (IPERVENDUTO) MA MACD hist=-0.0120 decrescente + 1h=-0.99% + 4h=-3.22% + 24h=-1.63%. Trend ribassista confermato. Vendita per limitare ulteriori perdite su asset in downtrend strutturale. Libera spazio di portafoglio.",
+    "dry_run": false
   }
 ]
