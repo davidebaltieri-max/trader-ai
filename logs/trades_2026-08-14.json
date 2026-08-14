@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-14T18:01:18.206724+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 18.0,
+    "price": 5.565,
+    "reason": "RSI=72.2 🔴IPERCOMPRATO (>70) con 1h=+0.00% neutro. Segnale di vendita medio: correzione attesa dopo rallentamento orario. Riduco posizione overextended per fare spazio a opportunità più interessanti (UNI ipervenduto, LINK breakout).",
+    "dry_run": false
+  }
+]
