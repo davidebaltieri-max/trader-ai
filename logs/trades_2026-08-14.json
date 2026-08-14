@@ -7,5 +7,14 @@
     "price": 5.565,
     "reason": "RSI=72.2 🔴IPERCOMPRATO (>70) con 1h=+0.00% neutro. Segnale di vendita medio: correzione attesa dopo rallentamento orario. Riduco posizione overextended per fare spazio a opportunità più interessanti (UNI ipervenduto, LINK breakout).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-14T20:31:13.608556+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.29,
+    "reason": "ATOM in IPERVENDUTO (RSI=19.2) ma MACD histogram decrescente e negativo (-0.0055) = trend ribassista confermato. 4h=-2.89% e 24h=-2.52%. Segnale SELL MEDIO. Riduco posizione per liberare slot e capitale per opportunità rialziste più forti (SOL bullish cross, LINK/AVAX/BTC momentum positivo).",
+    "dry_run": false
   }
 ]
