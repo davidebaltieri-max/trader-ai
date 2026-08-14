@@ -25,5 +25,14 @@
     "price": 2.765,
     "reason": "UNI in forte debolezza: 24h=-8.31%, RSI=37.5 (debole ma non ipervenduto), 4h=-1.43%, volume spike estremo (5.16x) indica dumping. MACD hist positivo ma debole (0.0033) non contrasta il segnale ribassista degli altri indicatori. Vendo per ridurre esposizione a posizione che sta perdendo momentum.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-14T22:01:36.056317+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 7.745,
+    "reason": "RSI=74.2 IPERCOMPRATO + MACD hist crescente ma prezzo già in zona di esaurimento. Vendita parziale per realizzare guadagni e ridurre esposizione su asset saturo. Libera slot per opportunità su asset ipervenduti.",
+    "dry_run": false
   }
 ]
