@@ -88,5 +88,14 @@
     "price": 0.665,
     "reason": "RSI=40.0 (zona neutra bassa) + MACD BEARISH_CROSS confermato (-1.49% in 4h). Trend ribassista in corso. Riduci posizione per contenere drawdown.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-15T17:31:13.752381+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 0.56,
+    "price": 5.615,
+    "reason": "RSI=28.6 (IPERVENDUTO) ma MACD BEARISH_CROSS + vol×=4.16x anomala. Volatilità elevata e momentum negativo suggeriscono consolidamento al ribasso. Attendere rimbalzo successivo.",
+    "dry_run": false
   }
 ]
