@@ -16,5 +16,14 @@
     "price": 8.295,
     "reason": "RSI=78.9 IPERCOMPRATO (>70) + 1h=-1.78% in calo. LINK ha staccato dal trend dopo +8.10% in 24h. Vendi per proteggere guadagni e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-15T15:15:29.268254+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.265,
+    "reason": "ATOM in IPERVENDUTO (RSI=28.6) ma trend ribassista confermato: MACD hist<0 decrescente + 4h=-1.48% + 24h=-4.15%. Bearish cross conclamato. Riduco posizione per liberare slot e cristallizzare perdita prima di ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
