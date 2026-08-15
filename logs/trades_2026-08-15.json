@@ -34,5 +34,14 @@
     "price": 8.16,
     "reason": "LINK: Bearish cross confermato (MACD hist<0) nonostante 24h=+6.82%. RSI=61.4 in zona overbought + 1h=-0.73% + vol×=1.71x (spike di vendita). Incertezza dopo rialzo: vendo parzialmente per proteggere guadagni e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-15T15:15:32.651232+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.815,
+    "reason": "UNI: Bearish cross conclamato (MACD hist<0), RSI=50.0 neutrale ma con pressione negativa. 1h=-0.35% + 4h=-0.35% + vol×=1.13x confermano debolezza. Riduco per liberare slot con segnale chiaro di momentum negativo.",
+    "dry_run": false
   }
 ]
