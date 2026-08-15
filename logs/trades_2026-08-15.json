@@ -52,5 +52,14 @@
     "price": 8.245,
     "reason": "RSI=81.4 IPERCOMPRATO (>70) + MACD hist positivo crescente ma momentum eccessivo su timeframe 1h/4h/24h (+0.98%/+1.73%/+7.70%). Vendita media per realizzare guadagni su rialzo eccedente e liberare slot per dip-buying più attrattivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-15T17:01:20.412642+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.295,
+    "reason": "RSI=80.0 IPERCOMPRATO (>70) + MACD hist positivo ma segnale di correzione imminente dopo rally +8.08% 24h. Volume×=+1.56x confermato. Take profit su posizione con +8% guadagno realizzato. Vendi 3 unità di UNI per solidificare profitti e liberare slot.",
+    "dry_run": false
   }
 ]
