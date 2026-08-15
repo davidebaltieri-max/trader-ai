@@ -70,5 +70,14 @@
     "price": 5.625,
     "reason": "RSI=23.1 IPERVENDUTO ma MACD hist=-0.0132 decrescente (trend ribassista in corso). Volume×=+4.47x molto elevato suggerisce liquidazione. Stop loss preventivo a -5% su posizione in leggero rosso. Vendi 3.2 unità per ridurre esposizione volatility.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-15T17:31:10.860642+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.285,
+    "reason": "RSI=73.8 (IPERCOMPRATO) + MACD hist positivo ma momentum debole dopo +7.39% in 24h. Realizza profitti su posizione rialzista esausta. Libera slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
