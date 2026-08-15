@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-15T04:01:19.566673+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 19.29,
+    "price": 5.86,
+    "reason": "RSI=84.4 IPERCOMPRATO (>70) + 1h=-0.17% negativo. AVAX ha raggiunto livelli di ipercomprato estremo dopo +4.83% in 4h. Realizza profitti e riduce posizioni per fare spazio a setup migliori.",
+    "dry_run": false
+  }
+]
