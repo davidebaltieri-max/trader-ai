@@ -25,5 +25,14 @@
     "price": 1.285,
     "reason": "ATOM RSI=60.7 (prossimo a ipercomprato) + MACD hist crescente positivo, MA 1h=-0.78% con calo 24h=-2.96%. Segnale misto: momentum rialzista confermato da MACD, ma movimento intraday negativo. Realizzo parziale guadagni su posizione sovraesposta, rebalancio portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-16T14:01:18.800463+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 22.0,
+    "price": 2.825,
+    "reason": "VENDITA MEDIA confermata: RSI=66.7 (zona ipercomprato), MACD BEARISH_CROSS (↓decrescente), 1h=-0.35% + 4h=-0.70%. Momentum ribassista in corso. Realizzo profitti parziali su posizione sovraesposta in DeFi prima di correzione.",
+    "dry_run": false
   }
 ]
