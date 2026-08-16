@@ -16,5 +16,14 @@
     "price": 0.655,
     "reason": "DOT RSI=25.0 IPERVENDUTO ma con volatilità alta (+0.87%) e volume molto basso (×0.23). Calo 4h=-2.99% senza supporto tecnico. MACD assente. Segnale confuso: potrebbe rimbalzare MA il basso volume suggerisce scarsa fiducia. Riduco esposizione per liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-16T07:26:25.252927+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.285,
+    "reason": "ATOM RSI=60.7 (prossimo a ipercomprato) + MACD hist crescente positivo, MA 1h=-0.78% con calo 24h=-2.96%. Segnale misto: momentum rialzista confermato da MACD, ma movimento intraday negativo. Realizzo parziale guadagni su posizione sovraesposta, rebalancio portafoglio.",
+    "dry_run": false
   }
 ]
