@@ -52,5 +52,14 @@
     "price": 2.855,
     "reason": "RSI=70.0 IPERCOMPRATO + MACD hist crescente ma momentum eccessivo su timeframe corto. UNI ha già +1.77% in 24h. Realizzare profitti su posizione al massimo della zona di ipercomprato è prudente per un profilo performante in fase di consolidamento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-16T20:16:10.362862+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.185,
+    "reason": "RSI=77.3 (IPERCOMPRATO) + MACD hist positivo ma con pressione di correzione. LINK ha raggiunto livelli di ipercompra su timeframe 7h. Realizza profitti su questa posizione prima di una potenziale correzione.",
+    "dry_run": false
   }
 ]
