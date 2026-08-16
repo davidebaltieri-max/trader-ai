@@ -7,5 +7,14 @@
     "price": 1.293,
     "reason": "RSI=73.6 IPERCOMPRATO + momentum rialzista già confermato (MACD hist crescente). Profit-taking su posizione in overbought per ridurre rischio di correzione e liberare liquidità per opportunità future su asset ipervenduti (LINK, AVAX).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-16T07:26:23.875457+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.655,
+    "reason": "DOT RSI=25.0 IPERVENDUTO ma con volatilità alta (+0.87%) e volume molto basso (×0.23). Calo 4h=-2.99% senza supporto tecnico. MACD assente. Segnale confuso: potrebbe rimbalzare MA il basso volume suggerisce scarsa fiducia. Riduco esposizione per liberare liquidità.",
+    "dry_run": false
   }
 ]
