@@ -61,5 +61,14 @@
     "price": 8.185,
     "reason": "RSI=77.3 (IPERCOMPRATO) + MACD hist positivo ma con pressione di correzione. LINK ha raggiunto livelli di ipercompra su timeframe 7h. Realizza profitti su questa posizione prima di una potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-16T20:16:11.732161+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.268,
+    "reason": "RSI=34.3 (prossimo a ipervenduto) + MACD hist decrescente (trend ribassista) + 4h=-2.01% + 24h=-2.46%. La posizione è in momentum negativo. Riduci l'esposizione prima di ulteriori cali.",
+    "dry_run": false
   }
 ]
