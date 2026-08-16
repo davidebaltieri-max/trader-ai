@@ -43,5 +43,14 @@
     "price": 1.278,
     "reason": "VENDITA MEDIA confermata: RSI=47.1 (scende verso 40), MACD BEARISH_CROSS (↓decrescente hist=-0.0004), 1h=-1.01% (calo più marcato). Momentum ribassista in accelerazione. Realizzo profitti su interoperabilità prima di ulteriore debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-16T15:44:24.890366+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 22.0,
+    "price": 2.855,
+    "reason": "RSI=70.0 IPERCOMPRATO + MACD hist crescente ma momentum eccessivo su timeframe corto. UNI ha già +1.77% in 24h. Realizzare profitti su posizione al massimo della zona di ipercomprato è prudente per un profilo performante in fase di consolidamento.",
+    "dry_run": false
   }
 ]
