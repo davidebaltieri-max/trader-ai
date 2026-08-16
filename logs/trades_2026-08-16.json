@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-16T01:31:06.372453+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.293,
+    "reason": "RSI=73.6 IPERCOMPRATO + momentum rialzista già confermato (MACD hist crescente). Profit-taking su posizione in overbought per ridurre rischio di correzione e liberare liquidità per opportunità future su asset ipervenduti (LINK, AVAX).",
+    "dry_run": false
+  }
+]
