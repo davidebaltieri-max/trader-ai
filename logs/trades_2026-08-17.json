@@ -7,5 +7,14 @@
     "price": 1.258,
     "reason": "ATOM in ipervenduto (RSI=14.8) ma momentum ribassista confermato (MACD hist=-0.0030 decrescente). Perdita -3.16% in 24h. Stop loss anticipato: proteggere capitale su trend negativo consolidato. Recuperare liquidità per rotazione verso settori momentum positivo (BTC/ETH/SOL/LINK)",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T03:26:35.771280+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.255,
+    "reason": "ATOM in IPERVENDUTO (RSI=14.6 criticamente basso) con MACD hist negativo decrescente e -1.95% a 24h. Sebbene l'ipervenduto suggerisca rimbalzo potenziale, il trend ribassista confermato (4h=-1.10%) e il momentum negativo indicano rischio di ulteriore discesa. Vendita tattica per ridurre l'esposizione e liberare capitale per opportunità di acquisto superiori quando altri asset raggiungono segnali STRONG. Posizione ancora mantenuta (174.02 ATOM) per partecipare a possibile rimbalzo.",
+    "dry_run": false
   }
 ]
