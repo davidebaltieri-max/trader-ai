@@ -493,5 +493,14 @@
     "price": 1.22,
     "reason": "ATOM ipervenduto (RSI=29.1 🟢), MACD hist crescente (+0.0004), rimbalzo probabile. Calo -5.06% 24h crea opportunità dip-buying. Volume basso ma segnali tecnici convergono. Operazione aggressiva su massima volatilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T19:23:42.524725+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 15.0,
+    "price": 0.1502,
+    "reason": "ADA in zona neutra (RSI=50.8) ma MACD hist crescente, volume×=+1.92x (spike). Calo -2.85% 24h presenta entry point. Posizionamento su momentum incipiente, segnale moderato.",
+    "dry_run": false
   }
 ]
