@@ -655,5 +655,14 @@
     "price": 0.15,
     "reason": "ADA: RSI=42.1 (basso) + volatilità elevata (0.24%) + vol×=2.54x (spike di volatilità al ribasso) + 24h=-1.25% + 4h=-0.20%. Nonostante MACD hist positivo, il calo 24h e la volatilità spike suggeriscono consolidamento ribassista in corso. Riduci posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T23:01:23.292537+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.227,
+    "reason": "ATOM ha perso -5.17% in 24h con RSI=51.6 (neutro) e MACD hist crescente ma ancora debole. Volume elevato (1.49x) suggerisce distribuzione. Posizione particolarmente colpita nel drawdown recente. Realizzo perdita moderata per liberare slot e capitale per opportunità migliori.",
+    "dry_run": false
   }
 ]
