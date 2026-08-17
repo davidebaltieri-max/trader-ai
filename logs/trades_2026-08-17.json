@@ -169,5 +169,14 @@
     "price": 1.255,
     "reason": "ATOM in IPERVENDUTO (RSI=34.3), MACD hist positivo crescente (+0.0002), volume basso ma segnale di rimbalzo imminente. Interoperabilità strategica, dip-buying coerente con profilo aggressivo. Posizione ribassista 24h (-1.34%) crea opportunità di entry su pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T07:03:38.577735+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.655,
+    "reason": "DOT in zona neutra (RSI=50.0) ma MACD hist positivo crescente, 1h negativo (-1.49%) representa pullback tattico. Layer 1 alternativo core, ripresa imminente su 4h piatto. Volume ridotto consente accumulo a prezzi vantaggiosi.",
+    "dry_run": false
   }
 ]
