@@ -133,5 +133,14 @@
     "price": 2.795,
     "reason": "RSI=35.7 + MACD hist=-0.0039 (decrescente). 1h=-1.06% 4h=-1.06% confermano trend ribassista attivo. UNI è in downtrend locale senza supporti immediati. Volume×=2.00 (spike alto) indica vendite in aumento. Riduce posizione per reallocate su setup migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T06:31:14.368480+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.655,
+    "reason": "RSI=50.0 (zona neutra, spazio al rialzo). MACD hist=+0.0011 crescente con vol×=0.96 (altissimo). 4h=0% neutro ma 1h=0% preps per breakout. DOT mostra accumulazione sotto resistenza. Setup moderato per entry performance-oriented.",
+    "dry_run": false
   }
 ]
