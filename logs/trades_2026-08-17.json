@@ -52,5 +52,14 @@
     "price": 1.253,
     "reason": "ATOM in IPERVENDUTO (RSI=26.1) + MACD decrescente negativo + -2.03% in 24h. Posizione in perdita tecnica. Riduco esposizione su questo asset in trend ribassista confermato per liberare liquidità e ridurre drawdown.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T05:31:12.427518+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 0.59,
+    "price": 1639.2,
+    "reason": "RSI=75.7 🔴IPERCOMPRATO + 1h=-0.13% negativo. Correzione probabile. Riduco posizione sovraespressa in asset ad altissima volatilità.",
+    "dry_run": false
   }
 ]
