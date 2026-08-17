@@ -151,5 +151,14 @@
     "price": 1.2555,
     "reason": "ATOM mostra BULLISH_CROSS su MACD (hist=+0.0001 ↑crescente) + RSI=34.4 (ipervenduto, zona rimbalzo) + 24h=-1.88% (correzione completata). Momentum rialzista confermato con volatilità contenuta (0.22%). Segnale ACQUISTO MEDIO-FORTE. Posizione sottodimensionata nel portafoglio, buon rapporto rischio/rendimento per profilo PERFORMANTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T07:01:27.111676+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.655,
+    "reason": "DOT RSI=50.0 (zona neutra, no ipercomprato) + MACD hist=+0.0009 ↑crescente (momentum rialzista in formazione) + 4h=+0.00% (stabilità) + calo 1h=-1.49% (dip-buying opportunity). Volume basso (0.26x) ma indicatori punti al rialzo. ACQUISTO MEDIO per rotazione su interoperabilità.",
+    "dry_run": false
   }
 ]
