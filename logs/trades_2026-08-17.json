@@ -70,5 +70,14 @@
     "price": 65.085,
     "reason": "RSI=79.5 🔴IPERCOMPRATO (massimo allerta) + MACD hist positivo ma consolidamento. Vendo per cristallizzare guadagni su asset estremamente teso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T05:58:56.749695+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2555,
+    "reason": "ATOM ipervenduto (RSI=31.0, sotto 30). MACD hist decrescente ma prezzo in rimbalzo 1h=+0.24%. Volume basso (vol×=0.35) indica accumulo potenziale. Dip-buying su correzione 24h=-2.56%. Segnale ACQUISTO MODERATO-FORTE con buona risk/reward.",
+    "dry_run": false
   }
 ]
