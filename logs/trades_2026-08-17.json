@@ -529,5 +529,14 @@
     "price": 1.2205,
     "reason": "ATOM è IPERVENDUTO (RSI=29.6) ma il dato 24h=-4.98% è eccessivo e vol×=+0.10x (volume crollato) suggerisce esaurimento della vendita. MACD hist positivo crescente (+0.0005) promette rimbalzo. Vendo ora per riprofittare al rimbalzo con riacquisto più basso. Segnale SELL tattico su ipervenduto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T19:49:47.838903+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2185,
+    "reason": "ATOM: RSI=29.6 (IPERVENDUTO) ma MACD hist crescente debole (+0.0005) suggerisce rimbalzo prossimo. Tuttavia, 24h=-4.98% e vol×=+0.11x (volume MOLTO basso) indicano panico-selling senza conferma. Vendo posizione per ridurre esposizione su asset in decay e liberare liquidità per dip-buying su segnali più forti.",
+    "dry_run": false
   }
 ]
