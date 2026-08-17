@@ -610,5 +610,14 @@
     "price": 1.2245,
     "reason": "ATOM in IPERVENDUTO (RSI=31.5) dopo -6.54% in 24h, volume esplosivo (+2.43x). MACD hist positivo crescente suggerisce potenziale rimbalzo imminente. Vendita tattica per realizzare perdita contenuta (-6.54%) e liberare capitale per riallocazione su segnali più forti. Portafoglio pieno (7/7) richiede rotazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T20:31:20.406181+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.835,
+    "reason": "UNI in BEARISH_CROSS confermato (RSI=46.2, MACD hist decrescente negativo). Performance debole: -0.70% in 1h, -0.35% in 4h, -0.70% in 24h. Segnale di vendita medio. Ridurrà posizione e libererà spazio per rotazione settoriale verso asset con momentum positivo.",
+    "dry_run": false
   }
 ]
