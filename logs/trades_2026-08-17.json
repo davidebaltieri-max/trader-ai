@@ -682,5 +682,14 @@
     "price": 2.825,
     "reason": "UNI: -1.05% in 24h, 4h=-0.70%, RSI=50.0 (equilibrio fragile), MACD hist decrescente (-0.0018) con 4h negativo. Volume 0.67x moderato. Settore DeFi non ha momentum. Realizzo per compattare portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T23:18:25.666983+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1501,
+    "reason": "ACQUISTO MEDIO confermato: RSI=47.1 (zona neutra bassa) + MACD hist=0 con cross BULLISH in formazione + 1h=+0.27% + 4h=+0.07% + vol×=+0.50x. ADA mostra inversione dopo calo 24h=-0.79%; momentum positivo su timeframe corti suggerisce rimbalzo imminente. Operazione da €25 per approfittare della rotazione settoriale verso layer 1 alternativi con setup favorevole.",
+    "dry_run": false
   }
 ]
