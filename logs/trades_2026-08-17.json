@@ -448,5 +448,14 @@
     "price": 2.845,
     "reason": "ACQUISTO MEDIO: RSI=57.1 + BULLISH_CROSS confermato + 1h=+0.71% + MACD hist=+0.0005 crescente. UNI mostra momentum rialzista coerente multi-timeframe. Vol×=1.27 supporta movimento. Posizione infrastruttura DeFi in trend.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T18:31:57.830062+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.655,
+    "reason": "DOT: RSI=50 (neutro), MACD crescente, vol×=+3.49x (volume eccezionale), 1h=+1.54% 4h=+1.54% (momentum forte). Segnale ACQUISTO MEDIO confermato da volume anomalo e persistente rialzo 1h/4h. Volatilità elevata (+1.02%) rispecchia il profilo aggressivo. È il setup più promettente del ciclo.",
+    "dry_run": false
   }
 ]
