@@ -646,5 +646,14 @@
     "price": 2.835,
     "reason": "UNI: RSI=42.9 (neutro-basso) + MACD hist<0 decrescente + 24h=-0.35% + vol×=0.59x (basso). Trend debole. Posizione marginale nel portafoglio performante. Vendita tecnica per concentrare risorse.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T22:01:31.099369+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 12.0,
+    "price": 0.15,
+    "reason": "ADA: RSI=42.1 (basso) + volatilità elevata (0.24%) + vol×=2.54x (spike di volatilità al ribasso) + 24h=-1.25% + 4h=-0.20%. Nonostante MACD hist positivo, il calo 24h e la volatilità spike suggeriscono consolidamento ribassista in corso. Riduci posizione.",
+    "dry_run": false
   }
 ]
