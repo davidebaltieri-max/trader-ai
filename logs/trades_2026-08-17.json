@@ -502,5 +502,14 @@
     "price": 0.1502,
     "reason": "ADA in zona neutra (RSI=50.8) ma MACD hist crescente, volume×=+1.92x (spike). Calo -2.85% 24h presenta entry point. Posizionamento su momentum incipiente, segnale moderato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T19:23:44.041210+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.175,
+    "reason": "LINK bearish cross confermato (MACD hist=-0.0020 ↓), RSI=45.7 neutrale ma in discesa, 1h=-0.73% negativo. Momentum ribassista in corso. Vendita di riduzione posizione per proteggere capitale.",
+    "dry_run": false
   }
 ]
