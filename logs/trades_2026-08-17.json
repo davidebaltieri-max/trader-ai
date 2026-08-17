@@ -313,5 +313,14 @@
     "price": 1.219,
     "reason": "VENDITA FORTE: RSI=21.5 (IPERVENDUTO) ma MACD hist negativo decrescente (-0.0019) + 4h=-2.17% + 24h=-5.15% = trend ribassista confermato. Volume volat=+0.40% e vol×=+13.74x indicano capitolazione. Proteggere capitale prima di ulteriore discesa. Target: bloccare perdite e liberare capital per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T16:01:19.926828+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.655,
+    "reason": "VENDITA MEDIA: RSI=40.0 (neutro ma debolezza) + 1h=-1.52% + 4h=-1.52% (double bearish) + vol×=+2.02x (alta volatilità al ribasso) + volatilità=+1.01% (alta). MACD assente ma momentum chiaramente negativo nei timeframe corti. Ridurre esposizione prima di break al ribasso.",
+    "dry_run": false
   }
 ]
