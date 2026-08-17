@@ -547,5 +547,14 @@
     "price": 8.185,
     "reason": "LINK: RSI=44.4 (neutrale), MACD hist=-0.0039 e decrescente = momentum ribassista in corso. Vol×=+2.06x (volume alto) ma su movimento negativo. 1h=-0.12%, 4h=-0.37% confermano trend down. Vendo per ridurre posizioni e preservare capitale prima di possibili correzioni più ampie.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T19:49:51.132168+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 18.0,
+    "price": 2.84,
+    "reason": "UNI: RSI=50.0 (neutrale), MACD hist=+0.0001 (quasi nullo), 1h=-0.35% e 24h=-0.35%. Segnali contrastanti e momentum debole. Vendo per liberare slot e liquidità—posizione non offre opportunità né rialziste né ribassiste chiare in questo ciclo.",
+    "dry_run": false
   }
 ]
