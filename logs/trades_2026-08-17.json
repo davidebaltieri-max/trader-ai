@@ -637,5 +637,14 @@
     "price": 8.19,
     "reason": "LINK: RSI=48.0 (neutro) + MACD hist<0 decrescente (trend ribassista) + 4h=-0.61% + 1h=-0.24%. Segnale di vendita media confermato. Volume basso (0.42x) suggerisce posizione non prioritaria nel portafoglio. Realizza liquidità per opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T22:01:29.507275+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.835,
+    "reason": "UNI: RSI=42.9 (neutro-basso) + MACD hist<0 decrescente + 24h=-0.35% + vol×=0.59x (basso). Trend debole. Posizione marginale nel portafoglio performante. Vendita tecnica per concentrare risorse.",
+    "dry_run": false
   }
 ]
