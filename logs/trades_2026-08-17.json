@@ -466,5 +466,14 @@
     "price": 1.224,
     "reason": "ATOM: RSI=38.9 (vicino a ipervenduto ma in calo), MACD hist<0 e decrescente, 24h=-4.22% (worst performer), vol×=+0.08x (volume crollato). Trend ribassista confermato. Ridurre esposizione su asset in debolezza strutturale per liberare capitale verso opportunità rialziste.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T19:01:25.670078+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.221,
+    "reason": "ACQUISTO FORTE: RSI=30.9 (IPERVENDUTO), MACD hist crescente con BULLISH_CROSS confermato, 1h=+0.33% positivo, vol× basso ma indicatori tecnici molto forti. ATOM è in forte correzione (-5.35% 24h) e presenta segnali di rimbalzo. Momentum rialzista confermato da MACD cross. Posizione già in portafoglio, accumulo strategico su debolezza.",
+    "dry_run": false
   }
 ]
