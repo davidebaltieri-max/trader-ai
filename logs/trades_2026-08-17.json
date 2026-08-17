@@ -232,5 +232,14 @@
     "price": 0.1505,
     "reason": "ADA con momentum negativo: calo 24h=-1.12%, MACD decrescente (hist=-0.0000), RSI=44.6 in discesa. Volume×=1.50x conferma pressione vendita. Rotazione necessaria per liberare liquidità verso asset con momentum rialzista (BTC/ETH/LINK/SOL).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T15:01:23.712679+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.655,
+    "reason": "DOT stagnante e laterale (1h=0%, 4h=0%, RSI=50.0 neutrale). MACD n/d senza segnale chiaro. Volatilità=0.91% moderata ma positioning debole. Ridurre per riallocare verso asset con trend confermato (BTC/ETH in rialzo, LINK/SOL momentum positivo).",
+    "dry_run": false
   }
 ]
