@@ -556,5 +556,14 @@
     "price": 2.84,
     "reason": "UNI: RSI=50.0 (neutrale), MACD hist=+0.0001 (quasi nullo), 1h=-0.35% e 24h=-0.35%. Segnali contrastanti e momentum debole. Vendo per liberare slot e liquidità—posizione non offre opportunità né rialziste né ribassiste chiare in questo ciclo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T20:01:27.427732+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.209,
+    "reason": "VENDITA FORTE: RSI=27.8 (ipervenduto ma con momentum ribassista confermato), MACD hist negativo decrescente + BEARISH_CROSS, 1h=-0.90% + 4h=-0.74%, vol×=+1.73x (volume alto). Pur essendo tecnicamente ipervenduto, il MACD bearish cross e il trend negativo multi-timeframe indicano continuazione della pressione ribassista. Riduco posizione per proteggere capitale e liberare liquidità per opportunità rialziste su asset con segnali più forti.",
+    "dry_run": false
   }
 ]
