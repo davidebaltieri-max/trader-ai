@@ -331,5 +331,14 @@
     "price": 1.2175,
     "reason": "ATOM ipervenduto (RSI=16.7) ma con MACD hist negativo decrescente e -5.95% in 24h. Calo tecnico confermato. Vendita tattica per liberare capitale e ridurre drawdown. Possibile riacquisto a livelli inferiori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T16:31:10.506657+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.655,
+    "reason": "DOT in stress tecnico: -1.52% in 1h e 4h, volume×=2.02 (pressione in vendita), RSI=40.0 neutrale ma tendenza ribassista confermata. Stop loss tattico per preservare capitale in contesto di debolezza.",
+    "dry_run": false
   }
 ]
