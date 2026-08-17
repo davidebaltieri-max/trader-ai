@@ -439,5 +439,14 @@
     "price": 0.655,
     "reason": "ACQUISTO MEDIO: RSI=50.0 (neutro) + 1h=+1.54% forte + vol×=2.51 (volume in aumento significativo) + volatilità=+1.12% (media-alta). Momentum positivo su timeframe breve con volume confermato. Profilo aggressivo sfrutta swing rialzista.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T17:54:23.338046+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.845,
+    "reason": "ACQUISTO MEDIO: RSI=57.1 + BULLISH_CROSS confermato + 1h=+0.71% + MACD hist=+0.0005 crescente. UNI mostra momentum rialzista coerente multi-timeframe. Vol×=1.27 supporta movimento. Posizione infrastruttura DeFi in trend.",
+    "dry_run": false
   }
 ]
