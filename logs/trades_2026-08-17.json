@@ -592,5 +592,14 @@
     "price": 2.835,
     "reason": "UNI in debolezza (RSI=46.2, MACD BEARISH_CROSS, -0.70% 1h/24h). Vendo il 20% della posizione per ridurre esposizione su asset in trend ribassista e preservare capitale per opportunità su altri asset.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T20:20:27.277812+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 65.32,
+    "reason": "SOL mostra MACD BEARISH_CROSS con RSI=63.9 in zona neutra-alta e -0.32% 1h. Volume elevato (vol×=1.12x) su movimento negativo. Vendo il 30% della posizione per limitare downside e liberare liquidità.",
+    "dry_run": false
   }
 ]
