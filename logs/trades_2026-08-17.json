@@ -34,5 +34,14 @@
     "price": 1.255,
     "reason": "RSI=14.6 IPERVENDUTO + MACD hist negativo decrescente + 4h=-1.10% + 24h=-1.95%. Momentum ribassista confermato. Vendo per liberare capitale e ridurre esposizione su asset in downtrend. Posso riacquistare a livelli migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T03:31:10.216465+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.815,
+    "reason": "MACD hist negativo decrescente (-0.0017) + 4h=-0.35% + RSI=47.6 (neutrale ma debole). Divergenza con trend generale rialzista. Vendo per ridurre posizione underperforming e liberare liquidità prima di eventuali ribassi.",
+    "dry_run": false
   }
 ]
