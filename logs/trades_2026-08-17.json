@@ -673,5 +673,14 @@
     "price": 0.1497,
     "reason": "ADA in sofferenza: -1.19% in 24h, RSI=32.4 (ipervenduto ma non reattivo), MACD hist=0 (stallo). Volume spike 1.72x indica scarico. Sebbene ipervenduto, la mancanza di cross MACD positivo suggerisce ulteriore debolezza. Liquido per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T23:01:26.644012+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.825,
+    "reason": "UNI: -1.05% in 24h, 4h=-0.70%, RSI=50.0 (equilibrio fragile), MACD hist decrescente (-0.0018) con 4h negativo. Volume 0.67x moderato. Settore DeFi non ha momentum. Realizzo per compattare portafoglio.",
+    "dry_run": false
   }
 ]
