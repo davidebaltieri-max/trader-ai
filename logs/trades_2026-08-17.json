@@ -601,5 +601,14 @@
     "price": 65.32,
     "reason": "SOL mostra MACD BEARISH_CROSS con RSI=63.9 in zona neutra-alta e -0.32% 1h. Volume elevato (vol×=1.12x) su movimento negativo. Vendo il 30% della posizione per limitare downside e liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T20:31:17.870579+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2245,
+    "reason": "ATOM in IPERVENDUTO (RSI=31.5) dopo -6.54% in 24h, volume esplosivo (+2.43x). MACD hist positivo crescente suggerisce potenziale rimbalzo imminente. Vendita tattica per realizzare perdita contenuta (-6.54%) e liberare capitale per riallocazione su segnali più forti. Portafoglio pieno (7/7) richiede rotazione.",
+    "dry_run": false
   }
 ]
