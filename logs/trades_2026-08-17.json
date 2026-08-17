@@ -295,5 +295,14 @@
     "price": 5.455,
     "reason": "ACQUISTO MEDIO: RSI=41.2 (zona neutra bassa) + MACD BULLISH_CROSS confermato + 4h=-0.18% ma momentum positivo in corso. Volume moderato (0.63x). Aggiunta di AVAX per diversificazione su L1 alternativi e sfruttare cross bullish incipiente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T15:48:29.418728+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 10.0,
+    "price": 55327.355,
+    "reason": "VENDITA TATTICA: RSI=78.7 (IPERCOMPRATO) + volatilità elevata +0.22%. BTC in ipercomprato dopo rally +1.39% 24h. Vendita parziale piccola (10€ = ~0.00018 BTC) per realizzare utili e ridurre esposizione al top locale. Posizione rimane in portafoglio.",
+    "dry_run": false
   }
 ]
