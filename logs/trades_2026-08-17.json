@@ -43,5 +43,14 @@
     "price": 2.815,
     "reason": "MACD hist negativo decrescente (-0.0017) + 4h=-0.35% + RSI=47.6 (neutrale ma debole). Divergenza con trend generale rialzista. Vendo per ridurre posizione underperforming e liberare liquidità prima di eventuali ribassi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T05:01:18.341253+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.253,
+    "reason": "ATOM in IPERVENDUTO (RSI=26.1) + MACD decrescente negativo + -2.03% in 24h. Posizione in perdita tecnica. Riduco esposizione su questo asset in trend ribassista confermato per liberare liquidità e ridurre drawdown.",
+    "dry_run": false
   }
 ]
