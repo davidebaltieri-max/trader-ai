@@ -574,5 +574,14 @@
     "price": 65.375,
     "reason": "VENDITA MEDIA: MACD hist negativo decrescente + BEARISH_CROSS, RSI=68.1 (sopra 60, zona rialzista ma debole), 1h=-0.18% + 4h=-0.21% (momentum ribassista). Cross negativo è segnale di cambio trend confermato. Riduzione per protezione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T20:20:24.693678+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.215,
+    "reason": "ATOM ipervenduto (RSI=31.5) ma con segnali contrastanti: MACD hist positivo crescente suggerisce rimbalzo imminente. Vendo il 25% della posizione per fissare una perdita moderata (-6.54% in 24h) e libero liquidità. Possibile riacquisto su rimbalzo confermato.",
+    "dry_run": false
   }
 ]
