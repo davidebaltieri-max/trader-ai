@@ -430,5 +430,14 @@
     "price": 1.2175,
     "reason": "ACQUISTO FORTE: RSI=22.2 (IPERVENDUTO) + MACD hist negativo decrescente ma in zona di rimbalzo tipica. Vol×=0.15 è basso ma ATOM ha subìto -5.44% in 24h, posizionandosi per rimbalzo. Profilo aggressivo sfrutta ipervenduto. Slot disponibile: 1/7.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T17:54:21.758986+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.655,
+    "reason": "ACQUISTO MEDIO: RSI=50.0 (neutro) + 1h=+1.54% forte + vol×=2.51 (volume in aumento significativo) + volatilità=+1.12% (media-alta). Momentum positivo su timeframe breve con volume confermato. Profilo aggressivo sfrutta swing rialzista.",
+    "dry_run": false
   }
 ]
