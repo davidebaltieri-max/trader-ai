@@ -259,5 +259,14 @@
     "price": 8.205,
     "reason": "VENDITA MEDIA: RSI=71.0 (IPERCOMPRATO) + momentum MACD hist positivo ma in zona overbought. 1h=+0.86% suggerisce possibile correzione. Realizzo profitti parziali su posizione storicamente vincente. Rimane esposizione LINK (8.86 unità) per mantenere exposure a DeFi infrastruttura.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T15:20:25.625048+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.655,
+    "reason": "ACQUISTO MEDIO: RSI=40.0 (zona neutra bassa) + vol×=1.28x in aumento + 1h=-1.52% suggerisce opportunità di dip-buying. MACD non disponibile su 24h ma momentum 1h/4h in calo rappresenta ritracciamento. Interoperabilità in focus, DOT già in portafoglio (326.48), averaging down strategico.",
+    "dry_run": false
   }
 ]
