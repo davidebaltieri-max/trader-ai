@@ -241,5 +241,14 @@
     "price": 0.655,
     "reason": "DOT stagnante e laterale (1h=0%, 4h=0%, RSI=50.0 neutrale). MACD n/d senza segnale chiaro. Volatilità=0.91% moderata ma positioning debole. Ridurre per riallocare verso asset con trend confermato (BTC/ETH in rialzo, LINK/SOL momentum positivo).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T15:20:21.065753+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.219,
+    "reason": "ACQUISTO FORTE: RSI=20.0 (IPERVENDUTO) + vol×=12.40x (volume esplosivo) + MACD hist negativo decrescente in inversione. Segnale classico di rimbalzo dopo selloff. ATOM è in nosedive 24h (-4.54%) ma volume massiccio suggerisce accumulation fase. Profilo performante approfitta di dip su interoperabilità. Rischio calcolato con posizione €30 su fondamentali interessanti.",
+    "dry_run": false
   }
 ]
