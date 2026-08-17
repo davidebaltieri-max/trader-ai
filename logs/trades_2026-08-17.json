@@ -223,5 +223,14 @@
     "price": 1.2225,
     "reason": "ATOM in IPERVENDUTO (RSI=20.7) ma con MACD decrescente e calo 24h=-4.38%. Segnale di vendita defensiva: realizzare perdite controllate prima di ulteriore deterioramento. Volume×=10.77x suggerisce movimento deciso al ribasso. Proteggere capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T15:01:22.062012+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 17.61,
+    "price": 0.1505,
+    "reason": "ADA con momentum negativo: calo 24h=-1.12%, MACD decrescente (hist=-0.0000), RSI=44.6 in discesa. Volume×=1.50x conferma pressione vendita. Rotazione necessaria per liberare liquidità verso asset con momentum rialzista (BTC/ETH/LINK/SOL).",
+    "dry_run": false
   }
 ]
