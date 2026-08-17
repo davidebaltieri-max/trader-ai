@@ -97,5 +97,14 @@
     "price": 0.665,
     "reason": "DOT RSI neutrale (50.0), volume in spike (vol×=2.21x massimo del panel). 1h=+0.00% ma volume anomalo suggerisce movimento imminente. Setup interessante per entry a basso rischio con potenziale breakout. Momentum building.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T06:01:28.227229+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 2.795,
+    "reason": "RSI=35.7 (IPERVENDUTO), MACD hist=-0.0039 (decrescente ma prossimo a cross rialzista), vol×=1.75 (volume in aumento su calo). Segnale ACQUISTO MEDIO confermato: RSI<50 + volume forte su pullback. UNI è in oversold dopo calo 24h, momentum ribassista sta esaurendo. Posizionamento anticipato prima rimbalzo.",
+    "dry_run": false
   }
 ]
