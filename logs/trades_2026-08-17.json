@@ -124,5 +124,14 @@
     "price": 1.254,
     "reason": "RSI=29.7 🟢IPERVENDUTO (segnale forte di rimbalzo). MACD hist negativo ma decrescente indica fondo possibile. 24h=-2.18% suggerisce correzione eccessiva. Volume basso (vol×=0.04) consente accumulo con rischio controllato. Performante: dip-buying su ATOM in ipervenduto per rimbalzo atteso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T06:31:13.124567+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.795,
+    "reason": "RSI=35.7 + MACD hist=-0.0039 (decrescente). 1h=-1.06% 4h=-1.06% confermano trend ribassista attivo. UNI è in downtrend locale senza supporti immediati. Volume×=2.00 (spike alto) indica vendite in aumento. Riduce posizione per reallocate su setup migliori.",
+    "dry_run": false
   }
 ]
