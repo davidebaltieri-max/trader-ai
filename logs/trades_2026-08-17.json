@@ -250,5 +250,14 @@
     "price": 1.219,
     "reason": "ACQUISTO FORTE: RSI=20.0 (IPERVENDUTO) + vol×=12.40x (volume esplosivo) + MACD hist negativo decrescente in inversione. Segnale classico di rimbalzo dopo selloff. ATOM è in nosedive 24h (-4.54%) ma volume massiccio suggerisce accumulation fase. Profilo performante approfitta di dip su interoperabilità. Rischio calcolato con posizione €30 su fondamentali interessanti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T15:20:23.355617+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.205,
+    "reason": "VENDITA MEDIA: RSI=71.0 (IPERCOMPRATO) + momentum MACD hist positivo ma in zona overbought. 1h=+0.86% suggerisce possibile correzione. Realizzo profitti parziali su posizione storicamente vincente. Rimane esposizione LINK (8.86 unità) per mantenere exposure a DeFi infrastruttura.",
+    "dry_run": false
   }
 ]
