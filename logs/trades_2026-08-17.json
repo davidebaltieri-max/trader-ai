@@ -160,5 +160,14 @@
     "price": 0.655,
     "reason": "DOT RSI=50.0 (zona neutra, no ipercomprato) + MACD hist=+0.0009 ↑crescente (momentum rialzista in formazione) + 4h=+0.00% (stabilità) + calo 1h=-1.49% (dip-buying opportunity). Volume basso (0.26x) ma indicatori punti al rialzo. ACQUISTO MEDIO per rotazione su interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T07:03:37.286654+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.255,
+    "reason": "ATOM in IPERVENDUTO (RSI=34.3), MACD hist positivo crescente (+0.0002), volume basso ma segnale di rimbalzo imminente. Interoperabilità strategica, dip-buying coerente con profilo aggressivo. Posizione ribassista 24h (-1.34%) crea opportunità di entry su pullback.",
+    "dry_run": false
   }
 ]
