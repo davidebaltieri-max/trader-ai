@@ -457,5 +457,14 @@
     "price": 0.655,
     "reason": "DOT: RSI=50 (neutro), MACD crescente, vol×=+3.49x (volume eccezionale), 1h=+1.54% 4h=+1.54% (momentum forte). Segnale ACQUISTO MEDIO confermato da volume anomalo e persistente rialzo 1h/4h. Volatilità elevata (+1.02%) rispecchia il profilo aggressivo. È il setup più promettente del ciclo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T18:32:00.073796+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.224,
+    "reason": "ATOM: RSI=38.9 (vicino a ipervenduto ma in calo), MACD hist<0 e decrescente, 24h=-4.22% (worst performer), vol×=+0.08x (volume crollato). Trend ribassista confermato. Ridurre esposizione su asset in debolezza strutturale per liberare capitale verso opportunità rialziste.",
+    "dry_run": false
   }
 ]
