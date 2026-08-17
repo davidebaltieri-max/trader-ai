@@ -628,5 +628,14 @@
     "price": 2.835,
     "reason": "RSI=50.0 NEUTRO ma MACD hist=-0.0006 decrescente + 4h=-0.35% + 24h=-0.35%. UNI mostra debolezza relativa rispetto al mercato. Vendita tattica per realloca su asset con momentum positivo confermato (ADA, ATOM, SOL).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T22:01:27.852799+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.19,
+    "reason": "LINK: RSI=48.0 (neutro) + MACD hist<0 decrescente (trend ribassista) + 4h=-0.61% + 1h=-0.24%. Segnale di vendita media confermato. Volume basso (0.42x) suggerisce posizione non prioritaria nel portafoglio. Realizza liquidità per opportunità più forti.",
+    "dry_run": false
   }
 ]
