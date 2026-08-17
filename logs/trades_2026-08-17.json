@@ -412,5 +412,14 @@
     "price": 1.215,
     "reason": "RSI=21.8 🟢IPERVENDUTO ma MACD hist=-0.0011 ↓decrescente (trend ribassista). 24h=-5.52% conferma debolezza. Posizione in perdita: proteggere capitale in volatilità negativa. Ridurre esposizione prima di rimbalzo incerto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T17:31:15.578463+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 16.37,
+    "price": 55357.975,
+    "reason": "RSI=72.2 🔴IPERCOMPRATO + MACD hist=+50.7577 ↑crescente (momentum eccessivo). Segnale di possibile correzione. BTC a €55357.97 mostra ipercompra su TF multiday. Presa di profitto parziale su minuscola posizione (0.000295 BTC = ~€16.33 totali).",
+    "dry_run": false
   }
 ]
