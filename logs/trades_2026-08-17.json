@@ -421,5 +421,14 @@
     "price": 55357.975,
     "reason": "RSI=72.2 🔴IPERCOMPRATO + MACD hist=+50.7577 ↑crescente (momentum eccessivo). Segnale di possibile correzione. BTC a €55357.97 mostra ipercompra su TF multiday. Presa di profitto parziale su minuscola posizione (0.000295 BTC = ~€16.33 totali).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T17:54:19.376070+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.2175,
+    "reason": "ACQUISTO FORTE: RSI=22.2 (IPERVENDUTO) + MACD hist negativo decrescente ma in zona di rimbalzo tipica. Vol×=0.15 è basso ma ATOM ha subìto -5.44% in 24h, posizionandosi per rimbalzo. Profilo aggressivo sfrutta ipervenduto. Slot disponibile: 1/7.",
+    "dry_run": false
   }
 ]
