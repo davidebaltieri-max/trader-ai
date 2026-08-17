@@ -691,5 +691,14 @@
     "price": 0.1501,
     "reason": "ACQUISTO MEDIO confermato: RSI=47.1 (zona neutra bassa) + MACD hist=0 con cross BULLISH in formazione + 1h=+0.27% + 4h=+0.07% + vol×=+0.50x. ADA mostra inversione dopo calo 24h=-0.79%; momentum positivo su timeframe corti suggerisce rimbalzo imminente. Operazione da €25 per approfittare della rotazione settoriale verso layer 1 alternativi con setup favorevole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T23:18:27.372729+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 8.205,
+    "reason": "ACQUISTO MEDIO: RSI=43.5 (sottovalutato) + MACD hist=-0.0027 (negativo ma debole, non cross confermato) + 1h=+0.12% + 4h=+0.37% positivo. LINK infrastruttura DeFi critica in portafoglio; 4h positivo con volume ridotto (vol×=0.07x) suggerisce accumulation prima di movimento. Operazione piccola €15 per averaging su posizione strategica.",
+    "dry_run": false
   }
 ]
