@@ -304,5 +304,14 @@
     "price": 55327.355,
     "reason": "VENDITA TATTICA: RSI=78.7 (IPERCOMPRATO) + volatilità elevata +0.22%. BTC in ipercomprato dopo rally +1.39% 24h. Vendita parziale piccola (10€ = ~0.00018 BTC) per realizzare utili e ridurre esposizione al top locale. Posizione rimane in portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T16:01:18.672512+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.219,
+    "reason": "VENDITA FORTE: RSI=21.5 (IPERVENDUTO) ma MACD hist negativo decrescente (-0.0019) + 4h=-2.17% + 24h=-5.15% = trend ribassista confermato. Volume volat=+0.40% e vol×=+13.74x indicano capitolazione. Proteggere capitale prima di ulteriore discesa. Target: bloccare perdite e liberare capital per opportunità migliori.",
+    "dry_run": false
   }
 ]
