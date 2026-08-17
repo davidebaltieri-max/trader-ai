@@ -619,5 +619,14 @@
     "price": 2.835,
     "reason": "UNI in BEARISH_CROSS confermato (RSI=46.2, MACD hist decrescente negativo). Performance debole: -0.70% in 1h, -0.35% in 4h, -0.70% in 24h. Segnale di vendita medio. Ridurrà posizione e libererà spazio per rotazione settoriale verso asset con momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T21:01:23.271902+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.835,
+    "reason": "RSI=50.0 NEUTRO ma MACD hist=-0.0006 decrescente + 4h=-0.35% + 24h=-0.35%. UNI mostra debolezza relativa rispetto al mercato. Vendita tattica per realloca su asset con momentum positivo confermato (ADA, ATOM, SOL).",
+    "dry_run": false
   }
 ]
