@@ -61,5 +61,14 @@
     "price": 1639.2,
     "reason": "RSI=75.7 🔴IPERCOMPRATO + 1h=-0.13% negativo. Correzione probabile. Riduco posizione sovraespressa in asset ad altissima volatilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T05:31:13.963751+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 18.0,
+    "price": 65.085,
+    "reason": "RSI=79.5 🔴IPERCOMPRATO (massimo allerta) + MACD hist positivo ma consolidamento. Vendo per cristallizzare guadagni su asset estremamente teso.",
+    "dry_run": false
   }
 ]
