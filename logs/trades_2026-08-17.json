@@ -565,5 +565,14 @@
     "price": 1.209,
     "reason": "VENDITA FORTE: RSI=27.8 (ipervenduto ma con momentum ribassista confermato), MACD hist negativo decrescente + BEARISH_CROSS, 1h=-0.90% + 4h=-0.74%, vol×=+1.73x (volume alto). Pur essendo tecnicamente ipervenduto, il MACD bearish cross e il trend negativo multi-timeframe indicano continuazione della pressione ribassista. Riduco posizione per proteggere capitale e liberare liquidità per opportunità rialziste su asset con segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T20:01:29.025974+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 18.0,
+    "price": 65.375,
+    "reason": "VENDITA MEDIA: MACD hist negativo decrescente + BEARISH_CROSS, RSI=68.1 (sopra 60, zona rialzista ma debole), 1h=-0.18% + 4h=-0.21% (momentum ribassista). Cross negativo è segnale di cambio trend confermato. Riduzione per protezione.",
+    "dry_run": false
   }
 ]
