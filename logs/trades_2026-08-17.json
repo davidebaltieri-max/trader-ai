@@ -106,5 +106,14 @@
     "price": 2.795,
     "reason": "RSI=35.7 (IPERVENDUTO), MACD hist=-0.0039 (decrescente ma prossimo a cross rialzista), vol×=1.75 (volume in aumento su calo). Segnale ACQUISTO MEDIO confermato: RSI<50 + volume forte su pullback. UNI è in oversold dopo calo 24h, momentum ribassista sta esaurendo. Posizionamento anticipato prima rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T06:01:29.907356+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2555,
+    "reason": "RSI=36.8 (IPERVENDUTO), MACD hist=-0.0003 (decrescente ma prossimo a stabilizzazione), 1h=+0.24% (positivo). Segnale ACQUISTO MEDIO: RSI<50 + movimento positivo recente. ATOM ha subito -2.41% in 24h, volume basso (0.19x) indica fondo. Dip-buying su asset in portafoglio con consolidamento imminente.",
+    "dry_run": false
   }
 ]
