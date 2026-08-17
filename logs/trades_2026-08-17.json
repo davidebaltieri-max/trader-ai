@@ -718,5 +718,14 @@
     "price": 2.835,
     "reason": "UNI in stallo 1h=0% 4h=-0.70%, RSI=41.7 (sotto 50) + MACD hist negativo decrescente = momentum ribassista. Vol×=1.36 alto ma direzionalità debole. Vendita tattica (20€) per ridurre posizione debole e prepararsi a riacquisto su rimbalzo più forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T23:45:33.397908+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 18.0,
+    "price": 0.1501,
+    "reason": "ADA -0.66% a 24h, RSI=50 + MACD hist=0 (neutrale ma cross imminente). Volatilità=+0.25% media. Vendita conservativa (18€) per consolidare portafoglio pieno e generare dry powder senza aspettare down più marcato. Manteniamo posizione core.",
+    "dry_run": false
   }
 ]
