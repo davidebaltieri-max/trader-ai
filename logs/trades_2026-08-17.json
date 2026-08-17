@@ -205,5 +205,14 @@
     "price": 0.1518,
     "reason": "RSI=59.2 (zona neutra bassa, no ipercomprato) + MACD hist positivo crescente + 4h=-0.65% (correzione leggera, entry point). Volume×=1.10 in aumento. Layer 1 alternativo diversificazione. Nuovo slot aperto: acquisizione strategica su momentum nascente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T07:31:14.983817+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 30.0,
+    "price": 54729.42,
+    "reason": "RSI=70.8 (IPERCOMPRATO, prossimo a bearish reversal) + MACD hist positivo ma appiattito (momentum debole) + 1h=-0.22% (inversione locale). Take profit su posizione BTC minima ma esistente. Riduci esposizione large cap in zona ipercomprata per ridistribuire su opportunità.",
+    "dry_run": false
   }
 ]
