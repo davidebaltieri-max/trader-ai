@@ -709,5 +709,14 @@
     "price": 1.2225,
     "reason": "ATOM in calo -5.27% a 24h, RSI=50 neutrale ma MACD hist positivo crescente suggerisce accumulo in basso. Vendita parziale (25€ su ~524€ posizione) per ridurre esposizione a asset in downtrend e liberare capitale per opportunità più forti. Stop loss preventivo: -5% già raggiunto in 24h, consolidamento smart.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T23:45:31.619554+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.835,
+    "reason": "UNI in stallo 1h=0% 4h=-0.70%, RSI=41.7 (sotto 50) + MACD hist negativo decrescente = momentum ribassista. Vol×=1.36 alto ma direzionalità debole. Vendita tattica (20€) per ridurre posizione debole e prepararsi a riacquisto su rimbalzo più forte.",
+    "dry_run": false
   }
 ]
