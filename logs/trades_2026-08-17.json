@@ -394,5 +394,14 @@
     "price": 1.218,
     "reason": "RSI=21.8 (IPERVENDUTO) + MACD hist decrescente (trend ribassista) + -5.52% in 24h. Sebbene l'ipervenduto suggerisca rimbalzo, il MACD è negativo e decrescente: scendo prima di ulteriore flessione. Realizzo parzialmente per liberare slot e capitalizzare su posizione in sofferenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T17:21:59.079815+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 18.0,
+    "price": 55506.17,
+    "reason": "RSI=79.2 (IPERCOMPRATO ESTREMO) + MACD hist positivo ma a massimi storici. Segnale VENDITA FORTE: correzione probabile. Vendo una frazione minima della posizione (0.00061999 BTC ≈ €34.46, vendo ~€18) per realizzare profitto e ridurre esposizione in zona di estrema sovrascalda.",
+    "dry_run": false
   }
 ]
