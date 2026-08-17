@@ -340,5 +340,14 @@
     "price": 0.655,
     "reason": "DOT in stress tecnico: -1.52% in 1h e 4h, volume×=2.02 (pressione in vendita), RSI=40.0 neutrale ma tendenza ribassista confermata. Stop loss tattico per preservare capitale in contesto di debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T16:53:35.697472+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.218,
+    "reason": "ATOM ipervenduto (RSI=20.7) ma con MACD decrescente negativo. Momentum ribassista confermato. 24h=-5.50% indica pressione al ribasso strutturale. Realizzazione parziale per ridurre rischio e liberare capitale.",
+    "dry_run": false
   }
 ]
