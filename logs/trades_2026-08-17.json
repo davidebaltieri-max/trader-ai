@@ -277,5 +277,14 @@
     "price": 1.223,
     "reason": "ACQUISTO FORTE: RSI=22.0 (IPERVENDUTO), MACD hist negativo ma decrescente con volume×12.92x segnala accumulo. Calo 24h=-4.30% è opportunità su interoperabilità. Momentum setup classico post-capitolazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T15:48:26.352188+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.2205,
+    "reason": "ACQUISTO FORTE: RSI=23.3 (IPERVENDUTO) + vol×=13.46x (volume massivo) + MACD hist negativo decrescente ma in zona di inversione. Segnale di rimbalzo imminente su supporto. ATOM ha subito correzione -4.76% in 24h, perfetto per dip-buying aggressivo. Dimensione operazione grande per segnale forte.",
+    "dry_run": false
   }
 ]
