@@ -367,5 +367,14 @@
     "price": 0.655,
     "reason": "DOT momentum negativo: MACD hist decrescente (negativo) + RSI=50.0 al limite. Vol×=2.42x ma 4h=0% e 1h=+1.54% poco convincente. Realizzazione parziale per gestire il rischio su posizione laterale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T17:01:18.341732+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2185,
+    "reason": "ATOM: RSI=20.7 IPERVENDUTO ma MACD hist<0 decrescente con trend ribassista confermato. 24h=-5.50% con momentum negativo persistente. Riduco posizione per limitare drawdown su asset in trend down strutturale. Stop loss preventivo.",
+    "dry_run": false
   }
 ]
