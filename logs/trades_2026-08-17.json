@@ -25,5 +25,14 @@
     "price": 2.815,
     "reason": "UNI mostra segnale VENDITA MEDIA: MACD hist negativo decrescente (-0.0017), RSI=47.6 (zona neutra-bassa), 4h=-0.35% con divergenza rispetto al resto del portafoglio. Momentum sta virando al ribasso mentre altri asset mantengono spinta rialzista. Ridurre esposizione DeFi concentration e convertire in liquidità per rebalance tattico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T03:31:08.797370+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.255,
+    "reason": "RSI=14.6 IPERVENDUTO + MACD hist negativo decrescente + 4h=-1.10% + 24h=-1.95%. Momentum ribassista confermato. Vendo per liberare capitale e ridurre esposizione su asset in downtrend. Posso riacquistare a livelli migliori.",
+    "dry_run": false
   }
 ]
