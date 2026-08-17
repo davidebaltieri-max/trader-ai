@@ -79,5 +79,14 @@
     "price": 1.2555,
     "reason": "ATOM ipervenduto (RSI=31.0, sotto 30). MACD hist decrescente ma prezzo in rimbalzo 1h=+0.24%. Volume basso (vol×=0.35) indica accumulo potenziale. Dip-buying su correzione 24h=-2.56%. Segnale ACQUISTO MODERATO-FORTE con buona risk/reward.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T05:58:58.284674+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 65.05,
+    "reason": "SOL ipercomprato (RSI=78.3 >> 70). 1h=-0.15% conferma indebolimento. MACD hist ancora crescente ma RSI estremo segnala correzione imminente. Take profit tattico su accumulo precedente. Riduco esposizione prima del pullback atteso.",
+    "dry_run": false
   }
 ]
