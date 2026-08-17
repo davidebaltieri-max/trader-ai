@@ -484,5 +484,14 @@
     "price": 0.655,
     "reason": "ACQUISTO MEDIO-FORTE: RSI=50.0 (neutro ma su supporto), vol×=3.57x (VOLUME ESPLOSIVO confermato), 1h=+1.54% e 4h=+1.54% momentum crescente. DOT mostra breakout con volume anomalo. MACD assente ma volume e price action bullish. Accumulo su momentum rialzista confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T19:23:39.897828+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 28.0,
+    "price": 1.22,
+    "reason": "ATOM ipervenduto (RSI=29.1 🟢), MACD hist crescente (+0.0004), rimbalzo probabile. Calo -5.06% 24h crea opportunità dip-buying. Volume basso ma segnali tecnici convergono. Operazione aggressiva su massima volatilità.",
+    "dry_run": false
   }
 ]
