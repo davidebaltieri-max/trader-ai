@@ -178,5 +178,14 @@
     "price": 0.655,
     "reason": "DOT in zona neutra (RSI=50.0) ma MACD hist positivo crescente, 1h negativo (-1.49%) representa pullback tattico. Layer 1 alternativo core, ripresa imminente su 4h piatto. Volume ridotto consente accumulo a prezzi vantaggiosi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T07:03:40.219185+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 30.0,
+    "price": 65.315,
+    "reason": "SOL IPERCOMPRATO (RSI=78.7), momentum eccessivo su 30min (+0.48%). MACD hist positivo ma crescita insostenibile, correzione probabile su 1-4h. Realizza parziale profitto, mantieni core position, rientry su dip sotto €64.",
+    "dry_run": false
   }
 ]
