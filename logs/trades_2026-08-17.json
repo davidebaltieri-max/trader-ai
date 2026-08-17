@@ -322,5 +322,14 @@
     "price": 0.655,
     "reason": "VENDITA MEDIA: RSI=40.0 (neutro ma debolezza) + 1h=-1.52% + 4h=-1.52% (double bearish) + vol×=+2.02x (alta volatilità al ribasso) + volatilità=+1.01% (alta). MACD assente ma momentum chiaramente negativo nei timeframe corti. Ridurre esposizione prima di break al ribasso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T16:31:08.893965+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2175,
+    "reason": "ATOM ipervenduto (RSI=16.7) ma con MACD hist negativo decrescente e -5.95% in 24h. Calo tecnico confermato. Vendita tattica per liberare capitale e ridurre drawdown. Possibile riacquisto a livelli inferiori.",
+    "dry_run": false
   }
 ]
