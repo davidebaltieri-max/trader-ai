@@ -664,5 +664,14 @@
     "price": 1.227,
     "reason": "ATOM ha perso -5.17% in 24h con RSI=51.6 (neutro) e MACD hist crescente ma ancora debole. Volume elevato (1.49x) suggerisce distribuzione. Posizione particolarmente colpita nel drawdown recente. Realizzo perdita moderata per liberare slot e capitale per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T23:01:25.171467+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 2.85,
+    "price": 0.1497,
+    "reason": "ADA in sofferenza: -1.19% in 24h, RSI=32.4 (ipervenduto ma non reattivo), MACD hist=0 (stallo). Volume spike 1.72x indica scarico. Sebbene ipervenduto, la mancanza di cross MACD positivo suggerisce ulteriore debolezza. Liquido per opportunità migliori.",
+    "dry_run": false
   }
 ]
