@@ -286,5 +286,14 @@
     "price": 1.2205,
     "reason": "ACQUISTO FORTE: RSI=23.3 (IPERVENDUTO) + vol×=13.46x (volume massivo) + MACD hist negativo decrescente ma in zona di inversione. Segnale di rimbalzo imminente su supporto. ATOM ha subito correzione -4.76% in 24h, perfetto per dip-buying aggressivo. Dimensione operazione grande per segnale forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T15:48:27.869781+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 5.455,
+    "reason": "ACQUISTO MEDIO: RSI=41.2 (zona neutra bassa) + MACD BULLISH_CROSS confermato + 4h=-0.18% ma momentum positivo in corso. Volume moderato (0.63x). Aggiunta di AVAX per diversificazione su L1 alternativi e sfruttare cross bullish incipiente.",
+    "dry_run": false
   }
 ]
