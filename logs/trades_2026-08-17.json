@@ -700,5 +700,14 @@
     "price": 8.205,
     "reason": "ACQUISTO MEDIO: RSI=43.5 (sottovalutato) + MACD hist=-0.0027 (negativo ma debole, non cross confermato) + 1h=+0.12% + 4h=+0.37% positivo. LINK infrastruttura DeFi critica in portafoglio; 4h positivo con volume ridotto (vol×=0.07x) suggerisce accumulation prima di movimento. Operazione piccola €15 per averaging su posizione strategica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T23:45:29.500634+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2225,
+    "reason": "ATOM in calo -5.27% a 24h, RSI=50 neutrale ma MACD hist positivo crescente suggerisce accumulo in basso. Vendita parziale (25€ su ~524€ posizione) per ridurre esposizione a asset in downtrend e liberare capitale per opportunità più forti. Stop loss preventivo: -5% già raggiunto in 24h, consolidamento smart.",
+    "dry_run": false
   }
 ]
