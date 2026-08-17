@@ -88,5 +88,14 @@
     "price": 65.05,
     "reason": "SOL ipercomprato (RSI=78.3 >> 70). 1h=-0.15% conferma indebolimento. MACD hist ancora crescente ma RSI estremo segnala correzione imminente. Take profit tattico su accumulo precedente. Riduco esposizione prima del pullback atteso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T05:58:59.811645+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.665,
+    "reason": "DOT RSI neutrale (50.0), volume in spike (vol×=2.21x massimo del panel). 1h=+0.00% ma volume anomalo suggerisce movimento imminente. Setup interessante per entry a basso rischio con potenziale breakout. Momentum building.",
+    "dry_run": false
   }
 ]
