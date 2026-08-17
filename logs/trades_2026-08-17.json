@@ -376,5 +376,14 @@
     "price": 1.2185,
     "reason": "ATOM: RSI=20.7 IPERVENDUTO ma MACD hist<0 decrescente con trend ribassista confermato. 24h=-5.50% con momentum negativo persistente. Riduco posizione per limitare drawdown su asset in trend down strutturale. Stop loss preventivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T17:01:19.585729+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.825,
+    "reason": "UNI: MACD BEARISH_CROSS (hist negativo decrescente), RSI=53.8 neutrale ma in discesa. 24h=-1.74% con momentum ribassista confermato. Volume elevato (vol×=1.20x) sostiene la pressione al ribasso. Uscita preventiva.",
+    "dry_run": false
   }
 ]
