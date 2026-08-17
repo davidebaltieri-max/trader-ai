@@ -16,5 +16,14 @@
     "price": 1.255,
     "reason": "ATOM in IPERVENDUTO (RSI=14.6 criticamente basso) con MACD hist negativo decrescente e -1.95% a 24h. Sebbene l'ipervenduto suggerisca rimbalzo potenziale, il trend ribassista confermato (4h=-1.10%) e il momentum negativo indicano rischio di ulteriore discesa. Vendita tattica per ridurre l'esposizione e liberare capitale per opportunità di acquisto superiori quando altri asset raggiungono segnali STRONG. Posizione ancora mantenuta (174.02 ATOM) per partecipare a possibile rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T03:26:37.134822+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.815,
+    "reason": "UNI mostra segnale VENDITA MEDIA: MACD hist negativo decrescente (-0.0017), RSI=47.6 (zona neutra-bassa), 4h=-0.35% con divergenza rispetto al resto del portafoglio. Momentum sta virando al ribasso mentre altri asset mantengono spinta rialzista. Ridurre esposizione DeFi concentration e convertire in liquidità per rebalance tattico.",
+    "dry_run": false
   }
 ]
