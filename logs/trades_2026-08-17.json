@@ -538,5 +538,14 @@
     "price": 1.2185,
     "reason": "ATOM: RSI=29.6 (IPERVENDUTO) ma MACD hist crescente debole (+0.0005) suggerisce rimbalzo prossimo. Tuttavia, 24h=-4.98% e vol×=+0.11x (volume MOLTO basso) indicano panico-selling senza conferma. Vendo posizione per ridurre esposizione su asset in decay e liberare liquidità per dip-buying su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T19:49:49.260498+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.185,
+    "reason": "LINK: RSI=44.4 (neutrale), MACD hist=-0.0039 e decrescente = momentum ribassista in corso. Vol×=+2.06x (volume alto) ma su movimento negativo. 1h=-0.12%, 4h=-0.37% confermano trend down. Vendo per ridurre posizioni e preservare capitale prima di possibili correzioni più ampie.",
+    "dry_run": false
   }
 ]
