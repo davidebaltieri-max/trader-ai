@@ -583,5 +583,14 @@
     "price": 1.215,
     "reason": "ATOM ipervenduto (RSI=31.5) ma con segnali contrastanti: MACD hist positivo crescente suggerisce rimbalzo imminente. Vendo il 25% della posizione per fissare una perdita moderata (-6.54% in 24h) e libero liquidità. Possibile riacquisto su rimbalzo confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-17T20:20:25.955311+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.835,
+    "reason": "UNI in debolezza (RSI=46.2, MACD BEARISH_CROSS, -0.70% 1h/24h). Vendo il 20% della posizione per ridurre esposizione su asset in trend ribassista e preservare capitale per opportunità su altri asset.",
+    "dry_run": false
   }
 ]
