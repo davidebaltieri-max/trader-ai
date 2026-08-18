@@ -214,5 +214,14 @@
     "price": 0.1492,
     "reason": "ADA mostra debolezza: 1h=-0.27%, 4h=-0.86%, 24h=-1.26%. RSI=42.2 (ancora neutro ma scendente), MACD hist≈0 con tendenza orizzontale. Volume ridotto (0.80x). Riduco posizione per recuperare liquidità e evitare ulteriori perdite.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T08:31:09.914758+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.1945,
+    "reason": "SEGNALE ACQUISTO FORTE: RSI=23.1 (IPERVENDUTO) + MACD hist negativo decrescente ma RSI estremo indica potenziale rimbalzo + volume×45.41x confermato + calo 24h=-4.85% crea opportunità dip-buying. ATOM è asset di interoperabilità nel portafoglio con momentum distorto al ribasso. Entrata aggressiva su ipervenduto con posizione rimanente.",
+    "dry_run": false
   }
 ]
