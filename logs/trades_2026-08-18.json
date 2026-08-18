@@ -358,5 +358,14 @@
     "price": 0.635,
     "reason": "SEGNALE MODERATO-FORTE: RSI=33.3 (sotto 50, zona debole) + MACD BEARISH_CROSS confermato + 1h=-1.56% (pressione ribassista) + 4h=0.00% neutro + volatilità alta (0.95%). Momentum ribassista consolidato. DOT è in 6/7 posizioni ed è debole. Realizzo una porzione per liberare slot e proteggere su momentum negativo confermato. Partial exit strategica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T11:31:05.360985+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.635,
+    "reason": "VENDITA MEDIA: RSI=33.3 (prossimo ipervenduto ma non ancora trigger) + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 1h=-1.56% (pressione ribassista immediata) + 4h=0.00% (consolidamento in calo). DOT mostra debolezza strutturale. Liquidizziamo ~23.6 ATOM dalla posizione (587.7 unità) per ridurre drawdown. TP: -3% trailing a €0.616 per uscire prima di ulteriori cali",
+    "dry_run": false
   }
 ]
