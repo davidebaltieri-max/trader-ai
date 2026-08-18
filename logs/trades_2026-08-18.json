@@ -367,5 +367,14 @@
     "price": 0.635,
     "reason": "VENDITA MEDIA: RSI=33.3 (prossimo ipervenduto ma non ancora trigger) + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 1h=-1.56% (pressione ribassista immediata) + 4h=0.00% (consolidamento in calo). DOT mostra debolezza strutturale. Liquidizziamo ~23.6 ATOM dalla posizione (587.7 unità) per ridurre drawdown. TP: -3% trailing a €0.616 per uscire prima di ulteriori cali",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T11:50:07.788865+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.635,
+    "reason": "DOT: RSI=33.3 (ipervenduto ma non confermato rialzo) + MACD BEARISH_CROSS (hist=-0.0002 decrescente) + 1h=-1.56% + vol×=+0.18x (basso). Segnale VENDITA MEDIA preventiva. Trend ribassista confermato dai cross. Ridimensiono posizione sovra-esposta (587.7 unità).",
+    "dry_run": false
   }
 ]
