@@ -232,5 +232,14 @@
     "price": 1.1925,
     "reason": "SEGNALE ACQUISTO FORTE: RSI=23.5 (IPERVENDUTO), vol×=17.77x (volume esplosivo), MACD hist negativo decrescente ma in zona di rimbalzo tecnico. ATOM ha subito -5.02% in 24h con pressione di vendita massiccia (vol 17.77x). Condizioni ideali per dip-buying aggressivo: rimbalzo da ipervenduto con volume di conferma. Profilo performante deve sfruttare questa opportunità. Importo €30 riflette fiducia nel segnale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T09:01:28.834528+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 0.0,
+    "price": 65.705,
+    "reason": "SKIP: Nonostante momentum positivo (1h=+0.26%, 4h=+0.47%), RSI=72.9 (IPERCOMPRATO) e MACD hist positivo creano situazione tesa. Il dip-buying su SOL è rischioso al momento - preferiamo attendere consolidamento. Posizione già in portafoglio (1.445 unità), evitare FOMO.",
+    "dry_run": false
   }
 ]
