@@ -88,5 +88,14 @@
     "price": 0.1487,
     "reason": "ADA in downtrend marcato (24h=-2.68%, 4h=-0.93%, RSI=31.8, MACD hist negativo decrescente). Nessun segnale di inversione confermato. Vendita tattica per alleggerire posizione debole e liberare slot per settori con momentum migliore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T04:31:09.606757+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.635,
+    "reason": "DOT in IPERVENDUTO (RSI=28.6) con calo violento 1h=-3.08% e volume×39.18x anomalo. MACD ancora negativo decrescente. Segnale di panic-selling. Realizzo perdita controllata per liberare liquidità e capitalizzare su opportunità più forti.",
+    "dry_run": false
   }
 ]
