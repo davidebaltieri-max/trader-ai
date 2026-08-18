@@ -475,5 +475,14 @@
     "price": 1.213,
     "reason": "REBALANCING DIFENSIVO: ATOM sta underperformando (24h=-3.81%), RSI=43.7 (in discesa), nonostante MACD positivo. Presa parziale di profitto su posizione pesante (608 unità) per liberare capitale e ridurre esposizione a underperformer. Mantieni nucleo posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T15:55:42.396034+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 66.59,
+    "reason": "SEGNALE VENDITA MEDIA-FORTE: RSI=70.4 (IPERCOMPRATO 🔴), MACD hist positivo crescente ma RSI eccessivo su timeframe breve, 1h=+0.54% ma la pressione di ipercomprato è elevata. SOL ha già messo +1.52% in 24h con volatilità=0.36% (contenuta = possibile trappola rialzista). Trim parziale della posizione per proteggere i guadagni. Slot libero mantenuto per riacquisto su eventuali dip.",
+    "dry_run": false
   }
 ]
