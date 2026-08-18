@@ -322,5 +322,14 @@
     "price": 65.515,
     "reason": "ACQUISTO MEDIO: RSI=65.2 (non ancora ipercomprato) + MACD hist positivo crescente (+0.0056) + momentum rialzista su 1h/24h. SOL mantiene solidità con vol×=0.80x. Complementa diversificazione su layer 1 alternative. Entry conservativa su momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T10:29:01.232407+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.197,
+    "reason": "ACQUISTO FORTE: RSI=13.3 (IPERVENDUTO) + MACD hist negativo decrescente ma in zona di rimbalzo dopo calo -4.63% 24h. Vol× basso (0.02) indica accumulo. ATOM è in estrema debolezza tecnica: segnale classico di rimbalzo su oversold. Rischio contenuto con SL -5% a €1.1372. Profilo aggressivo sfrutta correttivi estremi.",
+    "dry_run": false
   }
 ]
