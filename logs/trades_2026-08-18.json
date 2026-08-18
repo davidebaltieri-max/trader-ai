@@ -547,5 +547,14 @@
     "price": 1.2193,
     "reason": "RSI=73.6 IPERCOMPRATO + 24h=-1.74% divergenza negativa. ATOM ha raggiunto zona di ipercomprato dopo rally 4h, segnale di correzione imminente. Riduco posizione per lock-in parziale e libero 1 slot per opportunità più convenienti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T17:53:51.444487+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2229,
+    "reason": "RSI=73.6 (IPERCOMPRATO) + MACD hist positivo ma in zona di resistenza tecnica. SOL è ancora più ipercomprato (RSI=71.1), ma ATOM mostra segnali di esaurimento con 24h=-1.73%. Riduco esposizione su picco per proteggere guadagni e liberare capital per entry migliori.",
+    "dry_run": false
   }
 ]
