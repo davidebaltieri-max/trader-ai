@@ -115,5 +115,14 @@
     "price": 1.211,
     "reason": "VENDITA MEDIA confermata: RSI=31.4 (ipervenduto ma in contesto ribassista), MACD hist=-0.0001 con BEARISH_CROSS, 1h=-0.98%, 4h=-1.47%, 24h=-3.82% con momentum negativo decrescente. ATOM mostra debolezza strutturale mentre il portafoglio è pieno (7/7). Riduco esposizione in asset debole per liberare capacità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T06:31:09.970085+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.635,
+    "reason": "VENDITA MEDIA: RSI=28.6 (IPERVENDUTO) ma contesto bearish con MACD hist=-0.0026 decrescente, 1h=-1.56%, 4h=-4.55% (calo forte). Sebbene ipervenduto tecnicamente, il momentum ribassista è confermato. Riduco per liberare slot e capital allocation.",
+    "dry_run": false
   }
 ]
