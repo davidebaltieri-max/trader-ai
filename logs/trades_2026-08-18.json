@@ -412,5 +412,14 @@
     "price": 0.635,
     "reason": "VENDITA MEDIA: RSI=33.3 (ipervenduto ma con segnale ribassista confermato), MACD hist negativo e decrescente, calo forte 1h=-1.56% e 4h=-1.56%. Volatilità alta (+0.95%). Sebbene DOT sia tecnicamente ipervenduto, il trend è chiaramente al ribasso. Vendo posizione parziale per limitare i danni e mantenere liquidità per riacquistare a prezzi migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T13:01:24.477222+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.825,
+    "reason": "RSI=66.7 prossimo a ipercomprato (>70), segnale di possibile correzione imminente. MACD positivo ma hist=+0.0020 molto basso suggerisce momentum in rallentamento. Volume moderato (0.43x). Riduco esposizione su posizione ipercomprata prima della consolidazione.",
+    "dry_run": false
   }
 ]
