@@ -394,5 +394,14 @@
     "price": 0.635,
     "reason": "DOT in IPERVENDUTO (RSI=33.3), MACD hist negativo decrescente, calo 1h=-1.56% + 4h=-1.56%. Trend ribassista confermato. Posizione sottoperformante nel portafoglio. Realizzo perdita controllata prima di ulteriore deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T12:35:27.565540+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.145,
+    "reason": "VENDITA MEDIA: RSI=50.0 (neutrale ma al limite), MACD hist negativo con BEARISH_CROSS confermato, performance 24h=-0.97% e 4h=-0.25%. Volume×=+1.72x conferma interesse al ribasso. LINK è in debolezza relativa rispetto al resto del portafoglio. Realizzo prima della possibile estensione del calo.",
+    "dry_run": false
   }
 ]
