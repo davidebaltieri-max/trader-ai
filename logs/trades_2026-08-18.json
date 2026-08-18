@@ -655,5 +655,14 @@
     "price": 8.185,
     "reason": "VENDITA MEDIA: RSI=52.6 (neutrale-alto) + MACD BEARISH_CROSS confermato + vol×=1.28 (volume crescente su ribasso) + 4h=-0.36% (trend negativo). LINK mostra debolezza tecnica. Chiusura parziale della posizione (€10.67 = 100% della holding) per ridurre l'esposizione su infrastruttura DeFi in difficoltà.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T23:31:07.789828+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 2.8443,
+    "reason": "VENDITA MEDIA confermata: RSI=66.9 (zona ipercomprata) + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=-0.18% + 4h=-0.24%. Volume spike massivo (vol×=23.85x) suggerisce distribuzione. Riduco posizione per lock profit e liberare capitale.",
+    "dry_run": false
   }
 ]
