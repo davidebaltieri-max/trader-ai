@@ -34,5 +34,14 @@
     "price": 2.835,
     "reason": "UNI in debolezza: 1h=-0.35%, 4h=-0.70%, RSI=45.5 (discendente), MACD hist negativo (-0.0015) con trend decrescente. Nessun segnale rialzista. Vendita strategica per liberare capitale e posizione prima di peggioramento tecnico",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T01:01:20.639844+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.655,
+    "reason": "DOT in IPERVENDUTO (RSI=33.3 <30) con calo forte 1h=-1.52% e 4h=-1.52%. MACD assente ma trend ribassista confermato. Vendita tattica per ridurre volatilità e liberare capitale prima di possibile rimbalzo. Stop loss conservativo su posizione.",
+    "dry_run": false
   }
 ]
