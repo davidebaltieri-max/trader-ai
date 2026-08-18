@@ -376,5 +376,14 @@
     "price": 0.635,
     "reason": "DOT: RSI=33.3 (ipervenduto ma non confermato rialzo) + MACD BEARISH_CROSS (hist=-0.0002 decrescente) + 1h=-1.56% + vol×=+0.18x (basso). Segnale VENDITA MEDIA preventiva. Trend ribassista confermato dai cross. Ridimensiono posizione sovra-esposta (587.7 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T12:01:20.889219+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.635,
+    "reason": "DOT mostra BEARISH_CROSS (MACD hist negativo decrescente), RSI=33.3 in ipervenduto ma con momentum ribassista confermato. -1.56% in 1h è segnale di debolezza. Vendita media per ridurre esposizione su asset con trend negativo.",
+    "dry_run": false
   }
 ]
