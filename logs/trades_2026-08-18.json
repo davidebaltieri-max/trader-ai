@@ -43,5 +43,14 @@
     "price": 0.655,
     "reason": "DOT in IPERVENDUTO (RSI=33.3 <30) con calo forte 1h=-1.52% e 4h=-1.52%. MACD assente ma trend ribassista confermato. Vendita tattica per ridurre volatilità e liberare capitale prima di possibile rimbalzo. Stop loss conservativo su posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T01:01:22.259861+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2255,
+    "reason": "ATOM calo significativo 24h=-4.52% con RSI=50.7 (neutro) ma trend ribassista in corso. MACD hist=+0.0020 mostra primo segnale di inversione rialzista ma non confermato. Vendita parziale per proteggere da ulteriore calo e ribilanciare.",
+    "dry_run": false
   }
 ]
