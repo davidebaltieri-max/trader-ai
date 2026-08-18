@@ -52,5 +52,14 @@
     "price": 1.2255,
     "reason": "ATOM calo significativo 24h=-4.52% con RSI=50.7 (neutro) ma trend ribassista in corso. MACD hist=+0.0020 mostra primo segnale di inversione rialzista ma non confermato. Vendita parziale per proteggere da ulteriore calo e ribilanciare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T02:14:47.774866+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 24.64,
+    "price": 0.1492,
+    "reason": "ADA: RSI=39.5 (ipervenduto ma non estremo) + MACD BEARISH_CROSS confermato + 1h=-0.67% + 24h=-1.58%. Trend ribassista in atto. Vendita media per ridurre esposizione a posizione debole e liberare slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
