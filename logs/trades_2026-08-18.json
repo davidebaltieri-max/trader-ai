@@ -637,5 +637,14 @@
     "price": 1.233,
     "reason": "VENDITA MEDIA cautelativa: RSI=69.9 (prossimo a ipercomprato 70), MACD hist=+0.0028 (positivo ma quasi al picco), volatilità=+0.60% (media-alta). ATOM ha spinto forte 4h=+1.25% e 24h=+0.84%. Realizzo profitti parziali (riduco da 607.98 a ~395 unità) per bloccare guadagni su asset in zona di eccesso rialzista. Mantengo core position.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T22:17:25.677619+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.205,
+    "reason": "LINK mostra BEARISH_CROSS su MACD (hist negativo e decrescente). RSI=45.0 neutro ma trend negativo confermato. 1h=-0.12%, 4h=-0.12%. Segnale VENDITA MEDIA. Riduzione di posizione su momentum ribassista per liberare capitale.",
+    "dry_run": false
   }
 ]
