@@ -664,5 +664,14 @@
     "price": 2.8443,
     "reason": "VENDITA MEDIA confermata: RSI=66.9 (zona ipercomprata) + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=-0.18% + 4h=-0.24%. Volume spike massivo (vol×=23.85x) suggerisce distribuzione. Riduco posizione per lock profit e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T23:44:58.606686+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.8445,
+    "reason": "VENDITA MEDIA confermata: RSI=67.5 (zona ipercomprata), MACD BEARISH_CROSS con hist negativo decrescente, 1h=-0.12% e 4h=-0.18%. Volume anomalo (vol×=23.85x) suggerisce scarico. UNI mostra debolezza relativa rispetto al mercato. Realizzo profitti parziali.",
+    "dry_run": false
   }
 ]
