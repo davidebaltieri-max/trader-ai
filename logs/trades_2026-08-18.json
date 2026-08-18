@@ -628,5 +628,14 @@
     "price": 1.2328,
     "reason": "RSI=69.9 (ipercomprato, vicino a 70) + MACD hist positivo ma in zona neutrale + 4h=+1.25% suggerisce momentum esaurito. Profitto su posizione forte. Realizzo guadagni prima della possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T21:01:20.146070+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.233,
+    "reason": "VENDITA MEDIA cautelativa: RSI=69.9 (prossimo a ipercomprato 70), MACD hist=+0.0028 (positivo ma quasi al picco), volatilità=+0.60% (media-alta). ATOM ha spinto forte 4h=+1.25% e 24h=+0.84%. Realizzo profitti parziali (riduco da 607.98 a ~395 unità) per bloccare guadagni su asset in zona di eccesso rialzista. Mantengo core position.",
+    "dry_run": false
   }
 ]
