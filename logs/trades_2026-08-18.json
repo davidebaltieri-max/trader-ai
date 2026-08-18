@@ -70,5 +70,14 @@
     "price": 2.8,
     "reason": "UNI: RSI=36.4 (basso) + MACD hist=-0.0040 (decrescente) + 1h=-1.06% + 4h=-1.41% + 24h=-1.06%. Momentum ribassista confermato su multipli timeframe. Vendita media per realizzare cash e posizionarsi su asset con segnali migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T04:01:18.985739+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.635,
+    "reason": "DOT ipervenduto (RSI=28.6) con spike di volume anomalo (vol×=39.18x) ma MACD ancora negativo decrescente. Il rimbalzo tecnico è prematuro senza conferma MACD bullish. Riduco esposizione su questo ribasso violento per consolidare liquidità e prepararmi a opportunità migliori.",
+    "dry_run": false
   }
 ]
