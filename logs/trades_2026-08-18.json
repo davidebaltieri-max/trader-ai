@@ -151,5 +151,14 @@
     "price": 1.2065,
     "reason": "ATOM in IPERVENDUTO (RSI=30.8) + MACD hist negativo decrescente + calo 24h=-3.83%. Segnale ribassista confermato. Realizzo parte della posizione per proteggere il capitale e liberare slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T07:31:07.603797+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.115,
+    "reason": "LINK con BEARISH_CROSS confermato (MACD hist negativo) + RSI=40.0 + calo 1h=-1.34% + volume anomalo (vol×=6.73x indica liquidazione). Segnale di vendita media. Proteggo la posizione prima di ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
