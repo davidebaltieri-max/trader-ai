@@ -493,5 +493,14 @@
     "price": 66.675,
     "reason": "RSI=78.6 IPERCOMPRATO (>70) + momentum estremo 1h=+0.33% su base già rialzista. Segnale di correzione imminente. Riduco esposizione su asset altamente volatile in zona di sovracquisto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T16:26:05.093606+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 8.0,
+    "price": 2.8206,
+    "reason": "UNI mostra VENDITA MEDIA: RSI=48.7 (zona neutra inferiore), ma 24h=-0.80% e 1h=-0.46% indicano debolezza. MACD hist quasi piatto (+0.0001). Riduzione posizione preventiva su underperformance relativa rispetto a BTC/ETH/SOL. Mantiene 14.27 unità per esposizione DeFi.",
+    "dry_run": false
   }
 ]
