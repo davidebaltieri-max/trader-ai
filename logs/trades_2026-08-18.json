@@ -385,5 +385,14 @@
     "price": 0.635,
     "reason": "DOT mostra BEARISH_CROSS (MACD hist negativo decrescente), RSI=33.3 in ipervenduto ma con momentum ribassista confermato. -1.56% in 1h è segnale di debolezza. Vendita media per ridurre esposizione su asset con trend negativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T12:31:12.637743+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.635,
+    "reason": "DOT in IPERVENDUTO (RSI=33.3), MACD hist negativo decrescente, calo 1h=-1.56% + 4h=-1.56%. Trend ribassista confermato. Posizione sottoperformante nel portafoglio. Realizzo perdita controllata prima di ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
