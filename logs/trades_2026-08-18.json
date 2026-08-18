@@ -250,5 +250,14 @@
     "price": 1.193,
     "reason": "SEGNALE ACQUISTO FORTE: RSI=24.0 (IPERVENDUTO) + vol×=17.82x (volume massivo) + MACD hist decrescente ma in zona negativa estrema con rimbalzo probabile. Correzione -4.94% in 24h su volume anomalo suggerisce panic selling. ATOM ha potenziale di rimbalzo significativo. Posizione strategica con alto rischio/rendimento in linea col profilo PERFORMANTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T09:05:00.075537+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 65.665,
+    "reason": "SEGNALE VENDITA MEDIA: RSI=70.6 (IPERCOMPRATO) + 1h=+0.18% ma MACD hist positivo crescente senza bearish cross netto. Riduco posizione per realizzare guadagni su ipercomprato. SOL ha spinto +1.16% in 24h, è opportuno prendere profitti parziali prima di possibile correzione. Mantengono parte della posizione per upside.",
+    "dry_run": false
   }
 ]
