@@ -106,5 +106,14 @@
     "price": 8.145,
     "reason": "LINK con RSI=34.6 (prossimo a ipervenduto), MACD negativo decrescente, volume×4.33x elevato. Pattern ribassista confermato su 4h (-0.73%). Vendita tattica per riallocare su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T06:31:08.678269+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.211,
+    "reason": "VENDITA MEDIA confermata: RSI=31.4 (ipervenduto ma in contesto ribassista), MACD hist=-0.0001 con BEARISH_CROSS, 1h=-0.98%, 4h=-1.47%, 24h=-3.82% con momentum negativo decrescente. ATOM mostra debolezza strutturale mentre il portafoglio è pieno (7/7). Riduco esposizione in asset debole per liberare capacità.",
+    "dry_run": false
   }
 ]
