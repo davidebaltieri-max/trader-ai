@@ -196,5 +196,14 @@
     "price": 0.635,
     "reason": "DOT mostra calo 4h=-1.54%, RSI=42.9 neutro, MACD hist decrescente in trend ribassista. Volume basso (vol×=0.49x). Volatilità alta (1.30%) senza direzione chiara. Vendo per recuperare liquidità e ridurre esposizione a posizioni deboli.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T08:30:19.073007+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.1945,
+    "reason": "ATOM in ipervenduto (RSI=23.1) MA con momentum ribassista confermato (MACD hist=-0.0017 decrescente, 4h=-1.89%, 24h=-4.85%). Calo del -4.85% in 24h e volume estremo (45.41x) suggeriscono potenziale ulteriore ribasso. Vendo 30€ per cristallizzare posizione e liberare capitale per opportunità migliori. Mantengo posizione residua per rimbalzo potenziale.",
+    "dry_run": false
   }
 ]
