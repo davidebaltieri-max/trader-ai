@@ -313,5 +313,14 @@
     "price": 0.635,
     "reason": "ACQUISTO MEDIO-FORTE: BULLISH_CROSS confermato su MACD + RSI=33.3 (ipervenduto) + hist crescente. Volatilità elevata (+1.23%) con vol×=0.09x suggerisce accumulation in corso. DOT ha potenziale rimbalzo da zona di oversold. Entry su segnale tecnico confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T10:01:23.375119+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 65.515,
+    "reason": "ACQUISTO MEDIO: RSI=65.2 (non ancora ipercomprato) + MACD hist positivo crescente (+0.0056) + momentum rialzista su 1h/24h. SOL mantiene solidità con vol×=0.80x. Complementa diversificazione su layer 1 alternative. Entry conservativa su momentum positivo.",
+    "dry_run": false
   }
 ]
