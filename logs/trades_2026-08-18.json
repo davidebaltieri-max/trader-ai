@@ -295,5 +295,14 @@
     "price": 0.635,
     "reason": "DOT BULLISH_CROSS confermato su MACD + RSI=33.3 (ipervenduto). Volatilità alta (1.23%) ma momentum rialzista in formazione. Posizione già presente: aggiunta per aumentare esposizione su trend emergente. Importo moderato (€18) per cautela su volume basso (vol×=0.09x).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T10:01:20.847309+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.195,
+    "reason": "ACQUISTO FORTE: RSI=17.0 (IPERVENDUTO) + vol×=9.78x (volume esplosivo) + MACD hist negativo ma cross imminente. ATOM ha subito correzione severa 24h=-4.63% e 4h=-2.05%, creando setup di rimbalzo classico. Il volume massivo suggerisce accumulation. Entry aggressivo su dip moderato con profilo performante.",
+    "dry_run": false
   }
 ]
