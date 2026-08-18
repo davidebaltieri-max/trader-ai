@@ -466,5 +466,14 @@
     "price": 0.645,
     "reason": "RSI=57.1 (zona neutra), MACD hist positivo crescente con BULLISH_CROSS confermato, 1h=0% ma 4h=0% e 24h n/d. Vol×=1.29 moderato. Segnale ACQUISTO MEDIO affidabile su infrastruttura interoperabilità con momentum rialzista in formazione. DOT è sottovalutato rispetto al movimento del mercato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T15:02:13.904301+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.213,
+    "reason": "REBALANCING DIFENSIVO: ATOM sta underperformando (24h=-3.81%), RSI=43.7 (in discesa), nonostante MACD positivo. Presa parziale di profitto su posizione pesante (608 unità) per liberare capitale e ridurre esposizione a underperformer. Mantieni nucleo posizione.",
+    "dry_run": false
   }
 ]
