@@ -646,5 +646,14 @@
     "price": 8.205,
     "reason": "LINK mostra BEARISH_CROSS su MACD (hist negativo e decrescente). RSI=45.0 neutro ma trend negativo confermato. 1h=-0.12%, 4h=-0.12%. Segnale VENDITA MEDIA. Riduzione di posizione su momentum ribassista per liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T23:01:21.308795+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.67,
+    "price": 8.185,
+    "reason": "VENDITA MEDIA: RSI=52.6 (neutrale-alto) + MACD BEARISH_CROSS confermato + vol×=1.28 (volume crescente su ribasso) + 4h=-0.36% (trend negativo). LINK mostra debolezza tecnica. Chiusura parziale della posizione (€10.67 = 100% della holding) per ridurre l'esposizione su infrastruttura DeFi in difficoltà.",
+    "dry_run": false
   }
 ]
