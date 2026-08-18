@@ -610,5 +610,14 @@
     "price": 66.775,
     "reason": "RSI=70.9 🔴IPERCOMPRATO (>70) + momentum stabile ma senza margine di upside. MACD hist positivo ma debole (0.0418). Volume spike (0.73x). Vendo 0.3 SOL per realizzare +2.09% giornaliero e liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T20:31:14.309703+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 66.505,
+    "reason": "VENDITA MEDIA: RSI=65.8 (sopra 60), MACD hist negativo con BEARISH_CROSS ▼, 1h=-0.21% (calo orario). Vol×=1.28x confema interesse ma direzione ribassista. Realizzo parziale.",
+    "dry_run": false
   }
 ]
