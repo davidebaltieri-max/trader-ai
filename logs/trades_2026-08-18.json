@@ -520,5 +520,14 @@
     "price": 66.445,
     "reason": "RSI=72.8 🔴IPERCOMPRATO (>70) + MACD hist positivo ma debole (0.0626) + 1h=+0.21% moderato. Profilo performante riduce posizioni ipercomprate in zone critiche. Vendo 0.30 SOL per lockare guadagni e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T17:26:25.467981+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 8.0,
+    "price": 66.38,
+    "reason": "RSI=70.4 IPERCOMPRATO (>70) + momentum crescente ma su zone estreme. Riduco posizione in profitto per bloccare guadagni prima di possibile correzione. Operazione difensiva su asset volatile.",
+    "dry_run": false
   }
 ]
