@@ -448,5 +448,14 @@
     "price": 1.2015,
     "reason": "VENDITA MEDIA confermata: RSI=32.0 (ipervenduto ma in calo), MACD hist crescente (+0.0005) ma storico negativo, calo 24h=-4.54% e vol×=8.21x (spike anomalo). ATOM mostra segnali contrastanti: ipervenduto tecnicamente suggerisce rimbalzo, ma l'RSI basso insieme al volume esplosivo indica accumulo di vendita pressione. La rotazione verso layer 1 alternativi (SOL/ADA) è più performante. Ridurre posizione per realizzare parziale e riallocare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T14:27:53.181960+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 19.99,
+    "price": 5.5,
+    "reason": "RSI=73.9 IPERCOMPRATO + momentum in esaurimento su 1h (flat dopo rialzo). Realizza profitti su posizione già significativa (3.634 unità). Operazione di rebalance per liberare slot e cash.",
+    "dry_run": false
   }
 ]
