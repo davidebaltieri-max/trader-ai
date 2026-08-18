@@ -277,5 +277,14 @@
     "price": 1.1915,
     "reason": "RSI=15.2 IPERVENDUTO ESTREMO (segnale fortissimo). Vol×=+19.08x elevatissimo (capitolazione venditori, possibile inversione). 24h=-5.32% calo severo genera opportunità. MACD hist negativo decrescente ma volume anomalo suggerisce fondo. Prezzo EUR 1.1915. Trade tattico su rimbalzo atteso da condizioni estreme.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T09:57:29.906992+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.193,
+    "reason": "ATOM ipervenduto (RSI=17.0) con volume esplosivo (9.75x). Calo 24h=-4.63% crea opportunità dip-buying. MACD hist negativo decrescente suggerisce fondo imminente. Segnale di rimbalzo forte per profilo performante. Uso €25 per massimizzare esposizione su rimbalzo potenziale.",
+    "dry_run": false
   }
 ]
