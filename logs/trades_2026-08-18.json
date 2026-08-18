@@ -142,5 +142,14 @@
     "price": 0.635,
     "reason": "VENDITA MEDIA + PROTEZIONE: RSI=28.6 IPERVENDUTO ma trend 4h=-4.55% molto negativo, MACD hist=-0.0026 decrescente. Sebbene teoricamente vulnerabile al rimbalzo, il calo profondo su 4h + MACD negativo segnalano continuazione ribassista. Vol×=+0.06 bassissimo = mancanza di interesse rialzista. Esco da posizione pesante e aspetto conferme di ripresa prima di rientrare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T07:31:06.202295+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.2065,
+    "reason": "ATOM in IPERVENDUTO (RSI=30.8) + MACD hist negativo decrescente + calo 24h=-3.83%. Segnale ribassista confermato. Realizzo parte della posizione per proteggere il capitale e liberare slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
