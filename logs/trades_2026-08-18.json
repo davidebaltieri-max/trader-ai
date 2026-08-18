@@ -178,5 +178,14 @@
     "price": 0.635,
     "reason": "DOT: RSI=37.5 (neutro-basso), MACD hist negativo decrescente, 4h=-1.54% confermano bearish momentum. Volatilità alta (+1.40%) con vol× basso (0.22x) suggerisce movimento senza conviction. Vendita per consolidare e ridurre posizioni weakness.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T08:01:19.278049+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.206,
+    "reason": "ATOM in IPERVENDUTO (RSI=28.0) ma con MACD hist decrescente e momentum ribassista confermato. Performance 24h=-3.82% peggiore del mercato. Riduco posizione per liberare capital e riallocare su segnali più forti (LINK bullish cross, SOL momentum positivo). Stop loss preventivo.",
+    "dry_run": false
   }
 ]
