@@ -16,5 +16,14 @@
     "price": 2.835,
     "reason": "UNI mostra segnali di debolezza: RSI=41.7 (sottotono), MACD hist negativo decrescente (-0.0014), 4h=-0.70%. Volume alto (vol×=1.36) ma direzionato al ribasso. Profilo performante necessita di rotazione verso asset con momentum positivo più chiaro.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T00:31:14.233223+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.219,
+    "reason": "ATOM in calo -5.43% in 24h, RSI=48.5 (zona neutra bassa), MACD hist positivo ma debole (+0.0019). Momentum ribassista consolidato. Realizza perdita controllata e libera slot per rotazione settoriale verso asset con segnali più forti (AVAX/ADA/LINK mostrano momentum positivo)",
+    "dry_run": false
   }
 ]
