@@ -619,5 +619,14 @@
     "price": 66.505,
     "reason": "VENDITA MEDIA: RSI=65.8 (sopra 60), MACD hist negativo con BEARISH_CROSS ▼, 1h=-0.21% (calo orario). Vol×=1.28x confema interesse ma direzione ribassista. Realizzo parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T20:47:45.586908+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2328,
+    "reason": "RSI=69.9 (ipercomprato, vicino a 70) + MACD hist positivo ma in zona neutrale + 4h=+1.25% suggerisce momentum esaurito. Profitto su posizione forte. Realizzo guadagni prima della possibile correzione.",
+    "dry_run": false
   }
 ]
