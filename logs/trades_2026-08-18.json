@@ -349,5 +349,14 @@
     "price": 1.1965,
     "reason": "ATOM IPERVENDUTO (RSI=17.0 << 30) dopo calo 24h=-4.47%. MACD hist negativo decrescente ma RSI estremamente depresso segnala rimbalzo imminente. Volume basso (vol×=0.03) indica possibile accumulo prima del rimbalzo. ACQUISTO FORTE su dip moderato per profitto da rimbalzo tecnico. Usa €26 rimanente (mantenendo €30 di riserva).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T11:23:49.654101+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.635,
+    "reason": "SEGNALE MODERATO-FORTE: RSI=33.3 (sotto 50, zona debole) + MACD BEARISH_CROSS confermato + 1h=-1.56% (pressione ribassista) + 4h=0.00% neutro + volatilità alta (0.95%). Momentum ribassista consolidato. DOT è in 6/7 posizioni ed è debole. Realizzo una porzione per liberare slot e proteggere su momentum negativo confermato. Partial exit strategica.",
+    "dry_run": false
   }
 ]
