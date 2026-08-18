@@ -457,5 +457,14 @@
     "price": 5.5,
     "reason": "RSI=73.9 IPERCOMPRATO + momentum in esaurimento su 1h (flat dopo rialzo). Realizza profitti su posizione già significativa (3.634 unità). Operazione di rebalance per liberare slot e cash.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T14:31:10.710521+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.645,
+    "reason": "RSI=57.1 (zona neutra), MACD hist positivo crescente con BULLISH_CROSS confermato, 1h=0% ma 4h=0% e 24h n/d. Vol×=1.29 moderato. Segnale ACQUISTO MEDIO affidabile su infrastruttura interoperabilità con momentum rialzista in formazione. DOT è sottovalutato rispetto al movimento del mercato.",
+    "dry_run": false
   }
 ]
