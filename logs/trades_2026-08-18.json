@@ -331,5 +331,14 @@
     "price": 1.197,
     "reason": "ACQUISTO FORTE: RSI=13.3 (IPERVENDUTO) + MACD hist negativo decrescente ma in zona di rimbalzo dopo calo -4.63% 24h. Vol× basso (0.02) indica accumulo. ATOM è in estrema debolezza tecnica: segnale classico di rimbalzo su oversold. Rischio contenuto con SL -5% a €1.1372. Profilo aggressivo sfrutta correttivi estremi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T10:29:02.973233+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.635,
+    "reason": "ACQUISTO MEDIO-FORTE: RSI=33.3 (sottovalutato) + MACD BULLISH_CROSS confermato (hist=+0.0001 crescente) + 1h=0% neutro ma setup tecnico solido. DOT è in zona di accumulo post-correzione. Vol× ultrabasso (0.10x) suggerisce fase di consolidamento pre-rialzo. Entry strategica su ipervenduto con momentum positivo emergente.",
+    "dry_run": false
   }
 ]
