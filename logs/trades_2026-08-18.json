@@ -223,5 +223,14 @@
     "price": 1.1945,
     "reason": "SEGNALE ACQUISTO FORTE: RSI=23.1 (IPERVENDUTO) + MACD hist negativo decrescente ma RSI estremo indica potenziale rimbalzo + volume×45.41x confermato + calo 24h=-4.85% crea opportunità dip-buying. ATOM è asset di interoperabilità nel portafoglio con momentum distorto al ribasso. Entrata aggressiva su ipervenduto con posizione rimanente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T09:01:27.256466+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.1925,
+    "reason": "SEGNALE ACQUISTO FORTE: RSI=23.5 (IPERVENDUTO), vol×=17.77x (volume esplosivo), MACD hist negativo decrescente ma in zona di rimbalzo tecnico. ATOM ha subito -5.02% in 24h con pressione di vendita massiccia (vol 17.77x). Condizioni ideali per dip-buying aggressivo: rimbalzo da ipervenduto con volume di conferma. Profilo performante deve sfruttare questa opportunità. Importo €30 riflette fiducia nel segnale.",
+    "dry_run": false
   }
 ]
