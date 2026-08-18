@@ -601,5 +601,14 @@
     "price": 1.2419,
     "reason": "RSI=79.6 🔴IPERCOMPRATO (>70) + MACD hist positivo ma decelerazione imminente. Volatilità elevata (0.50%). Realizzo profitti su posizione forte (607.98 unità). Riduco esposizione prima di correzione tecnica attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T19:31:13.461169+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 66.775,
+    "reason": "RSI=70.9 🔴IPERCOMPRATO (>70) + momentum stabile ma senza margine di upside. MACD hist positivo ma debole (0.0418). Volume spike (0.73x). Vendo 0.3 SOL per realizzare +2.09% giornaliero e liberare liquidità.",
+    "dry_run": false
   }
 ]
