@@ -7,5 +7,14 @@
     "price": 1.2185,
     "reason": "ATOM in forte ribasso 24h (-5.43%), RSI=48.5 neutro ma trend negativo confermato. MACD hist positivo crescente è ritardatario rispetto al calo reale. Riduco l'esposizione a questo asset in perdita di momentum per liberare liquidità verso opportunità migliori nel profilo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T00:01:27.111938+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.835,
+    "reason": "UNI mostra segnali di debolezza: RSI=41.7 (sottotono), MACD hist negativo decrescente (-0.0014), 4h=-0.70%. Volume alto (vol×=1.36) ma direzionato al ribasso. Profilo performante necessita di rotazione verso asset con momentum positivo più chiaro.",
+    "dry_run": false
   }
 ]
