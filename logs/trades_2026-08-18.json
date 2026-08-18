@@ -673,5 +673,14 @@
     "price": 2.8445,
     "reason": "VENDITA MEDIA confermata: RSI=67.5 (zona ipercomprata), MACD BEARISH_CROSS con hist negativo decrescente, 1h=-0.12% e 4h=-0.18%. Volume anomalo (vol×=23.85x) suggerisce scarico. UNI mostra debolezza relativa rispetto al mercato. Realizzo profitti parziali.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T23:45:00.150443+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.2214,
+    "reason": "VENDITA MEDIA: RSI=49.1 (neutro ma ai limiti), MACD hist negativo decrescente, 4h=-2.09% mostra calo significativo nelle ultime 4 ore, 1h=-0.42%. Momentum ribassista confermato. Riduco posizione su asset debole.",
+    "dry_run": false
   }
 ]
