@@ -403,5 +403,14 @@
     "price": 8.145,
     "reason": "VENDITA MEDIA: RSI=50.0 (neutrale ma al limite), MACD hist negativo con BEARISH_CROSS confermato, performance 24h=-0.97% e 4h=-0.25%. Volume×=+1.72x conferma interesse al ribasso. LINK è in debolezza relativa rispetto al resto del portafoglio. Realizzo prima della possibile estensione del calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T12:35:28.995772+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.635,
+    "reason": "VENDITA MEDIA: RSI=33.3 (ipervenduto ma con segnale ribassista confermato), MACD hist negativo e decrescente, calo forte 1h=-1.56% e 4h=-1.56%. Volatilità alta (+0.95%). Sebbene DOT sia tecnicamente ipervenduto, il trend è chiaramente al ribasso. Vendo posizione parziale per limitare i danni e mantenere liquidità per riacquistare a prezzi migliori.",
+    "dry_run": false
   }
 ]
