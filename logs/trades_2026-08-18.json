@@ -502,5 +502,14 @@
     "price": 2.8206,
     "reason": "UNI mostra VENDITA MEDIA: RSI=48.7 (zona neutra inferiore), ma 24h=-0.80% e 1h=-0.46% indicano debolezza. MACD hist quasi piatto (+0.0001). Riduzione posizione preventiva su underperformance relativa rispetto a BTC/ETH/SOL. Mantiene 14.27 unità per esposizione DeFi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T16:57:02.674007+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.8282,
+    "reason": "RSI=52.9 (zona neutra bassa), MACD hist negativo decrescente (-0.0003), 4h=-0.10%, 24h=-0.80%. Segnale VENDITA MEDIA: UNI è l'unica posizione con MACD negativo e momentum ribassista confermato. Chiudi parzialmente (≈75% della posizione) per ridurre esposizione su asset debole.",
+    "dry_run": false
   }
 ]
