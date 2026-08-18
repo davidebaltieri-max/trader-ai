@@ -286,5 +286,14 @@
     "price": 1.193,
     "reason": "ATOM ipervenduto (RSI=17.0) con volume esplosivo (9.75x). Calo 24h=-4.63% crea opportunità dip-buying. MACD hist negativo decrescente suggerisce fondo imminente. Segnale di rimbalzo forte per profilo performante. Uso €25 per massimizzare esposizione su rimbalzo potenziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T09:57:31.163243+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.635,
+    "reason": "DOT BULLISH_CROSS confermato su MACD + RSI=33.3 (ipervenduto). Volatilità alta (1.23%) ma momentum rialzista in formazione. Posizione già presente: aggiunta per aumentare esposizione su trend emergente. Importo moderato (€18) per cautela su volume basso (vol×=0.09x).",
+    "dry_run": false
   }
 ]
