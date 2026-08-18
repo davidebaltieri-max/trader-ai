@@ -97,5 +97,14 @@
     "price": 0.635,
     "reason": "DOT in IPERVENDUTO (RSI=28.6) con calo violento 1h=-3.08% e volume×39.18x anomalo. MACD ancora negativo decrescente. Segnale di panic-selling. Realizzo perdita controllata per liberare liquidità e capitalizzare su opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-18T04:31:11.072723+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.145,
+    "reason": "LINK con RSI=34.6 (prossimo a ipervenduto), MACD negativo decrescente, volume×4.33x elevato. Pattern ribassista confermato su 4h (-0.73%). Vendita tattica per riallocare su segnali più forti.",
+    "dry_run": false
   }
 ]
