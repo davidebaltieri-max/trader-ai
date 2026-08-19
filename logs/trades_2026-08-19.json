@@ -223,5 +223,14 @@
     "price": 0.665,
     "reason": "RSI=100.0 IPERCOMPRATO (segnale VENDITA FORTE). MACD hist positivo ma RSI estremo suggerisce correzione imminente. 4h=+1.52% già con momentum elevato. Ridurre posizione in ipercomprato per realizzare gains e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T12:31:06.824667+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.9164,
+    "reason": "RSI=71.7 IPERCOMPRATO (segnale VENDITA MEDIA). MACD hist positivo crescente ma RSI sopra 70 indica estensione. 24h=+3.86% già prezzato. Prendere profitti su momentum elevato e ridimensionare.",
+    "dry_run": false
   }
 ]
