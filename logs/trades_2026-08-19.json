@@ -520,5 +520,14 @@
     "price": 1.2811,
     "reason": "RSI=82.8 🔴IPERCOMPRATO (massimo storico nella zona). MACD hist positivo ma momentum in decelerazione relativa. 1h=+0.18% debole. Volume molto basso (vol×=+0.02x). Correzione probabile dopo +4.88% in 24h. Realizza profitti su posizione sovraesposta.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T22:49:40.842351+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.0914,
+    "reason": "RSI=72.9 🔴IPERCOMPRATO. MACD hist positivo ma 1h=-0.87% mostra inversione imminente. Volume elevato (vol×=+1.31x) suggerisce esaurimento rialzista. Take profit su +10.85% 24h. Riduci sovraesposizione settore infrastruttura.",
+    "dry_run": false
   }
 ]
