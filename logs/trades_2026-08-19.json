@@ -133,5 +133,14 @@
     "price": 0.665,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma segnali di correzione. DOT è in rally forte (1h=+1.52%, 4h=+3.08%) ma ha raggiunto condizioni estreme. Vendita tattica per realizzare profitti e ridurre rischio di pullback su posizione sovrappesata (618 unità). Operazione da €20 per moderare l'esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T10:32:34.736992+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.665,
+    "reason": "DOT ipercomprato (RSI=75.0>70) dopo rally forte (+3.08% in 4h). MACD hist positivo ma momentum stancante. Realizza profitti su posizione sovraestesa. Sell media per proteggere gains.",
+    "dry_run": false
   }
 ]
