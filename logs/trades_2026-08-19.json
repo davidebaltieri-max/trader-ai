@@ -61,5 +61,14 @@
     "price": 2.8687,
     "reason": "RSI=58.5 (prossimo a ipercomprato) + MACD histogram positivo ma momentum potrebbe invertirsi + volatilità media (0.29%) + 4h mostra stallo (+0.78%). Realizzare il +2.72% di gain 24h su posizione DeFi che non ha volume altissimo. Mantieni esposizione ma riduci.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T07:01:20.164488+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.655,
+    "reason": "RSI=75.0 IPERCOMPRATO (segnale medio-forte di correzione). 4h +1.54% + 1h +1.54% = gain rapido catturato. MACD hist positivo ma RSI estremo suggerisce take profit parziale. Riduco esposizione su posizione satura.",
+    "dry_run": false
   }
 ]
