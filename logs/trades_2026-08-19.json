@@ -286,5 +286,14 @@
     "price": 0.665,
     "reason": "VENDITA MEDIA: RSI=66.7 (zona alta), 1h=-1.49% negativo accentuato, vol×=+2.65x con volatilità elevata (+0.78%). MACD hist ancora positivo ma RSI in zona overbought locale. Riduco posizione per gestire il calo intraday e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T13:39:26.939413+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 10.0,
+    "price": 67.205,
+    "reason": "RSI=73.5 (IPERCOMPRATO) + 1h=-0.18% in calo. MACD hist ancora positivo ma senza segnale di cross. Vol×=3.22x (volume spropositato). Take profit tattico su posizione in ipercomprato prima di potenziale correzione. Ridimensionamento sano.",
+    "dry_run": false
   }
 ]
