@@ -394,5 +394,14 @@
     "price": 3.0183,
     "reason": "RSI=71.8 (IPERCOMPRATO) + 1h=-1.37% (negativo) + MACD hist positivo ma con momentum debole su 1h. Segnale di VENDITA MEDIA. UNI è in zona di sovracomprato con movimento orario ribassista. Realizzo profitti su una posizione che mostra segnali di correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T17:49:03.296617+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2275,
+    "reason": "RSI=59.3 (neutrale/alto) + 1h=-0.59% (negativo) + 24h=+0.40% (momentum debole) + vol×=0.21 (volume molto basso). ATOM non partecipa al rally e mostra debolezza relativa. Realizzo posizione per concentrare capitale su asset con momentum più forte.",
+    "dry_run": false
   }
 ]
