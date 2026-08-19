@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-19T00:01:26.837156+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 30.0,
+    "price": 2.8464,
+    "reason": "VENDITA FORTE confermata: RSI=67.5 (ipercomprato), MACD BEARISH_CROSS con hist negativo decrescente (-0.0002), volume anomalo (23.85x), 1h=-0.12%. Segnali multipli di correzione imminente. Realizzo profitti su posizione solida.",
+    "dry_run": false
+  }
+]
