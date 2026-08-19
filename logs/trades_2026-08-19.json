@@ -502,5 +502,14 @@
     "price": 1.2844,
     "reason": "RSI=84.1 IPERCOMPRATO (>>70) + 1h=-0% confermano overextension. ATOM è la posizione più sovraestesa del portafoglio. MACD ancora positivo ma RSI estremo richiede presa di profitto. Riduco posizione per liberare capital allocation verso opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T22:31:13.478394+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 9.1554,
+    "reason": "RSI=75.9 IPERCOMPRATO + 1h=-0.32% in controtendenza rispetto ai rialzi 4h/24h. MACD hist positivo ma l'RSI estremo segnala correzione probabile. LINK ha già +11.48% in 24h: realizzo parziale.",
+    "dry_run": false
   }
 ]
