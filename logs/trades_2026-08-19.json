@@ -295,5 +295,14 @@
     "price": 67.205,
     "reason": "RSI=73.5 (IPERCOMPRATO) + 1h=-0.18% in calo. MACD hist ancora positivo ma senza segnale di cross. Vol×=3.22x (volume spropositato). Take profit tattico su posizione in ipercomprato prima di potenziale correzione. Ridimensionamento sano.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T15:01:18.335803+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 69.37,
+    "reason": "RSI=90.9 (IPERCOMPRATO estremo) + 1h=+3.09% (già sfruttato momentum intraday) + MACD hist positivo ma in zona di ipercomprato. Realizza profitti su questo picco. SOL è in portafoglio con 1.747 unità (~€121), vendita parziale prudente.",
+    "dry_run": false
   }
 ]
