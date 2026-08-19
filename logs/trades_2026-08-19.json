@@ -430,5 +430,14 @@
     "price": 0.665,
     "reason": "DOT in zona ribassista: RSI=33.3 (ipervenduto ma con segnale negativo), MACD hist decrescente (-0.0009), 1h=-1.49% e 4h=0%. Momentum perso rispetto al 24h. In profilo PERFORMANTE con 2 slot liberi, preferisco liberare capitale e ridurre posizioni non performanti per riallocare su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T19:02:41.814230+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.665,
+    "reason": "DOT: RSI=33.3 (zona neutra bassa), MACD hist=-0.0009 decrescente (momentum ribassista), 1h=-1.49% (pressione al ribasso). Segnale VENDITA MEDIA confermato. Riduco posizione su asset in debolezza relativa per liberare capitale su setup più forti.",
+    "dry_run": false
   }
 ]
