@@ -187,5 +187,14 @@
     "price": 0.665,
     "reason": "RSI=100.0 IPERCOMPRATO (segnale SELL FORTE). Volatilità alta +0.59%. Volume basso (0.31x). MACD hist crescente ma RSI estremo suggerisce correzione imminente. Riduco posizione overextended per lockare guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T11:49:04.674674+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.9082,
+    "reason": "RSI=70.4 IPERCOMPRATO (segnale SELL MEDIO-FORTE). BULLISH_CROSS ma momentum potrebbe invertirsi. Volatilità elevata +0.63%. Realizzo profitti su posizione in territory rialzista estremo. Volume moderato (0.90x).",
+    "dry_run": false
   }
 ]
