@@ -385,5 +385,14 @@
     "price": 2.9891,
     "reason": "RSI=72.8 🔴IPERCOMPRATO + 1h=-2.02% (peggior performer) + vol×=+1.79x (volume in aumento verso il basso). Segnale VENDITA MEDIA. Riduco posizione in contesto di ipercomprato con candela negativa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T17:49:00.743580+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.0183,
+    "reason": "RSI=71.8 (IPERCOMPRATO) + 1h=-1.37% (negativo) + MACD hist positivo ma con momentum debole su 1h. Segnale di VENDITA MEDIA. UNI è in zona di sovracomprato con movimento orario ribassista. Realizzo profitti su una posizione che mostra segnali di correzione imminente.",
+    "dry_run": false
   }
 ]
