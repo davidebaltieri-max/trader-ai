@@ -7,5 +7,14 @@
     "price": 2.8464,
     "reason": "VENDITA FORTE confermata: RSI=67.5 (ipercomprato), MACD BEARISH_CROSS con hist negativo decrescente (-0.0002), volume anomalo (23.85x), 1h=-0.12%. Segnali multipli di correzione imminente. Realizzo profitti su posizione solida.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T01:01:19.944963+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 8.205,
+    "reason": "LINK: RSI=52.4 neutro + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 1h=-0.49% negativo. Segnale VENDITA MEDIA su momentum ribassista confermato. Ridimensiona posizione infrastruttura DeFi in trend negativo.",
+    "dry_run": false
   }
 ]
