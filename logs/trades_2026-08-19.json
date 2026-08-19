@@ -304,5 +304,14 @@
     "price": 69.37,
     "reason": "RSI=90.9 (IPERCOMPRATO estremo) + 1h=+3.09% (già sfruttato momentum intraday) + MACD hist positivo ma in zona di ipercomprato. Realizza profitti su questo picco. SOL è in portafoglio con 1.747 unità (~€121), vendita parziale prudente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T15:01:19.756294+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 10.0,
+    "price": 0.665,
+    "reason": "RSI=75.0 (IPERCOMPRATO) + MACD hist decrescente (-0.0001) = divergenza ribassista. Volume×4.70 segnala estremità. Realizza su parte della posizione (618 unità, ~€411). Trim per proteggere profitti.",
+    "dry_run": false
   }
 ]
