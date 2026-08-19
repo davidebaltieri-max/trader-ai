@@ -52,5 +52,14 @@
     "price": 1.2176,
     "reason": "ATOM: 1h=-0.21% + 4h=-0.39% + 24h=-0.77% (debolezza diffusa) + MACD hist=-0.0010 decrescente (momentum ribassista). RSI=42.6 ancora neutro ma trend è down. Posizione significativa (607.98 unità) e mercato debole su interoperabilità. Ridurre esposizione, realizzare liquidità per posizioni più forti. Operazione di trim tattico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T06:35:30.418319+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 2.8687,
+    "reason": "RSI=58.5 (prossimo a ipercomprato) + MACD histogram positivo ma momentum potrebbe invertirsi + volatilità media (0.29%) + 4h mostra stallo (+0.78%). Realizzare il +2.72% di gain 24h su posizione DeFi che non ha volume altissimo. Mantieni esposizione ma riduci.",
+    "dry_run": false
   }
 ]
