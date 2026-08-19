@@ -547,5 +547,14 @@
     "price": 1.2811,
     "reason": "RSI=78.8 IPERCOMPRATO (>70) + 1h=-0.39% negativo. Segnale VENDITA MEDIA confermato. ATOM ha +4.55% in 24h, momentum va contenuto. Realizzo profitti su posizione già forte (607.98 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T23:31:07.901457+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2769,
+    "reason": "RSI=76.7 🔴IPERCOMPRATO + MACD hist positivo ma su livelli estremi. Consolidamento atteso dopo rally 4.35% in 24h. Realizza profitti su posizione sovraesposta.",
+    "dry_run": false
   }
 ]
