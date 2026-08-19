@@ -205,5 +205,14 @@
     "price": 0.675,
     "reason": "RSI=100.0 IPERCOMPRATO (segnale SELL forte). Posizione già significativa (618 unità). MACD hist positivo ma RSI al massimo assoluto indica correzione imminente. Realizzo profitti su momentum",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T12:01:21.132515+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.9186,
+    "reason": "RSI=73.6 IPERCOMPRATO (segnale SELL). Ultimi 24h +3.90% con volatilità media-alta (0.67%). MACD hist crescente ma RSI sopra 70 suggerisce ritracciamento. Protezione profitti",
+    "dry_run": false
   }
 ]
