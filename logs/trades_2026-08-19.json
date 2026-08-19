@@ -70,5 +70,14 @@
     "price": 0.655,
     "reason": "RSI=75.0 IPERCOMPRATO (segnale medio-forte di correzione). 4h +1.54% + 1h +1.54% = gain rapido catturato. MACD hist positivo ma RSI estremo suggerisce take profit parziale. Riduco esposizione su posizione satura.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T08:01:20.803615+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.2142,
+    "reason": "RSI=37.7 + MACD hist=-0.0012 DECRESCENTE + 4h=-0.49% + 24h=-0.29%. Momentum ribassista confermato. ATOM non mostra segnali bullish e è l'unico asset in portafoglio con trend negativo multi-timeframe. Riduzione parziale per liberare liquidità e reallocare su setup più forti (BTC).",
+    "dry_run": false
   }
 ]
