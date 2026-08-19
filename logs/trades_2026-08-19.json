@@ -448,5 +448,14 @@
     "price": 1.2524,
     "reason": "RSI=72.6 (IPERCOMPRATO) + vol×=194.68x anomalo (potenziale pump) + 4h=+2.26% già sfruttato. MACD hist positivo crescente ma RSI indica correzione imminente. Riduco posizione per realizzare guadagni su asset anomalo, libero liquidità per dip-buying strategico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T20:01:25.087940+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 12.0,
+    "price": 3.0339,
+    "reason": "RSI=70.0 (zona IPERCOMPRATO) + 4h=-0.88% (divergenza ribassista) + MACD hist positivo ma momentum decrescente. Segnale VENDITA MEDIA. Riduco per consolidare e liberare slot.",
+    "dry_run": false
   }
 ]
