@@ -322,5 +322,14 @@
     "price": 69.175,
     "reason": "RSI=86.3 IPERCOMPRATO + momentum 1h/4h/24h tutti positivi suggeriscono correzione imminente. SOL ha +2.78% in 1h e +3.52% in 4h: segnale di vendita media per prendere profitti su rally accentuato. Vol×=1.37x conferma interesse. Riduco esposizione su asset volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T15:31:12.424746+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 69.925,
+    "reason": "RSI=89.0 IPERCOMPRATO massimo + 1h=+1.07% decelerazione dopo 4h=+4.91% + volatilità moderata 0.94%. Presa di profitto su posizione in trend rialzista per evitare correzione imminente. Importo moderato (12€) su 1.747 SOL.",
+    "dry_run": false
   }
 ]
