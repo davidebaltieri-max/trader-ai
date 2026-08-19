@@ -466,5 +466,14 @@
     "price": 9.0655,
     "reason": "RSI=83.6 IPERCOMPRATO + MACD hist positivo crescente ma momentum sta saturando. LINK ha fatto +10.60% in 24h. Realizzo profitti su posizione in ipercomprato per liberare capitale e ridurre rischio correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T20:52:52.163320+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 3.1021,
+    "reason": "RSI=78.6 IPERCOMPRATO + 1h=+2% ma MACD hist molto debole (+0.0054). Posizione saturata dopo +9.50% in 24h. Vendo parzialmente per proteggere gains e ridurre volatilità.",
+    "dry_run": false
   }
 ]
