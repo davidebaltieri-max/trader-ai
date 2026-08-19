@@ -232,5 +232,14 @@
     "price": 2.9164,
     "reason": "RSI=71.7 IPERCOMPRATO (segnale VENDITA MEDIA). MACD hist positivo crescente ma RSI sopra 70 indica estensione. 24h=+3.86% già prezzato. Prendere profitti su momentum elevato e ridimensionare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T12:31:08.156693+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 66.735,
+    "reason": "RSI=70.3 IPERCOMPRATO (segnale VENDITA MEDIA). MACD hist positivo ma RSI ai limiti superiori. 24h=+1.41% e vol×=1.72x segnalano estensione. Realizzare parte della posizione prima della correzione attesa.",
+    "dry_run": false
   }
 ]
