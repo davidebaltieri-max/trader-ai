@@ -556,5 +556,14 @@
     "price": 1.2769,
     "reason": "RSI=76.7 🔴IPERCOMPRATO + MACD hist positivo ma su livelli estremi. Consolidamento atteso dopo rally 4.35% in 24h. Realizza profitti su posizione sovraesposta.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T23:45:24.882876+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 9.0309,
+    "reason": "RSI=72.5 (IPERCOMPRATO) + MACD hist positivo ma con vol×=1.23x in calo relativo. Momentum satura dopo +10.23% 24h. Vendi per rebalancio.",
+    "dry_run": false
   }
 ]
