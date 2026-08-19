@@ -34,5 +34,14 @@
     "price": 8.365,
     "reason": "SEGNALE FORTE: RSI=75.0 IPERCOMPRATO + MACD hist positivo ma volume estremo (+6.02x indica exhaustion). Posizione già redditizia (+3.34% 24h). Prendere profitti parziali (50% della posizione ~€20) per locked-in gains e ridurre esposizione su asset sovraccarico. Ridepositerò su pull-back.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T04:06:29.981575+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 8.325,
+    "reason": "RSI=70.6 IPERCOMPRATO (zona vendita). MACD hist=+0.0149 positivo ma crescente senza conferma bearish cross (segnale debole di inversione). Volume +6.23x altissimo suggerisce momentum esaurito. Take profit su posizione rialzista recente (24h=+3.09%).",
+    "dry_run": false
   }
 ]
