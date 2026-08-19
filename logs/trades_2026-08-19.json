@@ -106,5 +106,14 @@
     "price": 8.435,
     "reason": "RSI=72.9 IPERCOMPRATO (zona critica). MACD hist positivo ma momentum estenuato. Volume elevato (2.04x) suggerisce possibile presa di profitti. Segnale VENDITA MEDIA per ridurre esposizione su asset sovraelevato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T09:31:14.111807+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 8.455,
+    "reason": "RSI=71.4 IPERCOMPRATO + MACD hist crescente ma a livelli estremi. Realizza profitti su posizione forte (LINK +3.43% in 24h) prima di potenziale correzione. Volat=0.44% moderata, volume alto (1.87x) conferma interesse. Vendi 2.96 unità ~€25.",
+    "dry_run": false
   }
 ]
