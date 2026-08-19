@@ -376,5 +376,14 @@
     "price": 2.9844,
     "reason": "RSI=71.1 (IPERCOMPRATO) + 1h=-2.29% + vol×=1.76 (picco volume) = segnale VENDITA MEDIA. UNI ha performance forte ma mostra stanchezza tecnica. Ridimensionamento tattico con piccolo importo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T17:31:13.179626+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.9891,
+    "reason": "RSI=72.8 🔴IPERCOMPRATO + 1h=-2.02% (peggior performer) + vol×=+1.79x (volume in aumento verso il basso). Segnale VENDITA MEDIA. Riduco posizione in contesto di ipercomprato con candela negativa.",
+    "dry_run": false
   }
 ]
