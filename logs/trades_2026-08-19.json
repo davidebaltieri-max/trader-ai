@@ -250,5 +250,14 @@
     "price": 2.9145,
     "reason": "RSI=72.6 🔴IPERCOMPRATO + MACD hist positivo ma decelerato. Segnale di vendita media su asset in zona di ipercomprato. Realizzo profitti su posizione in momentum",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T12:36:31.918444+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 66.795,
+    "reason": "RSI=71.9 🔴IPERCOMPRATO + MACD hist minuscolo (+0.0307). Pur avendo vol× alta (2.05x), l'RSI eccessivo con MACD debole suggerisce correzione imminente. Gestione del rischio su asset volatile",
+    "dry_run": false
   }
 ]
