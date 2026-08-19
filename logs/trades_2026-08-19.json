@@ -340,5 +340,14 @@
     "price": 0.665,
     "reason": "VENDITA MEDIA confermata: RSI=50.0 (zona neutra ma al limite), MACD BEARISH_CROSS (hist=-0.0005 decrescente), 1h=-1.49% e 4h=-1.49%. Momentum ribassista evidente. DOT è in calo mentre il resto del mercato sale — segnale di debolezza relativa. Riduco esposizione su questo asset per liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T16:56:21.067554+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.0722,
+    "reason": "RSI=88.2 (IPERCOMPRATO) + 1h=+0.37% decrescente + volatilità elevata 0.97%. Segnale VENDITA MEDIA confermato. UNI ha rallied +8.17% in 24h, opportunità di presa di profitto su posizione ipercomprata.",
+    "dry_run": false
   }
 ]
