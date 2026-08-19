@@ -115,5 +115,14 @@
     "price": 8.455,
     "reason": "RSI=71.4 IPERCOMPRATO + MACD hist crescente ma a livelli estremi. Realizza profitti su posizione forte (LINK +3.43% in 24h) prima di potenziale correzione. Volat=0.44% moderata, volume alto (1.87x) conferma interesse. Vendi 2.96 unità ~€25.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T10:01:19.053917+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2112,
+    "reason": "RSI=32.2 (ipervenduto ma in zona fragile), MACD hist=-0.0010 decrescente. Posizione sottoperformante nel ciclo. Prezzo debole 1h=+0.16% solo. Libera liquidità e slot per opportunità più forti.",
+    "dry_run": false
   }
 ]
