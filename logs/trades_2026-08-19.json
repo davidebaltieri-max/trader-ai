@@ -511,5 +511,14 @@
     "price": 9.1554,
     "reason": "RSI=75.9 IPERCOMPRATO + 1h=-0.32% in controtendenza rispetto ai rialzi 4h/24h. MACD hist positivo ma l'RSI estremo segnala correzione probabile. LINK ha già +11.48% in 24h: realizzo parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T22:49:39.263441+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2811,
+    "reason": "RSI=82.8 🔴IPERCOMPRATO (massimo storico nella zona). MACD hist positivo ma momentum in decelerazione relativa. 1h=+0.18% debole. Volume molto basso (vol×=+0.02x). Correzione probabile dopo +4.88% in 24h. Realizza profitti su posizione sovraesposta.",
+    "dry_run": false
   }
 ]
