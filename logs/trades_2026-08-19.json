@@ -529,5 +529,14 @@
     "price": 9.0914,
     "reason": "RSI=72.9 🔴IPERCOMPRATO. MACD hist positivo ma 1h=-0.87% mostra inversione imminente. Volume elevato (vol×=+1.31x) suggerisce esaurimento rialzista. Take profit su +10.85% 24h. Riduci sovraesposizione settore infrastruttura.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T23:01:14.949328+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.284,
+    "reason": "RSI=82.7 🔴IPERCOMPRATO (>70) + 1h=+0.17% stagnante + vol×=+0.03x (volume crollato). Segnale di VENDITA FORTE: correzione imminente. ATOM è la posizione più esposta al rimbalzo ribassista. Realizzo profitti su posizione in sovrabbondanza.",
+    "dry_run": false
   }
 ]
