@@ -169,5 +169,14 @@
     "price": 0.665,
     "reason": "RSI=100.0 IPERCOMPRATO + MACD hist positivo ma momentum non confermato da cross. Volatilità alta (0.59%). Realizza profitti su rialzo forte (4h=+3.08%). Riduci esposizione prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T11:31:11.701562+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 2.889,
+    "reason": "RSI=70.4 IPERCOMPRATO + BULLISH_CROSS MACD confermato. 1h=+2.27% 4h=+1.27% 24h=+2.56% già realizzati forti guadagni. Take profit su segnale di ipercomprato per preservare profitti.",
+    "dry_run": false
   }
 ]
