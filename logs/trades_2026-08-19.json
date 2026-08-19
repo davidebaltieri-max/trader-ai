@@ -277,5 +277,14 @@
     "price": 1.2042,
     "reason": "VENDITA MEDIA confermata: RSI=31.3 (ipervenduto ma in calo), MACD hist=-0.0005 decrescente con BEARISH_CROSS evidente, 1h=-1.10% e 4h=-0.53% negativi. Posizione debole in trend ribassista. Realizzo perdita controllata per liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T13:31:12.732529+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 0.665,
+    "reason": "VENDITA MEDIA: RSI=66.7 (zona alta), 1h=-1.49% negativo accentuato, vol×=+2.65x con volatilità elevata (+0.78%). MACD hist ancora positivo ma RSI in zona overbought locale. Riduco posizione per gestire il calo intraday e liberare slot.",
+    "dry_run": false
   }
 ]
