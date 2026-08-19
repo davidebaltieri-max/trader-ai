@@ -97,5 +97,14 @@
     "price": 8.435,
     "reason": "VENDITA MEDIA: RSI=74.5 IPERCOMPRATO + momentum rialzista estremo (MACD hist=+0.0116 crescente) + vol×=+1.90x indica accumulo di profit-taking imminente. 1h=+1.08% 4h=+1.93% 24h=+3.69% = corsa già completata. Reduce position prima della correzione. Stop loss: -5%",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T09:28:08.191074+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 8.435,
+    "reason": "RSI=72.9 IPERCOMPRATO (zona critica). MACD hist positivo ma momentum estenuato. Volume elevato (2.04x) suggerisce possibile presa di profitti. Segnale VENDITA MEDIA per ridurre esposizione su asset sovraelevato.",
+    "dry_run": false
   }
 ]
