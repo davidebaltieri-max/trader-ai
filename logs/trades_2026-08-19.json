@@ -313,5 +313,14 @@
     "price": 0.665,
     "reason": "RSI=75.0 (IPERCOMPRATO) + MACD hist decrescente (-0.0001) = divergenza ribassista. Volume×4.70 segnala estremità. Realizza su parte della posizione (618 unità, ~€411). Trim per proteggere profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T15:02:09.308068+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 69.175,
+    "reason": "RSI=86.3 IPERCOMPRATO + momentum 1h/4h/24h tutti positivi suggeriscono correzione imminente. SOL ha +2.78% in 1h e +3.52% in 4h: segnale di vendita media per prendere profitti su rally accentuato. Vol×=1.37x conferma interesse. Riduco esposizione su asset volatile.",
+    "dry_run": false
   }
 ]
