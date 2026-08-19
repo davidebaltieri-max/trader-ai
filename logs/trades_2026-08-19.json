@@ -538,5 +538,14 @@
     "price": 1.284,
     "reason": "RSI=82.7 🔴IPERCOMPRATO (>70) + 1h=+0.17% stagnante + vol×=+0.03x (volume crollato). Segnale di VENDITA FORTE: correzione imminente. ATOM è la posizione più esposta al rimbalzo ribassista. Realizzo profitti su posizione in sovrabbondanza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T23:18:13.029390+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2811,
+    "reason": "RSI=78.8 IPERCOMPRATO (>70) + 1h=-0.39% negativo. Segnale VENDITA MEDIA confermato. ATOM ha +4.55% in 24h, momentum va contenuto. Realizzo profitti su posizione già forte (607.98 unità).",
+    "dry_run": false
   }
 ]
