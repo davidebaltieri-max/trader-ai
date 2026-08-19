@@ -493,5 +493,14 @@
     "price": 0.685,
     "reason": "RSI=80.0 🔴IPERCOMPRATO + vol×=+16.30x anomalo (massima volatilità). Segnale di esaurimento. MACD positivo ma RSI estremo con volume spike = possibile dump imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T22:31:11.783486+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2844,
+    "reason": "RSI=84.1 IPERCOMPRATO (>>70) + 1h=-0% confermano overextension. ATOM è la posizione più sovraestesa del portafoglio. MACD ancora positivo ma RSI estremo richiede presa di profitto. Riduco posizione per liberare capital allocation verso opportunità migliori.",
+    "dry_run": false
   }
 ]
