@@ -178,5 +178,14 @@
     "price": 2.889,
     "reason": "RSI=70.4 IPERCOMPRATO + BULLISH_CROSS MACD confermato. 1h=+2.27% 4h=+1.27% 24h=+2.56% già realizzati forti guadagni. Take profit su segnale di ipercomprato per preservare profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T11:49:03.410786+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.665,
+    "reason": "RSI=100.0 IPERCOMPRATO (segnale SELL FORTE). Volatilità alta +0.59%. Volume basso (0.31x). MACD hist crescente ma RSI estremo suggerisce correzione imminente. Riduco posizione overextended per lockare guadagni.",
+    "dry_run": false
   }
 ]
