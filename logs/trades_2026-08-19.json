@@ -367,5 +367,14 @@
     "price": 0.665,
     "reason": "BEARISH_CROSS confermato su MACD (hist negativo decrescente) + RSI=66.7 (zona alta) + 1h=0% + 4h=0%. Momentum ribassista in corso. Riduci posizione prima di correzione più profonda. Posizione già grande (618 unità), vendita tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T17:24:08.525376+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 8.0,
+    "price": 2.9844,
+    "reason": "RSI=71.1 (IPERCOMPRATO) + 1h=-2.29% + vol×=1.76 (picco volume) = segnale VENDITA MEDIA. UNI ha performance forte ma mostra stanchezza tecnica. Ridimensionamento tattico con piccolo importo.",
+    "dry_run": false
   }
 ]
