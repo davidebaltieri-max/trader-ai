@@ -196,5 +196,14 @@
     "price": 2.9082,
     "reason": "RSI=70.4 IPERCOMPRATO (segnale SELL MEDIO-FORTE). BULLISH_CROSS ma momentum potrebbe invertirsi. Volatilità elevata +0.63%. Realizzo profitti su posizione in territory rialzista estremo. Volume moderato (0.90x).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T12:01:18.877910+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.675,
+    "reason": "RSI=100.0 IPERCOMPRATO (segnale SELL forte). Posizione già significativa (618 unità). MACD hist positivo ma RSI al massimo assoluto indica correzione imminente. Realizzo profitti su momentum",
+    "dry_run": false
   }
 ]
