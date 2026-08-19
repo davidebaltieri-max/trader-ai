@@ -16,5 +16,14 @@
     "price": 8.205,
     "reason": "LINK: RSI=52.4 neutro + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 1h=-0.49% negativo. Segnale VENDITA MEDIA su momentum ribassista confermato. Ridimensiona posizione infrastruttura DeFi in trend negativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T03:24:03.876208+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 8.315,
+    "reason": "SEGNALE MEDIO: RSI=70.0 IPERCOMPRATO + momentum rialzista confermato (MACD hist=+0.0079 crescente, 1h=+1.34% forte). Contrastante ma RSI suggerisce correzione imminente. Vendita parziale (12 EUR su posizione da ~89 EUR) per lock-in profitti e riequilibrare il portafoglio verso accumulo BTC.",
+    "dry_run": false
   }
 ]
