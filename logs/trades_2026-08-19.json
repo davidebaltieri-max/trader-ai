@@ -484,5 +484,14 @@
     "price": 9.0748,
     "reason": "RSI=83.4 (IPERCOMPRATO) + MACD hist crescente ma a livelli estremi + 1h=+4.61% (momentum esaurito su timeframe breve). Presa di profitto su posizione già in gain significativo. LINK ha performato +10.36% in 24h, segnale di correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T22:19:28.861891+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.685,
+    "reason": "RSI=80.0 🔴IPERCOMPRATO + vol×=+16.30x anomalo (massima volatilità). Segnale di esaurimento. MACD positivo ma RSI estremo con volume spike = possibile dump imminente.",
+    "dry_run": false
   }
 ]
