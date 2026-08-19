@@ -349,5 +349,14 @@
     "price": 3.0722,
     "reason": "RSI=88.2 (IPERCOMPRATO) + 1h=+0.37% decrescente + volatilità elevata 0.97%. Segnale VENDITA MEDIA confermato. UNI ha rallied +8.17% in 24h, opportunità di presa di profitto su posizione ipercomprata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-19T16:56:22.872767+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 70.005,
+    "reason": "RSI=87.4 (IPERCOMPRATO) + 1h=-0.19% negativo + momentum in esaurimento dopo +5.28% in 24h. Segnale VENDITA MEDIA. Riduco esposizione su posizione satura.",
+    "dry_run": false
   }
 ]
