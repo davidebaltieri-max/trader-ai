@@ -214,5 +214,14 @@
     "price": 9.1446,
     "reason": "RSI=77.7 (IPERCOMPRATO) + MACD hist DECRESCENTE (-0.0026) = segnale SELL MEDIO confermato. LINK non sta più accelerando, segnale di debolezza relativa. Riduco posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T11:31:13.859654+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 74.51,
+    "reason": "RSI=84.8 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=-0.21% → segnale VENDITA MEDIO confermato. SOL ha segnato +11.58% in 24h, correzione probabile.",
+    "dry_run": false
   }
 ]
