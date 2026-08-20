@@ -295,5 +295,14 @@
     "price": 1.2614,
     "reason": "VENDITA MEDIA: RSI=49.2 (zona neutra bassa) + MACD hist negativo decrescente (-0.0016) + 1h=-1.24% + 4h=-1.69% | Performance 24h debole (+3.90%) rispetto al resto del mercato | Momentum ribassista confermato | Libera capital per dip-buying su asset più forti",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T15:01:20.613467+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.715,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma divergenza con RSI estremo. Volatilità alta (1.25%). Realizza profitti su un'asset in ipercomprato dopo +7.58% in 24h. Libera slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
