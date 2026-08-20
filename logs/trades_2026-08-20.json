@@ -304,5 +304,14 @@
     "price": 0.715,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma divergenza con RSI estremo. Volatilità alta (1.25%). Realizza profitti su un'asset in ipercomprato dopo +7.58% in 24h. Libera slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T15:28:01.907609+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.715,
+    "reason": "RSI=71.4 (IPERCOMPRATO) + MACD hist positivo ma decrescente + volatilità alta (1.20%) + 4h=+2.90% suggerisce correzione imminente. Realizza profitti su posizione large (618 unità). Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
