@@ -79,5 +79,14 @@
     "price": 72.68,
     "reason": "SOL ha 1.747 unità, posizione piccola. RSI=42.4 neutro, MACD hist negativo decrescente, 4h=-0.44% negativo. Malgrado 24h=+9.70% positivo, segnali tecnici 4h-1h deteriorati post-rally. Realizza parziale (+9.70% in 24h è buona performance per profilo) per ridurre esposizione layer1 e liberare liquidità. Stop loss implicito a -5% protezione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T07:36:29.827254+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2603,
+    "reason": "ATOM presenta RSI=32.3 (ipervenduto) ma MACD hist negativo decrescente e trend ribassista 1h=-0.25%, 4h=+0.29% debolissimo vs 24h=+3.62%. Volume×=+0.43x (basso). Segnale VENDITA MEDIA: ridurre esposizione su posizione pesante (608 unità) con momentum fragile. Libera liquidità per opportunità più forti.",
+    "dry_run": false
   }
 ]
