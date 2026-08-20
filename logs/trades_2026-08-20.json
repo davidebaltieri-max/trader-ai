@@ -241,5 +241,14 @@
     "price": 9.1902,
     "reason": "RSI=80.7 (ipercomprato) + MACD hist positivo ma con segnali di estenuazione su 1h. LINK ha già +9.26% in 24h. Realizzo profitti su posizione sovraestesa. Momentum rialzista confermato ma overbought eccessivo suggerisce presa di profitto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T11:51:51.227649+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.1899,
+    "reason": "RSI=70.4 (zona ipercomprato) + volat=+0.83% (volatilità media-alta) + 24h=+9.49%. Segnale di vendita media per realizzare guadagni su asset sovraesteso. Libero slot per rotazione.",
+    "dry_run": false
   }
 ]
