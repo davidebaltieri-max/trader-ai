@@ -7,5 +7,14 @@
     "price": 1.2797,
     "reason": "RSI=76.3 IPERCOMPRATO + MACD hist positivo ma decelerato (0.0030) + 1h=-0.46% negativo. Momento di presa di profitti su posizione large (607.98 unità). Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T00:01:22.272655+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 9.0395,
+    "reason": "RSI=74.6 IPERCOMPRATO + MACD hist=+0.0190 (crescente ma debole) + 1h=-0.11% negativo. Posizione small-cap in zona di correzione attesa. Riduco esposizione su momentum calante.",
+    "dry_run": false
   }
 ]
