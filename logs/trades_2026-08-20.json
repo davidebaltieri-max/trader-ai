@@ -169,5 +169,14 @@
     "price": 74.55,
     "reason": "RSI=90.2 (massimamente ipercomprato - picco) + MACD hist positivo ma su valori minimi = correzione imminente. 1h=+0.05% mostra debolezza relativa. Riduco esposizione su posizione ad alta volatilità prima del pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T10:55:51.694117+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.1345,
+    "reason": "RSI=78.8 (IPERCOMPRATO) + MACD hist negativo decrescente (-0.0032) = VENDITA MEDIA confermata. Volume×5.93 indica interesse ma momentum sta virando al ribasso. Realizzo profitti su posizione forte.",
+    "dry_run": false
   }
 ]
