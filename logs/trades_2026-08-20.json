@@ -178,5 +178,14 @@
     "price": 9.1345,
     "reason": "RSI=78.8 (IPERCOMPRATO) + MACD hist negativo decrescente (-0.0032) = VENDITA MEDIA confermata. Volume×5.93 indica interesse ma momentum sta virando al ribasso. Realizzo profitti su posizione forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T10:55:53.310221+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 74.525,
+    "reason": "RSI=87.8 (IPERCOMPRATO ESTREMO, livello critico) + MACD hist positivo ma in zona saturation = rischio correzione imminente. 1h=-0.05% mostra primo segnale di debolezza. Esco prima della possibile pull-back.",
+    "dry_run": false
   }
 ]
