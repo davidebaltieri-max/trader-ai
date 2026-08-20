@@ -358,5 +358,14 @@
     "price": 0.725,
     "reason": "RSI=77.8 IPERCOMPRATO + volatilità alta (1.26%) + volume basso (0.19x) = segnale VENDITA MEDIA. Profitto realizzato su posizione sovrappesata in interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T17:23:43.004363+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 10.0,
+    "price": 1.3009,
+    "reason": "RSI=70.8 IPERCOMPRATO + correzione attesa dopo +5.81% in 24h. Ridimensionamento tattico per liberare capitale in ottica dip-buying.",
+    "dry_run": false
   }
 ]
