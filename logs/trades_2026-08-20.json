@@ -421,5 +421,14 @@
     "price": 0.715,
     "reason": "DOT in ipercomprato (RSI=70.0), MACD hist positivo ma decelerazione attendibile. Realizzare profitti su posizione forte (+7.46% 24h) per liberare liquidità e ridurre rischio di correzione. Vendita parziale strategica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T19:01:18.997765+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2758,
+    "reason": "VENDITA MEDIA: RSI=48.5 (zona neutra bassa) + MACD hist negativo decrescente (-0.0001) + BEARISH_CROSS confermato + 1h=-1.08% + 4h=+0.41%. Momentum ribassista in formazione. Posizione grande (607.98 unità) consente ridimensionamento tattico. Realizzo parzialmente prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
