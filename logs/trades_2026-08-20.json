@@ -475,5 +475,14 @@
     "price": 1.2717,
     "reason": "VENDITA MEDIA confermata: RSI=51.8 (zona neutra ma debole), MACD hist=-0.0018 (negativo decrescente), 4h=-1.05% (momentum ribassista), vol×=+0.85x (volume moderato). ATOM è il peggior performer 24h (+1.50%). Rotazione strategica verso asset a momentum positivo. Riduco posizione per finanziare dip-buying su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T21:52:23.023225+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.0489,
+    "reason": "SEGNALE MEDIO: LINK mostra debolezza: RSI 51.9 (zona neutra bassa) + MACD hist negativo (-0.0205) decrescente + 1h -0.60% e 4h -2.27% (calo confermato su timeframe multipli) + 24h -1.38%. Volume basso (0.60x) ma trend ribassista in corso. Ridurre posizione per gestire il rischio, liberare capital per opportunità migliori (hai solo 2 slot liberi). Vendita parziale da 10.67 a ~7.5 unità.",
+    "dry_run": false
   }
 ]
