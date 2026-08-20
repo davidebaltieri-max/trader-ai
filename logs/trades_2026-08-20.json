@@ -142,5 +142,14 @@
     "price": 74.485,
     "reason": "RSI=89.6 IPERCOMPRATO + 1h=-0.27% negativa + MACD hist crescente ma RSI estremamente elevato segnala correzione imminente. Vendita media su posizione volatile per realizzare guadagni (SOL +12.01% 24h) e liberare capital.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T10:01:23.773719+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2708,
+    "reason": "MACD BEARISH_CROSS confermato + hist decrescente + 1h=-0.90% negativa + volume anomalo (vol×=5.66) suggerisce scarico. RSI=55.1 neutrale ma cross ribassista è segnale SELL affidabile. Prendere profitti su posizione large.",
+    "dry_run": false
   }
 ]
