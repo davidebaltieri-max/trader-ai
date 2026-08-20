@@ -466,5 +466,14 @@
     "price": 1.2698,
     "reason": "SEGNALE VENDITA MEDIA: RSI=48.3 (zona neutra bassa), MACD hist=-0.0022 (decrescente), 1h=-0.79% e 4h=-1.51% (momentum ribassista in 4h), vol×=+0.85 (volume in aumento su movimento negativo = capitolazione). ATOM è in stagnazione (+1.03% 24h) con divergenza ribassista. Ridurre posizione oversize (607.98 unità) con exit parziale €25 per gestire il drawdown.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T20:22:27.904824+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2717,
+    "reason": "VENDITA MEDIA confermata: RSI=51.8 (zona neutra ma debole), MACD hist=-0.0018 (negativo decrescente), 4h=-1.05% (momentum ribassista), vol×=+0.85x (volume moderato). ATOM è il peggior performer 24h (+1.50%). Rotazione strategica verso asset a momentum positivo. Riduco posizione per finanziare dip-buying su segnali più forti.",
+    "dry_run": false
   }
 ]
