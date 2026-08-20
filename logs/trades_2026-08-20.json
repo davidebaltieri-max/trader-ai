@@ -322,5 +322,14 @@
     "price": 0.715,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist crescente ma in zona di sovraestensione dopo +9.09% 24h. 4h=+4.35% e vol×=1.37 indicano momentum al limite. Riduco posizione overweighted per cristallizzare guadagni e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T15:59:16.212520+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.715,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma divergenza con 4h=+4.35% già prezzato. Volatilità alta (+1.25%) = instabilità. Riduco posizione su picco per lockare guadagni e liberare slot.",
+    "dry_run": false
   }
 ]
