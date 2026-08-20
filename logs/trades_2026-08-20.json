@@ -277,5 +277,14 @@
     "price": 74.435,
     "reason": "RSI=78.9 (IPERCOMPRATO) + MACD hist decrescente + 1h=-0.21% + 4h=-0.39%. Segnale di VENDITA MEDIA confermato. SOL mostra esaurimento dopo +10.56% in 24h. Realizza profitti prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T12:31:11.559578+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.2674,
+    "reason": "RSI=52.0 (neutrale ma verso ipervenduto) + MACD hist NEGATIVO DECRESCENTE + 1h=-1.03% + 4h=-0.98%. Momentum ribassista confermato. Posizione large (607.98 unità). Esce prima di ulteriore calo.",
+    "dry_run": false
   }
 ]
