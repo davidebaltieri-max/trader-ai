@@ -286,5 +286,14 @@
     "price": 1.2674,
     "reason": "RSI=52.0 (neutrale ma verso ipervenduto) + MACD hist NEGATIVO DECRESCENTE + 1h=-1.03% + 4h=-0.98%. Momentum ribassista confermato. Posizione large (607.98 unità). Esce prima di ulteriore calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T13:01:25.257841+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2614,
+    "reason": "VENDITA MEDIA: RSI=49.2 (zona neutra bassa) + MACD hist negativo decrescente (-0.0016) + 1h=-1.24% + 4h=-1.69% | Performance 24h debole (+3.90%) rispetto al resto del mercato | Momentum ribassista confermato | Libera capital per dip-buying su asset più forti",
+    "dry_run": false
   }
 ]
