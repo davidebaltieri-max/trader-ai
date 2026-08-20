@@ -223,5 +223,14 @@
     "price": 74.51,
     "reason": "RSI=84.8 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=-0.21% → segnale VENDITA MEDIO confermato. SOL ha segnato +11.58% in 24h, correzione probabile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T11:31:15.680586+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 9.1301,
+    "reason": "RSI=77.7 IPERCOMPRATO + MACD hist negativo decrescente → segnale VENDITA MEDIA. Momento opportuno per ridurre esposizione su asset in ipercomprato.",
+    "dry_run": false
   }
 ]
