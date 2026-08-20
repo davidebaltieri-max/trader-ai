@@ -367,5 +367,14 @@
     "price": 1.3009,
     "reason": "RSI=70.8 IPERCOMPRATO + correzione attesa dopo +5.81% in 24h. Ridimensionamento tattico per liberare capitale in ottica dip-buying.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T17:31:03.012955+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.725,
+    "reason": "RSI=75.0 IPERCOMPRATO + volatilità alta 1.23% + volume basso 0.21x. Segnale di vendita media per realizzare profitti su movimento 24h +7.46%. Riduco esposizione a layer-1 in ipercomprato.",
+    "dry_run": false
   }
 ]
