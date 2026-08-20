@@ -403,5 +403,14 @@
     "price": 1.2957,
     "reason": "RSI=64.6 (avvicinamento a zona IPERCOMPRATA) + volume basso (vol×=0.72). Posizione existente da ruotare verso opportunità più forti. Take profit parziale su momentum in rallentamento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T18:31:06.819688+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.715,
+    "reason": "RSI=70.0 (IPERCOMPRATO) + MACD hist positivo ma stagnante + 1h=0% (assenza momentum). Vendita media per prendere profitti su posizione forte (618 unità). DOT ha già guadagnato +7.46% in 24h e RSI segnala possibile correzione imminente.",
+    "dry_run": false
   }
 ]
