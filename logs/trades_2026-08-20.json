@@ -52,5 +52,14 @@
     "price": 1.2752,
     "reason": "RSI=78.9 🔴IPERCOMPRATO (>70) + MACD hist positivo ma in territorio ipercomprato + 1h=-0.18% + 4h=-0.73%. Posizione esistente vulnerabile a correzione. Realizzo profitti su 150€ di valore attuale per ridurre esposizione e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T01:31:14.005621+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 12.0,
+    "price": 3.127,
+    "reason": "RSI=67.7 (prossimo a 70) + MACD BEARISH_CROSS confermato (hist=-0.0008 ↓decrescente) + 1h=-0.79% + 4h=-2.09%. Segnale VENDITA MEDIA. Realizzo parziale per liberare capitale.",
+    "dry_run": false
   }
 ]
