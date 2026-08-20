@@ -133,5 +133,14 @@
     "price": 74.685,
     "reason": "RSI=79.8 IPERCOMPRATO + 1h=-0.23% (inversione) + vol×=1.33x. Dopo +12.02% in 24h, segnale di correzione. Vendo 1.74 unità (~€130 potenza); riduco esposizione su asset volatile in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T10:01:22.312190+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 74.485,
+    "reason": "RSI=89.6 IPERCOMPRATO + 1h=-0.27% negativa + MACD hist crescente ma RSI estremamente elevato segnala correzione imminente. Vendita media su posizione volatile per realizzare guadagni (SOL +12.01% 24h) e liberare capital.",
+    "dry_run": false
   }
 ]
