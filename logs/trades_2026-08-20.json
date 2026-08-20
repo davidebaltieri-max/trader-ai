@@ -268,5 +268,14 @@
     "price": 74.64,
     "reason": "RSI=86.0 (IPERCOMPRATO critico) + MACD hist decrescente + 4h=-0.15%. Massimo livello di RSI nel portafoglio segnala correzione imminente. Vendo per ridurre esposizione al ribasso e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T12:31:10.089529+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 74.435,
+    "reason": "RSI=78.9 (IPERCOMPRATO) + MACD hist decrescente + 1h=-0.21% + 4h=-0.39%. Segnale di VENDITA MEDIA confermato. SOL mostra esaurimento dopo +10.56% in 24h. Realizza profitti prima di correzione.",
+    "dry_run": false
   }
 ]
