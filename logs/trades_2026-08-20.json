@@ -196,5 +196,14 @@
     "price": 9.1348,
     "reason": "RSI=77.5 IPERCOMPRATO + MACD hist decrescente (BEARISH_CROSS confermato). Segnale di vendita medio-forte. Realizzo profitti su posizione in overbought.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T11:22:42.848119+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 74.615,
+    "reason": "RSI=87.1 (IPERCOMPRATO) + MACD hist positivo ma momentum decrescente (1h=-0.12%) + volatilità moderata (0.48%). SOL ha già +11.60% in 24h. Presa di profitto tattica su asset volatile dopo forte rally.",
+    "dry_run": false
   }
 ]
