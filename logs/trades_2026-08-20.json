@@ -394,5 +394,14 @@
     "price": 0.725,
     "reason": "RSI=77.8 (IPERCOMPRATO) + MACD hist positivo crescente ma momentum sta decelerando su 1h (+1.39%). Volatilità elevata (1.26%). Profitto realizzato su posizione existente prima di possibile correzione. Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T17:55:12.383277+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2957,
+    "reason": "RSI=64.6 (avvicinamento a zona IPERCOMPRATA) + volume basso (vol×=0.72). Posizione existente da ruotare verso opportunità più forti. Take profit parziale su momentum in rallentamento.",
+    "dry_run": false
   }
 ]
