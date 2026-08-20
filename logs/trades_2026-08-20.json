@@ -349,5 +349,14 @@
     "price": 0.715,
     "reason": "RSI=75.0 IPERCOMPRATO + vol×=0.10 (volume bassissimo, segnale debole). Realizzo profitti su posizione già in gain (+7.46% 24h). Riduco esposizione su asset a rischio correzione con poca liquidità di supporto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T17:23:41.211311+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 0.725,
+    "reason": "RSI=77.8 IPERCOMPRATO + volatilità alta (1.26%) + volume basso (0.19x) = segnale VENDITA MEDIA. Profitto realizzato su posizione sovrappesata in interoperabilità.",
+    "dry_run": false
   }
 ]
