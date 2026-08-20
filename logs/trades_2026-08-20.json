@@ -340,5 +340,14 @@
     "price": 1.2896,
     "reason": "ATOM in zona neutra (RSI=52.4) con MACD hist decrescente dopo rialzo 24h. Posizione debole rispetto al momentum del mercato. Libera slot per opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T17:01:25.421467+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.715,
+    "reason": "RSI=75.0 IPERCOMPRATO + vol×=0.10 (volume bassissimo, segnale debole). Realizzo profitti su posizione già in gain (+7.46% 24h). Riduco esposizione su asset a rischio correzione con poca liquidità di supporto.",
+    "dry_run": false
   }
 ]
