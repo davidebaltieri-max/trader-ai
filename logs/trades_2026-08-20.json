@@ -88,5 +88,14 @@
     "price": 1.2603,
     "reason": "ATOM presenta RSI=32.3 (ipervenduto) ma MACD hist negativo decrescente e trend ribassista 1h=-0.25%, 4h=+0.29% debolissimo vs 24h=+3.62%. Volume×=+0.43x (basso). Segnale VENDITA MEDIA: ridurre esposizione su posizione pesante (608 unità) con momentum fragile. Libera liquidità per opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T08:01:26.770650+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.2629,
+    "reason": "ATOM mostra RSI=37.9 (basso, zone neutra) e 1h=-0.17% (debolezza oraria). MACD hist negativo e decrescente (-0.0023) con momentum ribassista. Volume basso (0.42x). Realizzazione parziale di profitto (+4.38% a 24h) per rebilanciare verso asset con momentum più forte.",
+    "dry_run": false
   }
 ]
