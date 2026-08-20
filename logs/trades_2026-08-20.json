@@ -205,5 +205,14 @@
     "price": 74.615,
     "reason": "RSI=87.1 (IPERCOMPRATO) + MACD hist positivo ma momentum decrescente (1h=-0.12%) + volatilità moderata (0.48%). SOL ha già +11.60% in 24h. Presa di profitto tattica su asset volatile dopo forte rally.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T11:22:44.292041+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 9.1446,
+    "reason": "RSI=77.7 (IPERCOMPRATO) + MACD hist DECRESCENTE (-0.0026) = segnale SELL MEDIO confermato. LINK non sta più accelerando, segnale di debolezza relativa. Riduco posizione.",
+    "dry_run": false
   }
 ]
