@@ -43,5 +43,14 @@
     "price": 3.1556,
     "reason": "RSI=72.6 IPERCOMPRATO + MACD hist positivo ma debole. UNI ha performato bene (+10.61% 24h) ma è in zona di resistenza tecnica. Vendita parziale per bloccare guadagni e liberare capitale per opportunità di dip-buying.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T01:31:12.585247+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2752,
+    "reason": "RSI=78.9 🔴IPERCOMPRATO (>70) + MACD hist positivo ma in territorio ipercomprato + 1h=-0.18% + 4h=-0.73%. Posizione esistente vulnerabile a correzione. Realizzo profitti su 150€ di valore attuale per ridurre esposizione e liberare slot.",
+    "dry_run": false
   }
 ]
