@@ -187,5 +187,14 @@
     "price": 74.525,
     "reason": "RSI=87.8 (IPERCOMPRATO ESTREMO, livello critico) + MACD hist positivo ma in zona saturation = rischio correzione imminente. 1h=-0.05% mostra primo segnale di debolezza. Esco prima della possibile pull-back.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T11:01:18.437176+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.1348,
+    "reason": "RSI=77.5 IPERCOMPRATO + MACD hist decrescente (BEARISH_CROSS confermato). Segnale di vendita medio-forte. Realizzo profitti su posizione in overbought.",
+    "dry_run": false
   }
 ]
