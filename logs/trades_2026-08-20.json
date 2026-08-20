@@ -232,5 +232,14 @@
     "price": 9.1301,
     "reason": "RSI=77.7 IPERCOMPRATO + MACD hist negativo decrescente → segnale VENDITA MEDIA. Momento opportuno per ridurre esposizione su asset in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T11:51:49.451526+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 9.1902,
+    "reason": "RSI=80.7 (ipercomprato) + MACD hist positivo ma con segnali di estenuazione su 1h. LINK ha già +9.26% in 24h. Realizzo profitti su posizione sovraestesa. Momentum rialzista confermato ma overbought eccessivo suggerisce presa di profitto.",
+    "dry_run": false
   }
 ]
