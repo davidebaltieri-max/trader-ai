@@ -16,5 +16,14 @@
     "price": 9.0395,
     "reason": "RSI=74.6 IPERCOMPRATO + MACD hist=+0.0190 (crescente ma debole) + 1h=-0.11% negativo. Posizione small-cap in zona di correzione attesa. Riduco esposizione su momentum calante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T00:56:52.573670+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2793,
+    "reason": "RSI=82.0 IPERCOMPRATO + MACD hist positivo ma a livelli estremi. Profitto realizzato su posizione overextended. Libera slot per opportunità future.",
+    "dry_run": false
   }
 ]
