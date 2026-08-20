@@ -70,5 +70,14 @@
     "price": 1.2769,
     "reason": "VENDITA FORTE: RSI=73.8 (ipercomprato) + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 1h=-0.19% (negativo). Momentum ribassista evidente. Realizzo profitti su posizione oversize (607.98 unità) in trend di debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T05:55:20.765243+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 8.0,
+    "price": 72.68,
+    "reason": "SOL ha 1.747 unità, posizione piccola. RSI=42.4 neutro, MACD hist negativo decrescente, 4h=-0.44% negativo. Malgrado 24h=+9.70% positivo, segnali tecnici 4h-1h deteriorati post-rally. Realizza parziale (+9.70% in 24h è buona performance per profilo) per ridurre esposizione layer1 e liberare liquidità. Stop loss implicito a -5% protezione.",
+    "dry_run": false
   }
 ]
