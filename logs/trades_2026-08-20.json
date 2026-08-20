@@ -250,5 +250,14 @@
     "price": 3.1899,
     "reason": "RSI=70.4 (zona ipercomprato) + volat=+0.83% (volatilità media-alta) + 24h=+9.49%. Segnale di vendita media per realizzare guadagni su asset sovraesteso. Libero slot per rotazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T12:01:16.967579+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.1252,
+    "reason": "RSI=75.6 (IPERCOMPRATO) + MACD hist decrescente (ribassista) + 1h=-0.09% (negativo). Segnale VENDITA MEDIA confermato. LINK è in perdita di momentum dopo il rialzo 24h. Realizzo profitti parziali.",
+    "dry_run": false
   }
 ]
