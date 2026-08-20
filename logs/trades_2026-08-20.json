@@ -385,5 +385,14 @@
     "price": 1.299,
     "reason": "RSI=69.8 prossimo a 70 IPERCOMPRATO + volatilità media 0.54%. Profit-taking su movimento 24h +5.63%. Consolidamento prima di potenziale ritracciamento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T17:55:10.697142+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.725,
+    "reason": "RSI=77.8 (IPERCOMPRATO) + MACD hist positivo crescente ma momentum sta decelerando su 1h (+1.39%). Volatilità elevata (1.26%). Profitto realizzato su posizione existente prima di possibile correzione. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
