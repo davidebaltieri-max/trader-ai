@@ -61,5 +61,14 @@
     "price": 3.127,
     "reason": "RSI=67.7 (prossimo a 70) + MACD BEARISH_CROSS confermato (hist=-0.0008 ↓decrescente) + 1h=-0.79% + 4h=-2.09%. Segnale VENDITA MEDIA. Realizzo parziale per liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T02:01:20.969390+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2769,
+    "reason": "VENDITA FORTE: RSI=73.8 (ipercomprato) + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 1h=-0.19% (negativo). Momentum ribassista evidente. Realizzo profitti su posizione oversize (607.98 unità) in trend di debolezza.",
+    "dry_run": false
   }
 ]
