@@ -160,5 +160,14 @@
     "price": 9.0927,
     "reason": "RSI=74.4 (ipercomprato) + MACD hist negativo decrescente (-0.0064) = segnale VENDITA MEDIA confermato. Volume molto elevato (2.27x) suggerisce distribuzione. Realizzo profitti su posizione in trend ribassista.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T10:31:08.918945+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 74.55,
+    "reason": "RSI=90.2 (massimamente ipercomprato - picco) + MACD hist positivo ma su valori minimi = correzione imminente. 1h=+0.05% mostra debolezza relativa. Riduco esposizione su posizione ad alta volatilità prima del pullback.",
+    "dry_run": false
   }
 ]
