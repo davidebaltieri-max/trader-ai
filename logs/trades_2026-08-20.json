@@ -331,5 +331,14 @@
     "price": 0.715,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma divergenza con 4h=+4.35% già prezzato. Volatilità alta (+1.25%) = instabilità. Riduco posizione su picco per lockare guadagni e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-20T16:40:30.285376+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2896,
+    "reason": "ATOM in zona neutra (RSI=52.4) con MACD hist decrescente dopo rialzo 24h. Posizione debole rispetto al momentum del mercato. Libera slot per opportunità più forti.",
+    "dry_run": false
   }
 ]
