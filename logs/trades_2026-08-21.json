@@ -259,5 +259,14 @@
     "price": 9.9136,
     "reason": "RSI=80.4 🔴IPERCOMPRATO + MACD hist=+0.0600 positivo ma rallentamento imminente segnalato da volatilità alt=+1.80% (massima nel portafoglio). Segnale di VENDITA MEDIA-FORTE: momentum rialzista estremizzato, rischio correzione elevato. Realizzo +10% di target e libero slot per acquisti su dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T07:37:58.370568+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.9185,
+    "reason": "RSI=79.2 IPERCOMPRATO + MACD hist crescente ma su livelli estremi + 1h=+5.75% suggerisce spike di volatilità. Realizzo profitto su posizione in ipercomprato per ridurre rischio di correzione imminente. LINK ha segnato +9.95% in 24h: vendita parziale prudente.",
+    "dry_run": false
   }
 ]
