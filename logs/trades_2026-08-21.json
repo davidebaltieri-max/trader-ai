@@ -115,5 +115,14 @@
     "price": 9.3179,
     "reason": "RSI=70.4 🔴IPERCOMPRATO (>70) + MACD hist positivo ma decrescente + 1h=-0.44% negativo. Segnale VENDITA MEDIA. LINK mostra debolezza oraria nonostante momentum positivo a 4h. Volume basso (0.14x) suggerisce esaurimento. Realizzo parziale su 10.67 unità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T05:01:20.151120+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.2767,
+    "reason": "RSI=79.0 IPERCOMPRATO (>70) + MACD hist positivo ma segnali di esaurimento. UNI è la posizione con RSI più estremo. Profitto realizzato su momentum, riduco esposizione sui massimi.",
+    "dry_run": false
   }
 ]
