@@ -331,5 +331,14 @@
     "price": 3.3156,
     "reason": "VENDITA MEDIA: UNI mostra RSI=56.8 (neutro ma in debolezza relativa), 1h=-3.04% (calo orario marcato), volume×=+2.05x suggerisce scarico. Performance 24h=+3.93% significativamente inferiore al resto del mercato. Realizzo parziale su posizione DeFi per ribilanciare verso Layer 1 e interoperabilità in momentum.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T10:24:09.303652+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.765,
+    "reason": "RSI=70.0 (IPERCOMPRATO) + vol×=2.67x (volume anomalo) + 4h=+4.11% (già rallying). Vendita tattica per realizzare profitti su momentum eccesso e ridurre esposizione su asset già corretti +11.76% in 24h. Mantieni posizione residua per upside.",
+    "dry_run": false
   }
 ]
