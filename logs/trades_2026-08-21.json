@@ -313,5 +313,14 @@
     "price": 3.395,
     "reason": "RSI=94.1 🔴IPERCOMPRATO ESTREMO (massimo della scala) - VENDITA FORTE confermata. UNI mostra il segnale di ipercompra più acuto dell'intero portafoglio. MACD hist positivo ma RSI a 94 indica correzione imminente. Realizzo profitti su posizione già in gain (+7.41% 24h).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T08:34:13.957399+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 78.38,
+    "reason": "RSI=80.0 🔴IPERCOMPRATO + vol×=1.04x (momentum plateauing) - VENDITA MEDIA. SOL ha raggiunto ipercompra estrema con volume che non sostiene ulteriore rialzo. Realizzo profitti su +4.74% 24h.",
+    "dry_run": false
   }
 ]
