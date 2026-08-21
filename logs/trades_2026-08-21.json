@@ -97,5 +97,14 @@
     "price": 1.3063,
     "reason": "RSI=68.3 avvicinandosi a 70 con MACD hist positivo ma decrescente. Volume alto (vol×=1.16) suggerisce distribuzione. Realizzo parzialmente dopo +4.09% su 24h per ridurre esposizione in zona di consolidamento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T04:32:42.363186+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.2666,
+    "reason": "RSI=78.4 🔴IPERCOMPRATO (>70) + MACD hist positivo ma su livelli estremi + 1h=-0.18% negativo. Segnale VENDITA MEDIA confermato. UNI è in zona di massimo relativo con volatilità elevata (0.49%). Realizzo profitti su posizione esistente (14.277 unità) prima di possibile correzione.",
+    "dry_run": false
   }
 ]
