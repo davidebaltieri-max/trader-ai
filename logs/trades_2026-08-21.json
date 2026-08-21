@@ -520,5 +520,14 @@
     "price": 10.0474,
     "reason": "RSI=87.9 IPERCOMPRATO (>70) + MACD hist positivo crescente ma in zona di saturazione. Segnale di VENDITA MEDIA per realizzare profitti su posizione forte. Volume basso (vol×=0.38) non sostiene ulteriori rialzi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T20:31:05.398710+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.1121,
+    "reason": "RSI=87.4 IPERCOMPRATO (>70) + MACD hist positivo crescente ma overbought estremo + 1h=+1.51% momentum già realizzato. Profitto su posizione in ascesa. Segnale VENDITA FORTE: riduco esposizione su asset sopravvalutato nel breve termine.",
+    "dry_run": false
   }
 ]
