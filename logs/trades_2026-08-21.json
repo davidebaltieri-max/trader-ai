@@ -196,5 +196,14 @@
     "price": 0.725,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist decrescente (-0.0008) + 1h=+1.39% ma momentum sta cedendo. Realizza profitti su posizione già forte (618 unità). Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T06:01:27.224343+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 77.29,
+    "reason": "RSI=78.3 IPERCOMPRATO (estremo) + MACD hist positivo ma su timeframe 30min in rally eccessivo. Riduci posizione (1.747 unità) per lock-in profitti. Segnale VENDITA MEDIA.",
+    "dry_run": false
   }
 ]
