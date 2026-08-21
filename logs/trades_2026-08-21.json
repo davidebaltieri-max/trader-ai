@@ -358,5 +358,14 @@
     "price": 0.765,
     "reason": "RSI=77.8 (IPERCOMPRATO) + 4h=+4.05% (realizza profitti su momentum positivo) + vol×=2.13x (picco di volume). DOT è in rally forte ma entra in territorio di correzione tecnica. Vendo 1/3 della posizione per lock-in profitti (24h=+14.93%) e riduco esposizione su asset ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T11:31:09.310085+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.7468,
+    "reason": "MACD BEARISH_CROSS confermato + RSI=65.7 + 1h=-0.02% (stallo). Momentum ribassista in atto. Vendo 50% della posizione per limitare downside prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
