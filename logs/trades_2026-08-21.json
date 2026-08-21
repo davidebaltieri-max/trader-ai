@@ -25,5 +25,14 @@
     "price": 1.318,
     "reason": "RSI=82.7 (IPERCOMPRATO estremo) + MACD hist positivo ma in contesto di saturazione. Profilo aggressivo: realizzo profitti su posizione in overheated. Vol normale (0.92x), momentum non in accelerazione. Target: scalp su ipercomprato, reinvestire su setup migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T02:41:54.768920+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3114,
+    "reason": "RSI=83.7 IPERCOMPRATO (massimo estremo) + MACD hist positivo ma momentum in zona saturation. Profit-taking su posizione importante (607.98 unità). Realizza guadagni prima di correzione attesa.",
+    "dry_run": false
   }
 ]
