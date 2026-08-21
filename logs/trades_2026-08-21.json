@@ -34,5 +34,14 @@
     "price": 1.3114,
     "reason": "RSI=83.7 IPERCOMPRATO (massimo estremo) + MACD hist positivo ma momentum in zona saturation. Profit-taking su posizione importante (607.98 unità). Realizza guadagni prima di correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T02:41:56.352472+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.2719,
+    "reason": "RSI=75.3 IPERCOMPRATO + vol×=1.42 (volume alto su spike). MACD hist crescente ma momentum eccessivo. Riduci esposizione su overbought.",
+    "dry_run": false
   }
 ]
