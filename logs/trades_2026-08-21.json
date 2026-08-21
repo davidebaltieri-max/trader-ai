@@ -457,5 +457,14 @@
     "price": 1.3497,
     "reason": "VENDITA LEGGERA: Riduco posizione ATOM (607.99 unità = €821+ di esposizione). RSI=47.5 (zona neutra), MACD hist=-0.0001 (decrescente, debolezza). 1h=-0.27% (momentum negativo a breve). Vol×=2.19x MOLTO elevato suggerisce possibile scarico. Gestione rischio: ho troppa concentrazione su ATOM, realizzo €15 per ridurre volatilità e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T18:01:13.131971+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.3394,
+    "reason": "VENDITA PARZIALE DIFENSIVA: ATOM mostra RSI=45.4 (neutrale-basso), MACD hist negativo decrescente, 1h=-1.06% momentum negativo. Posizione molto grande (607.98 unità). Riduzione tattica del 10-15% per consolidare profitti e liberare capitale su asset con segnali migliori. Stop loss preventivo.",
+    "dry_run": false
   }
 ]
