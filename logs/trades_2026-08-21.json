@@ -628,5 +628,14 @@
     "price": 10.4153,
     "reason": "RSI=88.3 IPERCOMPRATO ESTREMO + MACD hist positivo ma momentum saturo. Segnale VENDITA FORTE per prendere profitti su posizione in uptrend violento (24h=+13.53%). Risk/reward sfavorevole a questi livelli.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T23:18:33.953257+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.4006,
+    "reason": "RSI=88.2 (IPERCOMPRATO ESTREMO) + vol×=2.37x (volumi alti confermano pressione) + 1h=-0.28% (inversione locale). LINK è in ipercomprato massimo del portafoglio. Realizzo profitto e riduco esposizione su asset sopravvalutato nel breve termine.",
+    "dry_run": false
   }
 ]
