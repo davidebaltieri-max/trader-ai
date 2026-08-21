@@ -322,5 +322,14 @@
     "price": 78.38,
     "reason": "RSI=80.0 🔴IPERCOMPRATO + vol×=1.04x (momentum plateauing) - VENDITA MEDIA. SOL ha raggiunto ipercompra estrema con volume che non sostiene ulteriore rialzo. Realizzo profitti su +4.74% 24h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T09:31:13.781822+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 3.3156,
+    "reason": "VENDITA MEDIA: UNI mostra RSI=56.8 (neutro ma in debolezza relativa), 1h=-3.04% (calo orario marcato), volume×=+2.05x suggerisce scarico. Performance 24h=+3.93% significativamente inferiore al resto del mercato. Realizzo parziale su posizione DeFi per ribilanciare verso Layer 1 e interoperabilità in momentum.",
+    "dry_run": false
   }
 ]
