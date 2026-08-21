@@ -205,5 +205,14 @@
     "price": 77.29,
     "reason": "RSI=78.3 IPERCOMPRATO (estremo) + MACD hist positivo ma su timeframe 30min in rally eccessivo. Riduci posizione (1.747 unità) per lock-in profitti. Segnale VENDITA MEDIA.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T06:50:39.208157+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 12.0,
+    "price": 3.286,
+    "reason": "RSI=77.3 IPERCOMPRATO + MACD hist positivo ma volume basso (0.83x). Profitto da realizzare su posizione già solida. Segnale di vendita media confermato da ipercomprato e volatilità contenuta (0.30%).",
+    "dry_run": false
   }
 ]
