@@ -241,5 +241,14 @@
     "price": 0.725,
     "reason": "RSI=75.0 🔴IPERCOMPRATO (>70) + MACD hist decrescente (-0.0005) = momentum ribassista incipiente. Segnale di vendita media confermato. Realizza profitti su +8.96% in 24h. Vendi ~€15 per proteggere i guadagni (posizione vale ~€448).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T07:31:13.424434+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 30.0,
+    "price": 3.3541,
+    "reason": "RSI=84.4 🔴IPERCOMPRATO (massimo esterno) + MACD hist=+0.0046 positivo ma debole + 1h=+2.06% (momentum corto già realizzato). Segnale di VENDITA FORTE: asset in zona di ipercompra estrema, profitto realizzabile. Riduco esposizione su UNI e libero liquidità.",
+    "dry_run": false
   }
 ]
