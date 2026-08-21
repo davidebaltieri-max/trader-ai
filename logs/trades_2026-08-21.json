@@ -232,5 +232,14 @@
     "price": 3.3079,
     "reason": "RSI=80.8 🔴IPERCOMPRATO (>70) + MACD hist positivo ma momentum estremamente elevato. UNI è la posizione con segnale di vendita più forte. Realizza profitti su rialzo del 6.85% in 24h. Operazione da €20 (posizione di €47, vendo ~35% per de-risking).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T07:01:24.295961+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.725,
+    "reason": "RSI=75.0 🔴IPERCOMPRATO (>70) + MACD hist decrescente (-0.0005) = momentum ribassista incipiente. Segnale di vendita media confermato. Realizza profitti su +8.96% in 24h. Vendi ~€15 per proteggere i guadagni (posizione vale ~€448).",
+    "dry_run": false
   }
 ]
