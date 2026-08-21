@@ -421,5 +421,14 @@
     "price": 0.765,
     "reason": "RSI=70.0 (ipercomprato) + MACD BEARISH_CROSS confermato + 4h=0.00% + 24h ha già realizzato +11.76%. Segnale di vendita forte: riduco posizione in ipercompro prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T15:01:21.830453+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 48.38,
+    "price": 3.3889,
+    "reason": "REBALANCE TATTICO: UNI ha RSI=53.5 (zona neutra), MACD hist negativo e decrescente, momentum moderato (24h=+8.06%). Storicamente UNI è stato meno performante rispetto al portafoglio. Liquidare ~48€ (14.27 unità × €3.39) per liberare slot ed EUR per operazioni più ad alta volatilità (DOT, ADA). Take profit modesto ma strategico per rotation.",
+    "dry_run": false
   }
 ]
