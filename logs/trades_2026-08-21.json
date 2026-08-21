@@ -610,5 +610,14 @@
     "price": 10.4225,
     "reason": "VENDITA MEDIA: RSI=89.7 ESTREMAMENTE IPERCOMPRATO (segnale ribassista molto forte), MACD hist positivo ma estenuato, 1h=+0.17% (momentum debole). Ridimensionamento parziale posizione sovraesposta. Take profit su rialzo eccessivo. Mantieni base per upside futuro.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T22:49:09.047962+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 80.375,
+    "reason": "VENDITA MEDIA: RSI=76.5 IPERCOMPRATO, momentum intraday debole (1h=+0.24%), segnali divergenti. Trailing stop per proteggere guadagni su rialzo violento. SOL rimane in portafoglio (0.74€ residui), riposizionare su dip successivo con ticket più grande.",
+    "dry_run": false
   }
 ]
