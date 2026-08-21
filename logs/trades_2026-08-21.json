@@ -142,5 +142,14 @@
     "price": 3.2822,
     "reason": "RSI=84.6 🔴IPERCOMPRATO (>70) + MACD hist positivo ma momentum eccessivo. Volatilità media (0.47%) e volume elevato (1.02x) confermano fase di accumulo al top. Vendita media-forte per realizzare profitti su posizione con +6.57% in 24h. Libera slot per posizionamento tattico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T05:27:27.222560+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 76.595,
+    "reason": "RSI=73.8 🔴IPERCOMPRATO (>70) + MACD hist positivo crescente ma RSI vicino a massimi. Momentum rialzista ancora presente (+0.78% 1h, +1.36% 4h) ma segnale di VENDITA MEDIA per ridurre esposizione su layer 1 after strong 24h (+5.38%). Libera ulteriore slot per diversificazione.",
+    "dry_run": false
   }
 ]
