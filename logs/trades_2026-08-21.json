@@ -178,5 +178,14 @@
     "price": 0.725,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist DECRESCENTE (-0.0008). Divergenza: momentum ribassista confermato con volatilità moderata (+0.80%). DOT a +8.96% in 24h. Vendi una porzione per raccogliere profitti prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T05:58:04.773587+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 10.0,
+    "price": 1.3186,
+    "reason": "RSI=67.5 (prossimo a 70) + volatilità in salita (+0.61%) + vol×=+1.08x. Sebbene MACD hist positivo, il quadro genera cautela. Riduci il peso della posizione più grande (+607 unità) per fluidità operativa.",
+    "dry_run": false
   }
 ]
