@@ -394,5 +394,14 @@
     "price": 0.765,
     "reason": "BEARISH_CROSS confermato su MACD (hist negativo, cross ribassista) + RSI=70.0 ipercomprato + 4h=0% flat (non conferma continuazione al rialzo dopo +11.76% in 24h). Segnale VENDITA MEDIA. Realizzo parzialmente il guadagno su posizione forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T14:01:22.908574+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 0.765,
+    "reason": "DOT: RSI=70.0 (ipercomprato) + MACD BEARISH_CROSS confermato + hist decrescente. Segnale VENDITA FORTE. Realizzo profitti su posizione in rialzo 24h (+11.76%) prima della correzione attesa.",
+    "dry_run": false
   }
 ]
