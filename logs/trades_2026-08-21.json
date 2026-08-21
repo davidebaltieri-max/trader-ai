@@ -88,5 +88,14 @@
     "price": 3.2577,
     "reason": "RSI=78.4 🔴IPERCOMPRATO (>70) + MACD hist positivo ma con convergenza decrescente imminente. Coppia in ipercomprato estremo su timeframe 30min. Realizzo profitti su posizione con +6.17% su 24h. Volatilità moderata (0.49%) = condizioni stabili per exit.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T04:31:08.882178+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3063,
+    "reason": "RSI=68.3 avvicinandosi a 70 con MACD hist positivo ma decrescente. Volume alto (vol×=1.16) suggerisce distribuzione. Realizzo parzialmente dopo +4.09% su 24h per ridurre esposizione in zona di consolidamento.",
+    "dry_run": false
   }
 ]
