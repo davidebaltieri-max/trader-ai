@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-21T00:31:04.173418+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.725,
+    "reason": "RSI=57.1 (neutrale) + MACD hist decrescente (trend ribassista in atto) + vol×=+5.50x anomalo (possibile trappola di liquidità). Nonostante +7.46% 24h, momentum sta virando in negativo. Realizzo profitti parziali (possiedo 618.24 unità = ~€448). Riduco posizione su segnale di debolezza tecnica.",
+    "dry_run": false
+  }
+]
