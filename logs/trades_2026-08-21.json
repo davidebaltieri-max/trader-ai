@@ -646,5 +646,14 @@
     "price": 0.815,
     "reason": "RSI=85.7 (IPERCOMPRATO ESTREMO) + 24h=+12.50% (rialzo marcato) + MACD hist positivo ma plateau. DOT ha corrso forte; riduco per lock-in profitti su posizione sovra-esposta (650 unità è il 44% del portafoglio in asset di basso valore).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T23:31:19.489992+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.815,
+    "reason": "RSI=85.7 🔴IPERCOMPRATO (massimo storico nella zona), MACD hist positivo ma momentum estremo. 1h=+1.25% e 4h=+5.19% suggeriscono rally maturo. Volatilità media 0.83% con segnali di potenziale correzione imminente. Riduco posizione per bloccare profitti su movimento +12.50% in 24h.",
+    "dry_run": false
   }
 ]
