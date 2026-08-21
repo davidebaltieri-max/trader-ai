@@ -160,5 +160,14 @@
     "price": 3.2788,
     "reason": "RSI=84.6 IPERCOMPRATO (>70) + MACD hist positivo ma segnale di estremo. UNI ha mostrato +6.57% in 24h con volume crescente (1.02x). Realizzo profitti su posizione forte prima di possibile correzione. Operazione di protezione profitti in profilo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T05:58:01.882001+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 77.255,
+    "reason": "RSI=81.7 IPERCOMPRATO + MACD hist positivo ma segnale debole su 4h=+1.56%. SOL ha rallied +6.30% in 24h. Sganciamento parziale per ridurre esposizione su asset volatile in zona di ipercomprato estremo. Proteggi i guadagni.",
+    "dry_run": false
   }
 ]
