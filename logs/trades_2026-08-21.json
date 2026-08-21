@@ -286,5 +286,14 @@
     "price": 9.8658,
     "reason": "RSI=75.9 (IPERCOMPRATO) + MACD hist positivo crescente ma segnale di correzione imminente. 1h=-0.69% conferma debolezza a breve. Take profit su posizione già in profitto (24h=+8.28%). Volatilità elevata (+1.84%) aumenta rischio di pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T08:01:26.498793+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 77.38,
+    "reason": "RSI=77.4 (IPERCOMPRATO critico) + MACD hist positivo ma momentum saturo. Profitto significativo (24h=+3.40% dal punto di acquisto). Riduco posizione per cristallizzare guadagni prima di correzione attesa su asset così volatile.",
+    "dry_run": false
   }
 ]
