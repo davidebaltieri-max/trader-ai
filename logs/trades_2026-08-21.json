@@ -493,5 +493,14 @@
     "price": 9.8723,
     "reason": "RSI=73.5 IPERCOMPRATO (>70) + MACD hist negativo decrescente + 1h=-0.63% + 4h=+0.23% = VENDITA MEDIA confermata. Realizzare profitti su posizione satura prima di correzione. Ridurre volatilità portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T19:31:12.132681+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.9649,
+    "reason": "RSI=75.1 🔴IPERCOMPRATO (>70) + MACD hist negativo decrescente (-0.0036) + 1h=+0.65% ma momentum sta invertendosi. Segnale VENDITA MEDIA confermato. Realizzo profitti su posizione forte (9.25% in 24h).",
+    "dry_run": false
   }
 ]
