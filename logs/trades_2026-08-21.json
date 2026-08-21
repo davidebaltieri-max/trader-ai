@@ -367,5 +367,14 @@
     "price": 9.7468,
     "reason": "MACD BEARISH_CROSS confermato + RSI=65.7 + 1h=-0.02% (stallo). Momentum ribassista in atto. Vendo 50% della posizione per limitare downside prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T12:01:17.919635+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.6196,
+    "reason": "VENDITA MEDIA: RSI=60.4 + MACD BEARISH_CROSS confermato + 4h=-2.52% + volat alta 2.01%. Momentum ribassista in corso su infrastruttura DeFi. Riduco esposizione con operazione contenuta.",
+    "dry_run": false
   }
 ]
