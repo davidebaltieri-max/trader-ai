@@ -448,5 +448,14 @@
     "price": 6.5655,
     "reason": "SEGNALE MEDIO-FORTE: MACD BULLISH_CROSS (hist=+0.0004 ↑crescente), RSI=60.1 (zona neutra-rialzista), momentum positivo (1h=+1.09%, 4h=+1.42%, 24h=+8.11%), volume in aumento (vol×=0.88). Layer 1 alternativo ad alto potenziale, diversificazione orizzontale coerente con profilo PERFORMANTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T16:35:33.430856+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3497,
+    "reason": "VENDITA LEGGERA: Riduco posizione ATOM (607.99 unità = €821+ di esposizione). RSI=47.5 (zona neutra), MACD hist=-0.0001 (decrescente, debolezza). 1h=-0.27% (momentum negativo a breve). Vol×=2.19x MOLTO elevato suggerisce possibile scarico. Gestione rischio: ho troppa concentrazione su ATOM, realizzo €15 per ridurre volatilità e liberare capitale.",
+    "dry_run": false
   }
 ]
