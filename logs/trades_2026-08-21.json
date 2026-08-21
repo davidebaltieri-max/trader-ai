@@ -187,5 +187,14 @@
     "price": 1.3186,
     "reason": "RSI=67.5 (prossimo a 70) + volatilità in salita (+0.61%) + vol×=+1.08x. Sebbene MACD hist positivo, il quadro genera cautela. Riduci il peso della posizione più grande (+607 unità) per fluidità operativa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T06:01:25.689217+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.725,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist decrescente (-0.0008) + 1h=+1.39% ma momentum sta cedendo. Realizza profitti su posizione già forte (618 unità). Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
