@@ -52,5 +52,14 @@
     "price": 9.3771,
     "reason": "RSI=76.4 IPERCOMPRATO + MACD hist positivo ma senza BULLISH_CROSS conferma. LINK è in fase di consolidamento sui massimi (1h=+0.46% ma 4h moderato). Opportunità di realizzare profitti in asset altamente valutato. Posizione già detenuta, riduco esposizione su asset vulnerabile a correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T03:46:06.810324+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.311,
+    "reason": "RSI=75.3 IPERCOMPRATO + MACD hist positivo ma in zona di saturazione dopo rally 24h=+2.80%. Vendita parziale per lock-in profitti e ridurre volatilità. ATOM ha meno momentum rispetto a XRP/ADA/UNI.",
+    "dry_run": false
   }
 ]
