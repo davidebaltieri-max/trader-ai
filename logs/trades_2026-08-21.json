@@ -592,5 +592,14 @@
     "price": 10.5129,
     "reason": "RSI=92.1 IPERCOMPRATO ESTREMO + MACD hist elevato ma senza BEARISH_CROSS. Profit-taking su posizione forte (LINK +15.80% in 24h). Riduco esposizione su segnale di saturazione tecnica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T22:31:08.921282+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.4328,
+    "reason": "RSI=91.5 IPERCOMPRATO estremo (massimo assoluto nel portafoglio). MACD hist positivo ma con RSI a questi livelli il rischio di correzione è altissimo. Riduco esposizione su questa posizione ad alto rischio immediato.",
+    "dry_run": false
   }
 ]
