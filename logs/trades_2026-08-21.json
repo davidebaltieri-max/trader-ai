@@ -439,5 +439,14 @@
     "price": 0.775,
     "reason": "SEGNALE FORTE: RSI=70 (ipercomprato ma in trend rialzista), MACD BULLISH_CROSS confermato (hist=+0.0001 ↑crescente), momentum positivo su tutti i timeframe (1h=+1.32%, 4h=+1.32%, 24h=+13.24%). Volume in aumento (vol×=0.75). Posizione già detenuta: opportunità di aggiunta su rotazione settoriale L1. Profilo aggressivo favorisce dip-buying su ipercomprato con cross bullish.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T15:04:45.816870+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 6.5655,
+    "reason": "SEGNALE MEDIO-FORTE: MACD BULLISH_CROSS (hist=+0.0004 ↑crescente), RSI=60.1 (zona neutra-rialzista), momentum positivo (1h=+1.09%, 4h=+1.42%, 24h=+8.11%), volume in aumento (vol×=0.88). Layer 1 alternativo ad alto potenziale, diversificazione orizzontale coerente con profilo PERFORMANTE.",
+    "dry_run": false
   }
 ]
