@@ -412,5 +412,14 @@
     "price": 0.765,
     "reason": "RSI=70.0 (IPERCOMPRATO) + MACD BEARISH_CROSS confermato + 4h=0% + 24h ha performato +11.76% (picking profit). Segnale VENDITA FORTE. Riduco posizione su asset in overbought per realizzare guadagni e liberare liquidity.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T14:31:05.721908+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.765,
+    "reason": "RSI=70.0 (ipercomprato) + MACD BEARISH_CROSS confermato + 4h=0.00% + 24h ha già realizzato +11.76%. Segnale di vendita forte: riduco posizione in ipercompro prima della correzione attesa.",
+    "dry_run": false
   }
 ]
