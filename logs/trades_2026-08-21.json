@@ -430,5 +430,14 @@
     "price": 3.3889,
     "reason": "REBALANCE TATTICO: UNI ha RSI=53.5 (zona neutra), MACD hist negativo e decrescente, momentum moderato (24h=+8.06%). Storicamente UNI è stato meno performante rispetto al portafoglio. Liquidare ~48€ (14.27 unità × €3.39) per liberare slot ed EUR per operazioni più ad alta volatilità (DOT, ADA). Take profit modesto ma strategico per rotation.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T15:04:43.826541+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.775,
+    "reason": "SEGNALE FORTE: RSI=70 (ipercomprato ma in trend rialzista), MACD BULLISH_CROSS confermato (hist=+0.0001 ↑crescente), momentum positivo su tutti i timeframe (1h=+1.32%, 4h=+1.32%, 24h=+13.24%). Volume in aumento (vol×=0.75). Posizione già detenuta: opportunità di aggiunta su rotazione settoriale L1. Profilo aggressivo favorisce dip-buying su ipercomprato con cross bullish.",
+    "dry_run": false
   }
 ]
