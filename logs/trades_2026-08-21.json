@@ -637,5 +637,14 @@
     "price": 10.4006,
     "reason": "RSI=88.2 (IPERCOMPRATO ESTREMO) + vol×=2.37x (volumi alti confermano pressione) + 1h=-0.28% (inversione locale). LINK è in ipercomprato massimo del portafoglio. Realizzo profitto e riduco esposizione su asset sopravvalutato nel breve termine.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T23:18:35.223245+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.815,
+    "reason": "RSI=85.7 (IPERCOMPRATO ESTREMO) + 24h=+12.50% (rialzo marcato) + MACD hist positivo ma plateau. DOT ha corrso forte; riduco per lock-in profitti su posizione sovra-esposta (650 unità è il 44% del portafoglio in asset di basso valore).",
+    "dry_run": false
   }
 ]
