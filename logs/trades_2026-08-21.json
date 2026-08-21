@@ -43,5 +43,14 @@
     "price": 3.2719,
     "reason": "RSI=75.3 IPERCOMPRATO + vol×=1.42 (volume alto su spike). MACD hist crescente ma momentum eccessivo. Riduci esposizione su overbought.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T03:31:10.810166+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 9.3771,
+    "reason": "RSI=76.4 IPERCOMPRATO + MACD hist positivo ma senza BULLISH_CROSS conferma. LINK è in fase di consolidamento sui massimi (1h=+0.46% ma 4h moderato). Opportunità di realizzare profitti in asset altamente valutato. Posizione già detenuta, riduco esposizione su asset vulnerabile a correzione.",
+    "dry_run": false
   }
 ]
