@@ -169,5 +169,14 @@
     "price": 77.255,
     "reason": "RSI=81.7 IPERCOMPRATO + MACD hist positivo ma segnale debole su 4h=+1.56%. SOL ha rallied +6.30% in 24h. Sganciamento parziale per ridurre esposizione su asset volatile in zona di ipercomprato estremo. Proteggi i guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T05:58:03.349453+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 0.725,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist DECRESCENTE (-0.0008). Divergenza: momentum ribassista confermato con volatilità moderata (+0.80%). DOT a +8.96% in 24h. Vendi una porzione per raccogliere profitti prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
