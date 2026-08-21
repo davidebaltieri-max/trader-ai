@@ -601,5 +601,14 @@
     "price": 10.4328,
     "reason": "RSI=91.5 IPERCOMPRATO estremo (massimo assoluto nel portafoglio). MACD hist positivo ma con RSI a questi livelli il rischio di correzione è altissimo. Riduco esposizione su questa posizione ad alto rischio immediato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T22:49:06.952100+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.4225,
+    "reason": "VENDITA MEDIA: RSI=89.7 ESTREMAMENTE IPERCOMPRATO (segnale ribassista molto forte), MACD hist positivo ma estenuato, 1h=+0.17% (momentum debole). Ridimensionamento parziale posizione sovraesposta. Take profit su rialzo eccessivo. Mantieni base per upside futuro.",
+    "dry_run": false
   }
 ]
