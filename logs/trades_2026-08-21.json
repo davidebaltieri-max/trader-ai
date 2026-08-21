@@ -295,5 +295,14 @@
     "price": 77.38,
     "reason": "RSI=77.4 (IPERCOMPRATO critico) + MACD hist positivo ma momentum saturo. Profitto significativo (24h=+3.40% dal punto di acquisto). Riduco posizione per cristallizzare guadagni prima di correzione attesa su asset così volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T08:31:13.121426+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 48.0,
+    "price": 3.3848,
+    "reason": "RSI=83.1 🔴 IPERCOMPRATO ESTREMO (massimo della gamma). MACD hist=+0.0088 positivo ma debole. Segnale VENDITA MEDIA confermato: RSI>70 + momentum non sostenuto. UNI è la posizione più vulnerabile al pullback. Realizzo profitti su asset volatile in zona di ipercomprato.",
+    "dry_run": false
   }
 ]
