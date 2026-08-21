@@ -340,5 +340,14 @@
     "price": 0.765,
     "reason": "RSI=70.0 (IPERCOMPRATO) + vol×=2.67x (volume anomalo) + 4h=+4.11% (già rallying). Vendita tattica per realizzare profitti su momentum eccesso e ridurre esposizione su asset già corretti +11.76% in 24h. Mantieni posizione residua per upside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T11:22:46.434128+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.765,
+    "reason": "RSI=77.8 IPERCOMPRATO + 1h=+1.32% ma contesto di correzione atteso. DOT ha performato +14.93% in 24h: realizza profitti su posizione in rialzo esplosivo. Riduce esposizione su asset overextended prima pullback.",
+    "dry_run": false
   }
 ]
