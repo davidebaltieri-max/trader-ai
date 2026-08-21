@@ -655,5 +655,14 @@
     "price": 0.815,
     "reason": "RSI=85.7 🔴IPERCOMPRATO (massimo storico nella zona), MACD hist positivo ma momentum estremo. 1h=+1.25% e 4h=+5.19% suggeriscono rally maturo. Volatilità media 0.83% con segnali di potenziale correzione imminente. Riduco posizione per bloccare profitti su movimento +12.50% in 24h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T23:31:20.952063+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.3662,
+    "reason": "RSI=81.6 🔴IPERCOMPRATO, 1h=-0.71% (divergenza ribassista), vol×=1.15 elevato su movimento +13.19% in 24h. MACD hist positivo ma RSI estremo + calo 1h suggerisce inizio correzione. Vendo parziale per proteggere guadagni.",
+    "dry_run": false
   }
 ]
