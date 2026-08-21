@@ -475,5 +475,14 @@
     "price": 78.62,
     "reason": "RSI=70.9 IPERCOMPRATO + MACD hist decrescente (negativo) + 4h=-0.11%. Segnale VENDITA MEDIA confermato. SOL ha fatto +5.67% in 24h, prudenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T19:01:18.788929+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 9.899,
+    "reason": "RSI=74.7 IPERCOMPRATO + MACD hist negativo decrescente (conferma inversione). Segnale di vendita media-forte. Realizza guadagni 24h=+8.55% prima della correzione attesa.",
+    "dry_run": false
   }
 ]
