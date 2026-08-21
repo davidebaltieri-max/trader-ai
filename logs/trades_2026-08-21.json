@@ -619,5 +619,14 @@
     "price": 80.375,
     "reason": "VENDITA MEDIA: RSI=76.5 IPERCOMPRATO, momentum intraday debole (1h=+0.24%), segnali divergenti. Trailing stop per proteggere guadagni su rialzo violento. SOL rimane in portafoglio (0.74€ residui), riposizionare su dip successivo con ticket più grande.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T23:01:16.934049+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.4153,
+    "reason": "RSI=88.3 IPERCOMPRATO ESTREMO + MACD hist positivo ma momentum saturo. Segnale VENDITA FORTE per prendere profitti su posizione in uptrend violento (24h=+13.53%). Risk/reward sfavorevole a questi livelli.",
+    "dry_run": false
   }
 ]
