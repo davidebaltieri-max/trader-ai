@@ -133,5 +133,14 @@
     "price": 9.3213,
     "reason": "RSI=70.0 IPERCOMPRATO + MACD hist decrescente su 4h. Segnale di vendita media confermato. Realizzo guadagni e libero capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T05:27:25.454789+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.2822,
+    "reason": "RSI=84.6 🔴IPERCOMPRATO (>70) + MACD hist positivo ma momentum eccessivo. Volatilità media (0.47%) e volume elevato (1.02x) confermano fase di accumulo al top. Vendita media-forte per realizzare profitti su posizione con +6.57% in 24h. Libera slot per posizionamento tattico.",
+    "dry_run": false
   }
 ]
