@@ -574,5 +574,14 @@
     "price": 10.2907,
     "reason": "RSI=89.5 🔴IPERCOMPRATO estremo (>70), segnale VENDITA FORTE. LINK ha fatto +13.85% in 24h con volume×2.35 spike. MACD positivo ma RSI in zona di ipercomprato critico richiede profit-taking. Vendita parziale per ridurre esposizione a correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T22:01:19.931461+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.3989,
+    "reason": "RSI=90.9 🔴IPERCOMPRATO (massimo assoluto) + MACD hist positivo ma già in zona estrema + vol×=1.82 (volume elevato confermando correzione imminente). Segnale VENDITA FORTE: realizzo profitto su posizione in eccesso di calore. Riduco esposizione prima della correzione attesa.",
+    "dry_run": false
   }
 ]
