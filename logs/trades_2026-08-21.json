@@ -538,5 +538,14 @@
     "price": 10.0651,
     "reason": "RSI=80.9 (IPERCOMPRATO forte) + MACD hist positivo ma in territorio estremo + 1h=+1.04% momentum corto terminato. Realizza profitti su posizione in ipercomprato. LINK ha segnato +10.72% in 24h, rischio correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T21:01:14.986290+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.1464,
+    "reason": "RSI=87.9 🔴 IPERCOMPRATO (>70) + MACD hist positivo crescente ma momentum ecceduto. Volume×=1.77 conferma interesse, ma il livello RSI estremo suggerisce correzione imminente. Vendita parziale per lock-in profitti su posizione che ha guadagnato +12.26% in 24h.",
+    "dry_run": false
   }
 ]
