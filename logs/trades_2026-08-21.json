@@ -376,5 +376,14 @@
     "price": 9.6196,
     "reason": "VENDITA MEDIA: RSI=60.4 + MACD BEARISH_CROSS confermato + 4h=-2.52% + volat alta 2.01%. Momentum ribassista in corso su infrastruttura DeFi. Riduco esposizione con operazione contenuta.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T12:31:05.935056+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3243,
+    "reason": "VENDITA MEDIA confermata: RSI=54.6 (zona neutra superiore) + MACD hist=-0.0019 decrescente + 4h=-2.35% + 1h=-0.99%. Momentum ribassista su 4h e 1h. ATOM mostra debolezza relativa rispetto al resto del portafoglio. Reimpiego capitale su segnali più forti.",
+    "dry_run": false
   }
 ]
