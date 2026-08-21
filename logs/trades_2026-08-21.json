@@ -16,5 +16,14 @@
     "price": 0.725,
     "reason": "PRESA DI PROFITTO PARZIALE: DOT ha performance forte 24h=+8.96%, 4h=+2.82% ma segnali contradittori in short-term: RSI=57.1, MACD hist negativo decrescente, 1h=+1.39% ma decelera. Volume×=+1.89x indica esaurimento relativo. Riduco posizione (618 unità) per cristallizzare gains e mantenere liquidità. Trailing stop preventivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T02:31:09.655470+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.318,
+    "reason": "RSI=82.7 (IPERCOMPRATO estremo) + MACD hist positivo ma in contesto di saturazione. Profilo aggressivo: realizzo profitti su posizione in overheated. Vol normale (0.92x), momentum non in accelerazione. Target: scalp su ipercomprato, reinvestire su setup migliori.",
+    "dry_run": false
   }
 ]
