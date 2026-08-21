@@ -664,5 +664,14 @@
     "price": 10.3662,
     "reason": "RSI=81.6 🔴IPERCOMPRATO, 1h=-0.71% (divergenza ribassista), vol×=1.15 elevato su movimento +13.19% in 24h. MACD hist positivo ma RSI estremo + calo 1h suggerisce inizio correzione. Vendo parziale per proteggere guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T23:46:48.939234+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.805,
+    "reason": "RSI=83.3 IPERCOMPRATO + MACD hist positivo ma già picco locale atteso. 1h=0.00% (stallo) vs 4h=+3.90%. Realizzo profitti su posizione già esposta (650 unità, ~€522). Profilo aggressivo ma con volatilità elevata (0.80%) e nessun nuovo breakout confermato. Riduco esposizione su overbought.",
+    "dry_run": false
   }
 ]
