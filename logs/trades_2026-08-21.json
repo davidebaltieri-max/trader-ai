@@ -223,5 +223,14 @@
     "price": 77.16,
     "reason": "RSI=77.7 IPERCOMPRATO + 1h negativo (-0.12%) + volume molto alto (3.07x). Segnale di correzione imminente. Riduco posizione per proteggere gains su momentum esteso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T07:01:22.877324+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 3.3079,
+    "reason": "RSI=80.8 🔴IPERCOMPRATO (>70) + MACD hist positivo ma momentum estremamente elevato. UNI è la posizione con segnale di vendita più forte. Realizza profitti su rialzo del 6.85% in 24h. Operazione da €20 (posizione di €47, vendo ~35% per de-risking).",
+    "dry_run": false
   }
 ]
