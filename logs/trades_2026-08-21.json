@@ -268,5 +268,14 @@
     "price": 9.9185,
     "reason": "RSI=79.2 IPERCOMPRATO + MACD hist crescente ma su livelli estremi + 1h=+5.75% suggerisce spike di volatilità. Realizzo profitto su posizione in ipercomprato per ridurre rischio di correzione imminente. LINK ha segnato +9.95% in 24h: vendita parziale prudente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T07:37:59.743681+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 15.0,
+    "price": 3.3356,
+    "reason": "RSI=80.0 IPERCOMPRATO (massimo della zona rossa) + MACD hist positivo ma divergenza di prezzo imminente probabile. UNI è al vertice del ciclo rialzista 24h=+8.82%. Vendita tattica per proteggere gains e liberare capital per reentry su dip.",
+    "dry_run": false
   }
 ]
