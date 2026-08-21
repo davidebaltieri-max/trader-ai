@@ -214,5 +214,14 @@
     "price": 3.286,
     "reason": "RSI=77.3 IPERCOMPRATO + MACD hist positivo ma volume basso (0.83x). Profitto da realizzare su posizione già solida. Segnale di vendita media confermato da ipercomprato e volatilità contenuta (0.30%).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-21T06:50:40.741603+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 10.0,
+    "price": 77.16,
+    "reason": "RSI=77.7 IPERCOMPRATO + 1h negativo (-0.12%) + volume molto alto (3.07x). Segnale di correzione imminente. Riduco posizione per proteggere gains su momentum esteso.",
+    "dry_run": false
   }
 ]
