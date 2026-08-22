@@ -304,5 +304,14 @@
     "price": 1.3492,
     "reason": "SEGNALE MODERATO DI DEBOLEZZA: RSI=34.5 ipervenduto ma 4h=-2.15% negativo, 24h=-0.13% piatto, MACD hist=-0.0071 decrescente. ATOM mostra debolezza relativa nonostante ipervenduto. Vendita parziale (15€ su ~820€ posizione) per:1) Liberare capitale per opportunità più forti; 2) Ridurre esposizione su asset con momentum negativo; 3) Mantenere posizione core su interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T17:16:16.235502+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.3554,
+    "reason": "SEGNALE NEGATIVO: RSI=42.0 (neutro basso), MACD hist decrescente, 1h=+0.02% 4h=+1.68% (perdita momentum 1h critica). Posizione sottoperformante nel ciclo. Vendita parziale (small) per liberare slot e riallocare verso segnali più forti (SOL/LINK/DOT). Mantenere core position.",
+    "dry_run": false
   }
 ]
