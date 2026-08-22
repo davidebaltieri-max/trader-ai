@@ -214,5 +214,14 @@
     "price": 0.855,
     "reason": "RSI=100.0 (massimo ipercomprato), MACD hist positivo ma a massimali, 1h=+1.18% (divergenza rialzista debole). Realizza profitti su posizione già in strong uptrend (+19.44% 24h). Ridimensiona prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T04:03:56.753961+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 6.8775,
+    "reason": "RSI=93.1 (ipercomprato estremo), MACD hist positivo ma momentum in esaurimento. 24h=+9.86% già significativo. Vendi parzialmente per proteggere i guadagni, mantieni core position.",
+    "dry_run": false
   }
 ]
