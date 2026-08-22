@@ -367,5 +367,14 @@
     "price": 0.785,
     "reason": "DOT mostra BEARISH_CROSS confermato su MACD (hist=-0.0005 decrescente), RSI=42.9 in discesa da zona neutra, 1h=-2.50% negativo, 4h=-1.27%. Volatilità elevata (0.90%). Segnale VENDITA MEDIA su interop in debolezza, evito perdite maggiori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T23:43:46.058703+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 50.0,
+    "price": 9.9349,
+    "reason": "SEGNALE DI PRESA DI PROFITTO: LINK è in debolezza tecnica (RSI=41.0, MACD hist=-0.0033 ↓decrescente, 4h=-0.91%, 24h=-3.09%) ma volume ×2.96x ALTISSIMO segnala scarico istituzionale. La tua posizione (10.67 LINK = ~€106) è esposta. Vendita parziale da €50 (5.03 LINK circa) limita esposizione mantenendo posizione core, realizza liquidità per nuove opportunità.",
+    "dry_run": false
   }
 ]
