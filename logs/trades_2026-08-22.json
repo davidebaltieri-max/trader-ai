@@ -16,5 +16,14 @@
     "price": 10.2592,
     "reason": "RSI=71.6 IPERCOMPRATO + 1h=-1.22% + volatilità alta (0.83%) + MACD hist positivo ma a rischio correzione. Chiudi parzialmente su guadagno 24h=+11.29% per lock-in profitti DeFi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T00:31:04.699467+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.815,
+    "reason": "RSI=83.3 🔴IPERCOMPRATO (>70) + 1h=+1.25% ma segnale di correzione imminente. DOT ha performato forte (+10.96% 24h) e RSI estremo suggerisce pullback. Riduco posizione in asset ipercomprato per liberare liquidità.",
+    "dry_run": false
   }
 ]
