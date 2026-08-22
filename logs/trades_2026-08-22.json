@@ -133,5 +133,14 @@
     "price": 0.855,
     "reason": "RSI=88.9 🔴IPERCOMPRATO estremo (>80) + 4h=+6.25% momentum esaurito su timeframe breve + vol×=0.28 volume basso in calo = correzione probabile. Realizza profitti su posizione già in forte rialzo (+19.72% 24h). SEGNALE VENDITA MEDIA.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T03:01:35.162243+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.855,
+    "reason": "RSI=100.0 IPERCOMPRATO estremo (massimo teorico), MACD hist positivo ma momentum insostenibile. +18.06% in 24h è spike eccessivo. Realizza profitti su posizione large (650 unità). Stop loss a -3% dal massimo recente.",
+    "dry_run": false
   }
 ]
