@@ -349,5 +349,14 @@
     "price": 80.115,
     "reason": "VENDITA MEDIA: SOL mostra BEARISH_CROSS MACD (hist=-0.0015), RSI=56.9 in calo, 1h=-0.61%, 4h=-0.40%. Momentum negativo confermato. Ridotto parziale con take profit moderato per proteggere capitale. Rotazione verso ADA/UNI più performanti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T21:44:26.016647+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.8511,
+    "reason": "RSI=39.5 (zona neutra bassa) + MACD BEARISH_CROSS (hist=-0.0072 decrescente) + 1h=-1.54% + 4h=-1.78% + 24h=-5.49% (performance debole). Segnale VENDITA MEDIA confermato da trend ribassista. Riduco esposizione su asset in calo.",
+    "dry_run": false
   }
 ]
