@@ -241,5 +241,14 @@
     "price": 6.962,
     "reason": "RSI=93.3 (IPERCOMPRATO estremo, seconda posizione peggiore dopo DOT) + MACD hist positivo ma saturo + vol×=1.13x + 24h=+11.34% (già in rally). Riduco per proteggere profitti. Segnale VENDITA FORTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T04:58:34.591540+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.875,
+    "reason": "RSI=100.0 IPERCOMPRATO estremo + vol×=5.91x (picco anomalo) + MACD hist positivo ma in zona di massimo storico. Correzione imminente ad alta probabilità. Realizzo profitti su posizione forte (650 unità). VENDITA FORTE.",
+    "dry_run": false
   }
 ]
