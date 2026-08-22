@@ -34,5 +34,14 @@
     "price": 10.2543,
     "reason": "MACD BEARISH_CROSS confermato (hist=-0.0024 ↓decrescente). RSI=69.0 prossimo a 70. Momentum ribassista in formazione. Vendo prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T00:57:10.893716+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.815,
+    "reason": "RSI=83.3 IPERCOMPRATO + MACD hist positivo ma trend già esteso su 24h=+14.08%. Correzione probabile. Realizzo profitti su posizione in forte gain.",
+    "dry_run": false
   }
 ]
