@@ -196,5 +196,14 @@
     "price": 0.855,
     "reason": "RSI=100.0 MASSIMAMENTE IPERCOMPRATO (estremo) + MACD hist crescente ma su livelli insostenibili + volatilità elevata 0.82% + 1h=+1.18% mostra accelerazione. Correzione imminente molto probabile. Realizzo profitti (19.44% in 24h) su posizione sovraesposta.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T04:01:19.131691+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 6.9005,
+    "reason": "RSI=93.1 IPERCOMPRATO ESTREMO + MACD hist=+0.0178 crescente ma asset ormai ai massimi + volatilità 0.50% contenuta suggerisce consolidamento imminente. Posizione in portafoglio è rilevante (3.019 unità). Riduco esposizione dopo +9.86% in 24h.",
+    "dry_run": false
   }
 ]
