@@ -331,5 +331,14 @@
     "price": 0.795,
     "reason": "SEGNALE VENDITA MEDIA: RSI=62.5 (zona neutra alta, prossimo a ipercomprato), MACD hist decrescente (negativo), 1h=-1.25%, vol×=+2.06x (pressione al ribasso su volume elevato). Divergenza rialzista-ribassista. Riduco posizione con micro-sell €8 per de-risking.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T21:01:25.000419+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 9.9761,
+    "reason": "RIDUZIONE TATTICA: RSI=46.9 (neutro basso), 1h=-0.54%, 24h=-2.86% indicano debolezza relativa rispetto al resto del mercato. MACD hist=+0.0067 ancora positivo ma segnale debole. Volume x=+0.26x molto basso. LINK rimane in portafoglio (partial exit), ma ralloca capitale verso momentum più forte (UNI, ADA). Take profit parziale su debolezza relativa.",
+    "dry_run": false
   }
 ]
