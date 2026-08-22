@@ -313,5 +313,14 @@
     "price": 1.3554,
     "reason": "SEGNALE NEGATIVO: RSI=42.0 (neutro basso), MACD hist decrescente, 1h=+0.02% 4h=+1.68% (perdita momentum 1h critica). Posizione sottoperformante nel ciclo. Vendita parziale (small) per liberare slot e riallocare verso segnali più forti (SOL/LINK/DOT). Mantenere core position.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T17:31:08.714709+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.795,
+    "reason": "MACD hist=-0.0005 decrescente (trend ribassista in corso) + RSI=50.0 neutro ma senza supporto + 4h=+0.00% stallo + volat=+1.19% alta. DOT mostra debolezza relativa rispetto al resto del portafoglio. Realizza liquidità per i buy più forti.",
+    "dry_run": false
   }
 ]
