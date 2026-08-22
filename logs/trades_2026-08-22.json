@@ -160,5 +160,14 @@
     "price": 0.845,
     "reason": "RSI=100.0 (IPERCOMPRATO ESTREMO) + MACD hist positivo ma momentum eccessivo. DOT ha +18.06% in 24h, vol basso (0.30x). Correzione probabile. Riduco posizione per lock-in parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T03:13:31.886554+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 6.8655,
+    "reason": "RSI=88.3 (IPERCOMPRATO) + MACD hist positivo crescente ma movimento già parabólico (+10.51% 24h). Vol=1.08x moderato. Realizzo utili su posizione overextended.",
+    "dry_run": false
   }
 ]
