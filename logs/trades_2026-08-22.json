@@ -115,5 +115,14 @@
     "price": 0.845,
     "reason": "RSI=88.9 🔴IPERCOMPRATO ESTREMO + 1h=+3.70% (picco locale). DOT ha rallied +18.31% in 24h con volume moderato (0.36x). Correzione imminente probabile. Realizzo profitti su posizione importante (650 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T02:15:33.805223+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 15.0,
+    "price": 6.759,
+    "reason": "RSI=80.4 🔴IPERCOMPRATO + MACD hist positivo ma momentum 4h=+0.78% stagnante rispetto volatilità. Posizione in zona di presa profitti con 8.44% 24h. Riduco esposizione per rebalance.",
+    "dry_run": false
   }
 ]
