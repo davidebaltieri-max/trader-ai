@@ -286,5 +286,14 @@
     "price": 10.1257,
     "reason": "LINK mostra debolezza: MACD hist<0 (decrescente -0.0608), RSI=42.9 (neutrale calante), 4h negativo (-4.34%). Posizione in profitto relativo, gestione del rischio su asset a momentum decrescente. Riduzione tattica per realizzare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T12:31:07.962602+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3451,
+    "reason": "ATOM mostra debolezza: RSI=34.5 ipervenduto ma MACD hist negativo decrescente, 4h=-2.15% ribassista, 24h=-0.13% stagnazione. Vol×=0.69x basso. Posizione in rosso relativo. Riduco esposizione su questo settore per reallocare su opportunità più forti.",
+    "dry_run": false
   }
 ]
