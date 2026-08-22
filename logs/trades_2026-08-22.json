@@ -106,5 +106,14 @@
     "price": 80.3,
     "reason": "RSI=71.0 IPERCOMPRATO + MACD BEARISH_CROSS (hist decrescente) + 1h=-0.30%. Segnale VENDITA MEDIA confermato. Riduco esposizione su posizione ancora in gain (+4.93% 24h).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T02:15:31.893600+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.845,
+    "reason": "RSI=88.9 🔴IPERCOMPRATO ESTREMO + 1h=+3.70% (picco locale). DOT ha rallied +18.31% in 24h con volume moderato (0.36x). Correzione imminente probabile. Realizzo profitti su posizione importante (650 unità).",
+    "dry_run": false
   }
 ]
