@@ -268,5 +268,14 @@
     "price": 0.875,
     "reason": "RSI=100.0 IPERCOMPRATO ESTREMO + vol×=5.91x picco anomalo + MACD hist positivo ma su livelli massimi storici. Correzione imminente probabile. Realizzo profitti su posizione già +22.22% in 24h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T05:01:28.647662+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 7.061,
+    "reason": "RSI=93.7 IPERCOMPRATO + posizione già +12.80% in 24h. Vol× basso (0.90x) non supporta continuazione rialzo. Protezione profitti prima di correzione.",
+    "dry_run": false
   }
 ]
