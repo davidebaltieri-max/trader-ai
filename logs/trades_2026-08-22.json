@@ -88,5 +88,14 @@
     "price": 80.49,
     "reason": "RSI=73.5 IPERCOMPRATO + MACD hist positivo ma debole (+0.0411). Volume moderato (0.56x). Posizione consolidata, realizzo parziale su picco.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T02:01:17.904288+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.835,
+    "reason": "RSI=87.5 IPERCOMPRATO + 4h=+5.06% (profitto realizzato) + MACD hist positivo ma momentum estremamente sovraesteso. Segnale di correzione imminente. Riduco posizione per lock-in gains.",
+    "dry_run": false
   }
 ]
