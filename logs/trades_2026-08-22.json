@@ -277,5 +277,14 @@
     "price": 7.061,
     "reason": "RSI=93.7 IPERCOMPRATO + posizione già +12.80% in 24h. Vol× basso (0.90x) non supporta continuazione rialzo. Protezione profitti prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T07:31:10.089463+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 10.1257,
+    "reason": "LINK mostra debolezza: MACD hist<0 (decrescente -0.0608), RSI=42.9 (neutrale calante), 4h negativo (-4.34%). Posizione in profitto relativo, gestione del rischio su asset a momentum decrescente. Riduzione tattica per realizzare liquidità.",
+    "dry_run": false
   }
 ]
