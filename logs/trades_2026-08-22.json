@@ -142,5 +142,14 @@
     "price": 0.855,
     "reason": "RSI=100.0 IPERCOMPRATO estremo (massimo teorico), MACD hist positivo ma momentum insostenibile. +18.06% in 24h è spike eccessivo. Realizza profitti su posizione large (650 unità). Stop loss a -3% dal massimo recente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T03:01:36.726815+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 6.8895,
+    "reason": "RSI=95.4 IPERCOMPRATO critico, vol×=1.46x segnala volume in calo relativo (spike consumato). MACD hist crescente ma RSI non scende mai con questi livelli senza correzione. +10.94% 24h merita realizzazione parziale.",
+    "dry_run": false
   }
 ]
