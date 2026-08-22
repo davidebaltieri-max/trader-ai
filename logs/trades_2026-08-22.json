@@ -340,5 +340,14 @@
     "price": 9.9761,
     "reason": "RIDUZIONE TATTICA: RSI=46.9 (neutro basso), 1h=-0.54%, 24h=-2.86% indicano debolezza relativa rispetto al resto del mercato. MACD hist=+0.0067 ancora positivo ma segnale debole. Volume x=+0.26x molto basso. LINK rimane in portafoglio (partial exit), ma ralloca capitale verso momentum più forte (UNI, ADA). Take profit parziale su debolezza relativa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T21:31:03.912315+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 14.0,
+    "price": 80.115,
+    "reason": "VENDITA MEDIA: SOL mostra BEARISH_CROSS MACD (hist=-0.0015), RSI=56.9 in calo, 1h=-0.61%, 4h=-0.40%. Momentum negativo confermato. Ridotto parziale con take profit moderato per proteggere capitale. Rotazione verso ADA/UNI più performanti.",
+    "dry_run": false
   }
 ]
