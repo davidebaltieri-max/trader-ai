@@ -43,5 +43,14 @@
     "price": 0.815,
     "reason": "RSI=83.3 IPERCOMPRATO + MACD hist positivo ma trend già esteso su 24h=+14.08%. Correzione probabile. Realizzo profitti su posizione in forte gain.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T00:57:12.190336+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 10.3333,
+    "reason": "RSI=72.0 IPERCOMPRATO + MACD hist positivo crescente ma momentum saturo su +12.37% 24h. Riduco esposizione prima correzione.",
+    "dry_run": false
   }
 ]
