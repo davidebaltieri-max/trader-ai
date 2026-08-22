@@ -322,5 +322,14 @@
     "price": 0.795,
     "reason": "MACD hist=-0.0005 decrescente (trend ribassista in corso) + RSI=50.0 neutro ma senza supporto + 4h=+0.00% stallo + volat=+1.19% alta. DOT mostra debolezza relativa rispetto al resto del portafoglio. Realizza liquidità per i buy più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T19:01:19.753028+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 8.0,
+    "price": 0.795,
+    "reason": "SEGNALE VENDITA MEDIA: RSI=62.5 (zona neutra alta, prossimo a ipercomprato), MACD hist decrescente (negativo), 1h=-1.25%, vol×=+2.06x (pressione al ribasso su volume elevato). Divergenza rialzista-ribassista. Riduco posizione con micro-sell €8 per de-risking.",
+    "dry_run": false
   }
 ]
