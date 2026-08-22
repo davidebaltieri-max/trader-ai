@@ -358,5 +358,14 @@
     "price": 9.8511,
     "reason": "RSI=39.5 (zona neutra bassa) + MACD BEARISH_CROSS (hist=-0.0072 decrescente) + 1h=-1.54% + 4h=-1.78% + 24h=-5.49% (performance debole). Segnale VENDITA MEDIA confermato da trend ribassista. Riduco esposizione su asset in calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T22:46:26.064209+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.785,
+    "reason": "DOT mostra BEARISH_CROSS confermato su MACD (hist=-0.0005 decrescente), RSI=42.9 in discesa da zona neutra, 1h=-2.50% negativo, 4h=-1.27%. Volatilità elevata (0.90%). Segnale VENDITA MEDIA su interop in debolezza, evito perdite maggiori.",
+    "dry_run": false
   }
 ]
