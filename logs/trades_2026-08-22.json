@@ -232,5 +232,14 @@
     "price": 0.875,
     "reason": "RSI=100.0 (IPERCOMPRATO estremo) + MACD hist positivo ma in zona di saturazione + vol×=6.62x (picco di volume su movimento già completato) + 24h=+20.83% (rally esaurente). Riduco posizione per realizzare profitti e liberare capitale. Segnale VENDITA FORTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T04:31:18.539536+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 6.962,
+    "reason": "RSI=93.3 (IPERCOMPRATO estremo, seconda posizione peggiore dopo DOT) + MACD hist positivo ma saturo + vol×=1.13x + 24h=+11.34% (già in rally). Riduco per proteggere profitti. Segnale VENDITA FORTE.",
+    "dry_run": false
   }
 ]
