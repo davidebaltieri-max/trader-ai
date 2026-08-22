@@ -52,5 +52,14 @@
     "price": 10.3333,
     "reason": "RSI=72.0 IPERCOMPRATO + MACD hist positivo crescente ma momentum saturo su +12.37% 24h. Riduco esposizione prima correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T01:01:15.832236+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.825,
+    "reason": "RSI=85.7 IPERCOMPRATO + 4h=+5.13% momentum esaurito + volatilità alta (0.83%) = correzione probabile. Realizzo profitti su posizione in rialzo (15.49% 24h). Riduco esposizione su asset overbought.",
+    "dry_run": false
   }
 ]
