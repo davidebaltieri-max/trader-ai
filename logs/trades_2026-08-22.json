@@ -25,5 +25,14 @@
     "price": 0.815,
     "reason": "RSI=83.3 🔴IPERCOMPRATO (>70) + 1h=+1.25% ma segnale di correzione imminente. DOT ha performato forte (+10.96% 24h) e RSI estremo suggerisce pullback. Riduco posizione in asset ipercomprato per liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T00:31:05.955277+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.2543,
+    "reason": "MACD BEARISH_CROSS confermato (hist=-0.0024 ↓decrescente). RSI=69.0 prossimo a 70. Momentum ribassista in formazione. Vendo prima della correzione attesa.",
+    "dry_run": false
   }
 ]
