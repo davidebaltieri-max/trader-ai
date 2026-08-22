@@ -97,5 +97,14 @@
     "price": 0.835,
     "reason": "RSI=87.5 IPERCOMPRATO + 4h=+5.06% (profitto realizzato) + MACD hist positivo ma momentum estremamente sovraesteso. Segnale di correzione imminente. Riduco posizione per lock-in gains.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T02:01:19.206149+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 80.3,
+    "reason": "RSI=71.0 IPERCOMPRATO + MACD BEARISH_CROSS (hist decrescente) + 1h=-0.30%. Segnale VENDITA MEDIA confermato. Riduco esposizione su posizione ancora in gain (+4.93% 24h).",
+    "dry_run": false
   }
 ]
