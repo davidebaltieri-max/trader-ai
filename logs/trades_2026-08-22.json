@@ -70,5 +70,14 @@
     "price": 10.3228,
     "reason": "RSI=71.2 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) = segnale VENDITA combinato. Nonostante +12.17% 24h, momentum sta invertendo. Realizzo profitti e riduco rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T01:31:17.302842+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.825,
+    "reason": "RSI=87.5 IPERCOMPRATO (massimo estremo) + MACD hist positivo ma decelerazione prevedibile su timeframe breve. DOT ha già +16.90% in 24h con volatilità alta (0.84%). Realizza profitti prima della correzione attesa.",
+    "dry_run": false
   }
 ]
