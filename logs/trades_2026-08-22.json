@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-22T00:01:19.667111+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.805,
+    "reason": "RSI=80.0 IPERCOMPRATO + 1h=0% (flat) + MACD hist positivo ma zona saturation. Realizza profitti su posizione in rialzo (24h=+11.11%) prima della correzione attesa. Riduci esposizione su layer 1 alternativo.",
+    "dry_run": false
+  }
+]
