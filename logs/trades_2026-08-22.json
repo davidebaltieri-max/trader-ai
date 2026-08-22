@@ -151,5 +151,14 @@
     "price": 6.8895,
     "reason": "RSI=95.4 IPERCOMPRATO critico, vol×=1.46x segnala volume in calo relativo (spike consumato). MACD hist crescente ma RSI non scende mai con questi livelli senza correzione. +10.94% 24h merita realizzazione parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T03:13:30.671873+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.845,
+    "reason": "RSI=100.0 (IPERCOMPRATO ESTREMO) + MACD hist positivo ma momentum eccessivo. DOT ha +18.06% in 24h, vol basso (0.30x). Correzione probabile. Riduco posizione per lock-in parziale.",
+    "dry_run": false
   }
 ]
