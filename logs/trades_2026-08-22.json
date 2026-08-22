@@ -61,5 +61,14 @@
     "price": 0.825,
     "reason": "RSI=85.7 IPERCOMPRATO + 4h=+5.13% momentum esaurito + volatilità alta (0.83%) = correzione probabile. Realizzo profitti su posizione in rialzo (15.49% 24h). Riduco esposizione su asset overbought.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-22T01:01:17.609250+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.3228,
+    "reason": "RSI=71.2 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) = segnale VENDITA combinato. Nonostante +12.17% 24h, momentum sta invertendo. Realizzo profitti e riduco rischio.",
+    "dry_run": false
   }
 ]
