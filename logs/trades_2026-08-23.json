@@ -142,5 +142,14 @@
     "price": 1.3756,
     "reason": "RSI=89.7 (IPERCOMPRATO estremo) + MACD hist positivo crescente ma a massimi. Momentum rialzista saturo. 24h=-1.75% divergenza negativa. Riduco posizione per lock-in parziale e rebalancing.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T14:31:21.008031+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 81.425,
+    "reason": "RSI=93.0 (IPERCOMPRATO massimo assoluto) + 1h=-0.01% flat. Segnale VENDITA MEDIA confermato. SOL è la posizione più calda, necessario de-risking prima potenziale pullback.",
+    "dry_run": false
   }
 ]
