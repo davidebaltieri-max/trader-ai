@@ -538,5 +538,14 @@
     "price": 1.3887,
     "reason": "RSI=76.0 (IPERCOMPRATO) + MACD hist positivo ma volume basso (0.67x). Correzione probabile. Realizzo profitti su posizione già forte (607 unità). Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T21:16:41.373005+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 0.795,
+    "reason": "RSI=71.4 (IPERCOMPRATO) + performance negativa 24h (-3.66%) + volume basso (0.89x). Trend localmente esausto nonostante MACD positivo. Segnale VENDITA MEDIA. Riduco posizione sovradimensionata (650 unità).",
+    "dry_run": false
   }
 ]
