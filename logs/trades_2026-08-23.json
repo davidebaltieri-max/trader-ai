@@ -385,5 +385,14 @@
     "price": 1.3753,
     "reason": "RSI=85.0 IPERCOMPRATO (massimo critico) + volume spike (1.87x) segnala esaurimento momentum. Take profit tattico su salita forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T18:21:13.211584+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.795,
+    "reason": "RSI=83.3 IPERCOMPRATO + 24h=-3.61% + volatilità alta 1.14% → correzione attesa. Profit-taking su posizione in eccesso (650 unità è sovraesposta per il profilo). Libera slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
