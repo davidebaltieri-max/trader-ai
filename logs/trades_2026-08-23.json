@@ -610,5 +610,14 @@
     "price": 0.795,
     "reason": "RSI=71.4 IPERCOMPRATO (>70) + 1h=+1.28% indica spike di breve termine + 24h=-3.66% mostra divergenza ribassista di medio termine. Segnale VENDITA FORTE: riduco posizione overweight su asset in correzione potenziale. Profitto realizzato, liquidità per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T23:01:26.268168+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 81.795,
+    "reason": "SEGNALE MEDIO-RIBASSISTA: SOL mostra BEARISH_CROSS MACD (hist=-0.0015 decrescente), 1h=+0.02% piatto, RSI=56.0 neutrale ma in calo. Divergenza bearish confermata. Riduco posizione per limitare downside e libero capital per opportunità migliori.",
+    "dry_run": false
   }
 ]
