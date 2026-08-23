@@ -493,5 +493,14 @@
     "price": 1.3769,
     "reason": "RSI=80.4 IPERCOMPRATO + volume spike 3.88x + MACD hist positivo ma in zona di ipercomprato. Realizza profitti su posizione gonfia e ridimensiona il rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T20:16:22.811436+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3721,
+    "reason": "RSI=74.3 IPERCOMPRATO + vol×=3.89x spike anomalo. Nonostante MACD hist crescente, l'RSI estremo + volume eccessivo suggerisce correzione imminente. Riduci posizione per lock-in parziale e liberare capitale.",
+    "dry_run": false
   }
 ]
