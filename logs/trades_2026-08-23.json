@@ -196,5 +196,14 @@
     "price": 1.363,
     "reason": "RSI=87.5 🔴IPERCOMPRATO (massimo storico). Sebbene MACD sia positivo, l'RSI estremo segnala correzione imminente. Volume elevato (1.06x) + volatilità media (0.51%) confermano possibile pullback. Vendita tattica per realizzare guadagni e ridurre concentrazione su asset ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T15:16:55.798599+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 81.36,
+    "reason": "RSI=84.0 🔴IPERCOMPRATO con -0.06% in 1h. Sebbene 4h=+1.03% e 24h=+2.12%, RSI estremo segnala correzione. MACD positivo ma decelerazione imminente attesa. Vendita conservativa su pump recente per realizzare profitti.",
+    "dry_run": false
   }
 ]
