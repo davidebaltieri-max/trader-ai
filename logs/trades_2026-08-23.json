@@ -286,5 +286,14 @@
     "price": 81.45,
     "reason": "RSI=80.0 IPERCOMPRATO critico + momentum decelerante (1h=+0.09% quasi piatto dopo rally 4h). SOL è al massimo di ciclo. Realizzo profitti su posizione piccola per de-risking e libero capital per dip-buying su altri asset.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T16:49:49.791274+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3728,
+    "reason": "RSI=83.2 IPERCOMPRATO (segnale VENDITA FORTE). MACD hist positivo ma RSI estremo indica correzione imminente. Vol×=1.13 confermato. Realizzo profitti parziali su posizione overextended.",
+    "dry_run": false
   }
 ]
