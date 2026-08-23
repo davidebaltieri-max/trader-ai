@@ -205,5 +205,14 @@
     "price": 81.36,
     "reason": "RSI=84.0 🔴IPERCOMPRATO con -0.06% in 1h. Sebbene 4h=+1.03% e 24h=+2.12%, RSI estremo segnala correzione. MACD positivo ma decelerazione imminente attesa. Vendita conservativa su pump recente per realizzare profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T15:31:08.208825+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3689,
+    "reason": "RSI=82.2 🔴IPERCOMPRATO + MACD hist positivo ma senza cross bullish confermato. 1h=-0.65% negativo. Volatilità media (0.54%). Posizione già in portafoglio con buon profitto potenziale. Vendita media preventiva per bloccare guadagni prima di possibile correzione.",
+    "dry_run": false
   }
 ]
