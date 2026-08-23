@@ -250,5 +250,14 @@
     "price": 81.435,
     "reason": "RSI=80.7 IPERCOMPRATO (segnale VENDITA FORTE), 1h=-0.05% (indebolimento), vol×=1.04 in aumento. Anche se MACD crescente, la posizione è troppo estesa. Riduco esposizione su asset volatile prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T16:19:03.107860+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.368,
+    "reason": "RSI=86.1 IPERCOMPRATO (massimo storico), segnale SELL FORTE. MACD hist positivo ma RSI estremo indica correzione imminente. 1h=+0.09% non compensa il rischio. Realizza profitti su posizione già significativa (607.98 unità). Proteggi il portafoglio da pullback.",
+    "dry_run": false
   }
 ]
