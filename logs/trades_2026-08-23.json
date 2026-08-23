@@ -97,5 +97,14 @@
     "price": 1.3743,
     "reason": "RSI=91.3 (IPERCOMPRATO) + 24h=-1.63% (divergenza ribassista). Momentum estremamente esteso. Vendita parziale per gestire volatilità e proteggere gains.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T14:01:22.686098+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 15.0,
+    "price": 6.4995,
+    "reason": "RSI=92.2 IPERCOMPRATO MASSIMO + MACD hist crescente ma già in zona estrema. Volatilità +0.29% moderata. Profit-taking su posizione già in portafoglio (3.019 unità) per liberare capital e ridurre esposizione a correzione imminente.",
+    "dry_run": false
   }
 ]
