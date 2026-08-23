@@ -115,5 +115,14 @@
     "price": 1.3748,
     "reason": "RSI=87.3 IPERCOMPRATO + 24h=-1.92% divergenza negativa. MACD hist crescente ma RSI estremo suggerisce esaurimento momentum. Vendita parziale (607.987 unità in portafoglio) per ridurre rischio e finanziare rotazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T14:18:19.246518+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 15.0,
+    "price": 6.528,
+    "reason": "RSI=91.9 IPERCOMPRATO + MACD hist positivo ma momentum inizia a saturare. AVAX ha segnato +2.61% in 4h: correzione probabile. Realizzo parzialmente per ridurre rischio e liberare liquidità.",
+    "dry_run": false
   }
 ]
