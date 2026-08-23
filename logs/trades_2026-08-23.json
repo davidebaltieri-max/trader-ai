@@ -547,5 +547,14 @@
     "price": 0.795,
     "reason": "RSI=71.4 (IPERCOMPRATO) + performance negativa 24h (-3.66%) + volume basso (0.89x). Trend localmente esausto nonostante MACD positivo. Segnale VENDITA MEDIA. Riduco posizione sovradimensionata (650 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T21:31:16.370144+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3878,
+    "reason": "RSI=76.0 IPERCOMPRATO + hist positivo ma volume basso (0.67x). Realizzo profitti su posizione in overbought. ATOM ha momentum debole rispetto a BTC/ETH. Riduco esposizione prima di correzione.",
+    "dry_run": false
   }
 ]
