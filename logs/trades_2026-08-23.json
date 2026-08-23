@@ -151,5 +151,14 @@
     "price": 81.425,
     "reason": "RSI=93.0 (IPERCOMPRATO massimo assoluto) + 1h=-0.01% flat. Segnale VENDITA MEDIA confermato. SOL è la posizione più calda, necessario de-risking prima potenziale pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T14:47:59.825088+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3678,
+    "reason": "RSI=80.9 IPERCOMPRATO + 1h=-1.00% + 24h=-2.99%. MACD hist positivo ma trend 24h negativo. Segnale di VENDITA MEDIA: riduco posizione overextended su timeframe breve per realizzare parzialmente i guadagni prima di possibile correzione.",
+    "dry_run": false
   }
 ]
