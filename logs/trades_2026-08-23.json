@@ -124,5 +124,14 @@
     "price": 6.528,
     "reason": "RSI=91.9 IPERCOMPRATO + MACD hist positivo ma momentum inizia a saturare. AVAX ha segnato +2.61% in 4h: correzione probabile. Realizzo parzialmente per ridurre rischio e liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T14:18:21.370121+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.3756,
+    "reason": "RSI=87.3 IPERCOMPRATO + 24h negativo (-1.92%) divergenza ribassista. MACD hist>0 ma volume debole (vol×=0.86). Realizzo profitti parziali su posizione ampia (608 unità).",
+    "dry_run": false
   }
 ]
