@@ -25,5 +25,14 @@
     "price": 0.775,
     "reason": "VENDITA MEDIA: RSI=42.9 (neutrale basso) + MACD hist=-0.0011 (negativo, decrescente) + 4h=-2.50% (trend ribassista locale) + vol×=+2.91x (volume altissimo = distribuzione). DOT mostra debolezza relativa rispetto al portafoglio. Ridimensionamento tattico per liberare liquidità e ridurre rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T11:43:58.178044+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 14.0,
+    "price": 80.83,
+    "reason": "VENDITA MEDIA-FORTE (PARZIALE): RSI=74.5 (IPERCOMPRATO) + 1h=+1.10% + 4h=+2.49% (momentum positivo ma saturo). SOL ha raggiunto livelli di ipercomprato severo; pur con momentum ancora positivo, il rischio di correzione è elevato. Riduzione parziale della posizione (0.5 SOL ≈ €40, vendiamo ≈€14 strategico) per cristallizzare guadagni e ridurre esposizione al rischio di pullback. Manteniamo posizione core per partecipare a ulteriori rialzi.",
+    "dry_run": false
   }
 ]
