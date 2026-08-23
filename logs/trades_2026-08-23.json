@@ -331,5 +331,14 @@
     "price": 0.795,
     "reason": "RSI=80.0 IPERCOMPRATO (>70) + 24h=-9.20% calo significativo + volat=1.12% media. Segnale VENDITA MEDIA: momentum rialzista esaurito dopo calo del 9.2%. Protezione posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T17:31:18.475647+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.795,
+    "reason": "RSI=80.0 IPERCOMPRATO + 24h=-9.20% calo significativo. Anche se MACD hist positivo, il calo 24h e RSI estremo segnalano correzione imminente. Vendita media per proteggere gains e ridurre volatilità in posizione sovraesposta.",
+    "dry_run": false
   }
 ]
