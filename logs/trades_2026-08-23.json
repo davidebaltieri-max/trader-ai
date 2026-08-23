@@ -259,5 +259,14 @@
     "price": 1.368,
     "reason": "RSI=86.1 IPERCOMPRATO (massimo storico), segnale SELL FORTE. MACD hist positivo ma RSI estremo indica correzione imminente. 1h=+0.09% non compensa il rischio. Realizza profitti su posizione già significativa (607.98 unità). Proteggi il portafoglio da pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T16:19:04.473915+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 81.34,
+    "reason": "RSI=79.0 IPERCOMPRATO, 1h=-0.18% in negativo. MACD hist positivo ma momentum declinante su 1h suggerisce esaurimento. Ridimensiona posizione volatile prima di correzione.",
+    "dry_run": false
   }
 ]
