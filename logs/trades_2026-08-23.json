@@ -412,5 +412,14 @@
     "price": 0.795,
     "reason": "RSI=83.3 IPERCOMPRATO + MACD hist crescente ma momentum eccessivo. DOT in rally di 4h=+2.56% su base debole (24h=-3.61%). Realizza profitto su posizione overextended, libera liquidità per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T18:31:11.650630+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3788,
+    "reason": "RSI=83.1 IPERCOMPRATO (segnale VENDITA MEDIA confermato). Volume×2.25 eccessivo, volatilità=+0.48% moderata. Momentum ribassista imminente probabile. Riduci posizione overextended, proteggi profitti.",
+    "dry_run": false
   }
 ]
