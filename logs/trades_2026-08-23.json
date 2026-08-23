@@ -178,5 +178,14 @@
     "price": 1.3662,
     "reason": "RSI=80.9 IPERCOMPRATO + 1h=-1.00% + 24h=-2.99%. Segnale di vendita media: correzione probabile dopo rally. Realizzo profitti su posizione consolidata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T15:01:16.272995+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 80.985,
+    "reason": "RSI=76.1 IPERCOMPRATO + 1h=-0.65%. Momentum rialzista confermato (MACD hist positivo crescente) ma RSI segnala ritracciamento imminente. Riduco esposizione su ipercomprato.",
+    "dry_run": false
   }
 ]
