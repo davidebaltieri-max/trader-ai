@@ -7,5 +7,14 @@
     "price": 9.9627,
     "reason": "LINK presenta segnali deboli: RSI=42.8 (trend ribassista incipiente), MACD histogram negativo decrescente (-0.0022), 4h=-0.74%, 24h=-2.92%. Volume×=3.29 eccezionalmente alto suggerisce scarico. Vendita parziale (10€) per ridurre posizione debole, mantenendo upside se rimbalza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T01:31:06.233210+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 8.0,
+    "price": 0.795,
+    "reason": "DOT mostra debolezza relativa: RSI=42.9 (ancora neutrale ma verso basso), MACD hist negativo e decrescente (-0.0003), 4h=-1.25% in contrasto con 1h=+1.28% (divergenza). Momentum ribassista confermato nel medio termine. Ridimensionamento posizione sovrappesata (650 unità).",
+    "dry_run": false
   }
 ]
