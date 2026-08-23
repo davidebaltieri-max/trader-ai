@@ -169,5 +169,14 @@
     "price": 80.825,
     "reason": "RSI=79.4 IPERCOMPRATO + 1h=-0.66%. Nonostante MACD hist crescente e 4h positivo, il contesto generale mostra multipli asset in overbought. Riduco exposure su SOL (presentizia già piccola 1.747 unità) per liberare capital per dip-buying più conveniente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T15:01:15.143507+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3662,
+    "reason": "RSI=80.9 IPERCOMPRATO + 1h=-1.00% + 24h=-2.99%. Segnale di vendita media: correzione probabile dopo rally. Realizzo profitti su posizione consolidata.",
+    "dry_run": false
   }
 ]
