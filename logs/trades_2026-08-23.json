@@ -43,5 +43,14 @@
     "price": 6.436,
     "reason": "SEGNALE VENDITA MEDIA: RSI=84.5 (IPERCOMPRATO estremo) + MACD hist positivo ma RSI ai massimi storici espone a correzione. Vendita parziale (50% della posizione ~€19) per lock-in profitti e ridurre rischio di pullback su asset volatile. Mantieni posizione residua per upside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T13:11:27.034442+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 80.94,
+    "reason": "RSI=84.9 IPERCOMPRATO + MACD hist positivo ma momentum eccessivo su timeframe corto. Volatilità contenuta (0.29%) suggerisce consolidamento prima di correzione. Realizza parte dei guadagni su posizione in ipercomprato.",
+    "dry_run": false
   }
 ]
