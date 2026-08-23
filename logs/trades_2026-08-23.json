@@ -61,5 +61,14 @@
     "price": 6.4495,
     "reason": "RSI=81.2 IPERCOMPRATO + MACD hist positivo crescente ma segnale saturo. Profit taking su layer 1 alternativo con riserva di liquidità per dip-buying opportuno.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T13:31:09.831804+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 8.0,
+    "price": 81.125,
+    "reason": "RSI=85.7 IPERCOMPRATO (segnale VENDITA FORTE). Momentum rialzista confermato da MACD hist positivo crescente, ma RSI estremo segnala correzione imminente. Riduco posizione per lock-in parziale profitti e liberare capitale.",
+    "dry_run": false
   }
 ]
