@@ -367,5 +367,14 @@
     "price": 0.795,
     "reason": "RSI=80.0 IPERCOMPRATO + 24h=-9.20% calo significativo + volat=+1.12% elevata. Segnale VENDITA MEDIA. Ridimensiono posizione (650 unità) per limitare drawdown su asset in difficoltà giornaliera.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T18:01:22.586096+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.795,
+    "reason": "RSI=80.0 IPERCOMPRATO + volatilità alta (1.12%) + calo 24h=-4.82%. Correzione imminente. Riduco posizione per bloccare guadagni e liberare slot.",
+    "dry_run": false
   }
 ]
