@@ -277,5 +277,14 @@
     "price": 1.3675,
     "reason": "RSI=80.7 IPERCOMPRATO + 1h=-0.31% negativo + volatilità media 0.51%. ATOM ha rallied 1.90% in 4h ma è in zona di ipercompra estrema. Realizzo profitti parziali su posizione grande (607.98 unità). Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T16:31:11.743637+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 81.45,
+    "reason": "RSI=80.0 IPERCOMPRATO critico + momentum decelerante (1h=+0.09% quasi piatto dopo rally 4h). SOL è al massimo di ciclo. Realizzo profitti su posizione piccola per de-risking e libero capital per dip-buying su altri asset.",
+    "dry_run": false
   }
 ]
