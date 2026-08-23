@@ -358,5 +358,14 @@
     "price": 1.3777,
     "reason": "RSI=85.0 IPERCOMPRATO + vol×=1.87x (volume anomalo in salita) + 4h=+3.11% ha raggiunto picco locale. Segnale VENDITA FORTE. Realizzo profitti su posizione ampia (607.99 unità). Rimango con core position per esposizione al settore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T17:43:31.991500+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.795,
+    "reason": "RSI=80.0 IPERCOMPRATO + 24h=-9.20% calo significativo + volat=+1.12% elevata. Segnale VENDITA MEDIA. Ridimensiono posizione (650 unità) per limitare drawdown su asset in difficoltà giornaliera.",
+    "dry_run": false
   }
 ]
