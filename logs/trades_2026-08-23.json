@@ -313,5 +313,14 @@
     "price": 81.5,
     "reason": "RSI=77.5 IPERCOMPRATO (>70) + momentum eccezionale (+0.43% 4h). SOL è la posizione più vulnerabile a correzione. Protezione profitti su asset volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T17:16:20.551921+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.3802,
+    "reason": "RSI=83.2 IPERCOMPRATO (>70) + vol×=1.14x elevato + 1h=+0.04% piatto. Segnale VENDITA FORTE: correzione imminente. ATOM in zona di rischio massimo con ipercomprato confermato.",
+    "dry_run": false
   }
 ]
