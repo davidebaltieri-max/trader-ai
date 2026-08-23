@@ -601,5 +601,14 @@
     "price": 0.795,
     "reason": "RSI=75.0 IPERCOMPRATO + volatilità alta 1.06% + 1h=+2.56% indica possibile correzione imminente. Realizzo profitti su posizione forte. Riduco esposizione prima del pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T22:46:30.458579+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.795,
+    "reason": "RSI=71.4 IPERCOMPRATO (>70) + 1h=+1.28% indica spike di breve termine + 24h=-3.66% mostra divergenza ribassista di medio termine. Segnale VENDITA FORTE: riduco posizione overweight su asset in correzione potenziale. Profitto realizzato, liquidità per opportunità migliori.",
+    "dry_run": false
   }
 ]
