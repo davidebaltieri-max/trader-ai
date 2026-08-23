@@ -349,5 +349,14 @@
     "price": 1.3762,
     "reason": "RSI=83.2 IPERCOMPRATO (massimo del dataset). MACD hist positivo ma RSI troppo estremo indica ipercompratoione severa. Volume spike (+1.14x) suggerisce possibile esaurimento rialzo. Vendita media per ridurre rischio correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T17:43:30.577195+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3777,
+    "reason": "RSI=85.0 IPERCOMPRATO + vol×=1.87x (volume anomalo in salita) + 4h=+3.11% ha raggiunto picco locale. Segnale VENDITA FORTE. Realizzo profitti su posizione ampia (607.99 unità). Rimango con core position per esposizione al settore.",
+    "dry_run": false
   }
 ]
