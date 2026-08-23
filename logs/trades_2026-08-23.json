@@ -160,5 +160,14 @@
     "price": 1.3678,
     "reason": "RSI=80.9 IPERCOMPRATO + 1h=-1.00% + 24h=-2.99%. MACD hist positivo ma trend 24h negativo. Segnale di VENDITA MEDIA: riduco posizione overextended su timeframe breve per realizzare parzialmente i guadagni prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T14:48:01.250371+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 80.825,
+    "reason": "RSI=79.4 IPERCOMPRATO + 1h=-0.66%. Nonostante MACD hist crescente e 4h positivo, il contesto generale mostra multipli asset in overbought. Riduco exposure su SOL (presentizia già piccola 1.747 unità) per liberare capital per dip-buying più conveniente.",
+    "dry_run": false
   }
 ]
