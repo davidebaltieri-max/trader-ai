@@ -106,5 +106,14 @@
     "price": 6.4995,
     "reason": "RSI=92.2 IPERCOMPRATO MASSIMO + MACD hist crescente ma già in zona estrema. Volatilità +0.29% moderata. Profit-taking su posizione già in portafoglio (3.019 unità) per liberare capital e ridurre esposizione a correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T14:01:24.249108+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.3748,
+    "reason": "RSI=87.3 IPERCOMPRATO + 24h=-1.92% divergenza negativa. MACD hist crescente ma RSI estremo suggerisce esaurimento momentum. Vendita parziale (607.987 unità in portafoglio) per ridurre rischio e finanziare rotazione.",
+    "dry_run": false
   }
 ]
