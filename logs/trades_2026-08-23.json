@@ -466,5 +466,14 @@
     "price": 1.3763,
     "reason": "RSI=76.0 IPERCOMPRATO + MACD hist positivo ma momentum eccessivo. Profit taking su posizione già forte (607 unità). Riduco esposizione per liberare cash e slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T19:31:08.126889+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3772,
+    "reason": "RSI=74.8 (IPERCOMPRATO) + MACD hist positivo ma in zona di saturazione + vol×=2.07x elevato. Vendita media per realizzare profitti e ridurre overexposure su asset ipercomprato. Ridimensiono posizione prima della correzione.",
+    "dry_run": false
   }
 ]
