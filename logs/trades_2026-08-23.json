@@ -295,5 +295,14 @@
     "price": 1.3728,
     "reason": "RSI=83.2 IPERCOMPRATO (segnale VENDITA FORTE). MACD hist positivo ma RSI estremo indica correzione imminente. Vol×=1.13 confermato. Realizzo profitti parziali su posizione overextended.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T16:49:51.292712+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 81.395,
+    "reason": "RSI=78.7 IPERCOMPRATO (segnale VENDITA MEDIA). Sebbene 4h=+0.84% e MACD crescente, l'RSI estremamente elevato segnala correzione prossima. Take profit parziale.",
+    "dry_run": false
   }
 ]
