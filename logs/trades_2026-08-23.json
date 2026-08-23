@@ -214,5 +214,14 @@
     "price": 1.3689,
     "reason": "RSI=82.2 🔴IPERCOMPRATO + MACD hist positivo ma senza cross bullish confermato. 1h=-0.65% negativo. Volatilità media (0.54%). Posizione già in portafoglio con buon profitto potenziale. Vendita media preventiva per bloccare guadagni prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T15:31:09.435850+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 19.54,
+    "price": 6.471,
+    "reason": "RSI=75.7 🔴IPERCOMPRATO + 1h=-0.11% debolezza. Volatilità media (0.38%). MACD hist positivo crescente ma RSI eccessivamente elevato suggerisce pullback. Riduco posizione in profitto per de-risking.",
+    "dry_run": false
   }
 ]
