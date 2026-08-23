@@ -133,5 +133,14 @@
     "price": 1.3756,
     "reason": "RSI=87.3 IPERCOMPRATO + 24h negativo (-1.92%) divergenza ribassista. MACD hist>0 ma volume debole (vol×=0.86). Realizzo profitti parziali su posizione ampia (608 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T14:31:19.688042+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3756,
+    "reason": "RSI=89.7 (IPERCOMPRATO estremo) + MACD hist positivo crescente ma a massimi. Momentum rialzista saturo. 24h=-1.75% divergenza negativa. Riduco posizione per lock-in parziale e rebalancing.",
+    "dry_run": false
   }
 ]
