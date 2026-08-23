@@ -574,5 +574,14 @@
     "price": 1.3823,
     "reason": "VENDITA MEDIA: RSI=76.0 IPERCOMPRATO (estremo), 1h=+1.24% ma 24h=+1.23% mostra plateau, vol×=0.67 (volume scarso, possibile perdita di momentum). Posizione grande (607 unità): realizzo profitti prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T22:01:21.250592+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.795,
+    "reason": "RSI=75.0 IPERCOMPRATO + 1h=-0.41% (pullback) + 24h=-2.44% (divergenza bearish). Vendita media per ridurre posizione sovraccarica e liberare slot. DOT mostra segnali di correzione imminente.",
+    "dry_run": false
   }
 ]
