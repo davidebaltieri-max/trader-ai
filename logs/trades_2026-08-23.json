@@ -448,5 +448,14 @@
     "price": 0.795,
     "reason": "RSI=80.0 IPERCOMPRATO + volatilità alta (1.12%) + calo 4h (-1.25%) e 24h (-3.66%). Segnale di correzione imminente. Riduci posizione overextended.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T19:01:22.475846+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3778,
+    "reason": "RSI=76.0 IPERCOMPRATO + MACD hist decrescente (momentum in esaurimento) + volume spike (2.33x) suggerisce distribuzione. Prendi profitti parziali.",
+    "dry_run": false
   }
 ]
