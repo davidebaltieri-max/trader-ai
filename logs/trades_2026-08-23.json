@@ -556,5 +556,14 @@
     "price": 1.3878,
     "reason": "RSI=76.0 IPERCOMPRATO + hist positivo ma volume basso (0.67x). Realizzo profitti su posizione in overbought. ATOM ha momentum debole rispetto a BTC/ETH. Riduco esposizione prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T21:43:57.263471+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.795,
+    "reason": "VENDITA MEDIA: RSI=75.0 IPERCOMPRATO (segnale di correzione), 1h=+2.56% molto aggressivo (possibile picco locale), 24h=-2.44% (divergenza ribassista su daily), MACD hist positivo ma su timeframe più ampio likely correzione in arrivo. Riduco posizione sovraesposta per lock-in gains.",
+    "dry_run": false
   }
 ]
