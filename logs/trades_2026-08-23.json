@@ -583,5 +583,14 @@
     "price": 0.795,
     "reason": "RSI=75.0 IPERCOMPRATO + 1h=-0.41% (pullback) + 24h=-2.44% (divergenza bearish). Vendita media per ridurre posizione sovraccarica e liberare slot. DOT mostra segnali di correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T22:01:22.626970+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.3815,
+    "reason": "RSI=76.0 IPERCOMPRATO (massimo del dataset) + MACD hist positivo ma flatline (perdita di momentum). 1h=+1.24% ma momentum si sta esaurendo. Vendita media per lock-in profitti e ridurre esposizione eccessive.",
+    "dry_run": false
   }
 ]
