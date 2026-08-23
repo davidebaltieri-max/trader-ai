@@ -241,5 +241,14 @@
     "price": 1.3694,
     "reason": "RSI=86.9 IPERCOMPRATO (segnale VENDITA FORTE), vol×=2.22 (volume molto alto confermando la spinta), MACD hist positivo ma in zona estrema. Correzione imminente probabile. Realizzo profitti su posizione sovraestesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T16:01:24.394414+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 81.435,
+    "reason": "RSI=80.7 IPERCOMPRATO (segnale VENDITA FORTE), 1h=-0.05% (indebolimento), vol×=1.04 in aumento. Anche se MACD crescente, la posizione è troppo estesa. Riduco esposizione su asset volatile prima della correzione.",
+    "dry_run": false
   }
 ]
