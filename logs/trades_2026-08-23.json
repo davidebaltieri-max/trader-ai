@@ -565,5 +565,14 @@
     "price": 0.795,
     "reason": "VENDITA MEDIA: RSI=75.0 IPERCOMPRATO (segnale di correzione), 1h=+2.56% molto aggressivo (possibile picco locale), 24h=-2.44% (divergenza ribassista su daily), MACD hist positivo ma su timeframe più ampio likely correzione in arrivo. Riduco posizione sovraesposta per lock-in gains.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T21:43:58.508745+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3823,
+    "reason": "VENDITA MEDIA: RSI=76.0 IPERCOMPRATO (estremo), 1h=+1.24% ma 24h=+1.23% mostra plateau, vol×=0.67 (volume scarso, possibile perdita di momentum). Posizione grande (607 unità): realizzo profitti prima della correzione attesa.",
+    "dry_run": false
   }
 ]
