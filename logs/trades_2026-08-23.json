@@ -79,5 +79,14 @@
     "price": 6.465,
     "reason": "RSI=83.3 IPERCOMPRATO + vol×=2.80 (volume altissimo = pressione di vendita potenziale). MACD hist positivo ma RSI oltre soglia critica. Vendita parziale per gestire rischio su posizione sovraesposta in zona ipercomprata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T13:52:27.409535+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 15.0,
+    "price": 6.4825,
+    "reason": "RSI=91.7 (IPERCOMPRATO estremo) + MACD hist positivo ma su livelli di divergenza. Correzione probabile. Realizzo profitti su posizione in momentum rialzista per liberare capitale e ridurre rischio.",
+    "dry_run": false
   }
 ]
