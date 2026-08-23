@@ -376,5 +376,14 @@
     "price": 0.795,
     "reason": "RSI=80.0 IPERCOMPRATO + volatilità alta (1.12%) + calo 24h=-4.82%. Correzione imminente. Riduco posizione per bloccare guadagni e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-23T18:01:24.134325+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3753,
+    "reason": "RSI=85.0 IPERCOMPRATO (massimo critico) + volume spike (1.87x) segnala esaurimento momentum. Take profit tattico su salita forte.",
+    "dry_run": false
   }
 ]
