@@ -142,5 +142,14 @@
     "price": 1.3197,
     "reason": "VENDITA TATTICA: ATOM mostra debolezza su 24h (-3.01%), 4h (-0.89%), MACD hist negativo decrescente (-0.0015), RSI=44.2 (zona neutra bassa). Segnali ribassisti diffusi senza controspinte. Liquidazione parziale (€50) per liberare capital allocation verso opportunità di momentum più forti (SOL, ADA). Mantieni piccola posizione per esposizione interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T21:54:56.654740+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.775,
+    "reason": "DOT mostra deterioramento tecnico: RSI=44.4 (neutro ma debole), MACD hist=-0.0011 (negativo e decrescente), 1h=-1.28% 4h=-2.53% (momentum ribassista nelle ultime 4h), vol×=0.52 (volume basso), volatilità alta=1.16%. Segnale VENDITA MEDIA. Riduco esposizione su interoperabilità debole per realizzare parzialmente.",
+    "dry_run": false
   }
 ]
