@@ -16,5 +16,14 @@
     "price": 1.3495,
     "reason": "RSI=39.7 (neutra), MACD hist=-0.0036 (negativo e decrescente), 24h=-0.38% (in calo), 4h=-1.73% (flessione 4h significativa), vol×=1.25x. Segnale NESSUNA AZIONE per MACD, ma pattern: trend ribassista su timeframe medio (4h) con momentum negativo, posizione già in perdita % relativa nel portafoglio. Exit parziale (607.98 → ridurre a ~300) per riallocare su asset con momentum positivo (ADA/UNI). Recupera ~€820 di liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T06:01:29.714474+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.775,
+    "reason": "DOT mostra weakness strutturale: 1h=-1.28%, 4h=-1.28%, 24h=-3.75% (peggiore del portafoglio). RSI=37.5 in discesa, MACD hist negativo decrescente (-0.0009). Volume basso (0.29x) non supporta il calo. Riduco posizione (650 unità è sovraesposta) per liberare capitale e limitare drawdown. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
