@@ -97,5 +97,14 @@
     "price": 1.2623,
     "reason": "VENDITA MEDIA confermata: RSI=46.7 (zona neutra bassa) + MACD BEARISH_CROSS (hist=-0.0008) + 1h=-2.95% + 4h=-2.13% + 24h=-2.26%. Momentum ribassista chiaro. XRP in fase di debolezza tecnica. Riduco posizione per liberare capitale e limito downside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T17:26:12.173610+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.3186,
+    "reason": "VENDITA MEDIA: RSI=34.6 (ipervenduto ma in contesto ribassista) + MACD hist=-0.0016 decrescente + 4h=-1.24% + 24h=-0.98%. Volume 0.92x non sostiene rimbalzo. Momentum ribassista persistente. Realizzo parziale per gestire drawdown.",
+    "dry_run": false
   }
 ]
