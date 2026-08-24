@@ -7,5 +7,14 @@
     "price": 1.2731,
     "reason": "VENDITA MEDIA: RSI=45.1 (neutrale basso), MACD hist negativo decrescente, -2.51% 4h su consolidamento. Posizione già importante (€19.57), momentum ribassista su timeframe medio. Realizza il +1.22% 24h e libera liquidità per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T04:31:23.998825+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3495,
+    "reason": "RSI=39.7 (neutra), MACD hist=-0.0036 (negativo e decrescente), 24h=-0.38% (in calo), 4h=-1.73% (flessione 4h significativa), vol×=1.25x. Segnale NESSUNA AZIONE per MACD, ma pattern: trend ribassista su timeframe medio (4h) con momentum negativo, posizione già in perdita % relativa nel portafoglio. Exit parziale (607.98 → ridurre a ~300) per riallocare su asset con momentum positivo (ADA/UNI). Recupera ~€820 di liquidità.",
+    "dry_run": false
   }
 ]
