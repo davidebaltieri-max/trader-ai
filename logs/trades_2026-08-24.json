@@ -169,5 +169,14 @@
     "price": 1.3125,
     "reason": "ATOM in debolezza strutturale: RSI=38.8 (prossimo a ipervenduto ma discendente), MACD hist=-0.0007 ↓decrescente, 1h=-0.68%, 4h=-0.75%, 24h=-3.80%. Volume molto basso (0.13x). Trend ribassista confermato su multi-timeframe. Rebalancing per liberare liquidità verso asset con momentum positivo. Vendita parziale (riduzione rischio senza exit totale).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T23:31:14.133863+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3066,
+    "reason": "VENDITA MEDIA: RSI=33.5 (ipervenduto, ma trend ancora ribassista), MACD hist=-0.0014 ↓ decrescente (momentum negativo persistente), 1h=-0.41% 4h=-1.21% 24h=-4.72% (weakness su tutti i timeframe), vol×=+1.37x (volume alto su calo = distribuzione). Ridurre esposizione su asset in chiaro trend negativo per liberare capitale.",
+    "dry_run": false
   }
 ]
