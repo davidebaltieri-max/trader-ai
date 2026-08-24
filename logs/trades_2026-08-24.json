@@ -115,5 +115,14 @@
     "price": 1.3154,
     "reason": "ATOM in ipervenduto (RSI=32.8) MA con MACD hist=-0.0018 decrescente, -1.73% su 24h senza segnali di rimbalzo, volume×=+0.43x basso. Riduco posizione elevata (607.98 unità) per liberare capitale verso opportunità migliori. Posizione di de-risking su settore debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T20:57:22.463221+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 19.55,
+    "price": 1.2671,
+    "reason": "XRP mostra chiari segnali di debolezza: 1h=-0.39%, 4h=-1.38%, 24h=-1.35%, RSI=46.6 in calo verso ipervenduto ma trend ribassista confermato. MACD hist negativo decrescente. Volume elevato (1.01x) su movimento negativo. Ridurre esposizione su questo asset prima di ulteriori cali.",
+    "dry_run": false
   }
 ]
