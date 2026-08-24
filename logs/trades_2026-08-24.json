@@ -88,5 +88,14 @@
     "price": 9.8535,
     "reason": "LINK: RSI=45.0 (zona neutra bassa), MACD hist=-0.0149 decrescente (momentum ribassista in corso), 1h=-1.24% negativo, 4h=-1.40% negativo. Trend debole su multipli timeframe. Segnale di VENDITA MEDIA confermato. Riduco esposizione su settore DeFi sottoperformante (UNI -5.97% in 24h). Trimming tattico su 2.5 unità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T17:26:09.805262+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2623,
+    "reason": "VENDITA MEDIA confermata: RSI=46.7 (zona neutra bassa) + MACD BEARISH_CROSS (hist=-0.0008) + 1h=-2.95% + 4h=-2.13% + 24h=-2.26%. Momentum ribassista chiaro. XRP in fase di debolezza tecnica. Riduco posizione per liberare capitale e limito downside.",
+    "dry_run": false
   }
 ]
