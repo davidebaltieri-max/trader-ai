@@ -25,5 +25,14 @@
     "price": 0.775,
     "reason": "DOT mostra weakness strutturale: 1h=-1.28%, 4h=-1.28%, 24h=-3.75% (peggiore del portafoglio). RSI=37.5 in discesa, MACD hist negativo decrescente (-0.0009). Volume basso (0.29x) non supporta il calo. Riduco posizione (650 unità è sovraesposta) per liberare capitale e limitare drawdown. Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T07:01:25.914440+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.775,
+    "reason": "SEGNALE DI USCITA PARZIALE: RSI=37.5 (ipervenduto) ma MACD hist=-0.0010 decrescente, 1h=-1.28% + 4h=-1.28% + 24h=-3.75% trend negativo chiaro. Volatilità=+0.92% (elevata). Anche se RSI basso suggerisce rimbalzo, il momentum ribassista persiste. Riduco esposizione (vendi 20€ su 503€ posizione = ~4%) e preservo capitale per opportunità migliori.",
+    "dry_run": false
   }
 ]
