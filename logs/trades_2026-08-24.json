@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-24T03:01:31.277358+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 19.57,
+    "price": 1.2731,
+    "reason": "VENDITA MEDIA: RSI=45.1 (neutrale basso), MACD hist negativo decrescente, -2.51% 4h su consolidamento. Posizione già importante (€19.57), momentum ribassista su timeframe medio. Realizza il +1.22% 24h e libera liquidità per opportunità migliori.",
+    "dry_run": false
+  }
+]
