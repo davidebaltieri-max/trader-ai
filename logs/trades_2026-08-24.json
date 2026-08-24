@@ -151,5 +151,14 @@
     "price": 0.775,
     "reason": "DOT mostra deterioramento tecnico: RSI=44.4 (neutro ma debole), MACD hist=-0.0011 (negativo e decrescente), 1h=-1.28% 4h=-2.53% (momentum ribassista nelle ultime 4h), vol×=0.52 (volume basso), volatilità alta=1.16%. Segnale VENDITA MEDIA. Riduco esposizione su interoperabilità debole per realizzare parzialmente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T22:20:10.756050+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3171,
+    "reason": "RSI=33.9 (ipervenduto ma non cross bullish), MACD hist=-0.0006 decrescente, 1h=-0.64% 4h=-0.74% 24h=-4.23%, momentum ribassista evidente. Riduco posizione su debolezza, preservo capitale. ATOM al di sotto dei supporti, uscita parziale prudenziale.",
+    "dry_run": false
   }
 ]
