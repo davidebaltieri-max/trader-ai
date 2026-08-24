@@ -79,5 +79,14 @@
     "price": 1.3369,
     "reason": "ATOM mostra debolezza: RSI=46.9 in decrescita + MACD hist=-0.0007 decrescente (bearish cross in formazione). 4h=-1.17% + vol×=0.11 (volume molto basso) confermano perdita di slancio. Realistico prendere profitti parziali su posizione consolidata. Reduce risk, ruota verso momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T17:01:32.867455+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.8535,
+    "reason": "LINK: RSI=45.0 (zona neutra bassa), MACD hist=-0.0149 decrescente (momentum ribassista in corso), 1h=-1.24% negativo, 4h=-1.40% negativo. Trend debole su multipli timeframe. Segnale di VENDITA MEDIA confermato. Riduco esposizione su settore DeFi sottoperformante (UNI -5.97% in 24h). Trimming tattico su 2.5 unità.",
+    "dry_run": false
   }
 ]
