@@ -70,5 +70,14 @@
     "price": 1.3413,
     "reason": "VENDITA CAUTELATIVA: RSI=43.1 (zona neutra bassa), MACD hist=-0.0015 ↓decrescente, momentum ribassista incipiente. 4h=-1.35% trend negativo su timeframe intermedio. Volume×=+13.13x anomalo suggerisce possibile liquidazione. Riduco posizione per gestire rischio su segnali discordanti rispetto al trend generale. Mantengo base ma realizzo parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T16:01:48.396678+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.3369,
+    "reason": "ATOM mostra debolezza: RSI=46.9 in decrescita + MACD hist=-0.0007 decrescente (bearish cross in formazione). 4h=-1.17% + vol×=0.11 (volume molto basso) confermano perdita di slancio. Realistico prendere profitti parziali su posizione consolidata. Reduce risk, ruota verso momentum positivo.",
+    "dry_run": false
   }
 ]
