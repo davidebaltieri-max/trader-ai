@@ -133,5 +133,14 @@
     "price": 0.189,
     "reason": "ACQUISTO OPPORTUNISTICO: ADA in calo 24h (-2.18%) ma presenta momentum positivo 1h (+0.66%) e RSI=47.3 (zona neutra non estrema). MACD hist negativo ma non in cross bearish deciso. Layer 1 alternativo mancante in portafoglio. Piccolo dip-buy su calo moderato, coerente con profilo performante. Diversificazione su 5 asset.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T21:01:24.777475+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 50.0,
+    "price": 1.3197,
+    "reason": "VENDITA TATTICA: ATOM mostra debolezza su 24h (-3.01%), 4h (-0.89%), MACD hist negativo decrescente (-0.0015), RSI=44.2 (zona neutra bassa). Segnali ribassisti diffusi senza controspinte. Liquidazione parziale (€50) per liberare capital allocation verso opportunità di momentum più forti (SOL, ADA). Mantieni piccola posizione per esposizione interoperabilità.",
+    "dry_run": false
   }
 ]
