@@ -34,5 +34,14 @@
     "price": 0.775,
     "reason": "SEGNALE DI USCITA PARZIALE: RSI=37.5 (ipervenduto) ma MACD hist=-0.0010 decrescente, 1h=-1.28% + 4h=-1.28% + 24h=-3.75% trend negativo chiaro. Volatilità=+0.92% (elevata). Anche se RSI basso suggerisce rimbalzo, il momentum ribassista persiste. Riduco esposizione (vendi 20€ su 503€ posizione = ~4%) e preservo capitale per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-24T09:01:25.144037+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.765,
+    "reason": "RSI=40.0 (zona neutra bassa). MACD hist=-0.0010 decrescente (trend ribassista). 1h=-2.53% (weakness evidente). 24h=-2.53% riconferma il calo. Volume molto basso (0.16x) con volatilità alta (+1.43%) = movimento instabile. Riduci posizione per proteggere capitale in fase di debolezza.",
+    "dry_run": false
   }
 ]
