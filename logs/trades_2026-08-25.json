@@ -367,5 +367,14 @@
     "price": 1.3142,
     "reason": "ATOM unico asset con movimento positivo intraday (1h=+0.89%, 4h=-0.23%). Volume spike anomalo (5.40x) suggerisce presa di profitto o dump imminente. RSI=46.5 (neutral ma al limite superiore della zona). MACD hist circa zero. Take profit parziale su forza relativa per ridistribuire in asset ipervenduti. Posizione mantenuta ma ridotta.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T23:31:34.273285+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "DOT: RSI=33.3 (borderline), MACD decrescente (hist=-0.0006), calo 24h=-5.13%, vol×=+1.56x su volumi alti. Segnale ribassista confermato. Riduci esposizione su Layer 1 alternativo debole, libera slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
