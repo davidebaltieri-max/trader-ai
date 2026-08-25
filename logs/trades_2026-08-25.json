@@ -340,5 +340,14 @@
     "price": 9.7765,
     "reason": "RSI=43.9 (neutra bassa). MACD hist=-0.0073 decrescente (trend ribassista). 1h=-0.36%, 4h=-0.96%, 24h=-1.67% tutti negativi. Infrastruttura DeFi in fase di debolezza. Liquidare per reallocare su segnali più forti (UNI, ADA). Libera capitale e riduce esposizione settoriale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T22:20:56.568949+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.735,
+    "reason": "RSI=33.3 (ipervenduto ma in caduta), MACD hist negativo decrescente (momentum ribassista confermato), 4h=-1.33%, 24h=-6.33% (trend ribassista forte). Segnale VENDITA MEDIA: riduco posizione sovrapesata (665 unità = ~€489 value). Realizzo parziale per proteggere dal sell-off e generare liquidità per riallocazioni più opportune.",
+    "dry_run": false
   }
 ]
