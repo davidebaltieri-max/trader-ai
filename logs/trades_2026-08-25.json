@@ -52,5 +52,14 @@
     "price": 86.02,
     "reason": "SOL in IPERCOMPRATO critico: RSI=75.0 (>70), 1h=-1.55% già showing first signs di debolezza, vol×=0.69x (volume in calo), MACD hist positivo ma potenziale correzione imminente. Realizza +6.25% in 24h con partial take-profit per ridurre esposizione su massimi. Segnale VENDITA DEBOLE ma profilattico su livelli estremi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T02:20:02.178930+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3233,
+    "reason": "VENDITA MEDIA confermata: RSI=40.1 (zona neutra bassa) + MACD hist=-0.0003 decrescente (momentum ribassista) + 24h=-4.55% (trend negativo consolidato) + 4h=-0.85%. ATOM è l'unico asset con divergenza ribassista chiara. Necessario ridurre esposizione su posizione in debolezza.",
+    "dry_run": false
   }
 ]
