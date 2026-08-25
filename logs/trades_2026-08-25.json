@@ -268,5 +268,14 @@
     "price": 1.3147,
     "reason": "ATOM mostra debolezza tecnica: 24h=-1.89%, 4h=-1.62%, 1h=-0.69% downtrend confermato. RSI=41.5 (neutrale-debole) non supporta ulteriore tenuta. Vol×=2.48x SPIKES volume IN VENDITA (liquidità negativa). MACD hist negativo decrescente = momentum ribassista. Posizione grande (615.5 unità): ridimensionare del 3-5% per lock-in parziale su debolezza. Mantieni core position, riduci esposizione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T16:31:09.436055+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 9.8773,
+    "reason": "BEARISH_CROSS MACD confermato (hist=-0.0029), RSI=45.0 neutrale, 1h=-0.47% negativa, vol×=4.36x anormalmente alto (possibile scarico). Riduzione posizione su segnale ribassista per ricavare liquidity su asset debole. Mantieni 0.67 LINK in portafoglio.",
+    "dry_run": false
   }
 ]
