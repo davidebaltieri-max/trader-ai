@@ -97,5 +97,14 @@
     "price": 87.03,
     "reason": "RSI=73.8 IPERCOMPRATO + 1h=-0.75% negativo. Momentum rialzista su 4h/24h forte ma segnali di correzione imminente su timeframe breve. Riduco posizione prima di possibile pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T03:25:15.600217+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.1262,
+    "reason": "RSI=72.6 IPERCOMPRATO + 1h=-0.86% negativo + vol×=+1.18x. Segnale VENDITA MEDIA confermato. MACD ancora positivo ma RSI eccessivo suggerisce correzione a breve.",
+    "dry_run": false
   }
 ]
