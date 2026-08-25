@@ -223,5 +223,14 @@
     "price": 1.3189,
     "reason": "MACD BEARISH_CROSS confermato + RSI=52.6 neutrale + 24h negativo (-2.36%) + 4h negativo (-1.45%) = trend ribassista consolidato. Uscita per reallocazione verso asset in ipervenduto con momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T10:58:40.287798+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.765,
+    "reason": "DOT: RSI=50.0 (neutrale) + MACD BEARISH_CROSS confermato + 1h=-1.28% + 4h=0% + 24h=-2.53% + vol×=7.89x (picco anomalo). Segnale di debolezza con volumi elevati. Gestione del rischio su posizione deteriorata.",
+    "dry_run": false
   }
 ]
