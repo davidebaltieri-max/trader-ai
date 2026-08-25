@@ -16,5 +16,14 @@
     "price": 0.765,
     "reason": "VENDITA MEDIA: RSI=50.0 (neutro al limite) + MACD hist=-0.0011 (decrescente) + 4h=+0.00% + 24h=-1.28% + vol×=1.99x (volume anomalo ma tendenza negativa). Riduco posizione DOT per realizzare liquidità con cui supportare il dip-buy su ATOM. Momentum ribassista in formazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T00:59:25.764168+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 87.3,
+    "reason": "VENDITA FORTE: RSI=88.0 (IPERCOMPRATO estremo) + 1h=+2.93% 4h=+5.48% (gains eccessivi su timeframe corti). MACD hist positivo ma RSI oltre 85 indica exhaustion del movimento. SOL ha segnato +6.88% in 24h: realizzare profitti parziali (vendi ~1.15 SOL dei 1.747 totali) per gestire il rischio di correzione sharpa su ipercomprato. Take profit tattico.",
+    "dry_run": false
   }
 ]
