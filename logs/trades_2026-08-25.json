@@ -124,5 +124,14 @@
     "price": 0.1952,
     "reason": "RSI=75.1 (IPERCOMPRATO) + 1h=-0.46% negativo + volume×=+1.53x segnala dump imminente. Segnale di VENDITA MEDIA confermato. ADA è in massimo locale, prendo profitti prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T05:31:11.896231+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 87.935,
+    "reason": "RSI=71.6 IPERCOMPRATO + 24h=+9.01% (rally forte) + volatilità elevata 1.09%. Segnale di correzione imminente. Realizzo profitti su posizione rialzista estrema.",
+    "dry_run": false
   }
 ]
