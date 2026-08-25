@@ -169,5 +169,14 @@
     "price": 87.005,
     "reason": "VENDITA DEBOLE PREVENTIVA: RSI=60.9 (neutro ma tendente), MACD hist=-0.0534 con BEARISH_CROSS confermato ▼, 1h=-0.46%. Momentum si inverte su SOL dopo rialzo 24h=+7.53%. Relock capitale per opportunità più promettenti. Trailing stop anticipato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T06:44:54.959942+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.0959,
+    "reason": "VENDITA MEDIA confermata: RSI=62.0 (>60) + MACD BEARISH_CROSS (hist=-0.0004 decrescente) + 4h=-0.38%. Momentum ribassista in formazione su infrastruttura DeFi. Realizzo profitti parziali prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
