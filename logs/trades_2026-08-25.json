@@ -178,5 +178,14 @@
     "price": 10.0959,
     "reason": "VENDITA MEDIA confermata: RSI=62.0 (>60) + MACD BEARISH_CROSS (hist=-0.0004 decrescente) + 4h=-0.38%. Momentum ribassista in formazione su infrastruttura DeFi. Realizzo profitti parziali prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T06:44:56.491496+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 86.76,
+    "reason": "VENDITA MEDIA confermata: RSI=59.5 (zone neutra superiore) + MACD BEARISH_CROSS (hist=-0.0681 decrescente) ▼ dopo rialzo 24h=+7.24%. Divergenza rialzista/MACD ribassista suggerisce consolidamento. Riduco posizione per spostare capitale su segnali più forti.",
+    "dry_run": false
   }
 ]
