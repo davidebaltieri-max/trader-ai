@@ -115,5 +115,14 @@
     "price": 87.21,
     "reason": "RSI=74.3 (IPERCOMPRATO) + 1h=-0.51% negativo + MACD hist positivo ma in zona saturation. Segnale di VENDITA MEDIA: momentum rialzista estremamente maturo, correzione probabile a breve. Riduco esposizione su alt volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T03:31:14.425996+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 12.0,
+    "price": 0.1952,
+    "reason": "RSI=75.1 (IPERCOMPRATO) + 1h=-0.46% negativo + volume×=+1.53x segnala dump imminente. Segnale di VENDITA MEDIA confermato. ADA è in massimo locale, prendo profitti prima della correzione.",
+    "dry_run": false
   }
 ]
