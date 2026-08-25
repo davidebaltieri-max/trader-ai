@@ -241,5 +241,14 @@
     "price": 0.765,
     "reason": "DOT in downtrend marcato: 4h=-2.56% + 24h=-3.80% + volatilità alta (1.39%) + RSI=45.5 neutro + MACD hist negativo decrescente. Riduzione parziale della posizione (615 unità restano, realizzo €5-7 di perdita contenuta). Rotazione verso asset con segnali migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T13:31:15.017690+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.314,
+    "reason": "MACD=BEARISH_CROSS confermato + RSI=41.1 in calo + 24h negativo (-2.75%). Segnale di momentum ribassista consolidato. Vendita parziale (€8, ~6 unità) per ridurre esposizione a interoperabilità in trend negativo e liberare capitale per rimbalzi su asset ipervenduti.",
+    "dry_run": false
   }
 ]
