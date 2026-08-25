@@ -34,5 +34,14 @@
     "price": 87.595,
     "reason": "SOL RSI=91.3 🔴IPERCOMPRATO massimo storico. Momentum crescente ma rischio correzione violenta. Profilo aggressivo vende su picchi estremi per cristallizzare gain (+8.89% 24h). Proteggere profitti prima del pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T02:01:22.151567+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 10.0,
+    "price": 1.3104,
+    "reason": "ATOM in consolidamento: RSI=40.3 (ipervenduto borderline), MACD hist decrescente ma 1h=+0.69% suggerisce inizio rimbalzo, 24h=-4.53% ha creato supporto. Segnale MEDIO su dip moderato. Complementa DOT come doppia posizione su interoperabilità in fase di recupero.",
+    "dry_run": false
   }
 ]
