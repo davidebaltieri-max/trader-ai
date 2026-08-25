@@ -106,5 +106,14 @@
     "price": 10.1262,
     "reason": "RSI=72.6 IPERCOMPRATO + 1h=-0.86% negativo + vol×=+1.18x. Segnale VENDITA MEDIA confermato. MACD ancora positivo ma RSI eccessivo suggerisce correzione a breve.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T03:31:12.960678+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 87.21,
+    "reason": "RSI=74.3 (IPERCOMPRATO) + 1h=-0.51% negativo + MACD hist positivo ma in zona saturation. Segnale di VENDITA MEDIA: momentum rialzista estremamente maturo, correzione probabile a breve. Riduco esposizione su alt volatile.",
+    "dry_run": false
   }
 ]
