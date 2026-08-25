@@ -25,5 +25,14 @@
     "price": 87.3,
     "reason": "VENDITA FORTE: RSI=88.0 (IPERCOMPRATO estremo) + 1h=+2.93% 4h=+5.48% (gains eccessivi su timeframe corti). MACD hist positivo ma RSI oltre 85 indica exhaustion del movimento. SOL ha segnato +6.88% in 24h: realizzare profitti parziali (vendi ~1.15 SOL dei 1.747 totali) per gestire il rischio di correzione sharpa su ipercomprato. Take profit tattico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T01:31:09.746102+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 87.595,
+    "reason": "SOL RSI=91.3 🔴IPERCOMPRATO massimo storico. Momentum crescente ma rischio correzione violenta. Profilo aggressivo vende su picchi estremi per cristallizzare gain (+8.89% 24h). Proteggere profitti prima del pullback.",
+    "dry_run": false
   }
 ]
