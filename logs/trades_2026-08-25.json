@@ -196,5 +196,14 @@
     "price": 1.3171,
     "reason": "ATOM in downtrend 24h (-1.74%) con RSI=54.8 (marginalmente sopra neutro) e MACD hist decrescente seppur positivo. Momentum sta indebolendosi (MACD trend negativo). Riduco posizione grande (615.5 unità) per realizzare il calo e liberare capitale per opportunità più forti. Rotazione settoriale verso layer 1 più performanti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T07:39:31.628908+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3239,
+    "reason": "VENDITA MEDIA confermata: RSI=54.4 (zona neutra-alta), MACD hist>0 ma decrescente (momentum in perdita), 1h=-1.22% (pressione ribassista), 24h=-1.78% (underperformance). ATOM è in debolezza relativa rispetto al mercato. Liberiamo liquidità per opportunità migliori.",
+    "dry_run": false
   }
 ]
