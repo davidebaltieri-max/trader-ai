@@ -214,5 +214,14 @@
     "price": 1.3144,
     "reason": "ATOM in portafoglio con posizione pesante (615.5 unità). Nonostante RSI=54.6 e MACD hist crescente (positivi), 24h=-2.76% è ribasso strutturale. Presa di profitto parziale per ridurre concentrazione e liberare capitale. Uscita tattica su weakness.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T09:31:14.162898+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3189,
+    "reason": "MACD BEARISH_CROSS confermato + RSI=52.6 neutrale + 24h negativo (-2.36%) + 4h negativo (-1.45%) = trend ribassista consolidato. Uscita per reallocazione verso asset in ipervenduto con momentum positivo.",
+    "dry_run": false
   }
 ]
