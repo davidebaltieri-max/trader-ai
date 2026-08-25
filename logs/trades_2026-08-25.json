@@ -160,5 +160,14 @@
     "price": 1.336,
     "reason": "ATOM mostra debolezza relativa: 24h=-0.69% (unica posizione in rosso), RSI=58.4 (neutrale ma non bullish), 1h=+0.14% (quasi piatto), vol×=1.07x senza decisione. MACD hist positivo ma molto debole (+0.0037). Vendita parziale da €20 per ribilanciare verso asset con momentum più forte (SOL, DOT). Mantieni ~€822 in ATOM per esposizione interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T06:31:11.358277+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 87.005,
+    "reason": "VENDITA DEBOLE PREVENTIVA: RSI=60.9 (neutro ma tendente), MACD hist=-0.0534 con BEARISH_CROSS confermato ▼, 1h=-0.46%. Momentum si inverte su SOL dopo rialzo 24h=+7.53%. Relock capitale per opportunità più promettenti. Trailing stop anticipato.",
+    "dry_run": false
   }
 ]
