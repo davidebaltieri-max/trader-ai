@@ -43,5 +43,14 @@
     "price": 1.3104,
     "reason": "ATOM in consolidamento: RSI=40.3 (ipervenduto borderline), MACD hist decrescente ma 1h=+0.69% suggerisce inizio rimbalzo, 24h=-4.53% ha creato supporto. Segnale MEDIO su dip moderato. Complementa DOT come doppia posizione su interoperabilità in fase di recupero.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T02:01:23.576342+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 8.0,
+    "price": 86.02,
+    "reason": "SOL in IPERCOMPRATO critico: RSI=75.0 (>70), 1h=-1.55% già showing first signs di debolezza, vol×=0.69x (volume in calo), MACD hist positivo ma potenziale correzione imminente. Realizza +6.25% in 24h con partial take-profit per ridurre esposizione su massimi. Segnale VENDITA DEBOLE ma profilattico su livelli estremi.",
+    "dry_run": false
   }
 ]
