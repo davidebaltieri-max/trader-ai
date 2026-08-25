@@ -151,5 +151,14 @@
     "price": 0.785,
     "reason": "DOT momentum MEDIO: RSI=62.5 (neutrale), MACD hist positivo crescente, 1h=+2.60%, 4h=+2.60% (spike notevole). Vol×=0.25x indica consolidamento dopo movimento. Segnale ACQUISTO MEDIO confermato da 1h e 4h positivi. Dose piccola €12 per incrementare posizione in interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T05:57:04.746094+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.336,
+    "reason": "ATOM mostra debolezza relativa: 24h=-0.69% (unica posizione in rosso), RSI=58.4 (neutrale ma non bullish), 1h=+0.14% (quasi piatto), vol×=1.07x senza decisione. MACD hist positivo ma molto debole (+0.0037). Vendita parziale da €20 per ribilanciare verso asset con momentum più forte (SOL, DOT). Mantieni ~€822 in ATOM per esposizione interoperabilità.",
+    "dry_run": false
   }
 ]
