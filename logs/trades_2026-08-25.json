@@ -331,5 +331,14 @@
     "price": 0.745,
     "reason": "VENDITA PARZIALE TATTICA: DOT mostra RSI=33.3 (basso) ma calo 24h=-3.85% con vol×=0.92x suggerisce debolezza strutturale. MACD hist positivo è debole. Realizzo 15€ per ridurre esposizione su posizione già significativa (665 unità). Conservo core position, libero liquidità per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T20:31:11.821841+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 50.0,
+    "price": 9.7765,
+    "reason": "RSI=43.9 (neutra bassa). MACD hist=-0.0073 decrescente (trend ribassista). 1h=-0.36%, 4h=-0.96%, 24h=-1.67% tutti negativi. Infrastruttura DeFi in fase di debolezza. Liquidare per reallocare su segnali più forti (UNI, ADA). Libera capitale e riduce esposizione settoriale.",
+    "dry_run": false
   }
 ]
