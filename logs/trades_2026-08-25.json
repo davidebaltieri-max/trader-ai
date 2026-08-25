@@ -232,5 +232,14 @@
     "price": 0.765,
     "reason": "DOT: RSI=50.0 (neutrale) + MACD BEARISH_CROSS confermato + 1h=-1.28% + 4h=0% + 24h=-2.53% + vol×=7.89x (picco anomalo). Segnale di debolezza con volumi elevati. Gestione del rischio su posizione deteriorata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T11:31:10.969753+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 10.0,
+    "price": 0.765,
+    "reason": "DOT in downtrend marcato: 4h=-2.56% + 24h=-3.80% + volatilità alta (1.39%) + RSI=45.5 neutro + MACD hist negativo decrescente. Riduzione parziale della posizione (615 unità restano, realizzo €5-7 di perdita contenuta). Rotazione verso asset con segnali migliori.",
+    "dry_run": false
   }
 ]
