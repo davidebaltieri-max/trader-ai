@@ -295,5 +295,14 @@
     "price": 9.866,
     "reason": "LINK mostra divergenza preoccupante: MACD hist positivo (+0.0024) ma in decelerazione, RSI=45.3 (medio-basso), performance 24h=-0.68% negativa, 1h=-0.50%. Presa di profitto parziale su posizione DeFi in ambiente bearish (BTC/ETH BEARISH_CROSS). Riduzione rischio sistematico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T19:31:10.980018+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.8272,
+    "reason": "LINK segnala BEARISH_CROSS (MACD hist=-0.0010 ↓), RSI=39.0 in zona ribassista, 1h=-0.70% e 4h=-0.90% confermano pressure. Trim tattico: riduco posizione (-8€ su 105€ totali) preservando core holding, gestisco momentum negativo conclamato. VENDITA MEDIA controllata.",
+    "dry_run": false
   }
 ]
