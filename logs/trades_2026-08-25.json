@@ -322,5 +322,14 @@
     "price": 0.745,
     "reason": "DOT in chiara debolezza: RSI=33.3 (ipervenduto ma in contesto negativo), 1h=-1.32% accentuato, 24h=-2.60%, MACD hist positivo ma debole (+0.0004). Il calo intraday accelerato suggerisce pressure al ribasso. Vendo 250 unità (~€186) per realizzare perdite contenute e liberare capitale per opportunità più forti. Trailing stop protettivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T20:22:45.101151+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.745,
+    "reason": "VENDITA PARZIALE TATTICA: DOT mostra RSI=33.3 (basso) ma calo 24h=-3.85% con vol×=0.92x suggerisce debolezza strutturale. MACD hist positivo è debole. Realizzo 15€ per ridurre esposizione su posizione già significativa (665 unità). Conservo core position, libero liquidità per opportunità migliori.",
+    "dry_run": false
   }
 ]
