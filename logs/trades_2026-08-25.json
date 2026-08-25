@@ -250,5 +250,14 @@
     "price": 1.314,
     "reason": "MACD=BEARISH_CROSS confermato + RSI=41.1 in calo + 24h negativo (-2.75%). Segnale di momentum ribassista consolidato. Vendita parziale (€8, ~6 unità) per ridurre esposizione a interoperabilità in trend negativo e liberare capitale per rimbalzi su asset ipervenduti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T14:31:28.458192+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.8896,
+    "reason": "LINK in zona neutra (RSI=45.3) ma mostra debolezza multiframe (4h=-0.40%, 24h=-1.55%). MACD hist negativo (-0.0107) confermato. Volume basso (0.27x). Realizzo profitti parziali per rotare verso momentum più positivo.",
+    "dry_run": false
   }
 ]
