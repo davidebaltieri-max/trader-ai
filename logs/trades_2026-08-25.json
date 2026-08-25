@@ -277,5 +277,14 @@
     "price": 9.8773,
     "reason": "BEARISH_CROSS MACD confermato (hist=-0.0029), RSI=45.0 neutrale, 1h=-0.47% negativa, vol×=4.36x anormalmente alto (possibile scarico). Riduzione posizione su segnale ribassista per ricavare liquidity su asset debole. Mantieni 0.67 LINK in portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T17:55:22.074839+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.3186,
+    "reason": "Posizione ATOM in portafoglio con 615.54 unità (valore ~€811). RSI=51.2 neutro ma MACD hist=-0.0003 ↓decrescente. 24h=-2.11% trend ribassista. Take profit strategico su posizione grande per bloccare liquidità e finanziare dip-buy su DOT (ipervenduto più aggressivo). Riduzione rischio concentrazione su interoperabilità.",
+    "dry_run": false
   }
 ]
