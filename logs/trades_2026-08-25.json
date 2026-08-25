@@ -7,5 +7,14 @@
     "price": 84.765,
     "reason": "RSI=78.4 IPERCOMPRATO (segnale SELL forte) + 4h=+2.76% e 24h=+4.43% rally sostenuto. MACD hist positivo ma volume molto elevato (vol×=1.11) indica possibile esaurimento del rialzo. Presa di profitto parziale (€15) per proteggere i guadagni su posizione volatile. Mantieni base ATOM per esposizione L1.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T00:31:11.309213+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.765,
+    "reason": "VENDITA MEDIA: RSI=50.0 (neutro al limite) + MACD hist=-0.0011 (decrescente) + 4h=+0.00% + 24h=-1.28% + vol×=1.99x (volume anomalo ma tendenza negativa). Riduco posizione DOT per realizzare liquidità con cui supportare il dip-buy su ATOM. Momentum ribassista in formazione.",
+    "dry_run": false
   }
 ]
