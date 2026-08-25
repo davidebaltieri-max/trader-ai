@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-25T00:01:26.717153+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 84.765,
+    "reason": "RSI=78.4 IPERCOMPRATO (segnale SELL forte) + 4h=+2.76% e 24h=+4.43% rally sostenuto. MACD hist positivo ma volume molto elevato (vol×=1.11) indica possibile esaurimento del rialzo. Presa di profitto parziale (€15) per proteggere i guadagni su posizione volatile. Mantieni base ATOM per esposizione L1.",
+    "dry_run": false
+  }
+]
