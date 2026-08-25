@@ -304,5 +304,14 @@
     "price": 9.8272,
     "reason": "LINK segnala BEARISH_CROSS (MACD hist=-0.0010 ↓), RSI=39.0 in zona ribassista, 1h=-0.70% e 4h=-0.90% confermano pressure. Trim tattico: riduco posizione (-8€ su 105€ totali) preservando core holding, gestisco momentum negativo conclamato. VENDITA MEDIA controllata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T19:55:12.655493+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.8195,
+    "reason": "VENDITA MEDIA: RSI=38.3 (trend debole) + MACD BEARISH_CROSS confermato (hist=-0.0017↓) + 1h=-0.80% + 4h=-1.00%. Momentum ribassista in corso su LINK. Riduco esposizione infrastruttura DeFi per preservare capitale in fase di debolezza generale.",
+    "dry_run": false
   }
 ]
