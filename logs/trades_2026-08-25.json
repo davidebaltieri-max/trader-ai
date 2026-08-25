@@ -133,5 +133,14 @@
     "price": 87.935,
     "reason": "RSI=71.6 IPERCOMPRATO + 24h=+9.01% (rally forte) + volatilità elevata 1.09%. Segnale di correzione imminente. Realizzo profitti su posizione rialzista estrema.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T05:31:13.394947+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 12.29,
+    "price": 0.1951,
+    "reason": "RSI=71.3 IPERCOMPRATO + MACD hist molto basso (+0.0003) = momentum fragile. ADA non ha follow-through di volume. Riduco esposizione su segnale debole di ipercomprato.",
+    "dry_run": false
   }
 ]
