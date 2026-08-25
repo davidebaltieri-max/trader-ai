@@ -259,5 +259,14 @@
     "price": 9.8896,
     "reason": "LINK in zona neutra (RSI=45.3) ma mostra debolezza multiframe (4h=-0.40%, 24h=-1.55%). MACD hist negativo (-0.0107) confermato. Volume basso (0.27x). Realizzo profitti parziali per rotare verso momentum più positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T15:37:24.425708+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3147,
+    "reason": "ATOM mostra debolezza tecnica: 24h=-1.89%, 4h=-1.62%, 1h=-0.69% downtrend confermato. RSI=41.5 (neutrale-debole) non supporta ulteriore tenuta. Vol×=2.48x SPIKES volume IN VENDITA (liquidità negativa). MACD hist negativo decrescente = momentum ribassista. Posizione grande (615.5 unità): ridimensionare del 3-5% per lock-in parziale su debolezza. Mantieni core position, riduci esposizione tattica.",
+    "dry_run": false
   }
 ]
