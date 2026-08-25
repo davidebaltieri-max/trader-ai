@@ -88,5 +88,14 @@
     "price": 0.1943,
     "reason": "RSI=71.7 IPERCOMPRATO + 1h=+1.18% ma momentum MACD vicino al saturation. Vol×=2.05x alto = distribuzione. Segnale VENDITA MEDIA.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T03:25:14.079976+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 87.03,
+    "reason": "RSI=73.8 IPERCOMPRATO + 1h=-0.75% negativo. Momentum rialzista su 4h/24h forte ma segnali di correzione imminente su timeframe breve. Riduco posizione prima di possibile pullback.",
+    "dry_run": false
   }
 ]
