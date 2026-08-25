@@ -313,5 +313,14 @@
     "price": 9.8195,
     "reason": "VENDITA MEDIA: RSI=38.3 (trend debole) + MACD BEARISH_CROSS confermato (hist=-0.0017↓) + 1h=-0.80% + 4h=-1.00%. Momentum ribassista in corso su LINK. Riduco esposizione infrastruttura DeFi per preservare capitale in fase di debolezza generale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T20:01:32.618754+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.745,
+    "reason": "DOT in chiara debolezza: RSI=33.3 (ipervenduto ma in contesto negativo), 1h=-1.32% accentuato, 24h=-2.60%, MACD hist positivo ma debole (+0.0004). Il calo intraday accelerato suggerisce pressure al ribasso. Vendo 250 unità (~€186) per realizzare perdite contenute e liberare capitale per opportunità più forti. Trailing stop protettivo.",
+    "dry_run": false
   }
 ]
