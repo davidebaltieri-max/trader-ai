@@ -349,5 +349,14 @@
     "price": 0.735,
     "reason": "RSI=33.3 (ipervenduto ma in caduta), MACD hist negativo decrescente (momentum ribassista confermato), 4h=-1.33%, 24h=-6.33% (trend ribassista forte). Segnale VENDITA MEDIA: riduco posizione sovrapesata (665 unità = ~€489 value). Realizzo parziale per proteggere dal sell-off e generare liquidità per riallocazioni più opportune.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T23:01:26.644650+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.735,
+    "reason": "SEGNALE DI RIDUZIONE: DOT 24h=-6.33% (calo severo), RSI=33.3 (neutro basso), MACD hist=-0.0006 decrescente, vol×=+1.91x volume molto elevato indica selling pressure. Mantieni posizione core ma riduci esposizione per realizzare parziale e riallocare su segnali bullish più forti (BTC/AVAX).",
+    "dry_run": false
   }
 ]
