@@ -286,5 +286,14 @@
     "price": 1.3186,
     "reason": "Posizione ATOM in portafoglio con 615.54 unità (valore ~€811). RSI=51.2 neutro ma MACD hist=-0.0003 ↓decrescente. 24h=-2.11% trend ribassista. Take profit strategico su posizione grande per bloccare liquidità e finanziare dip-buy su DOT (ipervenduto più aggressivo). Riduzione rischio concentrazione su interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-25T19:26:52.549842+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 9.866,
+    "reason": "LINK mostra divergenza preoccupante: MACD hist positivo (+0.0024) ma in decelerazione, RSI=45.3 (medio-basso), performance 24h=-0.68% negativa, 1h=-0.50%. Presa di profitto parziale su posizione DeFi in ambiente bearish (BTC/ETH BEARISH_CROSS). Riduzione rischio sistematico.",
+    "dry_run": false
   }
 ]
