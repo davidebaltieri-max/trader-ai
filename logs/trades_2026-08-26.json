@@ -151,5 +151,14 @@
     "price": 0.725,
     "reason": "RSI=42.9 (zona neutra) + MACD hist=-0.0001 ↓decrescente con BEARISH_CROSS (momentum ribassista confermato) + 1h=-1.37% + 4h=-2.70% + 24h=-6.49% (correzione forte prolungata). Segnale VENDITA MEDIA. Realizza perdita contenuta (-6.49% in 24h suggerisce bottom locale). Libera liquidità per riallocazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T13:50:38.086737+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.725,
+    "reason": "DOT mostra VENDITA FORTE: RSI=33.3 (ipervenduto) ma MACD hist<0 decrescente con bearish trend. Calo 24h=-7.69% e vol×=6.26x molto elevato indica capitolazione. 1h=-1.37%, 4h=-1.37% conferma momentum ribassista. Realizzo perdite contenute (DOT acquistato probabilmente più alto) per liberare liquidity e realloc su segnali più forti. Stop erosion.",
+    "dry_run": false
   }
 ]
