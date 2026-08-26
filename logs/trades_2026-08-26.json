@@ -196,5 +196,14 @@
     "price": 1.2876,
     "reason": "RSI=36.1 in zona neutra-bassa. 1h negativo (-0.68%). 4h forte calo (-4.06%). MACD hist negativo decrescente = trend ribassista in corso. Volume in calo (vol×=+0.28x, il più basso dello scan). Realizzare parziale profitto su posizione importante (615.54 unità) prima di ulteriore debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T17:31:15.071963+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 0.0,
+    "price": 0.725,
+    "reason": "SKIP - Già in portafoglio (665.11 unità). Sebbene DOT mostri MACD BULLISH_CROSS + 1h=+1.39%, concentrare liquidity su nuove entry (ADA, XRP) è prioritario per il profilo performante. Aggiungeresti eccessiva overlap su interoperabilità.",
+    "dry_run": false
   }
 ]
