@@ -115,5 +115,14 @@
     "price": 1.3394,
     "reason": "RSI=70.9 IPERCOMPRATO + 1h=+0.53% segnale locale ma momentum diverge su 4h/24h. Realizza profitto su posizione già positiva (+1.51% 24h). Libera slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T12:01:28.525698+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3378,
+    "reason": "RSI=72.5 IPERCOMPRATO + momentum eccessivo dopo +2.06% in 24h. Realizza profitti su posizione in zona di resistenza. MACD positivo ma RSI estremamente elevato segnala correzione imminente.",
+    "dry_run": false
   }
 ]
