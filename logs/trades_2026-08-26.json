@@ -70,5 +70,14 @@
     "price": 0.735,
     "reason": "DOT in VENDITA FORTE: RSI=33.3 (ipervenduto ma in tendenza ribassista), 1h=-1.35% (negativo acuto), 24h=-6.41% (perdita significativa), vol×=5.43x (volume massivo in calo). MACD hist positivo crescente è l'unico segnale bullish, ma viene sovrastato dalla debolezza tecnica. Ridimensiono posizione overweight (665 unità) per realizzare perdite e liberare capital per opportunità migliori. Trailing stop attivato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T07:31:12.369949+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 9.7233,
+    "reason": "VENDITA TATTICA: LINK ridimensionato per riequilibrare. RSI=52.9 in zona neutra, MACD hist=+0.0029 positivo ma debole, 24h=-2.15%. Volume molto basso (+0.24x) segnala scarso interesse. Riduco posizione infrastruttura per consolidare liquidità su momentum UNI + aggiungere esposizione ADA (layer 1 momentum). Mantengo core position LINK, elimino sovra-esposizione.",
+    "dry_run": false
   }
 ]
