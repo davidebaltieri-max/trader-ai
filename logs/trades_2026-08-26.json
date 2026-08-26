@@ -25,5 +25,14 @@
     "price": 0.735,
     "reason": "DOT in BEARISH TREND: RSI=33.3 (ipervenduto ma in calo), MACD hist negativo e decrescente, 1h=-1.35% e 4h=-1.35%. Momentum ribassista confermato. Realizzo perdita controlata su posizione debole per liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T02:44:29.639626+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "DOT in VENDITA MEDIA: RSI=33.3 (zone neutra bassa), MACD hist negativo e decrescente (trend ribassista confermato), 1h=-1.35% e 4h=-1.35% (momentum negativo). Posizione in sofferenza con -6.41% a 24h. Riduco esposizione su underperformer per liberare capitale.",
+    "dry_run": false
   }
 ]
