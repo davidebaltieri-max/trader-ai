@@ -88,5 +88,14 @@
     "price": 0.735,
     "reason": "DOT: 1h=-1.35% (calo intraday forte) + RSI=42.9 (neutrale) + MACD hist=+0.0011 (momentum debole) + 24h=-5.19% (drawdown significativo). Realizza parziale profitto su posizione existente (665 unità), riduci esposizione interoperabilità. Preserva capitale per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T10:31:16.536446+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3281,
+    "reason": "RSI=70.7 IPERCOMPRATO + MACD hist positivo ma momentum sta rallentando dopo spike. Presa di profitto tattica su posizione in rialzo eccessivo. Ridimensionamento prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
