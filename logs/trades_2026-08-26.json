@@ -178,5 +178,14 @@
     "price": 0.725,
     "reason": "DOT in VENDITA FORTE: RSI=33.3 (ipervenduto ma in trend ribassista), MACD hist negativo decrescente, -1.37% 1h/-1.37% 4h/-7.69% 24h, volume anomalo (10.42x). Trend ribassista confermato su tutti i timeframe. Riduco posizione per contenere drawdown su asset in momentum negativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T16:31:18.090013+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 10.0,
+    "price": 1.288,
+    "reason": "VENDITA MEDIA: RSI=36.6 (ipervenduto ma non estremo), MACD hist=-0.0046 (negativo decrescente), 1h=-0.98% (ora precedente al ribasso), 4h=-3.49% (calo marcato). Posizione lunga al massimo nel portafoglio (615.54 unità): riduco esposizione su calo sostenuto, realizzo capitale per riallocare su opportunità più forti come ADA/AVAX.",
+    "dry_run": false
   }
 ]
