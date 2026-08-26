@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-26T01:31:07.993109+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2993,
+    "reason": "RSI=42.2 neutrale + MACD BEARISH_CROSS confermato + MACD hist decrescente + 1h=-0.57% negativo + 4h=-1.55% negativo. Segnale VENDITA MEDIA: momentum ribassista confermato con cross negativo. Riduco posizione sovrapesata (615.5 unità) per finanziare acquisti più promettenti.",
+    "dry_run": false
+  }
+]
