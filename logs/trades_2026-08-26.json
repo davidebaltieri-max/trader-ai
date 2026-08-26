@@ -133,5 +133,14 @@
     "price": 1.3414,
     "reason": "RSI=72.5 IPERCOMPRATO + MACD hist positivo ma prossimo a correzione tipica. ATOM ha rallied +2.07% in 24h. Realizza profitti su posizione forte (615.54 unità). Segnale VENDITA MEDIA confermato da RSI>70.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T13:01:34.989608+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.725,
+    "reason": "RSI=42.9 + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 4h=-2.70% + 24h=-6.49% + volatilità alta=+0.92%. Segnale VENDITA MEDIA da momentum ribassista. Proteggi capitale su posizione debole.",
+    "dry_run": false
   }
 ]
