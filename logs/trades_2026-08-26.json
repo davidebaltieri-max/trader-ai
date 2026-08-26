@@ -187,5 +187,14 @@
     "price": 1.288,
     "reason": "VENDITA MEDIA: RSI=36.6 (ipervenduto ma non estremo), MACD hist=-0.0046 (negativo decrescente), 1h=-0.98% (ora precedente al ribasso), 4h=-3.49% (calo marcato). Posizione lunga al massimo nel portafoglio (615.54 unità): riduco esposizione su calo sostenuto, realizzo capitale per riallocare su opportunità più forti come ADA/AVAX.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T17:01:24.225819+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2876,
+    "reason": "RSI=36.1 in zona neutra-bassa. 1h negativo (-0.68%). 4h forte calo (-4.06%). MACD hist negativo decrescente = trend ribassista in corso. Volume in calo (vol×=+0.28x, il più basso dello scan). Realizzare parziale profitto su posizione importante (615.54 unità) prima di ulteriore debolezza.",
+    "dry_run": false
   }
 ]
