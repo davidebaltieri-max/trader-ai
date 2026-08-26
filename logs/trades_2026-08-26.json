@@ -97,5 +97,14 @@
     "price": 1.3281,
     "reason": "RSI=70.7 IPERCOMPRATO + MACD hist positivo ma momentum sta rallentando dopo spike. Presa di profitto tattica su posizione in rialzo eccessivo. Ridimensionamento prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T11:31:19.996991+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3392,
+    "reason": "RSI=70.9 IPERCOMPRATO + 1h=+0.53% (positivo ma in zona saturation). ATOM ha performato bene (+1.51% in 24h) ma è entrato in overbought territory. Profitto parziale prudente su posizione forte. Libera cash e slot per opportunità con momentum più fresco.",
+    "dry_run": false
   }
 ]
