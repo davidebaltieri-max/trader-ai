@@ -52,5 +52,14 @@
     "price": 0.735,
     "reason": "DOT in fase ribassista confermata: RSI=33.3 (ipervenduto ma in trend down), MACD hist=-0.0008 decrescente, 1h=-1.35%, 4h=-1.35%, 24h=-6.41%. Volatilità alta (0.96%) su cali. Necessario ridurre esposizione su asset debole per liberare slot e capital.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T03:49:57.299032+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "DOT in TREND RIBASSISTA confermato: RSI=33.3 (zona debolezza), MACD hist=-0.0008 decrescente, 1h=-1.35% + 4h=-1.35% + 24h=-6.41%. Volatilità alta (0.96%), volume basso (0.14x). Segnale di debolezza strutturale. Realizzo posizione per liberare capitale e ridurre esposizione a asset in difficoltà.",
+    "dry_run": false
   }
 ]
