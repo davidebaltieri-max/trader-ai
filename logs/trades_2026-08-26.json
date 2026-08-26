@@ -241,5 +241,14 @@
     "price": 9.8851,
     "reason": "RSI=72.9 IPERCOMPRATO + 1h=-0.41% negativo. Segnale VENDITA MEDIA confermato. LINK ha rallied forte (4h=+1.52%, 24h=+1.50%), momentum rialzista esauribile a questi livelli. Realizzo profitti su posizione in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T23:31:12.573584+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 9.935,
+    "reason": "VENDITA MEDIA-PARZIALE: RSI=75.4 (ipercomprato), MACD hist=+0.0311 positivo ma debole, vol×=2.15 (volume elevato in uscita), 1h=+0.09% (momentum 1h debole nonostante rialzo precedente). Realizzo parzialmente su LINK per prendere profitti su posizione in ipercomprato e raccogliere liquidità per altre opportunità. Mantengo la posizione base.",
+    "dry_run": false
   }
 ]
