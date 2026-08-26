@@ -79,5 +79,14 @@
     "price": 9.7233,
     "reason": "VENDITA TATTICA: LINK ridimensionato per riequilibrare. RSI=52.9 in zona neutra, MACD hist=+0.0029 positivo ma debole, 24h=-2.15%. Volume molto basso (+0.24x) segnala scarso interesse. Riduco posizione infrastruttura per consolidare liquidità su momentum UNI + aggiungere esposizione ADA (layer 1 momentum). Mantengo core position LINK, elimino sovra-esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T09:01:30.705855+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.735,
+    "reason": "DOT: 1h=-1.35% (calo intraday forte) + RSI=42.9 (neutrale) + MACD hist=+0.0011 (momentum debole) + 24h=-5.19% (drawdown significativo). Realizza parziale profitto su posizione existente (665 unità), riduci esposizione interoperabilità. Preserva capitale per opportunità migliori.",
+    "dry_run": false
   }
 ]
