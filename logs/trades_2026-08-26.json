@@ -169,5 +169,14 @@
     "price": 0.725,
     "reason": "DOT in FORTE RIBASSO: RSI=33.3 (ipervenduto ma in calo), MACD hist negativo decrescente, 1h=-1.37% 4h=-1.37% 24h=-7.69%. Volume anomalo (+10.42x) suggerisce liquidazione. Trend ribassista confermato su tutti i timeframe. Posizione sottoperformante nel portafoglio (-7.69% in 24h). Vendita di riduzione rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T14:31:29.124772+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.725,
+    "reason": "DOT in VENDITA FORTE: RSI=33.3 (ipervenduto ma in trend ribassista), MACD hist negativo decrescente, -1.37% 1h/-1.37% 4h/-7.69% 24h, volume anomalo (10.42x). Trend ribassista confermato su tutti i timeframe. Riduco posizione per contenere drawdown su asset in momentum negativo.",
+    "dry_run": false
   }
 ]
