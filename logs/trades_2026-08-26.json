@@ -205,5 +205,14 @@
     "price": 0.725,
     "reason": "SKIP - Già in portafoglio (665.11 unità). Sebbene DOT mostri MACD BULLISH_CROSS + 1h=+1.39%, concentrare liquidity su nuove entry (ADA, XRP) è prioritario per il profilo performante. Aggiungeresti eccessiva overlap su interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T21:01:21.552378+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 0.0,
+    "price": 0.1769,
+    "reason": "SKIP: RSI=45.4 (neutro), MACD hist molto piccolo (+0.0002), 24h=-1.32% negativo. Volume×=0.99x non conferma. Segnali deboli e contrastanti. Meglio attendere consolidamento.",
+    "dry_run": false
   }
 ]
