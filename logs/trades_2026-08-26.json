@@ -16,5 +16,14 @@
     "price": 1.3012,
     "reason": "SEGNALE MEDIO: RSI=42.4 (neutro) + MACD hist=-0.0011 (decrescente, bearish) + 1h=-1.22% + 4h=-1.37%. Momentum ribassista confermato, possibile ulteriore debolezza. Riduzione posizione in eccesso (615.5 unità = ~€801). Rimane posizione residua (€476 ca.) per eventuale ripresa futura.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T02:31:11.509316+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "DOT in BEARISH TREND: RSI=33.3 (ipervenduto ma in calo), MACD hist negativo e decrescente, 1h=-1.35% e 4h=-1.35%. Momentum ribassista confermato. Realizzo perdita controlata su posizione debole per liberare capitale.",
+    "dry_run": false
   }
 ]
