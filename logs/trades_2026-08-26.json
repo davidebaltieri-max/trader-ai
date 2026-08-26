@@ -106,5 +106,14 @@
     "price": 1.3392,
     "reason": "RSI=70.9 IPERCOMPRATO + 1h=+0.53% (positivo ma in zona saturation). ATOM ha performato bene (+1.51% in 24h) ma è entrato in overbought territory. Profitto parziale prudente su posizione forte. Libera cash e slot per opportunità con momentum più fresco.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T11:36:18.526257+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3394,
+    "reason": "RSI=70.9 IPERCOMPRATO + 1h=+0.53% segnale locale ma momentum diverge su 4h/24h. Realizza profitto su posizione già positiva (+1.51% 24h). Libera slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
