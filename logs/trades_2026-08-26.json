@@ -142,5 +142,14 @@
     "price": 0.725,
     "reason": "RSI=42.9 + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 4h=-2.70% + 24h=-6.49% + volatilità alta=+0.92%. Segnale VENDITA MEDIA da momentum ribassista. Proteggi capitale su posizione debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-26T13:31:15.924198+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.725,
+    "reason": "RSI=42.9 (zona neutra) + MACD hist=-0.0001 ↓decrescente con BEARISH_CROSS (momentum ribassista confermato) + 1h=-1.37% + 4h=-2.70% + 24h=-6.49% (correzione forte prolungata). Segnale VENDITA MEDIA. Realizza perdita contenuta (-6.49% in 24h suggerisce bottom locale). Libera liquidità per riallocazione.",
+    "dry_run": false
   }
 ]
