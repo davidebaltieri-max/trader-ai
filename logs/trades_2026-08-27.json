@@ -52,5 +52,14 @@
     "price": 0.75,
     "reason": "RSI=83.3 IPERCOMPRATO (>70) + 1h=+0.00% flat + volatilità alta (0.85%) = correzione probabile. Realizza profitti su posizione ipercomprata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T01:01:29.295829+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 86.36,
+    "reason": "RSI=74.5 IPERCOMPRATO (>70) + 1h=-0.59% negativa + volatilità alta (0.79%) = segnale VENDITA MEDIA. Proteggi gains su momentum esaurito.",
+    "dry_run": false
   }
 ]
