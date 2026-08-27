@@ -151,5 +151,14 @@
     "price": 0.745,
     "reason": "RSI=80.0 IPERCOMPRATO (massimo critico) + 4h=+2.74% ma senza MACD cross confermato. Segnale VENDITA MEDIA. Proteggo i profitti su una posizione satura.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T04:01:27.517328+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.745,
+    "reason": "RSI=80.0 IPERCOMPRATO + MACD hist positivo ma con momentum già esaurito su timeframe 4h (+1.35%) dopo 24h negativo (-1.32%). Segnale di correzione imminente. Riduco posizione overextended.",
+    "dry_run": false
   }
 ]
