@@ -394,5 +394,14 @@
     "price": 10.1787,
     "reason": "MACD BEARISH_CROSS confermato (hist=-0.0013, decrescente) + RSI=48.4 in discesa verso ipervenduto. 1h=-0.65% negativo. Segnale ribassista chiaro. Riduco posizione prima dell'ulteriore calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T17:01:28.563414+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 93.455,
+    "reason": "RSI=89.0 IPERCOMPRATO (>>70) + MACD hist positivo ma con volatilità elevata (0.48%) e 1h=+0.74%. Segnale di correzione imminente. SOL ha già +12.05% in 24h. Realizzo profitti prima del pullback atteso.",
+    "dry_run": false
   }
 ]
