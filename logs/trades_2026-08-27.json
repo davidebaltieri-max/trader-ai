@@ -25,5 +25,14 @@
     "price": 0.755,
     "reason": "RSI=71.4 (IPERCOMPRATO) + volatilità alta (0.90%) + 24h piatto (0.00%) mentre 4h=+4.17% suggerisce esaurimento momentum. MACD hist positivo ma in zona di saturazione. Riduci posizione per lock-in profitti su rally 4h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T00:31:06.847294+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 86.805,
+    "reason": "RSI=78.7 IPERCOMPRATO + 1h=-0.82% negativo. Momentum rialzista forte (4h=+4.33%, MACD hist crescente) ma raggiunto livello di overbought critico. Riduco posizione per lock-in parziale di profitti e limito rischio di correzione.",
+    "dry_run": false
   }
 ]
