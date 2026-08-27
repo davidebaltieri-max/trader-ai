@@ -250,5 +250,14 @@
     "price": 0.765,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo crescente ma con estensione eccessiva. Profitto tattico su posizione già significativa (665 unità). Riduco esposizione per capitalizzare rally e liberare slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T08:31:19.694345+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.1556,
+    "reason": "RSI=76.6 IPERCOMPRATO massimo + MACD hist=+0.0174 elevato. Correzione probabile. Presa di profitto su posizione DeFi per ridurre rischio in contesto di ipercomprato generalizzato.",
+    "dry_run": false
   }
 ]
