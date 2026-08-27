@@ -16,5 +16,14 @@
     "price": 87.41,
     "reason": "RSI=84.4 (IPERCOMPRATO estremo) + momentum già confermato (MACD hist crescente). SOL ha performato +5.66% in 24h. Realizza profitti su questo picco, riduci posizione prima di correzione attesa. Segnale VENDITA MEDIA-FORTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T00:01:37.880179+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 0.755,
+    "reason": "RSI=71.4 (IPERCOMPRATO) + volatilità alta (0.90%) + 24h piatto (0.00%) mentre 4h=+4.17% suggerisce esaurimento momentum. MACD hist positivo ma in zona di saturazione. Riduci posizione per lock-in profitti su rally 4h.",
+    "dry_run": false
   }
 ]
