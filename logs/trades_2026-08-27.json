@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-27T00:00:21.033837+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 87.48,
+    "reason": "RSI=88.7 (IPERCOMPRATO ESTREMO) + 1h=+2.39% (pullback imminente probabile). SOL è la posizione più vulnerable a correzione nel portafoglio. Volume alto (vol×=3.75x) conferma interesse, ma dopo spinta del +5.93% in 24h il momentum è estenuato. Realizza profitti su SOL prima della correzione, libera slot per opportunità migliori.",
+    "dry_run": false
+  }
+]
