@@ -331,5 +331,14 @@
     "price": 10.1013,
     "reason": "RSI=65.1 IN ZONA ALTA + MACD hist negativo decrescente + 4h=-0.71% negativo. Segnale VENDITA MEDIA. LINK è vicino a 70 RSI e volume è elevato (vol×=+1.06x); realizzo parziali profitti prima del pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T14:01:28.988179+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 90.95,
+    "reason": "RSI=79.1 IPERCOMPRATO (>70) + MACD hist positivo ma in zona di estremo. SOL ha guadagnato +9.93% in 24h, segnale di correzione imminente. Realizzo profitti su posizione forte per ridurre rischio.",
+    "dry_run": false
   }
 ]
