@@ -61,5 +61,14 @@
     "price": 86.36,
     "reason": "RSI=74.5 IPERCOMPRATO (>70) + 1h=-0.59% negativa + volatilità alta (0.79%) = segnale VENDITA MEDIA. Proteggi gains su momentum esaurito.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T01:31:16.062972+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 0.755,
+    "reason": "RSI=80.0 IPERCOMPRATO + 4h=+4.17% momentum esaurito. MACD hist positivo ma DOT mostra estensione parabolicaevidente. Vol×=1.36 conferma uscita. Realizzo profitti su posizione grande (665 unità).",
+    "dry_run": false
   }
 ]
