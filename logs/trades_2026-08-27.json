@@ -97,5 +97,14 @@
     "price": 87.215,
     "reason": "RSI=77.4 IPERCOMPRATO + volatilità=0.79% media-alta + gain 24h=+4.36% sostenuto. MACD ancora positivo ma RSI estremamente elevato segnala rischio correzione. Riduco esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T02:31:21.977479+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.745,
+    "reason": "RSI=80.0 (IPERCOMPRATO) + volatilità alta 0.85% + 1h=0.00% (stagnazione). Momentum rialzista confermato ma estremo; take profit su posizione in guadagno. Riduco esposizione su L1 alternativo per fare spazio.",
+    "dry_run": false
   }
 ]
