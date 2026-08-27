@@ -340,5 +340,14 @@
     "price": 90.95,
     "reason": "RSI=79.1 IPERCOMPRATO (>70) + MACD hist positivo ma in zona di estremo. SOL ha guadagnato +9.93% in 24h, segnale di correzione imminente. Realizzo profitti su posizione forte per ridurre rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T14:31:19.961391+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 91.11,
+    "reason": "RSI=78.1 IPERCOMPRATO + MACD hist positivo ma in zona di ipercompravendita. SOL è salito +10.95% in 24h con volume debole (0.54x). Realizza parzialmente per proteggere i guadagni e liberare slot.",
+    "dry_run": false
   }
 ]
