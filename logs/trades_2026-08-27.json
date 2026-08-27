@@ -34,5 +34,14 @@
     "price": 86.805,
     "reason": "RSI=78.7 IPERCOMPRATO + 1h=-0.82% negativo. Momentum rialzista forte (4h=+4.33%, MACD hist crescente) ma raggiunto livello di overbought critico. Riduco posizione per lock-in parziale di profitti e limito rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T00:31:08.089009+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 9.9148,
+    "reason": "RSI=73.8 IPERCOMPRATO + 1h=-0.55% negativo + vol×=+0.62x moderato. Tre segnali IPERCOMPRATO nel portafoglio (SOL, DOT, LINK, UNI). LINK ha momentum positivo (4h=+2.12%, MACD hist=+0.0244 crescente) ma RSI troppo elevato. Riduco per gestire rischio complessivo.",
+    "dry_run": false
   }
 ]
