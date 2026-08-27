@@ -232,5 +232,14 @@
     "price": 0.755,
     "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma in zona di ipercomprato dopo rally 1h=+1.35%. Realizza profitti su posizione in rialzo eccessivo per ridurre rischio correzione. Posizione grande per segnale di vendita medio-forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T08:01:29.419841+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.755,
+    "reason": "SEGNALE DI REALIZZAZIONE PARZIALE: RSI=66.7 (prossimo a ipercomprato 70), MACD hist=+0.0009 ma momentum decrescente su timeframe 1h/4h (entrambi 0.00%), volatilità alta (0.80%). Profit taking su posizione in uptrend: realizzo +1.35% e riduco esposizione. Mantieni ~50% della posizione per continuare partecipazione al trend.",
+    "dry_run": false
   }
 ]
