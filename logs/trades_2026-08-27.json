@@ -142,5 +142,14 @@
     "price": 87.07,
     "reason": "RSI=75.1 IPERCOMPRATO + 4h=-0.40% + correzione attesa. SOL ha avuto +4.86% in 24h, momentum è esausto. Realizzo parte dei guadagni prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T03:31:20.201962+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.745,
+    "reason": "RSI=80.0 IPERCOMPRATO (massimo critico) + 4h=+2.74% ma senza MACD cross confermato. Segnale VENDITA MEDIA. Proteggo i profitti su una posizione satura.",
+    "dry_run": false
   }
 ]
