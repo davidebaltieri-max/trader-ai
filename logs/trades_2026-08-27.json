@@ -106,5 +106,14 @@
     "price": 0.745,
     "reason": "RSI=80.0 (IPERCOMPRATO) + volatilità alta 0.85% + 1h=0.00% (stagnazione). Momentum rialzista confermato ma estremo; take profit su posizione in guadagno. Riduco esposizione su L1 alternativo per fare spazio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T02:31:23.516692+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 86.805,
+    "reason": "RSI=73.8 (IPERCOMPRATO) + 1h=-0.32% (indebolimento) + volatilità 0.83% (elevata). Nonostante MACD crescente, il segnale tecnico suggerisce correzione imminente. Realizzo utili su +4.13% (24h).",
+    "dry_run": false
   }
 ]
