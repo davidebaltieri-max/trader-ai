@@ -205,5 +205,14 @@
     "price": 0.755,
     "reason": "RSI=75.0 🔴IPERCOMPRATO — segnale di correzione imminente. DOT è in overbought estremo su timeframe 7h. MACD hist positivo ma in zona di saturazione. Riduco posizione prima del pullback atteso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T06:31:26.055176+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.755,
+    "reason": "RSI=75.0 IPERCOMPRATO (>70) con vol×=3.47x (spike volume). Segnale di correzione forte. DOT ha performato +1.35% in 24h ma è in ipercomprato. Riduco il rischio su questa posizione sovra-estesa. Vendita media-forte.",
+    "dry_run": false
   }
 ]
