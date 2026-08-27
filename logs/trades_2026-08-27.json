@@ -187,5 +187,14 @@
     "price": 9.8994,
     "reason": "LINK mostra BEARISH_CROSS MACD confermato (hist<0, decrescente) + RSI=57.1 in discesa + 1h=+0.17% ma trend 4h=+0.42% rallenta. Segnale SELL media per ridurre esposizione su infrastruttura DeFi in debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T05:31:16.093667+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.745,
+    "reason": "RSI=80.0 IPERCOMPRATO (>70) + MACD hist positivo ma decelerazione imminente. DOT ha performato +1.35% in 4h ma è entrato in territorio di correzione probabile. Vendita media per realizzare profitti e liberare slot.",
+    "dry_run": false
   }
 ]
