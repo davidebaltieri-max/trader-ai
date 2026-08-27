@@ -313,5 +313,14 @@
     "price": 89.805,
     "reason": "RSI=76.0 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=+0.02% (quasi piatto) + 4h=-0.73%. Segnale VENDITA FORTE confermato. SOL ha già performato +9.02% in 24h, momento di prendere profitti prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T13:31:22.347556+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 89.7,
+    "reason": "RSI=74.4 IPERCOMPRATO + MACD hist negativo decrescente + 4h=+0.20% debole. Segnale VENDITA MEDIA confermato. SOL è in posizione da 1.747 unità; riduco l'esposizione prima della correzione attesa.",
+    "dry_run": false
   }
 ]
