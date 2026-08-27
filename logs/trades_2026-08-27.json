@@ -376,5 +376,14 @@
     "price": 91.93,
     "reason": "SOL segnale VENDITA MEDIA: RSI=65.3 (prossimo ipercomprato), 1h=-0.34% (debole), volume×=+1.33 ma MACD hist ancora positivo crescente tuttavia è in zona di rischio. Presa parziale di profitto su posizione forte (11.84% 24h) per realistico trailing stop preemptivo. Conservare liquidità per dip-buying.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T16:31:17.736490+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 92.645,
+    "reason": "RSI=81.2 IPERCOMPRATO (>70) + MACD hist crescente ma con momentum eccessivo. SOL +12.47% in 24h richiede profit-taking. Volatilità elevata (0.46%) su un asset ipercomprato = rischio correzione imminente. Gestione rischio: riduco esposizione a un top locale.",
+    "dry_run": false
   }
 ]
