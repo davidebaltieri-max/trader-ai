@@ -88,5 +88,14 @@
     "price": 0.755,
     "reason": "RSI=80.0 IPERCOMPRATO + vol×=1.36x elevato + 1h=0.00% (stallo) = correzione probabile. DOT ha rallentato dopo gain 4h=+4.17%. Vendita media-forte per realizzare profitti e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T02:01:31.878465+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 87.215,
+    "reason": "RSI=77.4 IPERCOMPRATO + volatilità=0.79% media-alta + gain 24h=+4.36% sostenuto. MACD ancora positivo ma RSI estremamente elevato segnala rischio correzione. Riduco esposizione.",
+    "dry_run": false
   }
 ]
