@@ -169,5 +169,14 @@
     "price": 0.745,
     "reason": "RSI=80.0 IPERCOMPRATO (>70) → segnale di correzione imminente. Anche se MACD hist positivo, il livello RSI estremo richiede riduzione del rischio su questa posizione. Realizzo parte dei guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T05:01:30.898831+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.745,
+    "reason": "RSI=80.0 IPERCOMPRATO (segnale SELL forte). DOT in ipercomprato su timeframe 7h; anche se MACD hist è positivo, il segnale di sovracquisto è prioritario su profilo performante per bloccare gains. Posizione già in profitto (+1.35% 4h). Riduci per liberare liquidità.",
+    "dry_run": false
   }
 ]
