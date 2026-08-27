@@ -412,5 +412,14 @@
     "price": 10.2601,
     "reason": "LINK ipercomprato con RSI=74.7 >70, momentum MACD positivo ma decelerazione nei gain 1h=+0.60%. Presa di profitto parziale su posizione già in portafoglio per de-risking, mantenendo esposizione ridotta su asset in overbought.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T18:01:29.893886+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 30.0,
+    "price": 92.77,
+    "reason": "SOL è in IPERCOMPRATO (RSI=78.5 >>70). Sebbene MACD sia positivo, il momentum è saturo dopo +11.67% in 24h. Realizzo profitti su posizione volatile. Volume×=+0.73 conferma la spinta compradora ormai esausta.",
+    "dry_run": false
   }
 ]
