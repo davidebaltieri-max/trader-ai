@@ -322,5 +322,14 @@
     "price": 89.7,
     "reason": "RSI=74.4 IPERCOMPRATO + MACD hist negativo decrescente + 4h=+0.20% debole. Segnale VENDITA MEDIA confermato. SOL è in posizione da 1.747 unità; riduco l'esposizione prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T13:31:23.832507+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 10.1013,
+    "reason": "RSI=65.1 IN ZONA ALTA + MACD hist negativo decrescente + 4h=-0.71% negativo. Segnale VENDITA MEDIA. LINK è vicino a 70 RSI e volume è elevato (vol×=+1.06x); realizzo parziali profitti prima del pullback.",
+    "dry_run": false
   }
 ]
