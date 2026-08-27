@@ -70,5 +70,14 @@
     "price": 0.755,
     "reason": "RSI=80.0 IPERCOMPRATO + 4h=+4.17% momentum esaurito. MACD hist positivo ma DOT mostra estensione parabolicaevidente. Vol×=1.36 conferma uscita. Realizzo profitti su posizione grande (665 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T01:31:17.730322+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 30.0,
+    "price": 87.37,
+    "reason": "RSI=78.0 IPERCOMPRATO + 4h=+3.60% 24h=+5.18% rally esaurito. MACD hist ancora positivo ma run-up eccessivo su timeframe breve. Contengo esposizione (1.75 unità, margine piccolo).",
+    "dry_run": false
   }
 ]
