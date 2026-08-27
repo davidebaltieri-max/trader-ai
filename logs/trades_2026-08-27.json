@@ -304,5 +304,14 @@
     "price": 0.745,
     "reason": "SEGNALE VENDITA MEDIA: RSI=50.0 (neutro), MACD hist=-0.0013 ↓decrescente (trend ribassista confermato), 4h=-1.32% (negativo), 24h=+2.74% (guadagno residuo). Posizione vulnerabile con MACD negativo. Riduco esposizione su interoperabilità, ruoto verso momentum positivo. Presa di profitto parziale (posizione: 665.109 unità, vendo ~13.4 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T13:01:32.919701+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 89.805,
+    "reason": "RSI=76.0 IPERCOMPRATO + MACD BEARISH_CROSS (hist negativo decrescente) + 1h=+0.02% (quasi piatto) + 4h=-0.73%. Segnale VENDITA FORTE confermato. SOL ha già performato +9.02% in 24h, momento di prendere profitti prima della correzione attesa.",
+    "dry_run": false
   }
 ]
