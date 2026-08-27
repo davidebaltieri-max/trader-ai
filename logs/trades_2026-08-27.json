@@ -133,5 +133,14 @@
     "price": 0.745,
     "reason": "RSI=80.0 MASSIMAMENTE IPERCOMPRATO (>70) + 4h=+2.74% con spikes di volume (vol×=+0.56x). Segnale VENDITA MEDIA confermato. Realizzo profitti da posizione forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T03:31:18.685030+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 87.07,
+    "reason": "RSI=75.1 IPERCOMPRATO + 4h=-0.40% + correzione attesa. SOL ha avuto +4.86% in 24h, momentum è esausto. Realizzo parte dei guadagni prima della correzione.",
+    "dry_run": false
   }
 ]
