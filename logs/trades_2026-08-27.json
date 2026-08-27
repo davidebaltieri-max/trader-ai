@@ -475,5 +475,14 @@
     "price": 93.59,
     "reason": "SOL: RSI=68.4 (ipercomprato) + MACD BEARISH_CROSS confermato + 1h=-0.32% + 24h=+12.51% (rally estremo). Segnale VENDITA FORTE. Realizzo profitti su rally esplosivo e ripositiono su segnali migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T21:01:35.972384+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 93.47,
+    "reason": "SOL in ipercomprato (RSI=68.1), MACD hist negativo decrescente, segnale VENDITA MEDIA confermato. Presa di profitto su posizione in +11.50% (24h). Volatilità elevata (0.67%) suggerisce correzione imminente.",
+    "dry_run": false
   }
 ]
