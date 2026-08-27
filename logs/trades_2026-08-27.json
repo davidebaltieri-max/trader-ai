@@ -286,5 +286,14 @@
     "price": 10.2018,
     "reason": "LINK: RSI=76.6 🔴IPERCOMPRATO (>70), MACD hist positivo ma divergenza negativa imminente, 1h=-0.31% (momentum orario negativo). Segnale di vendita media per ridurre rischio su posizione satura. Presa parziale di profitto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T10:31:15.586992+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.75,
+    "reason": "VENDITA MEDIA: RSI=50.0 (neutro ma ai limiti), MACD hist=-0.0003 con BEARISH_CROSS confermato (ribassista), 1h=-1.32% negativo. DOT mostra inversione momentum dopo il rialzo delle 4h. Rotazione da interoperabilità verso settori con trend più forte. Riduco esposizione su segnale bearish.",
+    "dry_run": false
   }
 ]
