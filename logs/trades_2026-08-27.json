@@ -79,5 +79,14 @@
     "price": 87.37,
     "reason": "RSI=78.0 IPERCOMPRATO + 4h=+3.60% 24h=+5.18% rally esaurito. MACD hist ancora positivo ma run-up eccessivo su timeframe breve. Contengo esposizione (1.75 unità, margine piccolo).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T02:01:30.535828+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.755,
+    "reason": "RSI=80.0 IPERCOMPRATO + vol×=1.36x elevato + 1h=0.00% (stallo) = correzione probabile. DOT ha rallentato dopo gain 4h=+4.17%. Vendita media-forte per realizzare profitti e liberare slot.",
+    "dry_run": false
   }
 ]
