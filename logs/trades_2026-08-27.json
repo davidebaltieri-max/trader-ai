@@ -268,5 +268,14 @@
     "price": 10.1764,
     "reason": "VENDITA FORTE: RSI=79.8 (ipercomprato estremo) + MACD hist positivo ma momentum decrescente + 1h=+0.51% (segnale debole). LINK è la posizione più tesa del portfolio. Realizzo profitti su asset in zona di rischio elevato per ridurre esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-27T09:23:12.863103+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.1699,
+    "reason": "RSI=78.8 🔴IPERCOMPRATO (estremo) + MACD hist positivo ma plateauing su timeframe 30min. Momentum rialzista esaurito. Profitto realizzato su posizione in rialzo. Riduco esposizione su asset ipercomprato per liberare capitale.",
+    "dry_run": false
   }
 ]
