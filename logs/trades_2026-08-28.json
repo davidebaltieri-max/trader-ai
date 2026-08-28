@@ -106,5 +106,14 @@
     "price": 0.735,
     "reason": "RSI=33.3 (limite ipervenduto) + MACD hist=-0.0017 decrescente + 4h=-2.67% + 1h=-1.35% confermano trend ribassista. DOT mostra debolezza relativa rispetto ad ATOM/SOL. Riduzione tattica per rotazione settori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T23:01:35.390640+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 10.0,
+    "price": 0.735,
+    "reason": "SEGNALE VENDITA MEDIA: RSI=33.3 (ipervenduto ma in fase di debolezza), MACD hist=-0.0009 e decrescente (assenza di momentum rialzista), 4h=-1.35%, vol×=+6.47x con alta volatilità. Riduzione posizione overweight su segnale tecnico negativo. Presa di profitti parziale.",
+    "dry_run": false
   }
 ]
