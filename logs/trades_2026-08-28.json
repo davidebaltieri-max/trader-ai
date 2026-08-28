@@ -52,5 +52,14 @@
     "price": 1.3152,
     "reason": "ATOM: RSI=53.7 (neutrale ma massimo della lista), MACD hist=-0.0027 (negativo decrescente), 4h=-1.80% (pressione ribassista), vol×=+0.23x (volume molto basso, segnale debole). Posizione in portafoglio: 615.545 unità @ €1.3152 ≈ €809. Riduzione tattica: RSI in zona massima neutra + MACD decrescente + basso volume indicano scarsa convinzione rialzista. Realizziamo parziale profitto e liberiamo 1 slot per opportunità migliori (AVAX/ADA emergenti).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T12:01:28.094365+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 90.865,
+    "reason": "RIDUZIONE POSIZIONE: RSI=36.7 (ipervenduto ma non ancora rimbalzo confermato) + MACD hist=-0.1024 ↓decrescente + 1h=-0.35%, 4h=-0.67% (pressione ribassista). Realizza parziale su posizione piccola (1.747 SOL) per ridurre esposizione prima di possibile ulteriore calo.",
+    "dry_run": false
   }
 ]
