@@ -16,5 +16,14 @@
     "price": 0.755,
     "reason": "VENDITA MEDIA: RSI=50.0 (zona neutra limite), MACD hist=-0.0012 ↓decrescente con trend ribassista confermato, 1h=-1.32% negativo e 4h=+0.00% stagnante, volat=+1.49% elevata. Posizione DOT in portafoglio ha subito ritiro orario. Ridurre esposizione su interoperabilità per bilanciare e liberare slot. Take profit moderato su posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T01:31:16.466172+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.295,
+    "reason": "SEGNALE VENDITA MEDIA: RSI=70.8 (IPERCOMPRATO), MACD hist=+0.0006 ↑crescente ma senza conferma BEARISH_CROSS. Segnali contrastanti (momentum rialzista vs RSI ipercomprato). Presa di profitto tattica su posizione LINK (già in portafoglio con buoni gains 24h=+3.87%) per raccogliere profitti e ridurre esposizione su asset in ipercomprato. Operazione piccola (€8) per lock-in parziale senza uscita totale.",
+    "dry_run": false
   }
 ]
