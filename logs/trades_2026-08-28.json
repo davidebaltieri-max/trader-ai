@@ -88,5 +88,14 @@
     "price": 9.9563,
     "reason": "LINK in debolezza: MACD bearish cross (hist=-0.0068), RSI 41.2 mediobasso, 4h -1.41%, 24h -2.26%. Segnale VENDITA MEDIA confermato da MACD negativo decrescente. Realizza profitti parziali dall'infrastruttura DeFi prima di ulteriore correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T17:31:11.478180+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 10.0,
+    "price": 0.735,
+    "reason": "RSI=33.3 (zona neutra bassa) + MACD hist negativo decrescente su 24h (trend ribassista confermato -2.67%) + vol×=0.43x. Riduzione posizione su momentum negativo, recupero capitale per operazioni più promettenti.",
+    "dry_run": false
   }
 ]
