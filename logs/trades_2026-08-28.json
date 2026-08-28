@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-28T00:31:11.964842+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3546,
+    "reason": "RSI=75.1 IPERCOMPRATO + MACD hist crescente ma momentum ribassista generale su BTC/ETH. ATOM ha performato +5.05% in 24h e +1.90% in 1h: presa di profitto su posizione già robusta (615.5 unità). Volatilità elevata (0.69%) suggerisce correzione imminente. Vendo parte della posizione per ridurre rischio e liberare liquidità.",
+    "dry_run": false
+  }
+]
