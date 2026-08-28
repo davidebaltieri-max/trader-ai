@@ -97,5 +97,14 @@
     "price": 0.735,
     "reason": "RSI=33.3 (zona neutra bassa) + MACD hist negativo decrescente su 24h (trend ribassista confermato -2.67%) + vol×=0.43x. Riduzione posizione su momentum negativo, recupero capitale per operazioni più promettenti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T18:01:22.615040+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.735,
+    "reason": "RSI=33.3 (limite ipervenduto) + MACD hist=-0.0017 decrescente + 4h=-2.67% + 1h=-1.35% confermano trend ribassista. DOT mostra debolezza relativa rispetto ad ATOM/SOL. Riduzione tattica per rotazione settori.",
+    "dry_run": false
   }
 ]
