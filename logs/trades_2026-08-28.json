@@ -61,5 +61,14 @@
     "price": 90.865,
     "reason": "RIDUZIONE POSIZIONE: RSI=36.7 (ipervenduto ma non ancora rimbalzo confermato) + MACD hist=-0.1024 ↓decrescente + 1h=-0.35%, 4h=-0.67% (pressione ribassista). Realizza parziale su posizione piccola (1.747 SOL) per ridurre esposizione prima di possibile ulteriore calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T14:31:25.562130+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.745,
+    "reason": "RSI=44.4 (neutrale) + MACD hist=-0.0014 (decrescente) + 1h=-1.33% 4h=-1.33% (pressione ribassista multiframe) + vol×=1.54x. Posizione grande (665.11 unità): presa di profitto tattica su interoperabilità in debolezza. Riduco esposizione per finanziare entry su SOL/AVAX a momentum positivo. VENDITA MEDIA: calo consistente multiframe.",
+    "dry_run": false
   }
 ]
