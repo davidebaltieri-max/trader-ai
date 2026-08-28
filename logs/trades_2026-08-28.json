@@ -70,5 +70,14 @@
     "price": 0.745,
     "reason": "RSI=44.4 (neutrale) + MACD hist=-0.0014 (decrescente) + 1h=-1.33% 4h=-1.33% (pressione ribassista multiframe) + vol×=1.54x. Posizione grande (665.11 unità): presa di profitto tattica su interoperabilità in debolezza. Riduco esposizione per finanziare entry su SOL/AVAX a momentum positivo. VENDITA MEDIA: calo consistente multiframe.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T15:31:21.779965+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.745,
+    "reason": "VENDITA MEDIA: RSI=55.6 (neutro), MACD hist=-0.0002 ↓decrescente (inversione negativa), 4h=-1.32% negativo, vol×=+3.72x volume massimo ma senza supporto direzionale. Trimestralità debole. Realizza posizione prima della correzione. Stop loss -5% a €0.707.",
+    "dry_run": false
   }
 ]
