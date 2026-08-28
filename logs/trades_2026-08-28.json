@@ -34,5 +34,14 @@
     "price": 1.3486,
     "reason": "SKIP - Già in portafoglio (615.55 unità). RSI=67.8 (prossimo a ipercomprato) + MACD hist=+0.0036 crescente: segnale ancora bullish ma rischio correzione aumenta. Mantieni posizione, non aggiungere.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T02:31:17.568854+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.3281,
+    "reason": "ATOM unica posizione con MACD hist positivo crescente (+0.0019) e RSI=53.2 in zona neutra superiore. Prendere profitto parziale su momentum rialzista in controtrend rispetto al mercato. Ridurre esposizione mantenendo posizione core.",
+    "dry_run": false
   }
 ]
