@@ -25,5 +25,14 @@
     "price": 10.295,
     "reason": "SEGNALE VENDITA MEDIA: RSI=70.8 (IPERCOMPRATO), MACD hist=+0.0006 ↑crescente ma senza conferma BEARISH_CROSS. Segnali contrastanti (momentum rialzista vs RSI ipercomprato). Presa di profitto tattica su posizione LINK (già in portafoglio con buoni gains 24h=+3.87%) per raccogliere profitti e ridurre esposizione su asset in ipercomprato. Operazione piccola (€8) per lock-in parziale senza uscita totale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T02:01:28.854425+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 0.0,
+    "price": 1.3486,
+    "reason": "SKIP - Già in portafoglio (615.55 unità). RSI=67.8 (prossimo a ipercomprato) + MACD hist=+0.0036 crescente: segnale ancora bullish ma rischio correzione aumenta. Mantieni posizione, non aggiungere.",
+    "dry_run": false
   }
 ]
