@@ -43,5 +43,14 @@
     "price": 1.3281,
     "reason": "ATOM unica posizione con MACD hist positivo crescente (+0.0019) e RSI=53.2 in zona neutra superiore. Prendere profitto parziale su momentum rialzista in controtrend rispetto al mercato. Ridurre esposizione mantenendo posizione core.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T04:31:24.666789+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3152,
+    "reason": "ATOM: RSI=53.7 (neutrale ma massimo della lista), MACD hist=-0.0027 (negativo decrescente), 4h=-1.80% (pressione ribassista), vol×=+0.23x (volume molto basso, segnale debole). Posizione in portafoglio: 615.545 unità @ €1.3152 ≈ €809. Riduzione tattica: RSI in zona massima neutra + MACD decrescente + basso volume indicano scarsa convinzione rialzista. Realizziamo parziale profitto e liberiamo 1 slot per opportunità migliori (AVAX/ADA emergenti).",
+    "dry_run": false
   }
 ]
