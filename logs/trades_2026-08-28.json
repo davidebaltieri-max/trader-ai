@@ -7,5 +7,14 @@
     "price": 1.3546,
     "reason": "RSI=75.1 IPERCOMPRATO + MACD hist crescente ma momentum ribassista generale su BTC/ETH. ATOM ha performato +5.05% in 24h e +1.90% in 1h: presa di profitto su posizione già robusta (615.5 unità). Volatilità elevata (0.69%) suggerisce correzione imminente. Vendo parte della posizione per ridurre rischio e liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T01:01:25.922305+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.755,
+    "reason": "VENDITA MEDIA: RSI=50.0 (zona neutra limite), MACD hist=-0.0012 ↓decrescente con trend ribassista confermato, 1h=-1.32% negativo e 4h=+0.00% stagnante, volat=+1.49% elevata. Posizione DOT in portafoglio ha subito ritiro orario. Ridurre esposizione su interoperabilità per bilanciare e liberare slot. Take profit moderato su posizione.",
+    "dry_run": false
   }
 ]
