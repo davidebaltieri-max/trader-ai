@@ -115,5 +115,14 @@
     "price": 0.735,
     "reason": "SEGNALE VENDITA MEDIA: RSI=33.3 (ipervenduto ma in fase di debolezza), MACD hist=-0.0009 e decrescente (assenza di momentum rialzista), 4h=-1.35%, vol×=+6.47x con alta volatilità. Riduzione posizione overweight su segnale tecnico negativo. Presa di profitti parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-28T23:31:14.267820+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 8.0,
+    "price": 0.735,
+    "reason": "DOT in segnali contrastanti critici: RSI=33.3 (ipervenduto) MA 4h=-1.35% ribassista E MACD hist=-0.0009 decrescente (negativo). Volume ALTISSIMO (vol×=+6.47x anomalo) con volatilità alta (0.79%). Riduzione posizione sovradimensionata (665.109 unità) per limitare drawdown su trend confuso. Sell parziale gestionale.",
+    "dry_run": false
   }
 ]
