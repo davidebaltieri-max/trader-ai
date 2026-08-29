@@ -61,5 +61,14 @@
     "price": 1.3025,
     "reason": "RSI=70.1 IPERCOMPRATO + 1h=+0.68% momentum positivo ma overbought confermato. MACD hist crescente ma RSI in zona critica. Realizzo profitti su posizione forte (615.54 unità) riducendo l'esposizione prima della correzione attesa. Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T09:01:32.130378+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 89.255,
+    "reason": "SOL: MACD BEARISH_CROSS confermato + RSI=38.6 in discesa + 24h=-2.30% + MACD hist negativo e decrescente. Momentum ribassista. Riduco posizione in SOL (1.747 unità) per liberare capitale e riallocare verso opportunità ipervendute. Stop loss preventivo su posizione remaining.",
+    "dry_run": false
   }
 ]
