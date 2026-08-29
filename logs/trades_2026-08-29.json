@@ -196,5 +196,14 @@
     "price": 9.8786,
     "reason": "UNI in ipercomprato estremo (RSI 91.3) e LINK ha volume alto (2.37x) con RSI 67.3 in zona di potenziale correzione. Rotazione settoriale da DeFi a posizioni più equilibrate. LINK ha generato ritorni recenti (+0.94% 24h), opportuno realizzare profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T19:31:18.243707+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 91.38,
+    "reason": "RSI=79.1 IPERCOMPRATO + MACD hist crescente ma RSI estremo suggerisce correzione imminente. SOL ha performato forte (+2.40% 24h) ed è al limite di rotazione. Riduco posizione per lock in parziale",
+    "dry_run": false
   }
 ]
