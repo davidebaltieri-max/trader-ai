@@ -133,5 +133,14 @@
     "price": 90.765,
     "reason": "RSI=82.5 IPERCOMPRATO (>70) + 1h=-0.06% negativo + volatilità elevata +0.32%. Segnale VENDITA MEDIA confermato. Realizzo parzialmente il guadagno su SOL prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T16:31:22.808156+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 90.695,
+    "reason": "RSI=82.2 IPERCOMPRATO (>70) + 1h=-0.01% + MACD hist positivo ma momentum estenuato. VENDITA MEDIA: riduco posizione dopo rally sostenuto. Target: uscire prima della correzione attesa.",
+    "dry_run": false
   }
 ]
