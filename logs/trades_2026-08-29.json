@@ -16,5 +16,14 @@
     "price": 0.735,
     "reason": "VENDITA MEDIA: RSI=40.0 in fase di debolezza, MACD hist negativo (-0.0006) e decrescente — unico asset con MACD bearish. 1h=0.00% e 4h=0.00% (stagnazione), 24h=-5.19% calo considerevole. Volume altissimo (vol×=+6.08x) ma senza supporto direzionale. Ridurre posizione su segnale ribassista confermato, liberare capitale per opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T00:37:54.286315+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.735,
+    "reason": "VENDITA MEDIA-DIFENSIVA: RSI=40.0 (zona bassa ma non ipervenduta), MACD hist=-0.0006 (cross bearish confermato), 1h=+0.00% + 4h=+0.00% (stallo totale intraday), vol×=+6.08x MASSIMO (picco volume senza direzionalità = distribuzione), volat=+0.79% (elevata). DOT non mostra trend rialzista nonostante volume anomalo. Ridimensionare per liberare capitale su setup più forti. Posizione difensiva.",
+    "dry_run": false
   }
 ]
