@@ -34,5 +34,14 @@
     "price": 0.735,
     "reason": "DOT: RSI=40.0 (prossimo al neutro ma decrescente), MACD hist negativo decrescente (momentum ribassista confermato), vol×=+6.08x (volume anomalo ma su bearish move), 1h=+0.00% 4h=+0.00% 24h=-5.19%. Segnale VENDITA MEDIA: ridotta esposizione a posizione più debole. Mantieni core holding, liquida parzialmente €20.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T01:31:12.573590+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "DOT mostra segnali VENDITA MEDIA confermati: RSI=40.0 (zona bassa ma in calo), MACD hist negativo e decrescente (-0.0005), 4h=0.00% (assenza di spinta rialzista), 24h=-5.19% (pressione ribassista), volume anomalo 6.08x suggerisce distribuzione. Posizione in portafoglio da ridimensionare per liberare liquidità su asset con momentum positivo.",
+    "dry_run": false
   }
 ]
