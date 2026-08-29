@@ -223,5 +223,14 @@
     "price": 4.0168,
     "reason": "SKIP - RSI 85.8 IPERCOMPRATO estremo. Nonostante 24h +5.67% e MACD crescente, il rischio di correzione è troppo elevato per un profilo performante in questo momento. Aspetta pullback verso RSI<70.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T22:31:27.943982+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.2968,
+    "reason": "VENDITA LEGGERA - ATOM: vol×=4.58x (volume anomalo) + RSI=48 neutro + MACD hist decrescente (momentum cedendo) + 4h=-0.91% (debolezza locale). Volume elevato su movimento laterale suggerisce distribuzione. Riduco posizione oversized (615 unità) con micro-sell per proteggermi.",
+    "dry_run": false
   }
 ]
