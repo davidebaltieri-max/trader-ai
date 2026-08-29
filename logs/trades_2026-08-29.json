@@ -7,5 +7,14 @@
     "price": 0.735,
     "reason": "DOT mostra segnali ribassisti forti: RSI=33.3 (ipervenduto ma in BEARISH trend), MACD hist negativo e decrescente, 4h=-1.35%, 24h=-5.19% (perdita consistente). Volume anomalo (vol×=6.47x) suggerisce scarico. Trend ribassista confermato. Riduco posizione in asset debole per liberare slot e capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T00:31:18.338267+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.735,
+    "reason": "VENDITA MEDIA: RSI=40.0 in fase di debolezza, MACD hist negativo (-0.0006) e decrescente — unico asset con MACD bearish. 1h=0.00% e 4h=0.00% (stagnazione), 24h=-5.19% calo considerevole. Volume altissimo (vol×=+6.08x) ma senza supporto direzionale. Ridurre posizione su segnale ribassista confermato, liberare capitale per opportunità più forti.",
+    "dry_run": false
   }
 ]
