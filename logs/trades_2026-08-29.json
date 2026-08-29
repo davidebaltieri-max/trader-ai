@@ -79,5 +79,14 @@
     "price": 1.2965,
     "reason": "ATOM mostra RSI=56.1 (spinta verso ipercomprato), volatilità elevata 0.63% (rischio), 24h=-4.53% indica pressione al ribasso nonostante MACD positivo. Realizzazione parziale di profitti per ridurre esposizione su posizione ad alta volatilità e finanziare nuovi entry più promettenti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T14:31:23.760126+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.8562,
+    "reason": "RSI=71.8 (IPERCOMPRATO) + MACD hist positivo ma trend esteso + vol×=2.22x (picco di volume). Segnale VENDITA MEDIA: riduco esposizione su posizione già in ipercomprato con volume elevato in uscita. Realizzo profitti parziali.",
+    "dry_run": false
   }
 ]
