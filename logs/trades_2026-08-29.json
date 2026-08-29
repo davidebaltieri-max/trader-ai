@@ -214,5 +214,14 @@
     "price": 1.3022,
     "reason": "RSI=49.3 + MACD hist negativo decrescente (momentum ribassista confermato). 1h=-0.32%, 4h=-0.77% — trend locale debole. Riduco posizione sovrapesata per rotare su momentum positivo",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T22:31:26.397436+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 0.0,
+    "price": 4.0168,
+    "reason": "SKIP - RSI 85.8 IPERCOMPRATO estremo. Nonostante 24h +5.67% e MACD crescente, il rischio di correzione è troppo elevato per un profilo performante in questo momento. Aspetta pullback verso RSI<70.",
+    "dry_run": false
   }
 ]
