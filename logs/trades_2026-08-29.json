@@ -97,5 +97,14 @@
     "price": 90.085,
     "reason": "RSI=70.5 (IPERCOMPRATO al limite) + 24h=-1.52% + momentum esteso. Segnale VENDITA MEDIA: SOL è in ipercomprato, vendo 1.0 SOL per realizzare parzialmente e ridurre volatilità. Mantiene il resto per eventuale ripresa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T15:01:31.182992+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.8914,
+    "reason": "LINK mostra segnale VENDITA MEDIA: RSI=75.1 (fortemente ipercomprato), MACD hist positivo ma debole (+0.0196), volume eccessivamente alto (3.35x = potenziale spike d'esaurimento). Riduzione parziale di posizione per lock-in parziale e rotazione verso opportunità migliori. Stop preventivo su ipercomprato.",
+    "dry_run": false
   }
 ]
