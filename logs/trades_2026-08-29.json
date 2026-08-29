@@ -151,5 +151,14 @@
     "price": 90.64,
     "reason": "RSI=78.1 IPERCOMPRATO + 1h=-0.17% negativo. Segnale VENDITA MEDIA confermato. Realizzo profitto su posizione volatile in corrección incipiente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T17:28:37.792983+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 90.41,
+    "reason": "RSI=72.1 IPERCOMPRATO + 1h=-0.37% negativo. Segnale di vendita media: riduco esposizione su posizione già in rialzo eccesivo. Take profit strategico.",
+    "dry_run": false
   }
 ]
