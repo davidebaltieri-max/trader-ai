@@ -88,5 +88,14 @@
     "price": 9.8562,
     "reason": "RSI=71.8 (IPERCOMPRATO) + MACD hist positivo ma trend esteso + vol×=2.22x (picco di volume). Segnale VENDITA MEDIA: riduco esposizione su posizione già in ipercomprato con volume elevato in uscita. Realizzo profitti parziali.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T14:31:25.325027+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 18.0,
+    "price": 90.085,
+    "reason": "RSI=70.5 (IPERCOMPRATO al limite) + 24h=-1.52% + momentum esteso. Segnale VENDITA MEDIA: SOL è in ipercomprato, vendo 1.0 SOL per realizzare parzialmente e ridurre volatilità. Mantiene il resto per eventuale ripresa.",
+    "dry_run": false
   }
 ]
