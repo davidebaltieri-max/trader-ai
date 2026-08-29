@@ -169,5 +169,14 @@
     "price": 90.55,
     "reason": "RSI=73.4 🔴IPERCOMPRATO + 1h=-0.08% negativo. Segnale di VENDITA MEDIA: profitto preso su posizione in ipercomprato, riduco esposizione su asset volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T18:01:31.328701+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2931,
+    "reason": "ATOM: RSI=45.2 (zona neutra bassa) + MACD BEARISH_CROSS confermato (hist negativo decrescente) + 1h=-0.29% + 4h=-0.78%. Segnale VENDITA MEDIA conclamato. Momentum ribassista in atto, opportunità di uscita prima di ulteriore deterioramento. Posizione in portafoglio da gestire attivamente.",
+    "dry_run": false
   }
 ]
