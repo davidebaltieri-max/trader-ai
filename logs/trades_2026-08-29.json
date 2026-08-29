@@ -115,5 +115,14 @@
     "price": 90.645,
     "reason": "RSI=77.0 IPERCOMPRATO + 1h=-0.41% negativo. Segnale di correzione imminente. Riduco esposizione su asset volatile con momentum estremamente alto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T15:31:21.941065+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 10.0,
+    "price": 1.3063,
+    "reason": "RSI=71.8 IPERCOMPRATO + 1h=+0.28% debole + volatilità 0.33%. Prendo profitti su posizione sovravenduta con momentum rialzista saturo.",
+    "dry_run": false
   }
 ]
