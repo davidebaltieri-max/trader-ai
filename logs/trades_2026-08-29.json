@@ -43,5 +43,14 @@
     "price": 0.735,
     "reason": "DOT mostra segnali VENDITA MEDIA confermati: RSI=40.0 (zona bassa ma in calo), MACD hist negativo e decrescente (-0.0005), 4h=0.00% (assenza di spinta rialzista), 24h=-5.19% (pressione ribassista), volume anomalo 6.08x suggerisce distribuzione. Posizione in portafoglio da ridimensionare per liberare liquidità su asset con momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T05:31:20.822955+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.306,
+    "reason": "VENDITA MEDIA: RSI=71.2 (IPERCOMPRATO) + 1h=+0.76% 4h=+1.42% (rally locale esaurito) + MACD hist positivo ma in area di saturazione. Posizione di interoperabilità già forte nel portafoglio (DOT). Realizziamo profitti su ATOM prima della correzione tipica dopo spike di volume basso (vol×=+0.45x, non sostenibile).",
+    "dry_run": false
   }
 ]
