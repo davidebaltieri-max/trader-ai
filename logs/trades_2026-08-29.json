@@ -52,5 +52,14 @@
     "price": 1.306,
     "reason": "VENDITA MEDIA: RSI=71.2 (IPERCOMPRATO) + 1h=+0.76% 4h=+1.42% (rally locale esaurito) + MACD hist positivo ma in area di saturazione. Posizione di interoperabilità già forte nel portafoglio (DOT). Realizziamo profitti su ATOM prima della correzione tipica dopo spike di volume basso (vol×=+0.45x, non sostenibile).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T06:01:26.889541+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3025,
+    "reason": "RSI=70.1 IPERCOMPRATO + 1h=+0.68% momentum positivo ma overbought confermato. MACD hist crescente ma RSI in zona critica. Realizzo profitti su posizione forte (615.54 unità) riducendo l'esposizione prima della correzione attesa. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
