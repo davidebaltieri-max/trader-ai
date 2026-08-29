@@ -106,5 +106,14 @@
     "price": 9.8914,
     "reason": "LINK mostra segnale VENDITA MEDIA: RSI=75.1 (fortemente ipercomprato), MACD hist positivo ma debole (+0.0196), volume eccessivamente alto (3.35x = potenziale spike d'esaurimento). Riduzione parziale di posizione per lock-in parziale e rotazione verso opportunità migliori. Stop preventivo su ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-29T15:31:20.677292+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 90.645,
+    "reason": "RSI=77.0 IPERCOMPRATO + 1h=-0.41% negativo. Segnale di correzione imminente. Riduco esposizione su asset volatile con momentum estremamente alto.",
+    "dry_run": false
   }
 ]
