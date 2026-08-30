@@ -7,5 +7,14 @@
     "price": 9.8733,
     "reason": "RSI=56.3 (neutro-alto) + MACD BEARISH_CROSS confermato (hist=-0.0006 ↓) + 1h=-0.22% + 4h=-0.22%. Segnale VENDITA MEDIA. In portafoglio: 10.67 LINK = €105.4 | Vendi parziale €15 ≈ 1.52 LINK per ridurre esposizione DeFi con momentum negativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T01:01:34.853508+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 0.0,
+    "price": 0.1735,
+    "reason": "NESSUNA AZIONE: 1h=-0.51% (pressione al ribasso), RSI=52.2 (neutro), MACD hist=0 (no segnale). Volume elevato (vol×=1.00x) ma senza chiarezza direzionale. Attendere conferma bullish nelle prossime candele prima di entrare su layer 1 alternativo.",
+    "dry_run": false
   }
 ]
