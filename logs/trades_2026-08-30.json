@@ -142,5 +142,14 @@
     "price": 10.0488,
     "reason": "RSI=81.6 (IPERCOMPRATO) + MACD hist positivo ma segnale di correzione imminente. LINK ha già +1.81% in 24h. Realizzo profitto parziale su posizione in portafoglio prima della possibile pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T16:53:06.062313+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 10.1449,
+    "reason": "RSI=85.1 🔴IPERCOMPRATO + MACD hist crescente ma già estremamente elevato. Volume alto (1.27x) con volatilità moderata (0.41%). 1h=+1.49% 4h=+2.39% 24h=+2.73% suggerisce momentum già catturato. Segnale VENDITA MEDIA: profitto su posizione esistente prima di correzione attesa. Take profit a +10%.",
+    "dry_run": false
   }
 ]
