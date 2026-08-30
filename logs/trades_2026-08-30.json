@@ -151,5 +151,14 @@
     "price": 10.1449,
     "reason": "RSI=85.1 🔴IPERCOMPRATO + MACD hist crescente ma già estremamente elevato. Volume alto (1.27x) con volatilità moderata (0.41%). 1h=+1.49% 4h=+2.39% 24h=+2.73% suggerisce momentum già catturato. Segnale VENDITA MEDIA: profitto su posizione esistente prima di correzione attesa. Take profit a +10%.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T17:01:37.048188+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.1417,
+    "reason": "RSI=83.4 IPERCOMPRATO + MACD hist positivo crescente ma momentum eccessivo su 1h (+1.09%). Realizza profitti su posizione tecnica forte. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
