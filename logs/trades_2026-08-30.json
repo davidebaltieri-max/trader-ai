@@ -115,5 +115,14 @@
     "price": 92.35,
     "reason": "VENDITA MEDIA: SOL mostra RSI=78.0 (IPERCOMPRATO) con 1h=-0.23% (divergenza). Pur avendo MACD positivo, l'ipercompro esteso su timeframe multi (4h e 1h negativi o flat) suggerisce presa di profitto parziale. Posizione piccola per gestire volatilità e mantenere esposizione al sottostante. Trailing stop su rialzo massimale è già attivato (-3%).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T15:01:39.344970+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.2895,
+    "reason": "REBALANCING TATTICO: ATOM mostra RSI=54.6 (zona neutra), MACD hist positivo ma con volat bassa (+0.32%), volume basso (×0.52). Posizione ampia (615.5 unità) accumulata senza momentum forte. Vendita parziale da €30 per liberare capital allocation verso segnali più aggressivi (UNI, ADA). Mantieni posizione core in ATOM per esposizione interoperabilità, ma riduci sovraesposizione.",
+    "dry_run": false
   }
 ]
