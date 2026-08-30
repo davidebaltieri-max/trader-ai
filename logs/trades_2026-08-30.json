@@ -160,5 +160,14 @@
     "price": 10.1417,
     "reason": "RSI=83.4 IPERCOMPRATO + MACD hist positivo crescente ma momentum eccessivo su 1h (+1.09%). Realizza profitti su posizione tecnica forte. Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T17:31:24.796677+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 91.345,
+    "reason": "VENDITA MEDIA preventiva: SOL mostra MACD BEARISH_CROSS con hist=-0.0314 (decrescente ▼), RSI=55.9 neutrale ma in calo, 1h=-1.17%, 4h=-1.38%. Momentum ribassista confermato su 4h. Riduco posizione (1.747 SOL, valore ~€159.50) con exit parziale di ~15€ (~0.164 SOL) per proteggere capitale prima che RSI scenda ulteriormente. Conservo core position. Risk management aggressivo.",
+    "dry_run": false
   }
 ]
