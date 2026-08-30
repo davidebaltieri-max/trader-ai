@@ -187,5 +187,14 @@
     "price": 1.2914,
     "reason": "RICHIESTA OPERATIVA: Posizione ATOM è la più grande (615.5 unità ≈ €795). Sebbene RSI=63.3 e MACD positivo, il 1h=+0.69% è isolato e 24h=-0.78% mostra debolezza relativa. Vendita parziale (50€) per liberare capitale e ridurre volatilità su posizione sovraesposta, mantenendo esposizione residua.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T22:01:33.363721+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "MACD BEARISH_CROSS confermato + RSI=50.0 zone neutra ma in discesa + 1h=-1.35% e 4h=-1.35% downtrend sincronizzato + vol×=1.51 sostiene la mossa ribassista. Uscita parziale (20€) per ridurre esposizione su trend negativo confermato.",
+    "dry_run": false
   }
 ]
