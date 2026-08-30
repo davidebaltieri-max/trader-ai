@@ -97,5 +97,14 @@
     "price": 9.8959,
     "reason": "LINK posizione consolidata (10.67 unità = ~€105.70 lordi). RSI=58.8 (prossimo a zona neutra-alta), MACD hist basso (+0.0077). Momentum attuale moderato (1h=+0.02%, 4h=+0.85%, 24h=+1.24%). Rebalancing: lock-in parziale di DeFi infrastruttura per liberare liquidity verso layer 1 alternati in momentum. Take profit soft su posizione storica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T14:01:31.638498+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 16.0,
+    "price": 92.49,
+    "reason": "VENDITA MEDIA: RSI=73.1 IPERCOMPRATO, MACD hist positivo ma raggiunto picco locale su 4h=+2.12%, 1h=+0.58%. Presa di profitto parziale su posizione already forte (+2.63% 24h). Vendita di 0.17 unità a €92.49, lock-in guadagni prima di possibile correzione tecnica.",
+    "dry_run": false
   }
 ]
