@@ -124,5 +124,14 @@
     "price": 1.2895,
     "reason": "REBALANCING TATTICO: ATOM mostra RSI=54.6 (zona neutra), MACD hist positivo ma con volat bassa (+0.32%), volume basso (×0.52). Posizione ampia (615.5 unità) accumulata senza momentum forte. Vendita parziale da €30 per liberare capital allocation verso segnali più aggressivi (UNI, ADA). Mantieni posizione core in ATOM per esposizione interoperabilità, ma riduci sovraesposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T16:01:37.854753+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 9.9836,
+    "reason": "RSI=74.9 🔴IPERCOMPRATO, MACD hist positivo ma su livelli estremi, 1h=-0.07% segnale di debolezza locale. Segnale VENDITA MEDIA. Posizione consolidata, realizza profitti prima di possibile correzione. LINK ha spinto al rialzo (+1.32% in 24h), ridurre esposizione con RSI così elevato.",
+    "dry_run": false
   }
 ]
