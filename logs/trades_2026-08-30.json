@@ -25,5 +25,14 @@
     "price": 1.2858,
     "reason": "RSI=36.0 (ipervenduto ma non ancora recovery), MACD hist=-0.0017 ↓ (trend ribassista in corso), 1h=-1.02% + 4h=-0.92% (pressione al ribasso confermata), volat=+0.48% (volatilità media-alta). Riduzione parziale di posizione sovraesposta per realizzare liquidità prima di ulteriore debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T02:01:32.872613+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 9.8421,
+    "reason": "RSI=39.9 (zona bassa), MACD hist negativo decrescente, 1h=-0.15% e 4h=-0.52% in calo. Momentum ribassista confermato. Ridurre posizione LINK per liberare slot e gestire esposizione infrastruttura DeFi in fase debolezza.",
+    "dry_run": false
   }
 ]
