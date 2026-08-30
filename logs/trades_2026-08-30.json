@@ -106,5 +106,14 @@
     "price": 92.49,
     "reason": "VENDITA MEDIA: RSI=73.1 IPERCOMPRATO, MACD hist positivo ma raggiunto picco locale su 4h=+2.12%, 1h=+0.58%. Presa di profitto parziale su posizione already forte (+2.63% 24h). Vendita di 0.17 unità a €92.49, lock-in guadagni prima di possibile correzione tecnica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T14:31:19.573861+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 92.35,
+    "reason": "VENDITA MEDIA: SOL mostra RSI=78.0 (IPERCOMPRATO) con 1h=-0.23% (divergenza). Pur avendo MACD positivo, l'ipercompro esteso su timeframe multi (4h e 1h negativi o flat) suggerisce presa di profitto parziale. Posizione piccola per gestire volatilità e mantenere esposizione al sottostante. Trailing stop su rialzo massimale è già attivato (-3%).",
+    "dry_run": false
   }
 ]
