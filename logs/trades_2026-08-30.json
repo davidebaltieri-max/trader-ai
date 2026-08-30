@@ -34,5 +34,14 @@
     "price": 9.8421,
     "reason": "RSI=39.9 (zona bassa), MACD hist negativo decrescente, 1h=-0.15% e 4h=-0.52% in calo. Momentum ribassista confermato. Ridurre posizione LINK per liberare slot e gestire esposizione infrastruttura DeFi in fase debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T02:31:22.792662+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.3166,
+    "reason": "RSI=36.0 (IPERVENDUTO ma 1h=-1.02%, 4h=-0.92% DOWNTREND), MACD hist=-0.0017 (decrescente, momentum negativo), volatilità=0.48% (media). Segnale VENDITA MEDIA: ATOM è in calo su timeframe brevi nonostante RSI basso. Riduco posizione OVERsize (615.5 unità = 26% del portafoglio) per gestire il rischio.",
+    "dry_run": false
   }
 ]
