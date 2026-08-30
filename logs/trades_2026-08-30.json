@@ -88,5 +88,14 @@
     "price": 1.2879,
     "reason": "RSI=44.1 (neutrale ma in calo), MACD hist=-0.0003 decrescente (bearish cross imminente). Volatilità=+0.43% media. 1h=+0.95% ma 4h=+0.36% e 24h=+0.81% mostrano rallentamento del momentum. Vendita parziale (€15 su ~793 EUR di posizione) per realizzare utili e ridurre esposizione su trend indebolito. Mantieni 615 unita' come core position.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T13:01:36.339620+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 9.8959,
+    "reason": "LINK posizione consolidata (10.67 unità = ~€105.70 lordi). RSI=58.8 (prossimo a zona neutra-alta), MACD hist basso (+0.0077). Momentum attuale moderato (1h=+0.02%, 4h=+0.85%, 24h=+1.24%). Rebalancing: lock-in parziale di DeFi infrastruttura per liberare liquidity verso layer 1 alternati in momentum. Take profit soft su posizione storica.",
+    "dry_run": false
   }
 ]
