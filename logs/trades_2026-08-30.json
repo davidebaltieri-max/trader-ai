@@ -16,5 +16,14 @@
     "price": 0.1735,
     "reason": "NESSUNA AZIONE: 1h=-0.51% (pressione al ribasso), RSI=52.2 (neutro), MACD hist=0 (no segnale). Volume elevato (vol×=1.00x) ma senza chiarezza direzionale. Attendere conferma bullish nelle prossime candele prima di entrare su layer 1 alternativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T01:31:17.347290+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.2858,
+    "reason": "RSI=36.0 (ipervenduto ma non ancora recovery), MACD hist=-0.0017 ↓ (trend ribassista in corso), 1h=-1.02% + 4h=-0.92% (pressione al ribasso confermata), volat=+0.48% (volatilità media-alta). Riduzione parziale di posizione sovraesposta per realizzare liquidità prima di ulteriore debolezza.",
+    "dry_run": false
   }
 ]
