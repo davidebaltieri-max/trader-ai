@@ -79,5 +79,14 @@
     "price": 1.2888,
     "reason": "SEGNALE VENDITA MEDIA: RSI=41.3 (in decelerazione dalla zona neutra), MACD hist=-0.0012 ↓decrescente (primo segnale di momentum negativo su questo ciclo), 4h=-0.35% (unico asset in negativo su 4h), vol×=0.33x (volume calante = scarso interesse). Contrasto con trend positivo globale. Ridurre esposizione su ATOM (interoperabilità) e liberare capitale per opportunità con momentum rialzista più forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T12:31:22.436743+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2879,
+    "reason": "RSI=44.1 (neutrale ma in calo), MACD hist=-0.0003 decrescente (bearish cross imminente). Volatilità=+0.43% media. 1h=+0.95% ma 4h=+0.36% e 24h=+0.81% mostrano rallentamento del momentum. Vendita parziale (€15 su ~793 EUR di posizione) per realizzare utili e ridurre esposizione su trend indebolito. Mantieni 615 unita' come core position.",
+    "dry_run": false
   }
 ]
