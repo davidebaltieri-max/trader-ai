@@ -169,5 +169,14 @@
     "price": 91.345,
     "reason": "VENDITA MEDIA preventiva: SOL mostra MACD BEARISH_CROSS con hist=-0.0314 (decrescente ▼), RSI=55.9 neutrale ma in calo, 1h=-1.17%, 4h=-1.38%. Momentum ribassista confermato su 4h. Riduco posizione (1.747 SOL, valore ~€159.50) con exit parziale di ~15€ (~0.164 SOL) per proteggere capitale prima che RSI scenda ulteriormente. Conservo core position. Risk management aggressivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-30T18:31:26.127385+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.2906,
+    "reason": "ATOM mostra divergenza negativa: RSI=61.3 (zona neutra calante), MACD hist positivo ma 4h=-0.47% e 24h=-1.73% indicano debolezza. Volume basso (0.25x). Posizione in portafoglio con buona quantità: realizzo parziale per ridurre esposizione su interoperabilità e liberare capitale per entry più aggressive.",
+    "dry_run": false
   }
 ]
