@@ -25,5 +25,14 @@
     "price": 9.7224,
     "reason": "LINK segnale VENDITA MEDIA: RSI=65.5 (prossimo a ipercomprato), 1h=-0.29% negativo, 4h=-0.06% negativo. Pur con MACD hist positivo crescente, il segnale è debole e la pressione ribassista intraday è presente. Riduco esposizione infrastruttura DeFi per ribilanciare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T11:01:27.843081+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 89.37,
+    "reason": "VENDITA MEDIA: SOL ipercomprato (RSI=80.9), correzione 24h=-1.69%. Pur avendo MACD positivo, il massivo overbought + calo 24h suggerisce presa di profitti tattica. Riduco esposizione su momentum eccesso. Mantengo posizione core per exposure Layer1.",
+    "dry_run": false
   }
 ]
