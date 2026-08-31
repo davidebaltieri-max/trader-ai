@@ -169,5 +169,14 @@
     "price": 0.72,
     "reason": "VENDITA MEDIA opportunistica: RSI=60.0 (zona neutra alta), 24h=-2.70% (calo significativo), MACD hist=+0.0008 (positivo ma debole, non confermato), vol×=+0.84x (volume moderato su calo). DOT in debolezza relativa. Profilo performante: libera slot per asset in momentum migliore (ADA/AVAX). Preserva capital in asset debole. Stop loss implicito sulla posizione esistente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T23:31:17.562418+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.715,
+    "reason": "VENDITA MEDIA: DOT in calo 24h=-4.00% (performance peggiore), RSI=60.0 (zona neutra alta), MACD hist=+0.0006 (positivo ma residuale, non confermato), 4h=+0.00% stagnazione. Segnali contrastanti con trend ribassista 24h. Realizzo parziale (€25 su €475 posizione) per ridurre peso su asset underperformer e liberare capital per opportunità migliori.",
+    "dry_run": false
   }
 ]
