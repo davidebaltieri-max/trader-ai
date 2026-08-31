@@ -34,5 +34,14 @@
     "price": 89.37,
     "reason": "VENDITA MEDIA: SOL ipercomprato (RSI=80.9), correzione 24h=-1.69%. Pur avendo MACD positivo, il massivo overbought + calo 24h suggerisce presa di profitti tattica. Riduco esposizione su momentum eccesso. Mantengo posizione core per exposure Layer1.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T11:31:24.128832+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 89.52,
+    "reason": "RSI=79.8 IPERCOMPRATO + 1h=+0.25% debole + correzione imminente. SOL è in posizione fragile dopo spike. Target: liberare capitale per entry su pullback.",
+    "dry_run": false
   }
 ]
