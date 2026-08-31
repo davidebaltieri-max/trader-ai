@@ -16,5 +16,14 @@
     "price": 1.2767,
     "reason": "VENDITA MEDIA (Presa di profitto): ATOM in portafoglio 615.54 unità — posizione consolidata. RSI=45.1 (calo intraday, -0.55% in 1h), -1.67% in 24h, momentum indebolito in ultimo candela. MACD hist ancora positivo ma vol×=+1.51x indica accumulo di pressione al ribasso. Realizzo 30€ su posizione grande per ridimensionare e liberare slot. Target: ridurre exposure su posizione non in trend.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T10:01:37.070071+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 9.7224,
+    "reason": "LINK segnale VENDITA MEDIA: RSI=65.5 (prossimo a ipercomprato), 1h=-0.29% negativo, 4h=-0.06% negativo. Pur con MACD hist positivo crescente, il segnale è debole e la pressione ribassista intraday è presente. Riduco esposizione infrastruttura DeFi per ribilanciare.",
+    "dry_run": false
   }
 ]
