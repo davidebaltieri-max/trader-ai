@@ -115,5 +115,14 @@
     "price": 1.2683,
     "reason": "RSI=36.6 (zona bassa ma non ipervenduto), MACD hist negativo e decrescente (-0.0001), 4h=+0.17% quasi piatto, 24h=-1.41%. Momentum ribassista confermato. ATOM è la posizione più debole del portafoglio. Vendita per liberare capitale e ridurre esposizione a interoperabilità in fase di debolezza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T19:01:34.334118+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 9.8516,
+    "reason": "RIDUZIONE DI POSIZIONE: RSI=65.8 (prossimo a ipercomprato 70) + 24h=-2.17% (underperformer) + vol× bassa (0.46x). Presa di profitto parziale su DeFi per ridurre esposizione prima di possibile correzione. Mantieni posizione base.",
+    "dry_run": false
   }
 ]
