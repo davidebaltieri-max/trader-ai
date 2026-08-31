@@ -70,5 +70,14 @@
     "price": 1.2757,
     "reason": "RSI=30.7 (ipervenduto ma in territorio critico), MACD hist negativo e decrescente (trend ribassista confermato). Nonostante il potenziale rimbalzo, la divergenza RSI-MACD suggerisce debolezza strutturale. Vendita per ridurre l'esposizione a un asset in corrimento e liberare capital per opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T15:01:37.464512+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.2736,
+    "reason": "RSI=30.7 (ipervenduto ma in zona critica bassa), MACD hist negativo e decrescente → trend ribassista confermato. Volume basso (0.60x). Momentum è negativo: 4h=-0.17% e 24h=-1.46%. Anche se RSI suggerisce rimbalzo, il MACD decrescente e i prezzi in calo negli ultimi periodi indicano debolezza strutturale. Vendita media per ridurre esposizione a asset in trend negativo e liberare capitale per opportunità più forti (BTC/ETH/UNI).",
+    "dry_run": false
   }
 ]
