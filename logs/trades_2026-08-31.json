@@ -7,5 +7,14 @@
     "price": 1.2782,
     "reason": "SEGNALE MEDIO: RSI=46.2 (neutrale) ma MACD hist decrescente (bearish trend). 4h=-1.13% contro trend generale. Presa di profitto parziale (20% della posizione) per ridurre exposure su asset con momentum negativo. Mantengo core position.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T09:01:36.255011+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.2767,
+    "reason": "VENDITA MEDIA (Presa di profitto): ATOM in portafoglio 615.54 unità — posizione consolidata. RSI=45.1 (calo intraday, -0.55% in 1h), -1.67% in 24h, momentum indebolito in ultimo candela. MACD hist ancora positivo ma vol×=+1.51x indica accumulo di pressione al ribasso. Realizzo 30€ su posizione grande per ridimensionare e liberare slot. Target: ridurre exposure su posizione non in trend.",
+    "dry_run": false
   }
 ]
