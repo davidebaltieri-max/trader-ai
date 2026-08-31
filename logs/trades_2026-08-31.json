@@ -52,5 +52,14 @@
     "price": 1.2639,
     "reason": "RSI=53.9 (neutro ma non convincente), MACD hist negativo e decrescente (-0.0006), 4h=-1.66% (pressure ribassista), 1h=-0.71%, vol×=1.54 (volume elevato su calo). Trend ribassista in corso. Ridurre posizione per limitare downside. Segnale di vendita media confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T14:01:39.489836+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 9.6592,
+    "reason": "RSI=39.0 in discesa + MACD hist=-0.0000 BEARISH_CROSS confermato + 1h=-1.00% + 4h=-0.72% + vol×=1.30 (volume in aumento su calo). Segnale VENDITA MEDIA. Riduco posizione DeFi infrastruttura per proteggere capital e rialloco su opportunità oversold (UNI/AVAX). Stop loss preemptivo su momentum ribassista confermato.",
+    "dry_run": false
   }
 ]
