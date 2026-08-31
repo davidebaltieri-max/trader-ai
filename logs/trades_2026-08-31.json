@@ -106,5 +106,14 @@
     "price": 1.266,
     "reason": "SEGNALE MODERATO DI USCITA: RSI=35.1 (ipervenduto ma non confermato da MACD) + MACD hist=-0.0002 decrescente (momentum ribassista debole) + 1h=+0.29% insufficiente a controbilanciare. ATOM mostra debolezza tecnica rispetto al portafoglio. Riduzione posizione per liberare slot e capitale per opportunità DOT/LINK con segnali più forti. Partial exit strategica su perdita moderata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T18:01:31.072944+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2683,
+    "reason": "RSI=36.6 (zona bassa ma non ipervenduto), MACD hist negativo e decrescente (-0.0001), 4h=+0.17% quasi piatto, 24h=-1.41%. Momentum ribassista confermato. ATOM è la posizione più debole del portafoglio. Vendita per liberare capitale e ridurre esposizione a interoperabilità in fase di debolezza.",
+    "dry_run": false
   }
 ]
