@@ -79,5 +79,14 @@
     "price": 1.2736,
     "reason": "RSI=30.7 (ipervenduto ma in zona critica bassa), MACD hist negativo e decrescente → trend ribassista confermato. Volume basso (0.60x). Momentum è negativo: 4h=-0.17% e 24h=-1.46%. Anche se RSI suggerisce rimbalzo, il MACD decrescente e i prezzi in calo negli ultimi periodi indicano debolezza strutturale. Vendita media per ridurre esposizione a asset in trend negativo e liberare capitale per opportunità più forti (BTC/ETH/UNI).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T17:01:28.768260+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.715,
+    "reason": "DOT: RSI=42.9 (basso), MACD hist negativo decrescente con BEARISH_CROSS confermato, 1h=0%, 4h=0%, 24h=-1.39%. Segnale VENDITA MEDIA. Volume elevato (vol×=1.41) conferma pressione ribassista. Necessario ridurre posizioni deboli e liberare capitale per opportunità più forti.",
+    "dry_run": false
   }
 ]
