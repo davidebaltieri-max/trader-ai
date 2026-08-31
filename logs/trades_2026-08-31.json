@@ -88,5 +88,14 @@
     "price": 0.715,
     "reason": "DOT: RSI=42.9 (basso), MACD hist negativo decrescente con BEARISH_CROSS confermato, 1h=0%, 4h=0%, 24h=-1.39%. Segnale VENDITA MEDIA. Volume elevato (vol×=1.41) conferma pressione ribassista. Necessario ridurre posizioni deboli e liberare capitale per opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T17:01:30.339897+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.266,
+    "reason": "ATOM: RSI=35.3 (ipervenduto ma debole), MACD hist negativo decrescente, 1h=+0.16% ma 4h=-0.03%, 24h=-1.52%. Trend ribassista in corso. Segnale di debolezza strutturale. Ridurre esposizione per riallocare su momentum positivo.",
+    "dry_run": false
   }
 ]
