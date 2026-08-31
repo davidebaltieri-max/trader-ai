@@ -124,5 +124,14 @@
     "price": 9.8516,
     "reason": "RIDUZIONE DI POSIZIONE: RSI=65.8 (prossimo a ipercomprato 70) + 24h=-2.17% (underperformer) + vol× bassa (0.46x). Presa di profitto parziale su DeFi per ridurre esposizione prima di possibile correzione. Mantieni posizione base.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T19:31:20.120295+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 9.8571,
+    "reason": "LINK ipercomprato (RSI 64.9 prossimo soglia 70) + 24h -1.73%. MACD hist positivo ma decrescente in 1h (-0.44%). Movimento impulsivo esaurito. Take profit su posizione performante (LINK in portafoglio) prima della possibile correzione. Gestione del rischio.",
+    "dry_run": false
   }
 ]
