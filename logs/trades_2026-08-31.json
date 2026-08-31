@@ -151,5 +151,14 @@
     "price": 9.7974,
     "reason": "LINK: RSI=68.0 (prossimo a 70), 1h=-0.17%, 24h=-1.42%. MACD hist positivo (+0.0071) ma volume×=0.47x basso. Segnale VENDITA MEDIA debole: riduco posizione infrastruttura DeFi per proteggere profitti su trend intraday negativo. Take profit parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T22:31:15.566794+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.7701,
+    "reason": "RSI=49.2 (zona neutra) + MACD hist=-0.0006 decrescente + BEARISH_CROSS rilevato + 1h=-0.40% + 4h=-0.52% + 24h=-1.06%. Segnale VENDITA MEDIA confermato: momentum ribassista su tutti i timeframe. Dip-buying su LINK posticipato: attendere rottura al ribasso per re-entry. Operazione piccola da €8 per ridurre esposizione e consolidare.",
+    "dry_run": false
   }
 ]
