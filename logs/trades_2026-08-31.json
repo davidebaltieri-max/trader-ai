@@ -160,5 +160,14 @@
     "price": 9.7701,
     "reason": "RSI=49.2 (zona neutra) + MACD hist=-0.0006 decrescente + BEARISH_CROSS rilevato + 1h=-0.40% + 4h=-0.52% + 24h=-1.06%. Segnale VENDITA MEDIA confermato: momentum ribassista su tutti i timeframe. Dip-buying su LINK posticipato: attendere rottura al ribasso per re-entry. Operazione piccola da €8 per ridurre esposizione e consolidare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T23:01:31.078453+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.72,
+    "reason": "VENDITA MEDIA opportunistica: RSI=60.0 (zona neutra alta), 24h=-2.70% (calo significativo), MACD hist=+0.0008 (positivo ma debole, non confermato), vol×=+0.84x (volume moderato su calo). DOT in debolezza relativa. Profilo performante: libera slot per asset in momentum migliore (ADA/AVAX). Preserva capital in asset debole. Stop loss implicito sulla posizione esistente.",
+    "dry_run": false
   }
 ]
