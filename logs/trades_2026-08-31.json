@@ -133,5 +133,14 @@
     "price": 9.8571,
     "reason": "LINK ipercomprato (RSI 64.9 prossimo soglia 70) + 24h -1.73%. MACD hist positivo ma decrescente in 1h (-0.44%). Movimento impulsivo esaurito. Take profit su posizione performante (LINK in portafoglio) prima della possibile correzione. Gestione del rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T20:31:19.346512+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2681,
+    "reason": "VENDITA TATTICA: ATOM RSI=47.9 (neutro ma prossimo a discesa), 1h=-0.30% (momentum cedente su timeframe breve), 4h=+0.26% (guadagni molto limitati), vol×=+0.51x (volume debole). MACD positivo ma con momentum stagnante. Realizzo profitto parziale su posizione grande (615.54 unità) per rotazione verso asset con segnali più forti. Target: realizzare €15 per alimentare dip-buying su opportunità migliori.",
+    "dry_run": false
   }
 ]
