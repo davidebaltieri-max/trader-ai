@@ -142,5 +142,14 @@
     "price": 1.2681,
     "reason": "VENDITA TATTICA: ATOM RSI=47.9 (neutro ma prossimo a discesa), 1h=-0.30% (momentum cedente su timeframe breve), 4h=+0.26% (guadagni molto limitati), vol×=+0.51x (volume debole). MACD positivo ma con momentum stagnante. Realizzo profitto parziale su posizione grande (615.54 unità) per rotazione verso asset con segnali più forti. Target: realizzare €15 per alimentare dip-buying su opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-08-31T21:01:27.974495+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 9.7974,
+    "reason": "LINK: RSI=68.0 (prossimo a 70), 1h=-0.17%, 24h=-1.42%. MACD hist positivo (+0.0071) ma volume×=0.47x basso. Segnale VENDITA MEDIA debole: riduco posizione infrastruttura DeFi per proteggere profitti su trend intraday negativo. Take profit parziale.",
+    "dry_run": false
   }
 ]
