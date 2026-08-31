@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-08-31T06:01:35.009982+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2782,
+    "reason": "SEGNALE MEDIO: RSI=46.2 (neutrale) ma MACD hist decrescente (bearish trend). 4h=-1.13% contro trend generale. Presa di profitto parziale (20% della posizione) per ridurre exposure su asset con momentum negativo. Mantengo core position.",
+    "dry_run": false
+  }
+]
