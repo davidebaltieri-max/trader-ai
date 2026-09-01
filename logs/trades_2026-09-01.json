@@ -232,5 +232,14 @@
     "price": 9.9051,
     "reason": "RSI=70.5 IPERCOMPRATO + MACD hist positivo ma decrescente in pressione. 1h=+0.08% non conferma ulteriore upside. Pocket profit parziale su infrastr. DeFi in buona posizione per ribilanciare.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T08:01:35.799028+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.745,
+    "reason": "RSI=100 IPERCOMPRATO (segnale VENDITA FORTE). Posizione già significativa (665 unità). 4h=+2.74% ma momentum MACD hist decrescente suggerisce indebolimento. Realizzo profitti su +5.63% 24h prima di correzione.",
+    "dry_run": false
   }
 ]
