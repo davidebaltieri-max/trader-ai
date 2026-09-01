@@ -7,5 +7,14 @@
     "price": 0.725,
     "reason": "DOT in debolezza: 24h=-2.70%, RSI=50.0 neutrale, MACD hist appena positivo ma incerto. Performance relativa negativa rispetto al portafoglio. Riduzione parziale di posizione per liberare capitale e contenere downside su L1 in difficoltà.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T01:01:28.214664+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.735,
+    "reason": "SEGNALE VENDITA MEDIO: RSI=75.0 🔴IPERCOMPRATO (>70 zona critica), MACD hist positivo ma senza cross bearish. Prezzo in ipercomprato su timeframe 7h. Riduco posizione large per proteggere profitti e liberare capital per opportunità migliori (ADA/AVAX). Stop profit su questa salita.",
+    "dry_run": false
   }
 ]
