@@ -313,5 +313,14 @@
     "price": 9.8434,
     "reason": "LINK RSI=65.2 (zona ipercomprata), MACD hist decrescente negativo, 1h e 4h negativi. Segnale di VENDITA MEDIA: realizza utili su posizione resistente (10.67 unità). Riduce esposizione su asset in correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T16:01:30.676325+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.67,
+    "price": 9.857,
+    "reason": "SEGNALE DI RIDUZIONE: RSI=66.2 (ipercomprato) + MACD hist negativo decrescente (perdita momentum) + 4h=-0.10% (debolezza recente). Anche se +1.21% su 24h, gli indicatori short-term segnalano esaurimento. Cassa il guadagno parziale e rialloca su setup più forti.",
+    "dry_run": false
   }
 ]
