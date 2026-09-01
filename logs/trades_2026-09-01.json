@@ -349,5 +349,14 @@
     "price": 0.7456,
     "reason": "MACD BEARISH_CROSS confermato + 24h=+5.63% (guadagno da realizzare) + RSI=57.1 in zona neutra-alta senza supporto. Momentum ribassista chiaro: uscita strategica da posizione in profitto su segnale tecnico negativo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T18:41:35.594791+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.7455,
+    "reason": "SEGNALE VENDITA MEDIA: MACD BEARISH_CROSS confermato + performance +5.63% in 24h (momentum overextended) + RSI=57.1 in zona neutra superiore senza conferma di continuazione. Rotazione tattica da infrastruttura debole verso layer 2/large cap con segnali più forti. Take profit parziale su posizione in guadagno.",
+    "dry_run": false
   }
 ]
