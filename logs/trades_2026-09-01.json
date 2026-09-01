@@ -268,5 +268,14 @@
     "price": 0.735,
     "reason": "RSI=75.0 IPERCOMPRATO + 1h=-1.33% negativo. Nonostante MACD hist positivo e 24h=+4.23%, il segnale di ipercompra su timeframe breve (30min RSI su 7h) e la candela oraria negativa suggeriscono correzione imminente. Realizzo profitti su posizione in momentum positivo prima della inversione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T10:31:16.962636+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2883,
+    "reason": "SEGNALE MEDIO: ATOM mostra ▼BEARISH_CROSS su MACD, RSI=56.5 in zona neutra ma trending verso bearish, 1h=-0.36% negativo, 4h=-0.68% negativo. Nonostante 24h=+2.23% positivo, il cross MACD ribassista e gli ultimi timeframe negativi suggeriscono fine del movimento. Realizza parzialmente per ridurre esposizione in momentum decrescente.",
+    "dry_run": false
   }
 ]
