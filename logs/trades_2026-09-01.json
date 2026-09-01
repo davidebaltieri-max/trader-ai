@@ -16,5 +16,14 @@
     "price": 0.735,
     "reason": "SEGNALE VENDITA MEDIO: RSI=75.0 🔴IPERCOMPRATO (>70 zona critica), MACD hist positivo ma senza cross bearish. Prezzo in ipercomprato su timeframe 7h. Riduco posizione large per proteggere profitti e liberare capital per opportunità migliori (ADA/AVAX). Stop profit su questa salita.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T01:31:09.628910+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.725,
+    "reason": "DOT IPERCOMPRATO (RSI=75.0) in zona critica di correzione. MACD hist positivo ma trend rallentando. Segnale di vendita media confermato da RSI estremo. Take profit parziale su posizione già in portafoglio per ridurre rischio e bloccare guadagni.",
+    "dry_run": false
   }
 ]
