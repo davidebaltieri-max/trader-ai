@@ -250,5 +250,14 @@
     "price": 1.2967,
     "reason": "RSI=78.6 IPERCOMPRATO. Posizione concentrata (615 unità). 1h e 4h positivi ma RSI eccessivo indica rischio correzione imminente. Riduco esposizione su segnale di vertice.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T08:31:31.859487+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "RSI=75.0 IPERCOMPRATO + 1h=-1.33% + 4h=+1.37% mostra divergenza. Momentum rialzista 24h (+4.23%) è già prezzato. Vendita conservativa per lock-in profitti su posizione forte (665 unità). Riduco esposizione su asset in overbought per gestire rischio.",
+    "dry_run": false
   }
 ]
