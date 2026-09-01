@@ -43,5 +43,14 @@
     "price": 0.735,
     "reason": "PRESA DI PROFITTO TATTICA: RSI=66.7 (ipercomprato ma sotto 70), MACD hist positivo ma 24h=-1.35% negativo in divergenza rialzista. Posizione già forte (665 unità). Realizzare parzialmente per gestire rischio prima di possibile correzione e liberare capitale per opportunità più alte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T03:01:28.778663+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.735,
+    "reason": "VENDITA MEDIA: RSI=66.7 (ipercomprato limite), MACD hist=+0.0014 (positivo ma debole, non cross confermato), 4h=+1.39% ma 24h=-1.35% (divergenza timeframe). Vol×=+1.15x e volat=+0.71% (alta volatilità). Posizione da 665 unità a ridotto rischio: take profit su rialzo recente, preservare capitale prima di correzione attesa.",
+    "dry_run": false
   }
 ]
