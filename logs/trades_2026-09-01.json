@@ -259,5 +259,14 @@
     "price": 0.735,
     "reason": "RSI=75.0 IPERCOMPRATO + 1h=-1.33% + 4h=+1.37% mostra divergenza. Momentum rialzista 24h (+4.23%) è già prezzato. Vendita conservativa per lock-in profitti su posizione forte (665 unità). Riduco esposizione su asset in overbought per gestire rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T09:01:32.816142+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "RSI=75.0 IPERCOMPRATO + 1h=-1.33% negativo. Nonostante MACD hist positivo e 24h=+4.23%, il segnale di ipercompra su timeframe breve (30min RSI su 7h) e la candela oraria negativa suggeriscono correzione imminente. Realizzo profitti su posizione in momentum positivo prima della inversione.",
+    "dry_run": false
   }
 ]
