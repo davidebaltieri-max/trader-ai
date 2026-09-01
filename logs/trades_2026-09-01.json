@@ -52,5 +52,14 @@
     "price": 0.735,
     "reason": "VENDITA MEDIA: RSI=66.7 (ipercomprato limite), MACD hist=+0.0014 (positivo ma debole, non cross confermato), 4h=+1.39% ma 24h=-1.35% (divergenza timeframe). Vol×=+1.15x e volat=+0.71% (alta volatilità). Posizione da 665 unità a ridotto rischio: take profit su rialzo recente, preservare capitale prima di correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T03:31:23.504693+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma senza cross confermato + volatilità alta (0.80%). Correzione probabile. Riduco posizione sovraesposta.",
+    "dry_run": false
   }
 ]
