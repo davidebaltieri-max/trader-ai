@@ -88,5 +88,14 @@
     "price": 1.2876,
     "reason": "RSI=72.0 IPERCOMPRATO + MACD hist positivo in fase estreme. Pur avendo momentum rialzista, il livello di RSI segnala correzione imminente. Vendita parziale per lock-in su posizione già importante (615 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T04:31:21.309689+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma senza cross rialzista confermato. Correzione probabile. Riduco posizione oversize (665 unità) prima del pullback.",
+    "dry_run": false
   }
 ]
