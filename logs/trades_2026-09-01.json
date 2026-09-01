@@ -322,5 +322,14 @@
     "price": 9.857,
     "reason": "SEGNALE DI RIDUZIONE: RSI=66.2 (ipercomprato) + MACD hist negativo decrescente (perdita momentum) + 4h=-0.10% (debolezza recente). Anche se +1.21% su 24h, gli indicatori short-term segnalano esaurimento. Cassa il guadagno parziale e rialloca su setup più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T16:31:20.315551+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.745,
+    "reason": "DOT presenta BEARISH_CROSS confermato su MACD, RSI=44.4 in decrescita, calo 1h=-1.33% concentrato. Nonostante +4.23% 24h (trappola), gli ultimi 4h mostrano debolezza strutturale e volatilità alta (+1.29%) suggerisce correzione imminente. Realizzo parziale (€15 su posizione) per ridurre esposizione interoperabilità.",
+    "dry_run": false
   }
 ]
