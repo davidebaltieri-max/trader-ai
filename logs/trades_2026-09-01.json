@@ -331,5 +331,14 @@
     "price": 0.745,
     "reason": "DOT presenta BEARISH_CROSS confermato su MACD, RSI=44.4 in decrescita, calo 1h=-1.33% concentrato. Nonostante +4.23% 24h (trappola), gli ultimi 4h mostrano debolezza strutturale e volatilità alta (+1.29%) suggerisce correzione imminente. Realizzo parziale (€15 su posizione) per ridurre esposizione interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T17:01:40.408756+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.745,
+    "reason": "DOT: momentum negativo (1h=-1.33%, 4h=+0.00%) + MACD hist decrescente + volatilità ALTA (1.22%) suggerisce correzione in corso nonostante +2.78% 24h. RSI=44.4 in zona neutra ma trend intraday negativo. Riduzione tattica di posizione sovradimensionata (665 unità) per realizzare parziale guadagno e liberare capitale.",
+    "dry_run": false
   }
 ]
