@@ -133,5 +133,14 @@
     "price": 0.735,
     "reason": "RSI=75.0 IPERCOMPRATO + 1h=+0.00% flat (no momentum). DOT in zona di correzione probabile dopo +2.78% 4h. Realizzo parzialmente per ridurre rischio e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T05:25:36.755149+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.2847,
+    "reason": "RSI=74.2 IPERCOMPRATO nonostante MACD crescente. 1h=+1.12% ma segnale di correzione imminente su timeframe più lunghi. Trazionale: ho 615.54 unità, vendo ~14 ATOM (€18). Libero liquidità per opportunità migliori.",
+    "dry_run": false
   }
 ]
