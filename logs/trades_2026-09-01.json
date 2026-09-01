@@ -169,5 +169,14 @@
     "price": 1.2911,
     "reason": "RSI=76.4 (IPERCOMPRATO ESTREMO) + MACD hist positivo ma momentum decrescente. Posizione già in portafoglio con profitto. Realizzo guadagni su picco tecnico prima della correzione attesa. Volatilità 0.29% contenuta suggerisce consolidamento imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T06:01:37.749796+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "RSI=75.0 (IPERCOMPRATO) + 4h=+2.78% con volat=0.54% media. Posizione già in portafoglio. Segnale di VENDITA MEDIA: escono i profitti prima della correzione tecnica su ipercomprato.",
+    "dry_run": false
   }
 ]
