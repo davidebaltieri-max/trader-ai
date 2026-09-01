@@ -124,5 +124,14 @@
     "price": 1.2855,
     "reason": "RSI=72.9 IPERCOMPRATO + 1h=+0.97% (spike isolato) + volatilità 0.28% = pullback previsto. Realizzo su posizione ricca (615 unità). Segnale VENDITA MEDIA.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T05:25:34.964268+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "RSI=75.0 IPERCOMPRATO + 1h=+0.00% flat (no momentum). DOT in zona di correzione probabile dopo +2.78% 4h. Realizzo parzialmente per ridurre rischio e liberare slot.",
+    "dry_run": false
   }
 ]
