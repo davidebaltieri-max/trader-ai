@@ -205,5 +205,14 @@
     "price": 0.745,
     "reason": "RSI=75.0 (IPERCOMPRATO) + volatilità alta (0.78%) + momentum di breve termine su 1h=0.00% non supporta ulteriore rialzo. Realizza profitti su posizione già significativa (665 unità). Segnale di VENDITA MEDIA confermato da ipercomprato e volatilità elevata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T07:01:38.803033+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 9.8967,
+    "reason": "RSI=71.4 (IPERCOMPRATO) + 1h=-0.15% indica debolezza di breve. MACD hist positivo ma RSI sopra 70 suggerisce correzione imminente. Take profit su posizione performante (+1.75% in 24h).",
+    "dry_run": false
   }
 ]
