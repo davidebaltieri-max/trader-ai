@@ -106,5 +106,14 @@
     "price": 1.2878,
     "reason": "RSI=72.0 IPERCOMPRATO + 24h=-0.22% divergenza negativa. Posizione pesante (615 unità). Realizzo profitto parziale prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T05:03:28.562310+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.735,
+    "reason": "RSI=75.0 IPERCOMPRATO + 1h=+0.00% (stallo) + volatilità elevata 0.54% = correzione probabile. Realizzo profitti su posizione già forte (4h=+2.78%). Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
