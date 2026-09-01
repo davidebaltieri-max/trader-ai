@@ -340,5 +340,14 @@
     "price": 0.745,
     "reason": "DOT: momentum negativo (1h=-1.33%, 4h=+0.00%) + MACD hist decrescente + volatilità ALTA (1.22%) suggerisce correzione in corso nonostante +2.78% 24h. RSI=44.4 in zona neutra ma trend intraday negativo. Riduzione tattica di posizione sovradimensionata (665 unità) per realizzare parziale guadagno e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T18:31:17.349621+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.7456,
+    "reason": "MACD BEARISH_CROSS confermato + 24h=+5.63% (guadagno da realizzare) + RSI=57.1 in zona neutra-alta senza supporto. Momentum ribassista chiaro: uscita strategica da posizione in profitto su segnale tecnico negativo.",
+    "dry_run": false
   }
 ]
