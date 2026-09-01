@@ -295,5 +295,14 @@
     "price": 0.745,
     "reason": "MACD BEARISH_CROSS confermato + RSI=55.6 in discesa + 1h=-1.33% + 4h=-1.33% indicano perdita momentum nonostante +4.23% 24h. Segnale di inversione ribassista. Realizza profitti parziali su posizione (€496.04 attuale) prima che momentum si inverta. VENDITA MEDIA.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T15:01:34.230328+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.8339,
+    "reason": "LINK overbought (RSI=65.7 >60), MACD hist decrescente (momentum ribassista), 1h e 4h negative. Riduco posizione per consolidare gains e liberare capitale.",
+    "dry_run": false
   }
 ]
