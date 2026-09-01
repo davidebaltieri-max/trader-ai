@@ -187,5 +187,14 @@
     "price": 0.745,
     "reason": "RSI=75.0 IPERCOMPRATO + 1h=0.00% (stagnazione dopo rialzo 4h) + MACD hist crescente ma in zona di ipercomprato. Profitto da prendere su posizione in uptrend eccessivo. Riduco esposizione su questo asset prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T06:31:33.486617+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.9025,
+    "reason": "RSI=72.3 IPERCOMPRATO + 1h=-0.10% (indebolimento) + vol×=0.81x (volume in calo). Segnale VENDITA MEDIA confermato. Realizzo profitti su posizione in ipercomprato con momentum che si affievolisce.",
+    "dry_run": false
   }
 ]
