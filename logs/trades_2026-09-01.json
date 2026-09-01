@@ -223,5 +223,14 @@
     "price": 0.755,
     "reason": "RSI=100 IPERCOMPRATO (massimo assoluto) + 4h=+4.11% (rallentamento imminente) + volatilità alta 0.67%. Realizzo profitti su posizione in ipercomprato per ridurre rischio e liberare capital per opportunità migliori. DOT ha mosso forte, correzione probabile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T07:31:20.550320+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.9051,
+    "reason": "RSI=70.5 IPERCOMPRATO + MACD hist positivo ma decrescente in pressione. 1h=+0.08% non conferma ulteriore upside. Pocket profit parziale su infrastr. DeFi in buona posizione per ribilanciare.",
+    "dry_run": false
   }
 ]
