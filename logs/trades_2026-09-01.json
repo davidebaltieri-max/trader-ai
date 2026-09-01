@@ -277,5 +277,14 @@
     "price": 1.2883,
     "reason": "SEGNALE MEDIO: ATOM mostra ▼BEARISH_CROSS su MACD, RSI=56.5 in zona neutra ma trending verso bearish, 1h=-0.36% negativo, 4h=-0.68% negativo. Nonostante 24h=+2.23% positivo, il cross MACD ribassista e gli ultimi timeframe negativi suggeriscono fine del movimento. Realizza parzialmente per ridurre esposizione in momentum decrescente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T11:01:29.316971+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.745,
+    "reason": "DOT IPERCOMPRATO (RSI=71.4) dopo +5.63% in 24h. MACD hist positivo crescente conferma momentum rialzista ma RSI>70 indica correzione imminente. 1h=+2.74% e 4h=+1.35% suggeriscono esaurimento della spinta. Bloccare profitti su ipercomprato prima della correzione.",
+    "dry_run": false
   }
 ]
