@@ -286,5 +286,14 @@
     "price": 0.745,
     "reason": "DOT IPERCOMPRATO (RSI=71.4) dopo +5.63% in 24h. MACD hist positivo crescente conferma momentum rialzista ma RSI>70 indica correzione imminente. 1h=+2.74% e 4h=+1.35% suggeriscono esaurimento della spinta. Bloccare profitti su ipercomprato prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T13:01:29.415691+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.745,
+    "reason": "MACD BEARISH_CROSS confermato + RSI=55.6 in discesa + 1h=-1.33% + 4h=-1.33% indicano perdita momentum nonostante +4.23% 24h. Segnale di inversione ribassista. Realizza profitti parziali su posizione (€496.04 attuale) prima che momentum si inverta. VENDITA MEDIA.",
+    "dry_run": false
   }
 ]
