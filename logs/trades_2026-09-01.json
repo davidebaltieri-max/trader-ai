@@ -34,5 +34,14 @@
     "price": 0.735,
     "reason": "SEGNALE MEDIO: RSI=75.0 IPERCOMPRATO + MACD hist positivo ma 4h=+1.39% vs 24h=-1.35% (divergenza rialzista breve termine vs ribasso strutturale). Profit-taking su posizione overextended. Vendi parzialmente per lockare guadagni e ridurre esposizione a correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T02:31:21.954060+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.735,
+    "reason": "PRESA DI PROFITTO TATTICA: RSI=66.7 (ipercomprato ma sotto 70), MACD hist positivo ma 24h=-1.35% negativo in divergenza rialzista. Posizione già forte (665 unità). Realizzare parzialmente per gestire rischio prima di possibile correzione e liberare capitale per opportunità più alte.",
+    "dry_run": false
   }
 ]
