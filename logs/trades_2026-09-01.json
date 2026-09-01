@@ -304,5 +304,14 @@
     "price": 9.8339,
     "reason": "LINK overbought (RSI=65.7 >60), MACD hist decrescente (momentum ribassista), 1h e 4h negative. Riduco posizione per consolidare gains e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T15:02:17.814813+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.8434,
+    "reason": "LINK RSI=65.2 (zona ipercomprata), MACD hist decrescente negativo, 1h e 4h negativi. Segnale di VENDITA MEDIA: realizza utili su posizione resistente (10.67 unità). Riduce esposizione su asset in correzione.",
+    "dry_run": false
   }
 ]
