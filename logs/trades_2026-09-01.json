@@ -70,5 +70,14 @@
     "price": 1.2801,
     "reason": "RSI=72.0 IPERCOMPRATO + 24h=-0.22% debolezza sottostante + volume basso (0.33x). Realizza profitti prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-01T04:01:29.643038+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.745,
+    "reason": "RSI=75.0 IPERCOMPRATO + MACD hist positivo ma in zona di ipercompratezza. DOT ha avuto +2.78% in 4h e +1.37% in 1h. Profilo aggressivo: realizziamo profitti su ipercomprato per rotazione verso momentum più fresco. Ridurremo la posizione da 665 unità.",
+    "dry_run": false
   }
 ]
