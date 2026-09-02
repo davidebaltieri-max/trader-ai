@@ -25,5 +25,14 @@
     "price": 0.7549,
     "reason": "VENDITA MEDIA confermata: RSI=53.2 (neutrale ma in discesa), MACD BEARISH_CROSS ↓decrescente (hist=-0.0004), 4h=-0.67%, 24h positivo ma momentum si inverte. Volume elevato (vol×=2.25x) conferma rotazione. DOT è già in portafoglio con 665 unità—riduco esposizione prima di ulteriore calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T06:31:17.228609+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.7473,
+    "reason": "VENDITA MEDIA confermata: RSI=47.6 (zona neutra bassa) + MACD BEARISH_CROSS (hist=-0.0009 decrescente) + 1h=-1.41% + 4h=-1.72%. Momentum ribassista chiaro su timeframe breve. DOT sta perdendo forza dopo il +3.74% 24h. Riduco esposizione per liberare capitale e limitare perdite.",
+    "dry_run": false
   }
 ]
