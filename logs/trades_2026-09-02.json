@@ -43,5 +43,14 @@
     "price": 0.7437,
     "reason": "VENDITA MEDIA: RSI=45.7 (zona neutra inferiore) + MACD hist=-0.0023 (decrescente, segnale ribassista) + 4h=-2.95% (pressione al ribasso). 24h positivo (+1.74%) ma momentum locale invertito. Riposizionare capitale su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T07:31:25.578142+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2597,
+    "reason": "VENDITA MEDIA confermata: RSI=46.7 (neutro ma in calo), MACD hist=-0.0000 con BEARISH_CROSS decrescente, 1h=-0.18% e 4h=-0.32%. Momentum ribassista in formazione. ATOM è la posizione più debole del portafoglio. Realizzo capitale per riallocare su opportunità più forti.",
+    "dry_run": false
   }
 ]
