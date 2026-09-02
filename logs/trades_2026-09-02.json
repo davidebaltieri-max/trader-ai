@@ -133,5 +133,14 @@
     "price": 9.5559,
     "reason": "RSI=50.9 (zona neutra inferiore), MACD hist positivo ma débole (+0.0093), 1h=-0.56% e 24h=-1.26% debolezza recente. UNI (settore DeFi) mostra segnali migliori (RSI=43 ma +2.99% 24h). Riduzione tattica di LINK per rotazione settoriale verso momentum migliore. Vendita parziale (€15 su ~€102 di posizione) per mantenere esposizione DeFi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T20:31:14.712277+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.7459,
+    "reason": "VENDITA MEDIA: RSI=72.5 🔴IPERCOMPRATO (>70) + MACD hist ancora crescente ma con candle 1h piatta (-0.36% vs momentum precedente). DOT ha bruciato rally corto. Protezione patrimonio: realizziamo parzialmente (80% della posizione ~€30) con profitto prima della correzione prevedibile. Manteniamo 20% esposizione per il rialzo.",
+    "dry_run": false
   }
 ]
