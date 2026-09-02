@@ -61,5 +61,14 @@
     "price": 1.2594,
     "reason": "ATOM mostra BEARISH_CROSS su MACD (hist negativo decrescente) + RSI=46.7 in discesa + 4h=-0.32% + 24h=-0.73%. Momentum ribassista confermato. Riduco esposizione su questo asset in fase di debolezza per liberare slot e capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T07:33:05.088600+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.7459,
+    "reason": "DOT mostra MACD hist negativo decrescente (bearish) + RSI=47.6 neutrale in calo + 4h=-2.57% (forte calo intraday) nonostante +2.14% a 24h (divergenza negativa). Trend intraday ribassista. Riduco posizione per cautelarsi.",
+    "dry_run": false
   }
 ]
