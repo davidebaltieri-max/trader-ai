@@ -7,5 +7,14 @@
     "price": 1.2609,
     "reason": "ATOM segnale VENDITA MEDIA: RSI=37.6 (basso ma neutrale), MACD hist negativo decrescente, 4h=-1.15%. Trend ribassista confermato su 4h e MACD. Riduco posizione per liberare capitale e rotazione verso momentum più positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T01:01:29.702593+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 9.6261,
+    "reason": "VENDITA MEDIA: RSI=31.1 (ipervenduto ma fragile), MACD hist=-0.0025 negativo e decrescente (trend ribassista), 1h=-0.55% (pressione ribassista), 4h=-0.60% (conferma), vol×=+1.31x (volume elevato su sponda vendita). Presa parziale di profitto su posizione infrastruttura DeFi con momentum negativo accertato. Trade size €8 tattico su posizione lunga.",
+    "dry_run": false
   }
 ]
