@@ -124,5 +124,14 @@
     "price": 1.2624,
     "reason": "VENDITA STRATEGICA: ATOM mostra RSI=47.6 (zona neutra bassa), 1h=-0.18% negativo, 24h=-3.07% calo significativo. Pur avendo MACD hist positivo, il movimento recente è debolezza. Rotazione di settore: disinvestimento da interoperabilità debole per riallocare a L1 e large cap in momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T19:31:30.499653+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 9.5559,
+    "reason": "RSI=50.9 (zona neutra inferiore), MACD hist positivo ma débole (+0.0093), 1h=-0.56% e 24h=-1.26% debolezza recente. UNI (settore DeFi) mostra segnali migliori (RSI=43 ma +2.99% 24h). Riduzione tattica di LINK per rotazione settoriale verso momentum migliore. Vendita parziale (€15 su ~€102 di posizione) per mantenere esposizione DeFi.",
+    "dry_run": false
   }
 ]
