@@ -79,5 +79,14 @@
     "price": 1.2567,
     "reason": "BEARISH_CROSS confermato + RSI=46.6 in zona neutra calante + MACD hist negativo decrescente. ATOM mostra debolezza relativa rispetto al portafoglio. Rotazione verso opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T12:01:31.431625+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2458,
+    "reason": "MACD=BEARISH_CROSS confermato + 1h=-1.03% + RSI=44.7 in calo. Segnale ribassista tecnico. Riduco posizione su interoperabilità debole per liberare capitale su asset più forti (BTC/ETH).",
+    "dry_run": false
   }
 ]
