@@ -52,5 +52,14 @@
     "price": 1.2597,
     "reason": "VENDITA MEDIA confermata: RSI=46.7 (neutro ma in calo), MACD hist=-0.0000 con BEARISH_CROSS decrescente, 1h=-0.18% e 4h=-0.32%. Momentum ribassista in formazione. ATOM è la posizione più debole del portafoglio. Realizzo capitale per riallocare su opportunità più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T07:33:03.847661+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2594,
+    "reason": "ATOM mostra BEARISH_CROSS su MACD (hist negativo decrescente) + RSI=46.7 in discesa + 4h=-0.32% + 24h=-0.73%. Momentum ribassista confermato. Riduco esposizione su questo asset in fase di debolezza per liberare slot e capitale.",
+    "dry_run": false
   }
 ]
