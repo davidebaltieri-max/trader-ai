@@ -16,5 +16,14 @@
     "price": 9.6261,
     "reason": "VENDITA MEDIA: RSI=31.1 (ipervenduto ma fragile), MACD hist=-0.0025 negativo e decrescente (trend ribassista), 1h=-0.55% (pressione ribassista), 4h=-0.60% (conferma), vol×=+1.31x (volume elevato su sponda vendita). Presa parziale di profitto su posizione infrastruttura DeFi con momentum negativo accertato. Trade size €8 tattico su posizione lunga.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T06:01:31.661611+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.7549,
+    "reason": "VENDITA MEDIA confermata: RSI=53.2 (neutrale ma in discesa), MACD BEARISH_CROSS ↓decrescente (hist=-0.0004), 4h=-0.67%, 24h positivo ma momentum si inverte. Volume elevato (vol×=2.25x) conferma rotazione. DOT è già in portafoglio con 665 unità—riduco esposizione prima di ulteriore calo.",
+    "dry_run": false
   }
 ]
