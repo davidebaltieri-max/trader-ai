@@ -169,5 +169,14 @@
     "price": 1.2502,
     "reason": "VENDITA MEDIA: RSI=43.7 (neutrale ma in calo), MACD hist=+0.0007 (minimo, quasi piatto), 1h=-0.68% 4h=-0.85% 24h=-2.33% (debolezza strutturale 24h). Volume vol×=+1.10 (moderato). Ridurre esposizione interoperabilità in calo; realizzare piccola perdita per ribilanciare verso momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T22:31:17.605834+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2489,
+    "reason": "VENDITA MEDIA confermata: RSI=41.5 (zona neutra bassa) + MACD BEARISH_CROSS hist=-0.0000 ↓decrescente + 1h=-1.15% + 4h=-1.19% + 24h=-2.36%. Momentum ribassista conclamato su tutti i timeframe. Ridurre esposizione su posizione debole.",
+    "dry_run": false
   }
 ]
