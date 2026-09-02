@@ -88,5 +88,14 @@
     "price": 1.2458,
     "reason": "MACD=BEARISH_CROSS confermato + 1h=-1.03% + RSI=44.7 in calo. Segnale ribassista tecnico. Riduco posizione su interoperabilità debole per liberare capitale su asset più forti (BTC/ETH).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T14:31:24.114530+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.7318,
+    "reason": "RSI=34.2 (basso ma non estremo), MACD hist negativo e decrescente, 24h=-0.86%. Momentum ribassista confermato. Rotazione tattica: vendita parziale per ridurre posizione in declino e liberare capitale per asset con segnali più forti.",
+    "dry_run": false
   }
 ]
