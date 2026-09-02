@@ -178,5 +178,14 @@
     "price": 1.2489,
     "reason": "VENDITA MEDIA confermata: RSI=41.5 (zona neutra bassa) + MACD BEARISH_CROSS hist=-0.0000 ↓decrescente + 1h=-1.15% + 4h=-1.19% + 24h=-2.36%. Momentum ribassista conclamato su tutti i timeframe. Ridurre esposizione su posizione debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T23:01:39.193841+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2483,
+    "reason": "VENDITA MEDIA confermata: RSI=46.3 (neutro ma in discesa), MACD hist=-0.0004 ↓decrescente con BEARISH_CROSS rilevato, 24h=-3.03% (trend negativo marcato), 4h=-0.79%. Volume×=0.79 indica cautela. ATOM è in fase ribassista conclamata; realizzo profitti parziali per ridurre esposizione e liberare capitale.",
+    "dry_run": false
   }
 ]
