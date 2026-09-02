@@ -115,5 +115,14 @@
     "price": 0.7274,
     "reason": "RSI=30.1 (ipervenduto ma confermato ribassista), MACD hist decrescente (negativo), 1h=-0.78% + 24h=-1.54%. Momentum negativo confermato. Vendo per liberare capitale e ridurre esposizione su asset in difficoltà.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T16:31:19.015486+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2624,
+    "reason": "VENDITA STRATEGICA: ATOM mostra RSI=47.6 (zona neutra bassa), 1h=-0.18% negativo, 24h=-3.07% calo significativo. Pur avendo MACD hist positivo, il movimento recente è debolezza. Rotazione di settore: disinvestimento da interoperabilità debole per riallocare a L1 e large cap in momentum positivo.",
+    "dry_run": false
   }
 ]
