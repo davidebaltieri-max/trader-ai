@@ -106,5 +106,14 @@
     "price": 0.7281,
     "reason": "VENDITA MEDIA: MACD hist negativo e decrescente (-0.0000 in inversione) + RSI=35.0 (zona neutra-bassa) + 24h=-0.76% + momentum ribassista confermato. DOT ha underperformato rispetto al resto del portafoglio. Rotazione settoriale verso assets con MACD bullish cross per massimizzare ritorni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T15:31:26.734534+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.7274,
+    "reason": "RSI=30.1 (ipervenduto ma confermato ribassista), MACD hist decrescente (negativo), 1h=-0.78% + 24h=-1.54%. Momentum negativo confermato. Vendo per liberare capitale e ridurre esposizione su asset in difficoltà.",
+    "dry_run": false
   }
 ]
