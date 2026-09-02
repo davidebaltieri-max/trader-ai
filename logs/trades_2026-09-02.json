@@ -34,5 +34,14 @@
     "price": 0.7473,
     "reason": "VENDITA MEDIA confermata: RSI=47.6 (zona neutra bassa) + MACD BEARISH_CROSS (hist=-0.0009 decrescente) + 1h=-1.41% + 4h=-1.72%. Momentum ribassista chiaro su timeframe breve. DOT sta perdendo forza dopo il +3.74% 24h. Riduco esposizione per liberare capitale e limitare perdite.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T07:01:41.017493+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.7437,
+    "reason": "VENDITA MEDIA: RSI=45.7 (zona neutra inferiore) + MACD hist=-0.0023 (decrescente, segnale ribassista) + 4h=-2.95% (pressione al ribasso). 24h positivo (+1.74%) ma momentum locale invertito. Riposizionare capitale su segnali più forti.",
+    "dry_run": false
   }
 ]
