@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-02T00:01:31.167503+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2609,
+    "reason": "ATOM segnale VENDITA MEDIA: RSI=37.6 (basso ma neutrale), MACD hist negativo decrescente, 4h=-1.15%. Trend ribassista confermato su 4h e MACD. Riduco posizione per liberare capitale e rotazione verso momentum più positivo.",
+    "dry_run": false
+  }
+]
