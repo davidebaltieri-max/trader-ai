@@ -151,5 +151,14 @@
     "price": 1.2567,
     "reason": "ATOM in debolezza: 1h=-0.49% + 4h=-0.66% + 24h=-2.14% (unico in rosso forte). RSI=46.0 (ancora neutrale ma in discesa) + MACD hist positivo ma non sufficiente a contrastare il trend 24h. Presa di profitto parziale e rotazione verso settori con momentum migliore. Rebalance da interoperabilità verso DeFi/Layer1.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-02T21:31:17.844375+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2511,
+    "reason": "VENDITA MEDIA: RSI=43.7 (calante, prossimo a zona debolezza), 1h=-0.68% + 4h=-0.85% + 24h=-2.33% (ribasso confermato multi-timeframe), MACD hist positivo ma estremamente debole (+0.0007 = quasi piatto, senza momentum). ATOM è in correzione tecnica. Riduco posizione per liberare liquidità e evitare ulteriore erosione. Ridimensionamento tattico.",
+    "dry_run": false
   }
 ]
