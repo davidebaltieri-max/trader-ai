@@ -331,5 +331,14 @@
     "price": 1.3093,
     "reason": "RSI=49.7 (zona neutra ma in calo) + MACD hist NEGATIVO e DECRESCENTE (▼bearish trend). Segnale VENDITA MEDIA. ATOM mostra debolezza rispetto al mercato rialzista generale. Riduco posizione (615 unità) per liberare slot e capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T22:01:32.418109+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.2579,
+    "reason": "GESTIONE RISCHIO IPERCOMPRATO: RSI=71.5 🔴IPERCOMPRATO (zona critica >70), MACD hist=+0.0053 (momentum positivo ma in decelerazione relativa dopo salita 24h=+7.58%). Vendita parziale (non totale) per realizzare profitti su infrastruttura DeFi e ridurre exposure su livello tecnico saturo. Mantieni posizione residua per upside.",
+    "dry_run": false
   }
 ]
