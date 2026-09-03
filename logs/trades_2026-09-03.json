@@ -7,5 +7,14 @@
     "price": 86.645,
     "reason": "RSI=75.8 IPERCOMPRATO + 1h=+0.45% (momentum breve positivo ma insostenibile). Sebbene MACD hist sia positivo, il segnale RSI è troppo estremo per un profilo performante. Ridimensionare posizione per gestire il rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T00:27:48.698115+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.7429,
+    "reason": "RSI=71.0 IPERCOMPRATO + MACD hist positivo ma in zona di saturazione + 1h=-0.24% + 4h=+0.21% mostra debolezza nascente. Riduco posizione in ipercomprato prima della correzione attesa. Realizzo profitti e libero slot.",
+    "dry_run": false
   }
 ]
