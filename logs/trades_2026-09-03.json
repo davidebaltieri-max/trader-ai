@@ -25,5 +25,14 @@
     "price": 0.7426,
     "reason": "RSI=71.0 IPERCOMPRATO + MACD hist positivo ma segnali di correzione imminente. DOT ha performato bene (4h=+0.21%), ma l'RSI sovraesteso richiede realizzazione di profitti. Riduco posizione per liberare slot e capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T00:31:18.768078+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2517,
+    "reason": "MACD hist decrescente (-0.0003) + 24h=-1.69% + RSI=51.0 neutrale. Momentum sta virando al ribasso. Vendita parziale defensiva per proteggere capital allocation.",
+    "dry_run": false
   }
 ]
