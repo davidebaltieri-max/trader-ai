@@ -70,5 +70,14 @@
     "price": 1.2793,
     "reason": "ROTAZIONE TATTICA: ATOM ha completato rally con RSI=63.6 (prossimo a overbought), momentum decrescente a 1h=-0.91% (contrario a 4h). Realizzo parzialmente (+1.09% 24h) per riallocare a UNI/ADA con segnali più forti. Mantengo 50% della posizione ATOM per esposizione interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T07:31:19.744196+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2833,
+    "reason": "RSI=76.0 IPERCOMPRATO + volume×=2.03x elevato + correzione probabile. ATOM ha spinto forte (1h=+0.45%, 4h=+1.93%), segnale di presa profitti su posizione già significativa (615.5 unità). Riduco l'esposizione per fissare guadagni.",
+    "dry_run": false
   }
 ]
