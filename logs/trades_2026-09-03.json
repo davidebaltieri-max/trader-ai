@@ -124,5 +124,14 @@
     "price": 1.2875,
     "reason": "RSI=80.6 IPERCOMPRATO (>70) con MACD hist positivo crescente ma segnale di correzione imminente. ATOM ha segnato +2.12% in 24h. Realizzo profitti su posizione overextended per ridurre rischio e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T10:01:35.089551+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.2824,
+    "reason": "RSI=74.5 IPERCOMPRATO + MACD hist positivo ma momentum decrescente 4h. Realizza profitti su posizione in sovraestensione. Vendi 15.6 unità (~€20).",
+    "dry_run": false
   }
 ]
