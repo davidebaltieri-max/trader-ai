@@ -259,5 +259,14 @@
     "price": 10.0644,
     "reason": "VENDITA MEDIA confermata: RSI=75.3 (ipercomprato) + MACD bearish cross (hist=-0.0037, decrescente) + 1h=-0.76% negativo. Volume alto (vol×=1.59x) amplifica il segnale ribassista. Realizzo parziale su posizione con momentum in deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T17:28:26.953183+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.0682,
+    "reason": "RSI=75.1 (ipercomprato) + MACD hist positivo ma piatto (momentum debole) + volatilità alta (0.86%). Segnale di vendita media: prese di profitto su posizione consolidata prima di potenziale correzione. Libera slot per opportunità su asset con RSI<50.",
+    "dry_run": false
   }
 ]
