@@ -205,5 +205,14 @@
     "price": 9.8603,
     "reason": "RSI=74.0 IPERCOMPRATO + MACD hist positivo crescente ma momentum satura. Volume elevato (vol×=1.58) suggerisce possibile presa di profitto. Segnale di VENDITA MEDIA confermato da RSI>70. Protezione del profitto accumulato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T14:31:26.367397+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.9186,
+    "reason": "RSI=75.6 (IPERCOMPRATO) + MACD hist crescente ma con vol×=2.31x (volume elevato su possibile top). Segnale VENDITA MEDIA: RSI>70 + momentum ancora positivo = presa di profitto su posizione già performante. Riduco esposizione su L1 infrastruttura prima della correzione attesa.",
+    "dry_run": false
   }
 ]
