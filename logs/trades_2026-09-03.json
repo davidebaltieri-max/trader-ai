@@ -52,5 +52,14 @@
     "price": 9.7041,
     "reason": "VENDITA LEGGERA (ridimensionamento strategico): LINK possiede segnali moderati (RSI=66.0, 1h=+0.64% + 4h=+0.91%), ma è posizione consolidata con equity acquisita. Operazione piccola da €8 per liberare 1 slot e reindirizzare capitale verso momentum più aggressivo (ADA/UNI). Mantieni core position, realizza parziale profitto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T05:31:26.657591+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.7492,
+    "reason": "DOT mostra BEARISH_CROSS confermato: MACD hist=-0.0002 (decrescente), RSI=53.5 neutrale, 1h=-1.25% negativa, 4h=-0.53% negativa. MACD cross negativo è segnale di debolezza strutturale. Riduco posizione (665 unità = ~€498, vendo ~€25 ≈ 133 unità) per liberare capital e reallocarlo su opportunità più forti. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
