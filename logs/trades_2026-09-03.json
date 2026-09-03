@@ -313,5 +313,14 @@
     "price": 1.3072,
     "reason": "SEGNALE MODERATO DI RIDUZIONE: RSI=49.1 (neutro) ma MACD hist=-0.0011 (decrescente, primo segnale di debolezza) + 1h=-0.42% + 4h=+0.12% (stallo). ATOM non partecipa al rally generale. Riduco posizione sovrappesata (615.54 unità) per liberare slot e capitale per opportunità più forti. Conservo core holding.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T21:01:23.030908+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.7719,
+    "reason": "RSI=72.3 (IPERCOMPRATO) + MACD hist positivo ma stagnante + 1h=+0.25% debole. DOT ha già fatto +4.18% in 24h. Realizzo parziali profitti su posizione già consistente (665 unità) prima di potenziale correzione. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
