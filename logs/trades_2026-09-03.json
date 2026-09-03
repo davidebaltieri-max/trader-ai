@@ -61,5 +61,14 @@
     "price": 0.7492,
     "reason": "DOT mostra BEARISH_CROSS confermato: MACD hist=-0.0002 (decrescente), RSI=53.5 neutrale, 1h=-1.25% negativa, 4h=-0.53% negativa. MACD cross negativo è segnale di debolezza strutturale. Riduco posizione (665 unità = ~€498, vendo ~€25 ≈ 133 unità) per liberare capital e reallocarlo su opportunità più forti. Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T07:01:33.812387+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.2793,
+    "reason": "ROTAZIONE TATTICA: ATOM ha completato rally con RSI=63.6 (prossimo a overbought), momentum decrescente a 1h=-0.91% (contrario a 4h). Realizzo parzialmente (+1.09% 24h) per riallocare a UNI/ADA con segnali più forti. Mantengo 50% della posizione ATOM per esposizione interoperabilità.",
+    "dry_run": false
   }
 ]
