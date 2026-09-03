@@ -340,5 +340,14 @@
     "price": 10.2579,
     "reason": "GESTIONE RISCHIO IPERCOMPRATO: RSI=71.5 🔴IPERCOMPRATO (zona critica >70), MACD hist=+0.0053 (momentum positivo ma in decelerazione relativa dopo salita 24h=+7.58%). Vendita parziale (non totale) per realizzare profitti su infrastruttura DeFi e ridurre exposure su livello tecnico saturo. Mantieni posizione residua per upside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T22:42:19.737966+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.1627,
+    "reason": "SEGNALE VENDITA MEDIA: LINK mostra BEARISH_CROSS confermato (MACD hist=-0.0066 decrescente), RSI=53.1 (sopra 50, verso ipercomprato), 1h=-0.96% + 4h=+0.17% (momentum debole). Volume moderato (×0.96). Realizzare parziale profitto (+6.72% in 24h) per ridurre esposizione infrastruttura DeFi e liberare liquidità per opportunità più forti. Mantieni core position.",
+    "dry_run": false
   }
 ]
