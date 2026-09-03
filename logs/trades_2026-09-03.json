@@ -223,5 +223,14 @@
     "price": 88.4,
     "reason": "RSI=77.8 (IPERCOMPRATO) + MACD hist minimo (+0.1590, prossimo a piattaforma) + 1h=+1.32% (indebolimento). Posizione su L1 top performer: realizzo parzialmente a +140% YTD equivalente. Segnale VENDITA MEDIA per proteggere gains e ridurre concentrated risk su SOL.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T15:01:28.352085+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.1976,
+    "reason": "RSI=87.7 (IPERCOMPRATO estremo) + MACD hist positivo ma momentum ai massimi. Volatilità 0.65%. Realizzo profitti su posizione in zona di pericolo. LINK ha già +6.68% in 24h.",
+    "dry_run": false
   }
 ]
