@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-03T00:01:39.318590+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 86.645,
+    "reason": "RSI=75.8 IPERCOMPRATO + 1h=+0.45% (momentum breve positivo ma insostenibile). Sebbene MACD hist sia positivo, il segnale RSI è troppo estremo per un profilo performante. Ridimensionare posizione per gestire il rischio di correzione.",
+    "dry_run": false
+  }
+]
