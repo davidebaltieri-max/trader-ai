@@ -304,5 +304,14 @@
     "price": 90.45,
     "reason": "SOL in IPERCOMPRATO (RSI=73.5) dopo gain di 24h=+5.72%. Volatilità elevata (0.87%) + volume aumentato (0.67x) segnalano potenziale pullback. Realizzo parzialmente per ridurre esposizione a layer 1 alt e liberare capitale. SEGNALE VENDITA MEDIA.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T20:31:20.637105+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3072,
+    "reason": "SEGNALE MODERATO DI RIDUZIONE: RSI=49.1 (neutro) ma MACD hist=-0.0011 (decrescente, primo segnale di debolezza) + 1h=-0.42% + 4h=+0.12% (stallo). ATOM non partecipa al rally generale. Riduco posizione sovrappesata (615.54 unità) per liberare slot e capitale per opportunità più forti. Conservo core holding.",
+    "dry_run": false
   }
 ]
