@@ -268,5 +268,14 @@
     "price": 10.0682,
     "reason": "RSI=75.1 (ipercomprato) + MACD hist positivo ma piatto (momentum debole) + volatilità alta (0.86%). Segnale di vendita media: prese di profitto su posizione consolidata prima di potenziale correzione. Libera slot per opportunità su asset con RSI<50.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T17:31:19.959293+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.0668,
+    "reason": "RSI=74.4 (IPERCOMPRATO) + MACD hist positivo ma già crescente da tempo → correzione probabile. Realizza profitti su posizione in momentum decrescente. Volatilità elevata (0.85%) + volume moderato (0.41x) confermano necessità di ridurre esposizione.",
+    "dry_run": false
   }
 ]
