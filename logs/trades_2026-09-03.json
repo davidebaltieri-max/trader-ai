@@ -295,5 +295,14 @@
     "price": 10.1518,
     "reason": "LINK in IPERCOMPRATO (RSI=75.6) con 24h=+5.78%. Sebbene MACD hist sia positivo, la configurazione RSI>70 + momentum corto termine (4h=-0.09%) suggerisce correzione imminente. Realizzo profitti su posizione già in gain. Segnale VENDITA MEDIA affidabile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T19:01:32.092024+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 18.0,
+    "price": 90.45,
+    "reason": "SOL in IPERCOMPRATO (RSI=73.5) dopo gain di 24h=+5.72%. Volatilità elevata (0.87%) + volume aumentato (0.67x) segnalano potenziale pullback. Realizzo parzialmente per ridurre esposizione a layer 1 alt e liberare capitale. SEGNALE VENDITA MEDIA.",
+    "dry_run": false
   }
 ]
