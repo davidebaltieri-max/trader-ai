@@ -241,5 +241,14 @@
     "price": 90.71,
     "reason": "RSI=85.7 (IPERCOMPRATO estremo) + volatilità 0.69% + 1h=+2.74%. Rischio correzione imminente. Realizzo profitti su momentum parabolic prima del pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T15:31:14.491658+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.0356,
+    "reason": "RSI=78.5 (IPERCOMPRATO) + 1h=-1.00% + volatilità alta 0.75% → correzione probabile. Realizzo parzialmente prima di potenziale pullback. MACD ancora positivo ma RSI overbought è segnale di vendita media.",
+    "dry_run": false
   }
 ]
