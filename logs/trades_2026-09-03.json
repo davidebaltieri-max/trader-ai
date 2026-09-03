@@ -196,5 +196,14 @@
     "price": 1.3023,
     "reason": "RSI=73.4 🔴IPERCOMPRATO + MACD hist positivo ma crescita decelerata + 1h=-0.33% negativo. Posizione in portafoglio con forte guadagno (615.5 unità). Realizzo profitti su asset ipercomprato prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T13:44:30.606298+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 9.8603,
+    "reason": "RSI=74.0 IPERCOMPRATO + MACD hist positivo crescente ma momentum satura. Volume elevato (vol×=1.58) suggerisce possibile presa di profitto. Segnale di VENDITA MEDIA confermato da RSI>70. Protezione del profitto accumulato.",
+    "dry_run": false
   }
 ]
