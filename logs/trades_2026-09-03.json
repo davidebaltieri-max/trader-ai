@@ -214,5 +214,14 @@
     "price": 9.9186,
     "reason": "RSI=75.6 (IPERCOMPRATO) + MACD hist crescente ma con vol×=2.31x (volume elevato su possibile top). Segnale VENDITA MEDIA: RSI>70 + momentum ancora positivo = presa di profitto su posizione già performante. Riduco esposizione su L1 infrastruttura prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-03T14:31:28.151674+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 88.4,
+    "reason": "RSI=77.8 (IPERCOMPRATO) + MACD hist minimo (+0.1590, prossimo a piattaforma) + 1h=+1.32% (indebolimento). Posizione su L1 top performer: realizzo parzialmente a +140% YTD equivalente. Segnale VENDITA MEDIA per proteggere gains e ridurre concentrated risk su SOL.",
+    "dry_run": false
   }
 ]
