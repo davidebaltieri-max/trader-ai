@@ -97,5 +97,14 @@
     "price": 0.7537,
     "reason": "DOT mostra VENDITA MEDIA: 24h=-0.41% (underperformance relativa), RSI=47.7 (zona neutra bassa), MACD hist=+0.0003 ↑crescente ma très faible (momentum quasi-piatto), 1h=-0.09% + 4h=-0.08% confermano debolezza. Riduzione della posizione (da 665.109 a ~665) per liberare capitale verso segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T11:01:26.771424+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.3144,
+    "reason": "GESTIONE POSIZIONE: ATOM sovrappesata (615.54 unità). RSI=48.0 (neutrale), MACD hist=-0.0001 ↓decrescente (momentum negativo), 1h=-0.16%. Riduzione parziale per rebalanciarsi verso opportunità momentum più forti (LINK, SOL). Libera capitale per rotazione settoriale.",
+    "dry_run": false
   }
 ]
