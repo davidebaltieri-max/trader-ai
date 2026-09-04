@@ -52,5 +52,14 @@
     "price": 0.7523,
     "reason": "DOT in VENDITA MEDIA: RSI=34.3 (zona neutra bassa), MACD hist=-0.0010 (negativo decrescente), 4h=-0.37%, 24h=-0.79%. Volume×=1.89 (spike anomalo). Trend ribassista confermato su 4h/24h. Uscita tattica per ruotare su momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T08:01:30.689752+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.7501,
+    "reason": "DOT in debolezza: RSI=35.1 (ipervenduto ma in calo), MACD hist negativo decrescente, 24h=-0.44%. Momentum ribassista confermato. Realizzo perdita controllata per liberare slot e capital per opportunità più forti.",
+    "dry_run": false
   }
 ]
