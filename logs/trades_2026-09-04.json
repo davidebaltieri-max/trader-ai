@@ -115,5 +115,14 @@
     "price": 10.3657,
     "reason": "LINK mostra segnale VENDITA MEDIA: RSI=62.1 (sopra 60), MACD hist negativo in decrescita (BEARISH_CROSS confermato), 1h=-0.11% in leggero calo. Presa di profitto parziale su posizione DeFi in fase di debolezza tecnica, mantenimento di core position.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T20:01:43.248863+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.755,
+    "reason": "DOT in IPERCOMPRATO (RSI=70.3). Momentum rialzista ancora presente (MACD hist crescente) ma segnale di vendita media confermato: RSI>70 + 1h=+1.22% indica possibile correzione imminente. Realizzo profitti su posizione forte (665 unità) prima del pullback atteso. Ridimensiono per liberare slot e capitale.",
+    "dry_run": false
   }
 ]
