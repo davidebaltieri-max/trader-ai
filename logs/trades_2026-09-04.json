@@ -133,5 +133,14 @@
     "price": 10.0153,
     "reason": "LINK: RSI=48.0 (zona neutra), MACD hist positivo ma debole (+0.0016), 1h=-0.38%, 4h=-0.06%, 24h=-1.68%. Volume ridotto (vol×=+1.18x moderato). Momentum infra-DeFi rallenta — ridimensionamento tattico per liberare capital allocation su segnali più forti. Take profit parziale prudenziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T22:02:37.183840+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.7483,
+    "reason": "VENDITA MEDIA PARZIALE: RSI=68.8 (prossimo a ipercomprato), MACD hist positivo ma decrescente, 1h=-0.31% (inversione locale). DOT ha rallied +1.49% in 4h ed è entrato in territorio di profit-taking. Realizzo parzialmente con TP logico a +10% dal carry-over precedente. Mantengo 60% della posizione.",
+    "dry_run": false
   }
 ]
