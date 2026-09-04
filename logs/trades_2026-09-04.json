@@ -43,5 +43,14 @@
     "price": 1.3094,
     "reason": "VENDITA MEDIA confermata: RSI=38.9 (neutro ma verso basso), MACD hist negativo e decrescente, 1h=-0.99% e 4h=-2.07% (momentum ribassista), vol×=4.61x (picco di volume in calo). ATOM mostra debolezza relativa rispetto al mercato. Riduco posizione per liberare capitale e realizzare parzialmente il guadagno (+1.76% 24h).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T07:31:12.987629+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.7523,
+    "reason": "DOT in VENDITA MEDIA: RSI=34.3 (zona neutra bassa), MACD hist=-0.0010 (negativo decrescente), 4h=-0.37%, 24h=-0.79%. Volume×=1.89 (spike anomalo). Trend ribassista confermato su 4h/24h. Uscita tattica per ruotare su momentum positivo.",
+    "dry_run": false
   }
 ]
