@@ -16,5 +16,14 @@
     "price": 10.1765,
     "reason": "LINK in IPERCOMPRATO (RSI=65.9, prossimo a 70). MACD hist negativo (-0.0174) decrescente nonostante performance 24h positiva (+6.77%). Segnale VENDITA MEDIA confermato. Presa di profitto su infrastruttura DeFi con segnali di correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T02:01:29.115772+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 10.0,
+    "price": 1.2908,
+    "reason": "ATOM debole: -0.60% 1h, -1.68% 4h, RSI=42.0 neutrale ma pressione ribassista. Tuttavia volume×=4.36x ELEVATISSIMO = capitolazione possibile in arrivo. Riduco posizione sovraccarica (615.54 unità, ~€794 valore) per cristallizzare guadagni e liberare slot. Trim tattico pre-rimbalzo.",
+    "dry_run": false
   }
 ]
