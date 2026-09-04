@@ -79,5 +79,14 @@
     "price": 0.7571,
     "reason": "SKIP: Già in portafoglio (665.10900000 unità). MACD BULLISH_CROSS (hist=+0.0002 ↑crescente) + RSI=51.1, ma non acquistare ulteriormente - ridondanza posizionale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T09:01:36.473210+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3113,
+    "reason": "RIDIMENSIONAMENTO TATTICO: ATOM mostra segnali deboli - MACD hist=-0.0008 ↓decrescente, RSI=48.8 neutrale, vol× basso (0.80x). Performance 24h moderata (+3.82%). Realizzo il 15% della posizione per liberare liquidity e finanziare entries più bullish (SOL/LINK). Mantieni posizione core per diversificazione interoperabilità.",
+    "dry_run": false
   }
 ]
