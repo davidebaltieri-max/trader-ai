@@ -142,5 +142,14 @@
     "price": 0.7483,
     "reason": "VENDITA MEDIA PARZIALE: RSI=68.8 (prossimo a ipercomprato), MACD hist positivo ma decrescente, 1h=-0.31% (inversione locale). DOT ha rallied +1.49% in 4h ed è entrato in territorio di profit-taking. Realizzo parzialmente con TP logico a +10% dal carry-over precedente. Mantengo 60% della posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T23:01:28.853462+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.749,
+    "reason": "REBALANCING TATTICO: RSI=66.2 (ipercomprato) + momentum MACD fragile (hist≈0) + 1h=+0.48% ma volatilità=0.61% (alta, instabile). Realizzo parte dei guadagni su picco di momentum prima della correzione. Mantengo posizione core.",
+    "dry_run": false
   }
 ]
