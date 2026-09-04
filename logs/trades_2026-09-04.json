@@ -106,5 +106,14 @@
     "price": 1.3144,
     "reason": "GESTIONE POSIZIONE: ATOM sovrappesata (615.54 unità). RSI=48.0 (neutrale), MACD hist=-0.0001 ↓decrescente (momentum negativo), 1h=-0.16%. Riduzione parziale per rebalanciarsi verso opportunità momentum più forti (LINK, SOL). Libera capitale per rotazione settoriale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T12:01:27.587995+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 10.3657,
+    "reason": "LINK mostra segnale VENDITA MEDIA: RSI=62.1 (sopra 60), MACD hist negativo in decrescita (BEARISH_CROSS confermato), 1h=-0.11% in leggero calo. Presa di profitto parziale su posizione DeFi in fase di debolezza tecnica, mantenimento di core position.",
+    "dry_run": false
   }
 ]
