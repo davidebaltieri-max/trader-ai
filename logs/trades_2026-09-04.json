@@ -25,5 +25,14 @@
     "price": 1.2908,
     "reason": "ATOM debole: -0.60% 1h, -1.68% 4h, RSI=42.0 neutrale ma pressione ribassista. Tuttavia volume×=4.36x ELEVATISSIMO = capitolazione possibile in arrivo. Riduco posizione sovraccarica (615.54 unità, ~€794 valore) per cristallizzare guadagni e liberare slot. Trim tattico pre-rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T03:01:23.593679+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.2967,
+    "reason": "ATOM in debolezza: 1h=-0.99% + 4h=-2.07% + vol×=+4.61x (volumi anomali in discesa) + RSI=38.9 neutrale + MACD hist decrescente. Momentum negativo confermato. Realizza parziale per liberare cash e reindirizzarlo su assets con rimbalzo imminente (SOL, XRP).",
+    "dry_run": false
   }
 ]
