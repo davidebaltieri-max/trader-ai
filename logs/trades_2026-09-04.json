@@ -7,5 +7,14 @@
     "price": 10.1836,
     "reason": "LINK ipercomprato (RSI=66.7>60) con MACD hist negativo decrescente (-0.0153). Segnale VENDITA MEDIA: concordanza RSI>60 + MACD hist<0. Take profit su momentum 24h=+6.04% e riduzione posizione per risk management.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T00:31:11.854031+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.67,
+    "price": 10.1765,
+    "reason": "LINK in IPERCOMPRATO (RSI=65.9, prossimo a 70). MACD hist negativo (-0.0174) decrescente nonostante performance 24h positiva (+6.77%). Segnale VENDITA MEDIA confermato. Presa di profitto su infrastruttura DeFi con segnali di correzione imminente.",
+    "dry_run": false
   }
 ]
