@@ -70,5 +70,14 @@
     "price": 0.7547,
     "reason": "SEGNALE DEBOLE-MODERATO: DOT mostra debolezza relativa (24h=-0.11%, 4h=-0.28%, RSI=45.8 scendente). MACD hist negativo decrescente (-0.0003) senza supporto rialzista. Volume basso (×0.68). Pur mantenendo posizione core (665 unità), riduzione tattica di €10 per liberare capitale e consolidare perdite su timeframe più breve. Opportunità di riacquisto a prezzi inferiori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T09:01:34.313979+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 0.0,
+    "price": 0.7571,
+    "reason": "SKIP: Già in portafoglio (665.10900000 unità). MACD BULLISH_CROSS (hist=+0.0002 ↑crescente) + RSI=51.1, ma non acquistare ulteriormente - ridondanza posizionale.",
+    "dry_run": false
   }
 ]
