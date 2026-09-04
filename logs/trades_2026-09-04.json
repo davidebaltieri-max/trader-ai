@@ -34,5 +34,14 @@
     "price": 1.2967,
     "reason": "ATOM in debolezza: 1h=-0.99% + 4h=-2.07% + vol×=+4.61x (volumi anomali in discesa) + RSI=38.9 neutrale + MACD hist decrescente. Momentum negativo confermato. Realizza parziale per liberare cash e reindirizzarlo su assets con rimbalzo imminente (SOL, XRP).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T04:31:24.272937+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3094,
+    "reason": "VENDITA MEDIA confermata: RSI=38.9 (neutro ma verso basso), MACD hist negativo e decrescente, 1h=-0.99% e 4h=-2.07% (momentum ribassista), vol×=4.61x (picco di volume in calo). ATOM mostra debolezza relativa rispetto al mercato. Riduco posizione per liberare capitale e realizzare parzialmente il guadagno (+1.76% 24h).",
+    "dry_run": false
   }
 ]
