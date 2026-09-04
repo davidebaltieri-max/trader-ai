@@ -88,5 +88,14 @@
     "price": 1.3113,
     "reason": "RIDIMENSIONAMENTO TATTICO: ATOM mostra segnali deboli - MACD hist=-0.0008 ↓decrescente, RSI=48.8 neutrale, vol× basso (0.80x). Performance 24h moderata (+3.82%). Realizzo il 15% della posizione per liberare liquidity e finanziare entries più bullish (SOL/LINK). Mantieni posizione core per diversificazione interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-04T09:31:21.302569+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.7537,
+    "reason": "DOT mostra VENDITA MEDIA: 24h=-0.41% (underperformance relativa), RSI=47.7 (zona neutra bassa), MACD hist=+0.0003 ↑crescente ma très faible (momentum quasi-piatto), 1h=-0.09% + 4h=-0.08% confermano debolezza. Riduzione della posizione (da 665.109 a ~665) per liberare capitale verso segnali più forti.",
+    "dry_run": false
   }
 ]
