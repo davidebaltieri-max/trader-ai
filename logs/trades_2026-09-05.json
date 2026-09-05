@@ -151,5 +151,14 @@
     "price": 1.3436,
     "reason": "RSI=74.2 (IPERCOMPRATO) + volatilità alta (0.86%) + MACD hist crescente ma momentum potrebbe invertire. Ho posizione large (615 unità). Realizzo parziale profitto su rally recente (+2.43% in 24h, +3.72% in 4h).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T09:31:26.916259+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 10.2092,
+    "reason": "SEGNALE MEDIO-FORTE: RSI=77.8 IPERCOMPRATO + MACD hist=+0.0185 crescente (ma a livelli minimi) + 1h=+0.44% + 4h=+1.65% (già prezzato). Volatilità +0.21% moderata. Volume x1.37 alto suggerisce distribuzione. Realizzazione di profitti su posizione core che ha già corrisposto bene. Take profit anticipato per de-risking su overbought evidente.",
+    "dry_run": false
   }
 ]
