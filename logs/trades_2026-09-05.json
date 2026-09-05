@@ -142,5 +142,14 @@
     "price": 10.166,
     "reason": "RSI=78.9 (IPERCOMPRATO) + MACD hist positivo ma segnali di esaurimento. LINK ha corriso pesantemente (-2.30% in 24h). Profitto da realizzare su posizione già presente. Riduco esposizione su asset ad alto rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T09:01:33.419902+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.3436,
+    "reason": "RSI=74.2 (IPERCOMPRATO) + volatilità alta (0.86%) + MACD hist crescente ma momentum potrebbe invertire. Ho posizione large (615 unità). Realizzo parziale profitto su rally recente (+2.43% in 24h, +3.72% in 4h).",
+    "dry_run": false
   }
 ]
