@@ -385,5 +385,14 @@
     "price": 10.4005,
     "reason": "LINK ipercomprato (RSI=75.4 >70), MACD hist=+0.0114 in calo relativo, rischio correzione imminente. Vol×=+0.37 non conferma accumulazione aggressiva. Vendita tattica di 1.92 unità (~€20) per bloccare profitti e ridurre esposizione su asset sovraesteso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T22:01:33.195362+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.4316,
+    "reason": "VENDITA MEDIA: RSI=62.7 (sopra 60), MACD hist=-0.0001 ↓decrescente con BEARISH_CROSS confermato, 1h=+0.04% (momentum debole). LINK mostra divergenza ribassista confermata dopo rally precedente. Riduzione di posizione prudenziale su segnale negativo. Vendi parziale (8€ su ~114€ nominali) per limitare esposizione.",
+    "dry_run": false
   }
 ]
