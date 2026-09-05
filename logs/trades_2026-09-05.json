@@ -304,5 +304,14 @@
     "price": 10.5299,
     "reason": "RSI=92.2 🔴IPERCOMPRATO ESTREMO (segnale vendita forte) + MACD hist positivo ma momentum eccessivo su timeframe 30min. Vol×=1.76x confermano interesse. Riduco esposizione prima di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T17:31:13.349292+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.4718,
+    "reason": "RSI=91.0 IPERCOMPRATO ESTREMO + MACD hist positivo ma momentum già espresso. Vol×=1.86x conferma interesse, ma il livello RSI è insostenibile. VENDITA FORTE: prendere profitti su posizione già in guadagno (+4.60% 24h). Operazione conservativa su segnale di correzione imminente.",
+    "dry_run": false
   }
 ]
