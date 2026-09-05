@@ -16,5 +16,14 @@
     "price": 0.7707,
     "reason": "DOT ipercomprato (RSI=73.4) con volatilità alta (0.87%). MACD hist positivo ma momentum su livelli estremi. Possibile correzione imminente. Ridimensionamento parziale della posizione (668 unità: vendo ~26 unità) per cristallizzare gain e liberare liquidità per entry su altri asset.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T01:01:22.077554+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.7681,
+    "reason": "DOT in IPERCOMPRATO (RSI=72.7>70) con vol×=3.64x anomalo. RSI sopra 70 segnala correzione imminente. MACD hist positivo ma in contesto di picco RSI estremo = VENDITA MEDIA (RSI>70 + correzione attesa). Riduco esposizione su picco di volatilità anomala.",
+    "dry_run": false
   }
 ]
