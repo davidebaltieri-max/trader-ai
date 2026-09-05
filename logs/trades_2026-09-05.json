@@ -196,5 +196,14 @@
     "price": 1.3341,
     "reason": "SEGNALE VENDITA MEDIA: RSI=72.5 (IPERCOMPRATO) + MACD hist positivo ma 4h=-0.31% (divergenza ribassista su timeframe più ampio). ATOM mostra estenuazione al rialzo. Vendita parziale (non totale, manteni posizione) per crystallizzare guadagni e ridurre esposizione su asset ipercomprato. Trailing stop prudenziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T13:31:11.496539+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3343,
+    "reason": "RSI=70.6 IPERCOMPRATO + MACD hist positivo ma debole (0.0005) + volatilità media (0.53%) suggeriscono correzione imminente. Realizzo parziale su posizione large (615 unità). Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
