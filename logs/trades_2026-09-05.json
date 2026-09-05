@@ -340,5 +340,14 @@
     "price": 1.3373,
     "reason": "BEARISH_CROSS confermato (MACD hist=-0.0003 decrescente) + RSI=44.0 in discesa. 1h=-0.21%, momentum ribassista in corso. Exit difensiva su posizione senza spinta",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T18:31:16.121857+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.4029,
+    "reason": "RSI=80.1 (IPERCOMPRATO) + MACD hist positivo ma 1h=-0.82% (divergenza negativa). Volume alto (2.37x) su candela rossa. Profit-taking su posizione con segnale di debolezza intraday. Riduco esposizione in zona critica.",
+    "dry_run": false
   }
 ]
