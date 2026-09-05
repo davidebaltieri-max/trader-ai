@@ -70,5 +70,14 @@
     "price": 0.7661,
     "reason": "SEGNALE DI VENDITA MEDIO: BEARISH_CROSS confermato + MACD hist decrescente negativo + RSI=64.4 (prossimo a ipercomprato) + 1h=-0.35% inversione negativa. Momentum ribassista confermato. Realizzazione di profitto parziale per ridurre rischio su posizione in deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T05:31:16.855110+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 10.0,
+    "price": 0.7674,
+    "reason": "RSI=63.2 (momentum elevato), MACD hist decrescente (prima divergenza bearish), 4h=-1.03% (calo 4h negativo), volatilità alta +0.65%. Rotazione fuori posizione a favore di setup più bullish (AVAX/UNI). Trim posizione con presa profitti parziale.",
+    "dry_run": false
   }
 ]
