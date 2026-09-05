@@ -187,5 +187,14 @@
     "price": 0.7809,
     "reason": "RSI=66.8 (prossimo zona ipercomprato) + MACD hist=-0.0003 DECRESCENTE (divergenza negativa) + 1h=-0.47% (pressione al ribasso) + vol×=+3.39x (volume in spike, potenziale esaurimento). Segnale VENDITA MEDIA. DOT ha segnato +2.95% in 24h ma MACD perde momentum. Realizza profitti parziali su posizione in rialzo già consolidata (665 unità).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T13:01:42.238667+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3341,
+    "reason": "SEGNALE VENDITA MEDIA: RSI=72.5 (IPERCOMPRATO) + MACD hist positivo ma 4h=-0.31% (divergenza ribassista su timeframe più ampio). ATOM mostra estenuazione al rialzo. Vendita parziale (non totale, manteni posizione) per crystallizzare guadagni e ridurre esposizione su asset ipercomprato. Trailing stop prudenziale.",
+    "dry_run": false
   }
 ]
