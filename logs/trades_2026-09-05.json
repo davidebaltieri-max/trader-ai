@@ -61,5 +61,14 @@
     "price": 0.7632,
     "reason": "SEGNALE DEBOLE MA PRECAUZIONALE: BEARISH_CROSS confermato + MACD hist decrescente (negativo) + RSI=62.2 (ipercomprato relativo) + 1h=-0.74%, 4h=-0.68% (pressione ribassista). Riduzione posizione per lockare rischi, mantieni core holding dato 24h=+1.54%.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T05:01:23.765913+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.7661,
+    "reason": "SEGNALE DI VENDITA MEDIO: BEARISH_CROSS confermato + MACD hist decrescente negativo + RSI=64.4 (prossimo a ipercomprato) + 1h=-0.35% inversione negativa. Momentum ribassista confermato. Realizzazione di profitto parziale per ridurre rischio su posizione in deterioramento.",
+    "dry_run": false
   }
 ]
