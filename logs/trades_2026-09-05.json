@@ -376,5 +376,14 @@
     "price": 10.3589,
     "reason": "LINK segnale VENDITA MEDIA: RSI 75.3 (ipercomprato), MACD hist positivo ma decelerazione imminente (+0.0112 basso), 1h -0.26% + 4h +0.88% + 24h +2.75% mostrano esaurimento del momentum. Riduco posizione (€30 su ~€110 totali) per cristallizzare guadagni e liberare capitale in fase di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T19:31:14.910082+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.4005,
+    "reason": "LINK ipercomprato (RSI=75.4 >70), MACD hist=+0.0114 in calo relativo, rischio correzione imminente. Vol×=+0.37 non conferma accumulazione aggressiva. Vendita tattica di 1.92 unità (~€20) per bloccare profitti e ridurre esposizione su asset sovraesteso.",
+    "dry_run": false
   }
 ]
