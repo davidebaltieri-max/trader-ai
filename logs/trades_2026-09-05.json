@@ -52,5 +52,14 @@
     "price": 1.3209,
     "reason": "VENDITA MEDIA: RSI=35.7 (ipervenduto ma fragile), MACD hist=-0.0009 (inversione ribassista imminente), 1h=-0.18%, vol×=+34.83x (picco anomalo di volume = possibile scarico). MACD passando in negativo è segnale di debolezza. Riduco posizione per proteggere profitti e liberare slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T04:46:04.018934+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 5.0,
+    "price": 0.7632,
+    "reason": "SEGNALE DEBOLE MA PRECAUZIONALE: BEARISH_CROSS confermato + MACD hist decrescente (negativo) + RSI=62.2 (ipercomprato relativo) + 1h=-0.74%, 4h=-0.68% (pressione ribassista). Riduzione posizione per lockare rischi, mantieni core holding dato 24h=+1.54%.",
+    "dry_run": false
   }
 ]
