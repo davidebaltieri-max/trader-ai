@@ -331,5 +331,14 @@
     "price": 10.4145,
     "reason": "RSI=85.7 IPERCOMPRATO + MACD hist>0 ma 1h=-0.45% negativo. Volume×=2.09x conferma interesse venditore. Presa di profitto su posizione già forte (4h=+1.86%, 24h=+4.04%)",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T18:01:22.010979+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3373,
+    "reason": "BEARISH_CROSS confermato (MACD hist=-0.0003 decrescente) + RSI=44.0 in discesa. 1h=-0.21%, momentum ribassista in corso. Exit difensiva su posizione senza spinta",
+    "dry_run": false
   }
 ]
