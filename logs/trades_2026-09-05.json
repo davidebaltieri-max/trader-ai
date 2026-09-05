@@ -223,5 +223,14 @@
     "price": 1.3345,
     "reason": "RSI=72.1 🔴IPERCOMPRATO + MACD hist positivo ma in plateau (crescita stagnante) + vol×=2.47x elevato = pressione di presa di profitti. ATOM ha già performato (+2.85% 24h). Riduco posizione per cristallizzare guadagni su asset ipervenduto. Slot liberato per opportunità con segnali più freschi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T14:31:09.911043+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.2356,
+    "reason": "RSI=71.0 🔴IPERCOMPRATO + MACD hist positivo ma debole (+0.0114, piatto) + 1h=+0.23% moderato = correzione probabile. LINK è infrastruttura DeFi ma ha staccato dopo +3.14% 24h. Realizzo parzialmente per ridurre esposizione a pullback.",
+    "dry_run": false
   }
 ]
