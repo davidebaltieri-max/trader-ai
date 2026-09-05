@@ -160,5 +160,14 @@
     "price": 10.2092,
     "reason": "SEGNALE MEDIO-FORTE: RSI=77.8 IPERCOMPRATO + MACD hist=+0.0185 crescente (ma a livelli minimi) + 1h=+0.44% + 4h=+1.65% (già prezzato). Volatilità +0.21% moderata. Volume x1.37 alto suggerisce distribuzione. Realizzazione di profitti su posizione core che ha già corrisposto bene. Take profit anticipato per de-risking su overbought evidente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T10:01:26.020795+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.67,
+    "price": 10.1654,
+    "reason": "SEGNALE VENDITA MEDIA: RSI=72.2 (IPERCOMPRATO), MACD hist positivo ma senza BULLISH_CROSS nuovo. Risk-reward sfavorevole con RSI sopra 70. Presa di profitto parziale su posizione già esistente per liberare slot e cassa per nuove opportunità rialziste.",
+    "dry_run": false
   }
 ]
