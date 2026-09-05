@@ -349,5 +349,14 @@
     "price": 10.4029,
     "reason": "RSI=80.1 (IPERCOMPRATO) + MACD hist positivo ma 1h=-0.82% (divergenza negativa). Volume alto (2.37x) su candela rossa. Profit-taking su posizione con segnale di debolezza intraday. Riduco esposizione in zona critica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T18:31:17.498675+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.7846,
+    "reason": "RSI=51.8 (neutro) ma MACD hist DECRESCENTE (-0.0011) + 4h=-0.66% confermano debolezza direzionale. DOT ha performato (+6.46% 24h) ma momentum si sta esaurendo. Take profit parziale prima della correzione attesa.",
+    "dry_run": false
   }
 ]
