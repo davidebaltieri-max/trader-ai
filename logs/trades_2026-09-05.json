@@ -259,5 +259,14 @@
     "price": 10.2768,
     "reason": "RSI=72.4 (IPERCOMPRATO) + MACD hist positivo ma momentum in fase di esaurimento. LINK ha performato bene (+2.42% 24h) ma segnali di correzione imminente. Volume alto (vol×=1.41x) amplifica il rischio. Realizzo profitti su posizione forte per ridurre rischio di pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T15:31:19.094868+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3362,
+    "reason": "ATOM mostra BEARISH_CROSS su MACD (hist negativo decrescente) + 1h=-0.81% + 4h=-0.97%. Momentum ribassista confermato. RSI=51.3 (neutrale) ma trend negativo chiaro. Volume alto (vol×=2.44x) amplifica il ribasso. Esco dalla posizione prima di ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
