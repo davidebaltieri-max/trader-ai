@@ -43,5 +43,14 @@
     "price": 0.7798,
     "reason": "DOT ipercomprato (RSI=68.3), massima volatilità (0.77%), momentum già al top nelle ultime 4h (+3.62%). MACD hist positivo ma in decelerazione. Riduco esposizione per lock in parziale e raccogliere liquidità. Operazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T03:01:26.289216+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.3209,
+    "reason": "VENDITA MEDIA: RSI=35.7 (ipervenduto ma fragile), MACD hist=-0.0009 (inversione ribassista imminente), 1h=-0.18%, vol×=+34.83x (picco anomalo di volume = possibile scarico). MACD passando in negativo è segnale di debolezza. Riduco posizione per proteggere profitti e liberare slot per opportunità migliori.",
+    "dry_run": false
   }
 ]
