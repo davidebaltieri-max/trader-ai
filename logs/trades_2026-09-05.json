@@ -277,5 +277,14 @@
     "price": 10.2927,
     "reason": "LINK è in ipercompra (RSI=72.3 >70), segnale SELL MEDIA confermato. MACD hist positivo ma RSI eccessivo suggerisce correzione imminente. Volume alto (0.95x) amplifica il rischio. Riduco posizione per proteggere profitti e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T16:31:11.644102+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.2847,
+    "reason": "SEGNALE VENDITA MODERATO: LINK è in IPERCOMPRATO (RSI=70.6), segnale classico di correzione imminente. 1h=-0.12% mostra prime debolezze locali. MACD hist positivo ma peso relativo basso (+0.0120). Riduzione parziale di posizione per realizzare profitti e liberare capitale per nuove opportunità momentum-driven. Stop tattico su asset saturo.",
+    "dry_run": false
   }
 ]
