@@ -268,5 +268,14 @@
     "price": 1.3362,
     "reason": "ATOM mostra BEARISH_CROSS su MACD (hist negativo decrescente) + 1h=-0.81% + 4h=-0.97%. Momentum ribassista confermato. RSI=51.3 (neutrale) ma trend negativo chiaro. Volume alto (vol×=2.44x) amplifica il ribasso. Esco dalla posizione prima di ulteriore deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T16:01:28.844344+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.2927,
+    "reason": "LINK è in ipercompra (RSI=72.3 >70), segnale SELL MEDIA confermato. MACD hist positivo ma RSI eccessivo suggerisce correzione imminente. Volume alto (0.95x) amplifica il rischio. Riduco posizione per proteggere profitti e liberare slot.",
+    "dry_run": false
   }
 ]
