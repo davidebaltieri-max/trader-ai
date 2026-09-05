@@ -367,5 +367,14 @@
     "price": 10.3602,
     "reason": "LINK in portafoglio con RSI=75.6 (IPERCOMPRATO) e MACD hist positivo ma 1h=-0.23% e 4h=+0.90% mostra perdita di slancio orario. Vendita piccola (€8) per ridurre posizione sovraelevata; mantieni core position. Realizza utili da +2.77% 24h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T19:14:49.505547+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 10.3589,
+    "reason": "LINK segnale VENDITA MEDIA: RSI 75.3 (ipercomprato), MACD hist positivo ma decelerazione imminente (+0.0112 basso), 1h -0.26% + 4h +0.88% + 24h +2.75% mostrano esaurimento del momentum. Riduco posizione (€30 su ~€110 totali) per cristallizzare guadagni e liberare capitale in fase di potenziale correzione.",
+    "dry_run": false
   }
 ]
