@@ -115,5 +115,14 @@
     "price": 1.3363,
     "reason": "RSI=74.9 🔴IPERCOMPRATO (>70) + 1h=-0.39% negativo. Segnale VENDITA MEDIA confermato. ATOM ha avuto +3.99% in 4h e +3.04% in 24h: profitto da realizzare prima della correzione attesa. Volatilità alta (+0.86%) amplifica il rischio di pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T08:45:59.873388+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3425,
+    "reason": "RSI=74.2 IPERCOMPRATO + volatilità alta (0.86%) + MACD hist positivo ma momentum in fase di esaurimento dopo rally 4h=+3.72%. Presa di profitto su posizione forte. Riduco esposizione su ipercomprato.",
+    "dry_run": false
   }
 ]
