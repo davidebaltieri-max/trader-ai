@@ -169,5 +169,14 @@
     "price": 10.1654,
     "reason": "SEGNALE VENDITA MEDIA: RSI=72.2 (IPERCOMPRATO), MACD hist positivo ma senza BULLISH_CROSS nuovo. Risk-reward sfavorevole con RSI sopra 70. Presa di profitto parziale su posizione già esistente per liberare slot e cassa per nuove opportunità rialziste.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T11:01:27.988353+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.7827,
+    "reason": "VENDITA MEDIA confermata: RSI=63.4 (zona alta), MACD hist negativo decrescente con BEARISH_CROSS, 4h=-0.53%. DOT mostra inversione di trend dopo +3.53% in 24h. Volume×=2.20 (alto) conferma movimento. Posizione già in portafoglio da ridimensionare su segnale ribassista.",
+    "dry_run": false
   }
 ]
