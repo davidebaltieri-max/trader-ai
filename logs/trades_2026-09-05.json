@@ -241,5 +241,14 @@
     "price": 0.7882,
     "reason": "VENDITA MEDIA confermata: RSI=57.8 (neutro ma in zona superiore), MACD hist decrescente con BEARISH_CROSS imminente, performance 24h=+8.14% (ipercomprato relativo), 1h=-0.19% negativo. DOT mostra esaurimento momentum dopo forte rally. Riduco posizione overweight su interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T15:24:34.439841+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.279,
+    "reason": "RSI=70.8 (IPERCOMPRATO) + MACD hist positivo ma momentum decelerante. Presa di profitto tattica su posizione debole. Volume×=1.36x conferma interesse, ma segnale di correzione è presente.",
+    "dry_run": false
   }
 ]
