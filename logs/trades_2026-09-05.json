@@ -313,5 +313,14 @@
     "price": 10.4718,
     "reason": "RSI=91.0 IPERCOMPRATO ESTREMO + MACD hist positivo ma momentum già espresso. Vol×=1.86x conferma interesse, ma il livello RSI è insostenibile. VENDITA FORTE: prendere profitti su posizione già in guadagno (+4.60% 24h). Operazione conservativa su segnale di correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T17:31:14.591668+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3335,
+    "reason": "RSI=44.0 NEUTRO ma MACD hist=-0.0003 BEARISH_CROSS confermato (↓decrescente). 1h=-0.21% conferma debolezza. Posizione grande (615 unità): ridurre esposizione su trend ribassista incipiente. Protezione contro inversione.",
+    "dry_run": false
   }
 ]
