@@ -322,5 +322,14 @@
     "price": 1.3335,
     "reason": "RSI=44.0 NEUTRO ma MACD hist=-0.0003 BEARISH_CROSS confermato (↓decrescente). 1h=-0.21% conferma debolezza. Posizione grande (615 unità): ridurre esposizione su trend ribassista incipiente. Protezione contro inversione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T18:01:20.662175+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 10.4145,
+    "reason": "RSI=85.7 IPERCOMPRATO + MACD hist>0 ma 1h=-0.45% negativo. Volume×=2.09x conferma interesse venditore. Presa di profitto su posizione già forte (4h=+1.86%, 24h=+4.04%)",
+    "dry_run": false
   }
 ]
