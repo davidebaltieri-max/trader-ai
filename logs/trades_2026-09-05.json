@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-05T00:01:31.210788+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.7687,
+    "reason": "RSI=74.0 🔴IPERCOMPRATO + vol×=+2.37x spike massivo + 4h=+2.99% (corsa già completata). Segnale VENDITA MEDIA confermato: prendere profitti su posizione già in rialzo e ridurre esposizione a correzione imminente. Importo max per contenere perdita potenziale.",
+    "dry_run": false
+  }
+]
