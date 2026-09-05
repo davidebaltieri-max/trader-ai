@@ -79,5 +79,14 @@
     "price": 0.7674,
     "reason": "RSI=63.2 (momentum elevato), MACD hist decrescente (prima divergenza bearish), 4h=-1.03% (calo 4h negativo), volatilità alta +0.65%. Rotazione fuori posizione a favore di setup più bullish (AVAX/UNI). Trim posizione con presa profitti parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-05T07:31:13.632643+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3417,
+    "reason": "RSI=83.0 IPERCOMPRATO (estremo) + MACD hist positivo ma momentum ormai saturo. ATOM in rally +4.43% 24h con volat alta (0.82%). Correzione probabile. Realizzo profitti su posizione forte (615 unità). Segnale VENDITA MEDIA confermato da RSI estremamente elevato.",
+    "dry_run": false
   }
 ]
