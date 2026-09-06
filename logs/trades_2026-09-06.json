@@ -277,5 +277,14 @@
     "price": 10.5791,
     "reason": "LINK: RSI=52.1 (neutro), MACD hist=-0.0046 (negativo decrescente), 1h=-0.32%, 4h=+0.07%. Momentum ribassista confermato con segnali deboli. Reduce to rotate capitale verso UNI e BTC in fase di rimbalzo. Pocket +0.95% 24h ma trend 1h/4h verso il basso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T17:31:13.109475+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 5.5,
+    "price": 0.826,
+    "reason": "Presa di profitto parziale su DOT (+5.43% in 24h). RSI=53.8 (neutro ma in zona media), MACD hist decrescente, performance 1h e 4h negative (-0.78% 1h). Realizza guadagni su momentum positivo consolidato. Mantieni posizione core.",
+    "dry_run": false
   }
 ]
