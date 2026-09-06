@@ -178,5 +178,14 @@
     "price": 10.5448,
     "reason": "VENDITA MEDIA: RSI=52.9 (neutra), MACD hist=-0.0063 ↓decrescente (momentum ribassista), 1h=-0.40% inversione negativa, vol×=+0.86x. Segnali deboli dopo +4.17% in 24h. Take profit parziale su posizione infrastruttura DeFi per bloccare gain e liberare capital per entry più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T11:01:25.656446+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.836,
+    "reason": "RSI=75.4 IPERCOMPRATO + 4h=+4.37% (massimale locale raggiunto) + volatilità alta (0.92%). MACD ancora crescente ma la sinergia RSI estremo + guadagni significativi (6.89% in 24h) suggerisce presa di profitto. Riduci posizione overextended prima della correzione attesa.",
+    "dry_run": false
   }
 ]
