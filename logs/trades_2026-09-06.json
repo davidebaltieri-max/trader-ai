@@ -169,5 +169,14 @@
     "price": 1.375,
     "reason": "VENDITA MEDIA: RSI=66.4 (prossimo a ipercomprato 70) + MACD hist=+0.0009 (positivo ma estremamente debole, quasi neutro) + vol×=+40.38x (picco anomalo di volume, classico pattern di distributione). ATOM è in rally sospetto su volume esplosivo — take profit tattico su posizione già strong (615 unità). Realizza guadagni prima di possibile correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T10:31:16.097226+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 10.5448,
+    "reason": "VENDITA MEDIA: RSI=52.9 (neutra), MACD hist=-0.0063 ↓decrescente (momentum ribassista), 1h=-0.40% inversione negativa, vol×=+0.86x. Segnali deboli dopo +4.17% in 24h. Take profit parziale su posizione infrastruttura DeFi per bloccare gain e liberare capital per entry più forti.",
+    "dry_run": false
   }
 ]
