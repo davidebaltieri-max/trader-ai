@@ -286,5 +286,14 @@
     "price": 0.826,
     "reason": "Presa di profitto parziale su DOT (+5.43% in 24h). RSI=53.8 (neutro ma in zona media), MACD hist decrescente, performance 1h e 4h negative (-0.78% 1h). Realizza guadagni su momentum positivo consolidato. Mantieni posizione core.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T18:01:34.756048+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.8266,
+    "reason": "SEGNALE MEDIO DI RIDIMENSIONAMENTO: DOT ha 1h=-0.92% e 4h=-1.29% ribassiste nel breve termine, benché 24h=+5.55%. RSI=44.0 in discesa verso ipervenduto. MACD hist negativo e decrescente (-0.0017). Presa di profitto parziale su guadagni 24h per rebalance verso momentum attuale (UNI/SOL). Mantieni 60% della posizione.",
+    "dry_run": false
   }
 ]
