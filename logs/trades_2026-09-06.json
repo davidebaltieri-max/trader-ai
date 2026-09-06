@@ -61,5 +61,14 @@
     "price": 1.366,
     "reason": "RSI=78.0 🔴IPERCOMPRATO + vol×=3.27x (volume anomalo in vendita) + MACD hist positivo ma momentum al picco. Riduco posizione su segnale di ipercomprato con volume sostenuto. Protezione profitti su crypto volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T04:31:17.726816+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 91.15,
+    "reason": "RSI=74.6 IPERCOMPRATO + 1h=-0.23% negativo. SOL in correzione tecnica dopo rally +3.99% 24h. Realizzo parzialmente per ridurre esposizione su asset in overbought.",
+    "dry_run": false
   }
 ]
