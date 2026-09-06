@@ -367,5 +367,14 @@
     "price": 11.3342,
     "reason": "VENDITA FORTE: RSI=78.7 (ipercomprato) + MACD hist crescente ma già in territorio estremo + 1h=+2.00% (momentum esauribile). LINK ha segnato +9.25% in 24h con volat=1.60% (alta). Riduco posizione per lock-in profitti su asset ad elevato ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T23:31:16.388925+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 11.3628,
+    "reason": "RSI=78.7 (IPERCOMPRATO) + MACD hist positivo crescente ma estremo + 1h=+1.13% (momentum eccessivo). Realizza profitti su posizione in overextension. LINK ha già +9.34% in 24h, vulnerabile a correzione.",
+    "dry_run": false
   }
 ]
