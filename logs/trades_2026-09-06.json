@@ -196,5 +196,14 @@
     "price": 0.8396,
     "reason": "RSI=75.4 IPERCOMPRATO + 24h=+6.88% forte run-up. DOT ha raggiunto estensione massima; segnale di VENDITA MEDIA. Realizzo profitti su posizione consolidata prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T11:31:12.841546+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.8391,
+    "reason": "DOT RSI=74.8 IPERCOMPRATO + 24h=+7.05% (rally esteso) + MACD hist crescente ma in territorio di possibile ritracciamento. Realizzo profitti su posizione strong, libero slot per opportunità migliori",
+    "dry_run": false
   }
 ]
