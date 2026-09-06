@@ -295,5 +295,14 @@
     "price": 0.8266,
     "reason": "SEGNALE MEDIO DI RIDIMENSIONAMENTO: DOT ha 1h=-0.92% e 4h=-1.29% ribassiste nel breve termine, benché 24h=+5.55%. RSI=44.0 in discesa verso ipervenduto. MACD hist negativo e decrescente (-0.0017). Presa di profitto parziale su guadagni 24h per rebalance verso momentum attuale (UNI/SOL). Mantieni 60% della posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T19:22:23.584853+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.8232,
+    "reason": "VENDITA MEDIA PARZIALE: RSI=32.4 (ipervenduto ma cedendo), MACD hist=-0.0021 (bearish cross confermato), 1h=-0.39%, 4h=+0.70% (divergenza su timeframe). Dopo +4.95% in 24h, momentum sta invertendo. Realizza parziale (+4.95%) e ridimensiona posizione (mantieni core).",
+    "dry_run": false
   }
 ]
