@@ -124,5 +124,14 @@
     "price": 91.01,
     "reason": "SOL RSI=75.5 IPERCOMPRATO + MACD hist crescente ma momentum estenuato dopo +3.25% 24h. Volatilità alta (+0.39%) e 1h negativa (-0.72%). Profitto da realizzare su rally, ridurre esposizione su L1 per rotazione settoriale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T07:31:12.687914+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 90.57,
+    "reason": "VENDITA MEDIA: RSI=68.0 (ipercomprato, prossimo a 70) + MACD BEARISH_CROSS confermato (hist=-0.0180 decrescente) + 4h=-0.86% + volatilità elevata (0.41%). SOL mostra segnali di inversione dopo 24h=+2.86%. Riduco esposizione su asset volatile in zona di resistenza tecnica. Pocket profits da momentum rialzista precedente. Puoi rientrare su dip successivo.",
+    "dry_run": false
   }
 ]
