@@ -142,5 +142,14 @@
     "price": 1.3779,
     "reason": "VENDITA PARZIALE PROFIT-TAKING: RSI=69.4 (ipercomprato) + MACD hist positivo crescente ma momentum sta rallentando su 1h=+0.70% (deceleration) + 24h=+7.14% gain forte. Realizzare partial profit su posizione vincente prima di potenziale ritracciamento, mantenendo esposizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T09:31:14.035847+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3847,
+    "reason": "RSI=71.4 IPERCOMPRATO + vol×=28.73x anomalo (potenziale pump). ATOM ha performato +7.61% in 24h. Nonostante MACD hist crescente, l'RSI estremo e il volume anomalo segnalano correzione imminente. Riduco posizione in profitto prima della inversione.",
+    "dry_run": false
   }
 ]
