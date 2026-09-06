@@ -52,5 +52,14 @@
     "price": 90.845,
     "reason": "RSI=78.8 IPERCOMPRATO + 1h=+0.98% ma segnali di stanchezza. MACD hist positivo crescente ma su timeframe 30min la divergenza rialzista si sta esaurendo. Realizzo +3.54% 24h su posizione volatile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T04:01:56.425142+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.366,
+    "reason": "RSI=78.0 🔴IPERCOMPRATO + vol×=3.27x (volume anomalo in vendita) + MACD hist positivo ma momentum al picco. Riduco posizione su segnale di ipercomprato con volume sostenuto. Protezione profitti su crypto volatile.",
+    "dry_run": false
   }
 ]
