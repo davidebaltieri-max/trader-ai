@@ -331,5 +331,14 @@
     "price": 11.1452,
     "reason": "LINK in ipercomprato critico (RSI=79.8), volatilità elevatissima (+1.60%), volume anomalo (+7.46x). 1h=-1.16% contro momentum 4h=+5.02% evidenzia consolidamento dopo spike. MACD hist positivo ma su valori estremi. Realizza profitti parziali (6.90% in 24h) gestendo il rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T22:01:25.039363+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3686,
+    "reason": "VENDITA STRATEGICA: RSI=43.0 (neutro), MACD hist negativo e decrescente, 1h=+0.26% ma trend ribassista sottostante. Volume moderato (vol×=1.58x). Ridimensiona posizione per liberare capital allocation verso segnali più forti (DOT/LINK). Realizza parziale profitto su posizione storica.",
+    "dry_run": false
   }
 ]
