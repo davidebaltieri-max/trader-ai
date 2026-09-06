@@ -151,5 +151,14 @@
     "price": 1.3847,
     "reason": "RSI=71.4 IPERCOMPRATO + vol×=28.73x anomalo (potenziale pump). ATOM ha performato +7.61% in 24h. Nonostante MACD hist crescente, l'RSI estremo e il volume anomalo segnalano correzione imminente. Riduco posizione in profitto prima della inversione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T09:31:15.502475+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 92.23,
+    "reason": "RSI=72.8 IPERCOMPRATO + rally +4.50% in 24h. MACD hist ancora positivo ma RSI oltre soglia critica (>70). Vol×=+0.89x, volatilità media. Profitto tecnico chiaro: esco su parte della posizione prima della correzione attesa.",
+    "dry_run": false
   }
 ]
