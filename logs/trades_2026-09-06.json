@@ -241,5 +241,14 @@
     "price": 92.16,
     "reason": "GESTIONE RISCHIO: RSI=69.9 (ipercomprato, prossimo a 70), MACD hist=-0.0054 ↓decrescente (divergenza rialzista vs momentum declinante), volatilità elevata (+0.56%). SOL ha performato forte (+3.95% in 24h, +0.80% in 1h) ma mostra segnali di stanchezza tecnica. Realizzare parziale profitto (0.35 SOL ~€32.20 totale) mantenendo 1.39 SOL per esposizione continuativa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T14:18:00.971705+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.8354,
+    "reason": "RSI=70.2 IPERCOMPRATO + MACD hist positivo ma in zona di massimo dopo +6.57% in 24h. Realizzo profitti su posizione in strong uptrend per ridurre rischio di correzione. Vendo 30 unità (~€25) mantenendo core position.",
+    "dry_run": false
   }
 ]
