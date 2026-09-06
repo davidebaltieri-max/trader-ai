@@ -34,5 +34,14 @@
     "price": 1.3678,
     "reason": "VENDITA MEDIA: RSI 71.5 🔴 IPERCOMPRATO (>70) + MACD hist decrescente (+0.0020, momentum in calo) + volatilità moderata (0.46%) ma tensione di prezzo alta. ATOM in portafoglio con 615.545 unità. Realizzo profitti parziali su posizione ipercomprata (24h=+4.98%) per proteggere i guadagni prima della correzione tecnica attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T03:31:21.074811+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3645,
+    "reason": "RSI=78.0 IPERCOMPRATO + MACD hist positivo ma momentum da confermare. Volume estremo (vol×=3.27x) suggerisce accumulo finale prima correzione. Presa di profitto su +5.57% 24h. Riduco posizione sovraesposta.",
+    "dry_run": false
   }
 ]
