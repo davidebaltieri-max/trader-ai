@@ -313,5 +313,14 @@
     "price": 90.925,
     "reason": "SEGNALE CAUTELATIVO: RSI=43.0 (neutrale) + MACD hist=-0.1274 decrescente (bearish) + 1h=-0.26% + 4h=-0.44% (momentum negativo). Malgrado 24h=+2.12%, i timeframe più brevi mostrano debolezza. Riduco posizione per rotazione verso asset con segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T21:01:27.369619+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 11.3262,
+    "reason": "RSI=88.4 IPERCOMPRATO + MACD hist positivo ma momentum estremo. LINK ha già +8.50% in 24h con vol×5.38. Realizza profitti su posizione forte prima di correzione. Vendi parziale (10€) per gestire il rischio.",
+    "dry_run": false
   }
 ]
