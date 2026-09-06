@@ -304,5 +304,14 @@
     "price": 0.8232,
     "reason": "VENDITA MEDIA PARZIALE: RSI=32.4 (ipervenduto ma cedendo), MACD hist=-0.0021 (bearish cross confermato), 1h=-0.39%, 4h=+0.70% (divergenza su timeframe). Dopo +4.95% in 24h, momentum sta invertendo. Realizza parziale (+4.95%) e ridimensiona posizione (mantieni core).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T20:01:23.993127+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 12.0,
+    "price": 90.925,
+    "reason": "SEGNALE CAUTELATIVO: RSI=43.0 (neutrale) + MACD hist=-0.1274 decrescente (bearish) + 1h=-0.26% + 4h=-0.44% (momentum negativo). Malgrado 24h=+2.12%, i timeframe più brevi mostrano debolezza. Riduco posizione per rotazione verso asset con segnali più forti.",
+    "dry_run": false
   }
 ]
