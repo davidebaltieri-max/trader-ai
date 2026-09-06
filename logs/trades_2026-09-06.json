@@ -223,5 +223,14 @@
     "price": 0.8515,
     "reason": "RSI=76.6 IPERCOMPRATO (>70) + 24h=+8.80% movimento forte + volatilità alta 0.92%. Segnale di VENDITA MEDIA: profitto realizzato su posizione in overbought. DOT ha corso troppo in 24h, correzione probabile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T13:01:23.887607+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.3632,
+    "reason": "SEGNALE MEDIO DI ROTAZIONE: RSI=45.5 (neutro) + MACD hist=-0.0014 decrescente (momentum ribassista emergente) + 1h=-1.33% negativo (divergenza) + vol×=+0.03x (volume molto basso = debole). Take profit tattico: +5.72% in 24h già realizzato. Rotazione verso LINK/ADA che hanno momentum superiore. Mantieni posizione in DOT (forte: +7.11% 24h, RSI=67.4 ipercomprato ma MACD crescente).",
+    "dry_run": false
   }
 ]
