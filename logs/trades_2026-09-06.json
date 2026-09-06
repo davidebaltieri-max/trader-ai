@@ -214,5 +214,14 @@
     "price": 0.8493,
     "reason": "RSI=77.1 IPERCOMPRATO (>70) + MACD hist crescente ma momentum estremamente sopravvalutato. DOT ha già guadagnato +8.03% in 24h. Realizzo profitti su posizione sovradimensionata (665 unità) e riduco esposizione a correzione imminente. Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T12:31:18.029808+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.8515,
+    "reason": "RSI=76.6 IPERCOMPRATO (>70) + 24h=+8.80% movimento forte + volatilità alta 0.92%. Segnale di VENDITA MEDIA: profitto realizzato su posizione in overbought. DOT ha corso troppo in 24h, correzione probabile.",
+    "dry_run": false
   }
 ]
