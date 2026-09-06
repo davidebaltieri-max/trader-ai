@@ -349,5 +349,14 @@
     "price": 11.1174,
     "reason": "RSI=76.0 IPERCOMPRATO + MACD hist positivo crescente ma con 1h=+0.08% (momentum localizzato). Vendita difensiva per realizzare profitti su posizione già in forte rialzo 24h=+7.50%. Riduco esposizione su asset overextended prima di potenziale correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T23:01:25.783370+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 11.2574,
+    "reason": "LINK in ipercompra estrema (RSI=77.2) con volatilità elevata (+1.60%), volume basso (0.22x). Segnale VENDITA MEDIA confermato: RSI>70 + momentum in zona saturo. Take profit su gains di giornata.",
+    "dry_run": false
   }
 ]
