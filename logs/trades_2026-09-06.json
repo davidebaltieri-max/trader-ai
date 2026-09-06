@@ -250,5 +250,14 @@
     "price": 0.8354,
     "reason": "RSI=70.2 IPERCOMPRATO + MACD hist positivo ma in zona di massimo dopo +6.57% in 24h. Realizzo profitti su posizione in strong uptrend per ridurre rischio di correzione. Vendo 30 unità (~€25) mantenendo core position.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T14:31:19.734143+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.828,
+    "reason": "VENDITA MEDIA confermata: RSI=59.8 (prossimo a 60), MACD hist<0 decrescente con BEARISH_CROSS, 4h=-1.23%, 1h=-1.36%. Posizione in portafoglio su asset debole. Realizzo profitti da +4.85% 24h e libero capitale.",
+    "dry_run": false
   }
 ]
