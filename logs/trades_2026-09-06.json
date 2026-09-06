@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-06T02:01:23.545711+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 10.7155,
+    "reason": "RSI=72.9 (IPERCOMPRATO) + MACD hist crescente ma con volatilità alta (0.59%) e volume spike (+1.92x). Profit-taking su momentum forte a breve termine. LINK ha già +6.66% in 24h, segnale di vendita media per gestire il rischio.",
+    "dry_run": false
+  }
+]
