@@ -16,5 +16,14 @@
     "price": 0.8014,
     "reason": "RSI=73.2 (IPERCOMPRATO) + MACD hist positivo ma debole (0.0003). Posizione già in portafoglio con +4.07% 24h. Ridimensionamento su ipercomprato per liberare capitale e ridurre volatilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T02:31:18.241969+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.8042,
+    "reason": "VENDITA FORTE: RSI 75.2 🔴 IPERCOMPRATO (zona critica >70) + MACD hist decrescente (+0.0007 ma trend in perdita di forza) + realizzazione profitti su posizione già forte (24h=+3.60%, 4h=+1.06%). DOT è in portafoglio con 665.109 unità. Riduco la posizione (vendo ~€30) per bloccare guadagni e rebalancio il portafoglio. Rischio di correzione imminente è alto.",
+    "dry_run": false
   }
 ]
