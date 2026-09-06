@@ -70,5 +70,14 @@
     "price": 91.15,
     "reason": "RSI=74.6 IPERCOMPRATO + 1h=-0.23% negativo. SOL in correzione tecnica dopo rally +3.99% 24h. Realizzo parzialmente per ridurre esposizione su asset in overbought.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-06T04:31:19.295392+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.3519,
+    "reason": "RSI=69.9 quasi ipercomprato + vol×=3.28x picco anomalo. MACD positivo ma RSI prossimo a 70 suggerisce correzione imminente. Realizzo profitti su posizione in gain +4.99% 24h con volume anomalo.",
+    "dry_run": false
   }
 ]
