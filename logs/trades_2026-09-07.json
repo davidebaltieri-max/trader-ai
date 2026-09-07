@@ -385,5 +385,14 @@
     "price": 0.9113,
     "reason": "1h=-2.88% 4h=-3.15% cedimento improvviso + RSI=57.6 in zona alta + MACD hist decrescente con divergenza bearish. Booking parziale su profitto +9.35% 24h. Realizza guadagni su posizione momentum positiva in esaurimento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T20:31:19.467619+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.9088,
+    "reason": "DOT: Cali significativi 1h=-2.89% e 4h=-3.16%. RSI=57.6 (zona alta), MACD hist negativo e decrescente (-0.0028). Bearish cross confermato. Pur con +9.34% su 24h (rimbalzo completato), indicatori short-term ribassisti. Volatilità alta (1.10%) suggerisce correzione. Realizza profitto e libera capitale. Segnale VENDITA MEDIA-FORTE.",
+    "dry_run": false
   }
 ]
