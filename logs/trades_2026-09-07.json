@@ -88,5 +88,14 @@
     "price": 11.2715,
     "reason": "VENDITA FORTE: RSI=71.4 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist=-0.0044↓) + 1h=+0.57% ma momentum sta invertendo. Dopo +7.28% in 24h, correzione probabile. Realizzo parziale guadagni.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T03:01:22.546470+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.8463,
+    "reason": "VENDITA MEDIA: RSI=57.8 (neutro-alto) + MACD BEARISH_CROSS (hist=-0.0002↓) + 1h=-0.20% dopo +6.39% in 24h. Segnale ribassista confermato da cross, momentum si stanca. Realizzo profitto.",
+    "dry_run": false
   }
 ]
