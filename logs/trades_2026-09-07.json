@@ -322,5 +322,14 @@
     "price": 0.9416,
     "reason": "RSI=87.7 IPERCOMPRATO + MACD hist positivo ma in area di estrema sovracompra. 24h=+14.15% rappresenta un rallye importante. Realizzo profitti su posizione forte per ridurre esposizione al rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T17:31:18.554860+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.9379,
+    "reason": "RSI=84.5 IPERCOMPRATO + MACD hist positivo ma divergenza con prezzo (24h +13.66% è rally eccessivo). Profitto realizzato e riduzione posizione prima della correzione attesa. Rimane core position con 645 unità.",
+    "dry_run": false
   }
 ]
