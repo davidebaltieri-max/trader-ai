@@ -34,5 +34,14 @@
     "price": 0.8805,
     "reason": "RSI=83.7 IPERCOMPRATO + 1h=+1.30% ma momentum MACD sta saturando. DOT ha già +10.88% in 24h con vol×=3.06x (picco di volume). Vendita parziale per lock-in profits e ridurre esposizione su asset sovraelevato. Trailing stop attivato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T01:01:28.070726+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 11.2962,
+    "reason": "RSI=75.3 IPERCOMPRATO + 1h=-0.97% segnale di debolezza. LINK ha +7.47% in 24h. Vendita tattica per realizzare profitti e liberare capitale prima di possibile correzione. MACD hist positivo ma RSI estremo = rischio reversal.",
+    "dry_run": false
   }
 ]
