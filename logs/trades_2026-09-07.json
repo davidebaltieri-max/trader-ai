@@ -232,5 +232,14 @@
     "price": 0.8944,
     "reason": "RSI=78.4 IPERCOMPRATO (>70) + vol×=1.49x + dopo +7.01% 24h e +5.95% 4h è in massima estensione. MACD hist ancora crescente ma segnale di vendita medio su ipercomprato cronico. Proteggi profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T14:01:28.533763+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.912,
+    "reason": "RSI=88.8 IPERCOMPRATO (segnale VENDITA FORTE). 1h=+1.87% ma after 4h=+8.17% e 24h=+10.06% indica rally esausto. MACD hist positivo ma su RSI estremo è segnale di correzione imminente. Vendita per realizzare guadagni e ridurre esposizione su asset ipercomprato.",
+    "dry_run": false
   }
 ]
