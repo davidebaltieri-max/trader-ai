@@ -394,5 +394,14 @@
     "price": 0.9088,
     "reason": "DOT: Cali significativi 1h=-2.89% e 4h=-3.16%. RSI=57.6 (zona alta), MACD hist negativo e decrescente (-0.0028). Bearish cross confermato. Pur con +9.34% su 24h (rimbalzo completato), indicatori short-term ribassisti. Volatilità alta (1.10%) suggerisce correzione. Realizza profitto e libera capitale. Segnale VENDITA MEDIA-FORTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T21:01:27.793395+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 11.67,
+    "price": 11.0101,
+    "reason": "VENDITA MEDIA: RSI=36.4 (appena sopra ipervenduto ma in area debole), MACD hist=-0.0172 decrescente (momentum ribassista), 4h=-1.18% negativo, 24h=-1.40% negativo. LINK mostra debolezza tecnica su 4h con MACD in discesa. Ridimensiona per liberare capitale e ridurre esposizione a infrastruttura DeFi in flessione.",
+    "dry_run": false
   }
 ]
