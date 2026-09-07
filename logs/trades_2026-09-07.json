@@ -277,5 +277,14 @@
     "price": 0.918,
     "reason": "RSI=88.2 IPERCOMPRATO + MACD hist crescente positivo ma su livelli estremi + 24h=+12.21% indica movimento espanso. Realizza profitti su posizione in forte rialzo (4h=+7.68%) prima di correzione attesa. Vendi ~33 unità a €0.9180.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T15:01:33.742564+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.4355,
+    "reason": "RSI=73.0 IPERCOMPRATO + MACD hist positivo ma decrescente trend è saturo. Position è in +5.99% 24h con volatilità=0.80% (media-alta). Realizza profitti parziali (~17 unità a €1.4355) prima di correzione.",
+    "dry_run": false
   }
 ]
