@@ -43,5 +43,14 @@
     "price": 11.2962,
     "reason": "RSI=75.3 IPERCOMPRATO + 1h=-0.97% segnale di debolezza. LINK ha +7.47% in 24h. Vendita tattica per realizzare profitti e liberare capitale prima di possibile correzione. MACD hist positivo ma RSI estremo = rischio reversal.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T01:11:29.525133+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 11.3129,
+    "reason": "RSI=75.2 IPERCOMPRATO + 1h=-0.98% + MACD hist positivo ma momentum in esaurimento. Presa di profitto su posizione in overbought. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
