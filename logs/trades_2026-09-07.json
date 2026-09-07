@@ -133,5 +133,14 @@
     "price": 90.59,
     "reason": "SEGNALE MEDIO DI CAUTELA: RSI=37.6 (ipervenduto leggero), MACD hist=-0.0574 ↓decrescente (momentum ribassista), 1h=-0.37% + 4h=-0.71% + 24h=-0.56% (trend ribassista persistente). Anche se RSI suggerisce potenziale rimbalzo, il MACD non inverte e il prezzo continua a declinare. Posizione già in portafoglio: riduco esposizione su calo confermato (solo 1.747 SOL, vendo ~0.25 unità per cristallizzare perdite minori e riposizionarmi). Vol×=+0.77x neutro.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T07:31:16.623053+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 11.4319,
+    "reason": "LINK in performance +8.71% a 24h, RSI=55.9 zona neutra salendo, 4h=+1.79%. Presa di profitto su infrastruttura DeFi in momentum positivo. Operazione di rotazione settoriale per ricavare liquidità e capitalizzare guadagni. Mantiene 10.67-2.62=~8 unità in portafoglio.",
+    "dry_run": false
   }
 ]
