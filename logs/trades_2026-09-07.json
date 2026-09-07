@@ -412,5 +412,14 @@
     "price": 10.9816,
     "reason": "LINK mostra segnale VENDITA MEDIA: RSI=35.4 (ipervenduto moderato), MACD hist=-0.0184 decrescente (momentum ribassista), 1h=-0.08% + 4h=-1.35% + 24h=-1.56% trend negativo confermato, vol×=0.85 (basso). Riduco posizione DeFi in momentum negativo per proteggere capitale e riallocare su setter rialzisti. Operazione piccola per gestione rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T21:40:08.461580+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.67,
+    "price": 1.4106,
+    "reason": "RSI=33.7 (ipervenduto ma con calo) + MACD hist negativo decrescente (-0.0030) + 1h=-0.83% + 4h=-0.92% indicano pressione ribassista intraday nonostante guadagni 24h. Riduzione parziale della posizione (1/10 del totale) per realizzare profitti 24h (+3.41%) e limitare rischio su inversione.",
+    "dry_run": false
   }
 ]
