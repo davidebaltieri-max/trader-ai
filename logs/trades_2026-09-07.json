@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-07T00:01:35.960684+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 11.4115,
+    "reason": "VENDITA MEDIA: RSI=83.5 (IPERCOMPRATO) + MACD hist=+0.0630 ancora positivo ma fase di esaurimento con volatilità alta 1.61%. 4h=+6.53% e 24h=+9.47% indicano rally eccessivo. Riduco posizione per realizzare profitti su correzione tecnica attesa. Mantengo core position.",
+    "dry_run": false
+  }
+]
