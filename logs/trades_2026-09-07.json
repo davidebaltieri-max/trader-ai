@@ -349,5 +349,14 @@
     "price": 0.9477,
     "reason": "RSI=84.0 IPERCOMPRATO + MACD hist crescente ma su livelli estremi + 24h=+13.82% rappresenta rally eccessivo. Realizza profitti su posizione vincente (665 unità = ~€630). Vendita media-forte per ridurre rischio correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T18:31:17.651839+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.9411,
+    "reason": "RSI=90.7 IPERCOMPRATO (segnale vendita forte). Dopo +13.71% in 24h e 4h=+2.39%, momentum è esaurito. MACD hist crescente ma RSI estremo richiede riduzione posizione. Blocco profitti su asset in overbought.",
+    "dry_run": false
   }
 ]
