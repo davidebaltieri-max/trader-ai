@@ -79,5 +79,14 @@
     "price": 11.2136,
     "reason": "RSI=71.5 IPERCOMPRATO 🔴 (segnale VENDITA). MACD hist positivo ma RSI estremamente elevato indica correzione imminente. Presa di profitto su +6.15% a 24h. Segnale VENDITA FORTE confermato. Ridimensiono posizione per gestire rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T03:01:21.140243+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 11.2715,
+    "reason": "VENDITA FORTE: RSI=71.4 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist=-0.0044↓) + 1h=+0.57% ma momentum sta invertendo. Dopo +7.28% in 24h, correzione probabile. Realizzo parziale guadagni.",
+    "dry_run": false
   }
 ]
