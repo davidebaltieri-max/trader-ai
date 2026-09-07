@@ -187,5 +187,14 @@
     "price": 1.4375,
     "reason": "RSI=76.9 IPERCOMPRATO + volatilità alta (0.73%) + +4.78% in 24h. Realizza profitti su posizione gonfia. MACD ancora positivo ma RSI estremamente elevato segnala correzione imminente. Vendi 1/3 della posizione per ridurre rischio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T12:52:34.650867+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.8698,
+    "reason": "RSI=70.4 IPERCOMPRATO + volatilità elevata (0.85%) + +4.07% in 24h + momentum in estensione. Sebbene MACD positivo, RSI al limite segnala ritracciamento probabile. Vendi 1/4 della posizione per lock-in profitti.",
+    "dry_run": false
   }
 ]
