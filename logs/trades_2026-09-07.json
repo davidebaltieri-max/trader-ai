@@ -61,5 +61,14 @@
     "price": 11.2417,
     "reason": "RSI=72.4 (IPERCOMPRATO) + MACD hist positivo ma decelerazione imminente. Realizzo profitti su posizione già in gain (+7% 24h). Segnale VENDITA MEDIA confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T02:01:25.859179+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 30.0,
+    "price": 11.2162,
+    "reason": "RSI=71.5 IPERCOMPRATO + MACD hist positivo ma momentum maturo dopo +6.11% in 24h. Realizza profitti su posizione in overbought. Trailing stop -3% da massimi locali attiva il segnale di exit.",
+    "dry_run": false
   }
 ]
