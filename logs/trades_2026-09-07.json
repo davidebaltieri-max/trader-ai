@@ -250,5 +250,14 @@
     "price": 1.4359,
     "reason": "RSI=76.8 IPERCOMPRATO (segnale VENDITA MEDIA). Nonostante 24h=+6.03% e vol×=5.54x, RSI sopra 70 con 1h=-0.42% indica esaurimento momentum. MACD hist positivo ma decelerazione imminente. Presa di profitti su posizione principale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T14:31:11.036891+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.9079,
+    "reason": "RSI=88.0 IPERCOMPRATO + momentum in eccesso dopo +10.25% in 24h. Volatile a +1.10%. Realizza profitti su posizione overextended. MACD positivo ma RSI estremo suggerisce correzione imminente.",
+    "dry_run": false
   }
 ]
