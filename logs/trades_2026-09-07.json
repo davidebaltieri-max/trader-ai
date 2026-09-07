@@ -421,5 +421,14 @@
     "price": 1.4106,
     "reason": "RSI=33.7 (ipervenduto ma con calo) + MACD hist negativo decrescente (-0.0030) + 1h=-0.83% + 4h=-0.92% indicano pressione ribassista intraday nonostante guadagni 24h. Riduzione parziale della posizione (1/10 del totale) per realizzare profitti 24h (+3.41%) e limitare rischio su inversione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T22:31:23.127710+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.8989,
+    "reason": "VENDITA MEDIA: RSI=33.4 (basso ma trend negativo), MACD hist=-0.0063 (decrescente), 4h=-4.50% (pressione ribassista recente), vol×=0.50 (volume in calo). Nonostante +6.95% 24h, gli ultimi 4h mostrano deterioramento. Ridurre posizione su segnali multi-timeframe bearish per liberare capitale per setup più forti.",
+    "dry_run": false
   }
 ]
