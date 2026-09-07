@@ -97,5 +97,14 @@
     "price": 0.8463,
     "reason": "VENDITA MEDIA: RSI=57.8 (neutro-alto) + MACD BEARISH_CROSS (hist=-0.0002↓) + 1h=-0.20% dopo +6.39% in 24h. Segnale ribassista confermato da cross, momentum si stanca. Realizzo profitto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T03:31:18.465492+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.369,
+    "reason": "ATOM: RSI=52.7 (neutro), MACD hist=-0.0002 decrescente con BEARISH_CROSS confermato, 4h=+0.34% ma 1h=-0.41%. Momentum ribassista in atto su timeframe breve. Realizzo profitti su +2.98% (24h) prima di possibile correzione. Posizione già in portafoglio, segnale di debolezza tecnica.",
+    "dry_run": false
   }
 ]
