@@ -106,5 +106,14 @@
     "price": 1.369,
     "reason": "ATOM: RSI=52.7 (neutro), MACD hist=-0.0002 decrescente con BEARISH_CROSS confermato, 4h=+0.34% ma 1h=-0.41%. Momentum ribassista in atto su timeframe breve. Realizzo profitti su +2.98% (24h) prima di possibile correzione. Posizione già in portafoglio, segnale di debolezza tecnica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T04:01:21.139203+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 11.2572,
+    "reason": "LINK è in positivo 24h (+7.79%), RSI=56.6 (sopra la mediana), MACD hist negativo e decrescente. Presa di profitto parziale su rally recente, mantengo posizione core.",
+    "dry_run": false
   }
 ]
