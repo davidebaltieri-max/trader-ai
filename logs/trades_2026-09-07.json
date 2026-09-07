@@ -376,5 +376,14 @@
     "price": 0.9328,
     "reason": "DOT IPERCOMPRATO (RSI=79.4 >70), MACD hist positivo ma RSI eccessivo segnala correzione imminente. 24h=+12.33% è corsa importante. Riduco posizione per cristallizzare guadagni e liberare slot per opportunità migliori. Partial exit strategica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T20:01:26.021121+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.9113,
+    "reason": "1h=-2.88% 4h=-3.15% cedimento improvviso + RSI=57.6 in zona alta + MACD hist decrescente con divergenza bearish. Booking parziale su profitto +9.35% 24h. Realizza guadagni su posizione momentum positiva in esaurimento.",
+    "dry_run": false
   }
 ]
