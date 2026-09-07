@@ -115,5 +115,14 @@
     "price": 11.2572,
     "reason": "LINK è in positivo 24h (+7.79%), RSI=56.6 (sopra la mediana), MACD hist negativo e decrescente. Presa di profitto parziale su rally recente, mantengo posizione core.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T06:01:26.230266+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 0.8409,
+    "reason": "SEGNALE MODERATO-PRUDENZIALE: RSI=50.2 (neutro), MACD hist=-0.0017 ↓decrescente (ribassista), 4h=-1.14% (calo su timeframe intermedio). Nonostante 24h=+4.75%, il momentum si sta esaurendo su 1h/4h. Posizione large (665.109 unità). Riduco esposizione per proteggere profitti recenti e liberare capitale per opportunità più forti (LINK). Target parziale.",
+    "dry_run": false
   }
 ]
