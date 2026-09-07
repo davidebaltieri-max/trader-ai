@@ -16,5 +16,14 @@
     "price": 0.8676,
     "reason": "RSI=81.1 IPERCOMPRATO + volatilità alta (1.04%) + guadagno +9.32% in 24h = correzione probabile. Realizzo profitti su posizione già forte. MACD ancora positivo ma RSI estremamente elevato richiede prudenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T00:31:20.558881+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 11.4214,
+    "reason": "RSI=83.4 IPERCOMPRATO (massimo della tabella) + volatilità elevata (1.61%) + guadagno +9.17% in 24h. Segnale VENDITA MEDIA confermato. Realizzo parte dei profitti, mantengo esposizione ridotta.",
+    "dry_run": false
   }
 ]
