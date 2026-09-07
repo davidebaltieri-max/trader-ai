@@ -403,5 +403,14 @@
     "price": 11.0101,
     "reason": "VENDITA MEDIA: RSI=36.4 (appena sopra ipervenduto ma in area debole), MACD hist=-0.0172 decrescente (momentum ribassista), 4h=-1.18% negativo, 24h=-1.40% negativo. LINK mostra debolezza tecnica su 4h con MACD in discesa. Ridimensiona per liberare capitale e ridurre esposizione a infrastruttura DeFi in flessione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T21:31:22.765119+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.9816,
+    "reason": "LINK mostra segnale VENDITA MEDIA: RSI=35.4 (ipervenduto moderato), MACD hist=-0.0184 decrescente (momentum ribassista), 1h=-0.08% + 4h=-1.35% + 24h=-1.56% trend negativo confermato, vol×=0.85 (basso). Riduco posizione DeFi in momentum negativo per proteggere capitale e riallocare su setter rialzisti. Operazione piccola per gestione rischio.",
+    "dry_run": false
   }
 ]
