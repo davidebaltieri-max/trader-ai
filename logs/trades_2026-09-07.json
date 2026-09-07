@@ -169,5 +169,14 @@
     "price": 0.8418,
     "reason": "RSI=38.2 + MACD BEARISH_CROSS confermato (hist negativo decrescente). 1h=-1.72% forte calo. Momentum ribassista chiaro. Riduco posizione per liberare slot e cash (exit parziale da 665.109 unità). Take profit implicito su posizione in gain.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T12:31:21.330412+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 8.0,
+    "price": 1.4053,
+    "reason": "RSI=72.0 🔴IPERCOMPRATO + MACD hist decrescente dopo spike. Segnale VENDITA MEDIA: presa parziale di profitto (ATOM +2.69% 24h) con trailing stop a -3% dal massimo locale. Ridimensionamento da posizione sovraesposta.",
+    "dry_run": false
   }
 ]
