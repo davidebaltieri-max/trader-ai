@@ -160,5 +160,14 @@
     "price": 11.3619,
     "reason": "VENDITA MEDIA: RSI=52.4 (zona neutra), MACD hist negativo e decrescente (trend ribassista), 1h=-0.90% (movimento negativo recente), volat=+0.76% (volatilità media-alta). Nonostante +7.60% 24h, gli ultimi indicatori mostrano inversione: profit-taking parziale (riduco posizione del 10%) per realizzare guadagni e ridurre esposizione su DeFi in perdita di momentum.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T12:01:27.487968+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 15.0,
+    "price": 0.8418,
+    "reason": "RSI=38.2 + MACD BEARISH_CROSS confermato (hist negativo decrescente). 1h=-1.72% forte calo. Momentum ribassista chiaro. Riduco posizione per liberare slot e cash (exit parziale da 665.109 unità). Take profit implicito su posizione in gain.",
+    "dry_run": false
   }
 ]
