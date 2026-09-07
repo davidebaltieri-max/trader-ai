@@ -151,5 +151,14 @@
     "price": 11.5475,
     "reason": "RSI=62.4 (prossimo overbought). MACD hist negativo decrescente (-0.0083). +9.14% in 24h = rally già forte. Presa di profitto parziale (15€ su ~123€ totali in LINK). Riduce rischio su momentum esterno. Segnale VENDITA MEDIA per profit-taking.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T11:31:18.265698+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 11.3619,
+    "reason": "VENDITA MEDIA: RSI=52.4 (zona neutra), MACD hist negativo e decrescente (trend ribassista), 1h=-0.90% (movimento negativo recente), volat=+0.76% (volatilità media-alta). Nonostante +7.60% 24h, gli ultimi indicatori mostrano inversione: profit-taking parziale (riduco posizione del 10%) per realizzare guadagni e ridurre esposizione su DeFi in perdita di momentum.",
+    "dry_run": false
   }
 ]
