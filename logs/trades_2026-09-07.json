@@ -430,5 +430,14 @@
     "price": 0.8989,
     "reason": "VENDITA MEDIA: RSI=33.4 (basso ma trend negativo), MACD hist=-0.0063 (decrescente), 4h=-4.50% (pressione ribassista recente), vol×=0.50 (volume in calo). Nonostante +6.95% 24h, gli ultimi 4h mostrano deterioramento. Ridurre posizione su segnali multi-timeframe bearish per liberare capitale per setup più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T23:31:17.781316+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.9475,
+    "reason": "VENDITA MEDIA confermata: RSI=40.7 (zona neutra bassa) + MACD hist=-0.0098 decrescente + 4h=-0.39% + 24h=-3.55% forte ribasso. LINK mostra debolezza strutturale su 24h. Riduco posizione per liberare capitale e ridurre esposizione al trend negativo.",
+    "dry_run": false
   }
 ]
