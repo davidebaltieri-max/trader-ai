@@ -295,5 +295,14 @@
     "price": 0.9335,
     "reason": "DOT in IPERCOMPRATO (RSI=89.5), MACD hist positivo crescente ma prezzo già salito +13.41% in 24h. Segnale VENDITA MEDIA: RSI>>70 + momentum in estensione. Realizzo profitti su posizione forte (665 unità). Libero cash e slot per dip-buying su asset depressed.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T16:01:29.888912+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.931,
+    "reason": "RSI=85.9 IPERCOMPRATO (>70) + 4h=+9.07% con momentum eccessivo + MACD hist positivo ma in zona di massima estensione. Presa di profitto su posizione vincente (665 unità). Volatilità alta (+1.14%) suggerisce correzione imminente. Operazione defensiva per proteggere guadagni.",
+    "dry_run": false
   }
 ]
