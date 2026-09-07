@@ -142,5 +142,14 @@
     "price": 11.4319,
     "reason": "LINK in performance +8.71% a 24h, RSI=55.9 zona neutra salendo, 4h=+1.79%. Presa di profitto su infrastruttura DeFi in momentum positivo. Operazione di rotazione settoriale per ricavare liquidità e capitalizzare guadagni. Mantiene 10.67-2.62=~8 unità in portafoglio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T09:31:21.051496+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 11.5475,
+    "reason": "RSI=62.4 (prossimo overbought). MACD hist negativo decrescente (-0.0083). +9.14% in 24h = rally già forte. Presa di profitto parziale (15€ su ~123€ totali in LINK). Riduce rischio su momentum esterno. Segnale VENDITA MEDIA per profit-taking.",
+    "dry_run": false
   }
 ]
