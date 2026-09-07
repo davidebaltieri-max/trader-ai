@@ -124,5 +124,14 @@
     "price": 0.8409,
     "reason": "SEGNALE MODERATO-PRUDENZIALE: RSI=50.2 (neutro), MACD hist=-0.0017 ↓decrescente (ribassista), 4h=-1.14% (calo su timeframe intermedio). Nonostante 24h=+4.75%, il momentum si sta esaurendo su 1h/4h. Posizione large (665.109 unità). Riduco esposizione per proteggere profitti recenti e liberare capitale per opportunità più forti (LINK). Target parziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-07T06:22:31.439751+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 90.59,
+    "reason": "SEGNALE MEDIO DI CAUTELA: RSI=37.6 (ipervenduto leggero), MACD hist=-0.0574 ↓decrescente (momentum ribassista), 1h=-0.37% + 4h=-0.71% + 24h=-0.56% (trend ribassista persistente). Anche se RSI suggerisce potenziale rimbalzo, il MACD non inverte e il prezzo continua a declinare. Posizione già in portafoglio: riduco esposizione su calo confermato (solo 1.747 SOL, vendo ~0.25 unità per cristallizzare perdite minori e riposizionarmi). Vol×=+0.77x neutro.",
+    "dry_run": false
   }
 ]
