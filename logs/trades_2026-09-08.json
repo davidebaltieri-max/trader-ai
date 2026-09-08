@@ -430,5 +430,14 @@
     "price": 1.5789,
     "reason": "RSI=74.5 IPERCOMPRATO + 24h=+10.51% + MACD hist negativo decrescente = momentum in perdita. Calo imminente, riduco esposizione su posizione overextended.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:45:43.527677+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 1.0653,
+    "reason": "RSI=76.0 IPERCOMPRATO + 24h=+15.54% strong run-up + 1h=-0.43% rejection. DOT ha fatto +15% in 24h e ora mostra divergenza: momentum MACD ancora crescente ma RSI estremo e price action debole (1h negativa). Realizzo profitti su asset in ipercomprato prima della correzione attesa. Importo massimale €30 dato il segnale di vendita medio-forte.",
+    "dry_run": false
   }
 ]
