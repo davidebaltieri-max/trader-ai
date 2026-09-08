@@ -511,5 +511,14 @@
     "price": 10.7616,
     "reason": "RSI=42.4 (zona neutra-bassa) + MACD hist negativo decrescente ma volume stabile (0.99x) → dip-buying su asset solido in infrastruttura DeFi. Accumula prima del rimbalzo atteso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T22:31:23.762086+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1891,
+    "reason": "ACQUISTO FORTE: RSI=17.7 IPERVENDUTO (<30) + vol×=4.26x VOLUME ESPLOSIVO (>1.2) + MACD hist negativo ma in contesto di ipervenduto classico rimbalzo. ADA mostra 1h=-0.56% ma questo è dip-buying su calo moderato con segnale ipervenduto. Slot libero disponibile. Momentum setup per rimbalzo.",
+    "dry_run": false
   }
 ]
