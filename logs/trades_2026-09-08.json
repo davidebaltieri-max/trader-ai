@@ -97,5 +97,14 @@
     "price": 1.5027,
     "reason": "RSI=81.2 🔴IPERCOMPRATO + momentum sostenuto (4h=+4.84%, 24h=+6.91%) → correzione attesa. Realizzo guadagni su posizione in rally estremo. Vol×=2.68 conferma interesse ma estremo. Preservo capitale per opportunità di acquisto su asset in correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T12:34:02.760443+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.508,
+    "reason": "RSI=81.2 IPERCOMPRATO (>70) + 4h=+4.84% momentum già catturato + vol×=2.68x spike di volume su rialzo. Realizza profitti dopo gain 24h=+6.91%. Vendi ~17 unità (€25.60) per ridurre esposizione e bloccare guadagni su asset saturo.",
+    "dry_run": false
   }
 ]
