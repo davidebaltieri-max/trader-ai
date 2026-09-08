@@ -43,5 +43,14 @@
     "price": 10.8867,
     "reason": "LINK 24h=-6.48% (calo forte) + RSI=41.9 (neutro ma declinante) + MACD hist=+0.0057 (positivo ma molto debole, non confermato). Posizione in rosso significativo. Pur avendo MACD leggermente positivo, il calo violento e la debolezza dell'indicatore suggeriscono di ridurre esposizione e limitare danno. Partial exit strategico: €10 su €116 totali (10% riduzione).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T09:31:16.962319+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.9072,
+    "reason": "VENDITA MEDIA: LINK in calo 24h=-5.66% con RSI=43.8 neutro ma 4h=-0.27%. MACD hist=+0.0106 positivo ma fragile, storico ribassista recente. Riduzione posizione per proteggere da ulteriore discesa. Riallocazione capitale verso segnali più forti.",
+    "dry_run": false
   }
 ]
