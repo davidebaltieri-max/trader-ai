@@ -493,5 +493,14 @@
     "price": 1.5938,
     "reason": "RSI=74.8 IPERCOMPRATO + MACD hist positivo ma dopo +12.32% 24h → realizza profitti su posizione rialzista esaurita. Riduci esposizione prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T22:01:30.122756+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.0734,
+    "reason": "RSI=71.8 IPERCOMPRATO dopo +18.59% 24h → segnale di vendita parziale per lock-in profitti. MACD hist positivo ma momentum è estremamente forte e insostenibile a breve.",
+    "dry_run": false
   }
 ]
