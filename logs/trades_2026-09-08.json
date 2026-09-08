@@ -313,5 +313,14 @@
     "price": 1.5535,
     "reason": "RSI=82.9 (IPERCOMPRATO) + 24h=+8.92% (guadagno già realizzato) + volatilità 0.96%. Segnale di esaurimento. Gestione del rischio: realizzo prima della potenziale correzione. VENDITA FORTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T18:31:22.594010+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.0548,
+    "reason": "RSI=87.2 IPERCOMPRATO + volatilità alta 1.66% + 4h e 24h fortemente rialzisti (momentum esausto). Take profit su posizione vincente 12.34% in 24h. Realizzo profitti prima della correzione attesa.",
+    "dry_run": false
   }
 ]
