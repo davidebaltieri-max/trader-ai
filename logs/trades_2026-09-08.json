@@ -385,5 +385,14 @@
     "price": 1.082,
     "reason": "RSI=86.9 IPERCOMPRATO + 4h=+5.52% (picco locale) + MACD hist positivo ma trend 24h=+18.11% insostenibile. Profitto su posizione in ipercomprato. Realizzo guadagni prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T20:31:29.130586+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.549,
+    "reason": "RSI=73.2 IPERCOMPRATO + MACD BEARISH_CROSS confermato + 24h=+9.19% (rally completato). Segnale VENDITA MEDIA concordato. Riduco esposizione su picco, mantengo piccola posizione per upside.",
+    "dry_run": false
   }
 ]
