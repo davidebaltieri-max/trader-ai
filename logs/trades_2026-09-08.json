@@ -16,5 +16,14 @@
     "price": 0.9134,
     "reason": "SEGNALE MEDIO DI CAUTELA: RSI=36.8 (zona bassa, ipervenduto leggero), ma MACD hist=-0.0035 decrescente bearish, 1h=-0.56% negativo, 4h=-0.98% conferma ribasso recente. Nonostante +7.49% 24h, indicatori a breve termini suggeriscono consolidamento/correzione. Realizza profitti su posizione importante, riduci esposizione in ipercomprato di ciclo precedente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T02:01:31.478380+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 0.907,
+    "reason": "SEGNALE VENDITA MEDIA: RSI=35.4 (ipervenduto, rimbalzo 24h=+7.31% già completato), MACD hist=-0.0039 decrescente (divergenza ribassista), 1h=-0.76% negativo, vol×=0.41x (volume insufficiente). Volatilità=0.89% elevata suggerisce correzione imminente. Realizzo profitti su rally da posizione consolidata, libero slot per rotazione.",
+    "dry_run": false
   }
 ]
