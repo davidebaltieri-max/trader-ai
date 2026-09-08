@@ -52,5 +52,14 @@
     "price": 10.9072,
     "reason": "VENDITA MEDIA: LINK in calo 24h=-5.66% con RSI=43.8 neutro ma 4h=-0.27%. MACD hist=+0.0106 positivo ma fragile, storico ribassista recente. Riduzione posizione per proteggere da ulteriore discesa. Riallocazione capitale verso segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T10:31:21.188307+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.4466,
+    "reason": "RSI=77.9 IPERCOMPRATO + MACD hist positivo ma momentum estremamente sovraccarico. ATOM ha già +3.08% in 24h e +2.71% in 4h. Realizza profitti su posizione già in guadagno prima di correzione. Ridimensiona posizione sovrappesata.",
+    "dry_run": false
   }
 ]
