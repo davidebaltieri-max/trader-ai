@@ -448,5 +448,14 @@
     "price": 1.5742,
     "reason": "RSI=71.1 IPERCOMPRATO + 24h=+11.32% strong rally + MACD hist decrescente (divergenza). Come DOT, ATOM è in ipercomprato dopo forte rally. RSI>70 + MACD histogram in calo = segnale VENDITA MEDIA. Vendo parzialmente (€20) per realizzare profitti e ridurre rischio, mantenendo 50% della posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:51:15.120720+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.0644,
+    "reason": "RSI=74.7 IPERCOMPRATO + 24h=+15.19% rally esplosivo + MACD hist decrescente nonostante momentum positivo = segnale VENDITA MEDIA confermato. Realizzo profitti su posizione che ha già performato molto, riduci esposizione su picco.",
+    "dry_run": false
   }
 ]
