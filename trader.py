@@ -789,6 +789,8 @@ def main():
                     log.error(f"✗ Vendita automatica FALLITA {pair}: {err['error']} — {err['message']}")
                 else:
                     log.info(f"✓ Vendita automatica confermata: {json.dumps(result)}")
+                    eur_balance += sell_qty * price
+                    log.info(f"EUR aggiornato: €{eur_balance:.2f}")
                     log_trade("sell", pair, sell_qty * price, price, reason)
                     update_position(pair, "sell", price, amount_eur)
                     portfolio.pop(base_cur, None)
@@ -841,6 +843,8 @@ def main():
                     log.error(f"✗ Vendita FALLITA {pair}: {err['error']} — {err['message']}")
                 else:
                     log.info(f"✓ Vendita confermata: {json.dumps(result)}")
+                    eur_balance += amount_eur
+                    log.info(f"EUR aggiornato: €{eur_balance:.2f}")
                     log_trade("sell", pair, sell_qty * market_data[pair]["mid"], market_data[pair]["mid"], reason)
                     update_position(pair, "sell", market_data[pair]["mid"], sell_qty * market_data[pair]["mid"])
         except requests.HTTPError as e:
