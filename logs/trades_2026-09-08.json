@@ -340,5 +340,14 @@
     "price": 1.0353,
     "reason": "RSI 76.7 IPERCOMPRATO + 1h=-2.33% + volatilità alta 1.74%. DOT ha guadagnato +10.26% in 24h e mostra segnali di correzione imminente. Vendita parziale per realizzare guadagni e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T19:01:39.221985+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.5393,
+    "reason": "RSI 69.6 in zona ipercomprata + 1h=-1.27% negativo. ATOM ha performato forte (+8.36% in 24h) ma mostra debolezza nel breve. Riduzione posizione per proteggere profitti.",
+    "dry_run": false
   }
 ]
