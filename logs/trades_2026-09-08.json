@@ -367,5 +367,14 @@
     "price": 1.0681,
     "reason": "DOT in IPERCOMPRATO (RSI=87.9 >> 70). RSI estremo + 24h=+17.4% indicano correzione imminente. Profit-taking strategico su posizione in rialzo paraboli. Riduco esposizione prima del pullback atteso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T20:01:33.792783+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.5461,
+    "reason": "ATOM: BEARISH_CROSS confermato (MACD hist decrescente) + RSI=62.7 in zona considerazione vendita + 4h=-0.55%. Nonostante +8.82% 24h, momentum si sta invertendo. Realizzo profitti e riduco volatilità.",
+    "dry_run": false
   }
 ]
