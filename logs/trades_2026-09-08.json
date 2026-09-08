@@ -61,5 +61,14 @@
     "price": 1.4466,
     "reason": "RSI=77.9 IPERCOMPRATO + MACD hist positivo ma momentum estremamente sovraccarico. ATOM ha già +3.08% in 24h e +2.71% in 4h. Realizza profitti su posizione già in guadagno prima di correzione. Ridimensiona posizione sovrappesata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T11:01:33.580274+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 10.8733,
+    "reason": "VENDITA MEDIA PRECAUZIONALE: RSI=49.1 (neutrale in calo), MACD hist positivo ma molto debole (+0.0098), tuttavia -0.71% su 1h e -4.34% su 24h. Vol×=+3.11x con pressione al ribasso. Dip-buying va bene ma a questo prezzo prendo profitti parziali (riduco posizione del 20%) per riallocare su momentum più chiari. Stop loss preventivo.",
+    "dry_run": false
   }
 ]
