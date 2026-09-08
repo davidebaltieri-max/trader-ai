@@ -34,5 +34,14 @@
     "price": 0.9204,
     "reason": "RSI=60.3 (zona overbought), MACD hist negativo decrescente (segnale VENDITA MEDIA), performance 24h=+9.89% già realizzata. Rotazione settoriale: realizzo guadagni su DOT per ridurre concentrazione interoperabilità e finanziare accumulo su BTC/ETH in dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T06:31:22.249871+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 10.0,
+    "price": 10.8867,
+    "reason": "LINK 24h=-6.48% (calo forte) + RSI=41.9 (neutro ma declinante) + MACD hist=+0.0057 (positivo ma molto debole, non confermato). Posizione in rosso significativo. Pur avendo MACD leggermente positivo, il calo violento e la debolezza dell'indicatore suggeriscono di ridurre esposizione e limitare danno. Partial exit strategico: €10 su €116 totali (10% riduzione).",
+    "dry_run": false
   }
 ]
