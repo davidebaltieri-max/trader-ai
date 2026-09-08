@@ -70,5 +70,14 @@
     "price": 10.8733,
     "reason": "VENDITA MEDIA PRECAUZIONALE: RSI=49.1 (neutrale in calo), MACD hist positivo ma molto debole (+0.0098), tuttavia -0.71% su 1h e -4.34% su 24h. Vol×=+3.11x con pressione al ribasso. Dip-buying va bene ma a questo prezzo prendo profitti parziali (riduco posizione del 20%) per riallocare su momentum più chiari. Stop loss preventivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T11:31:25.266034+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.769,
+    "reason": "LINK: RSI=39.2 (sotto 50, area debole), MACD hist negativo con BEARISH_CROSS confermato ▼, 1h=-1.07% 4h=-1.39% trend ribassista, 24h=-5.06% calo significativo. Volume molto alto (2.42x) con pressione al ribasso. Segnale VENDITA MEDIA confermato. Riduco posizione per limitare downside e liberare capitale per opportunità migliori.",
+    "dry_run": false
   }
 ]
