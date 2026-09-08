@@ -457,5 +457,14 @@
     "price": 1.0644,
     "reason": "RSI=74.7 IPERCOMPRATO + 24h=+15.19% rally esplosivo + MACD hist decrescente nonostante momentum positivo = segnale VENDITA MEDIA confermato. Realizzo profitti su posizione che ha già performato molto, riduci esposizione su picco.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:51:16.622892+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 19.99,
+    "price": 1.5869,
+    "reason": "RSI=69.9 prossimo a ipercomprato + 24h=+11.17% rally significativo + MACD hist negativo decrescente = segnale VENDITA MEDIA. Posizione in profit, opportuno prendere parziale uscita su massimi locali.",
+    "dry_run": false
   }
 ]
