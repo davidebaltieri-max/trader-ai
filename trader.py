@@ -758,28 +758,22 @@ def main():
             base_cur = pair.split("-")[0]
             qty      = portfolio.get(base_cur, 0)
             price    = market_data[pair]["mid"]
-            sell_qty = min(qty, amount_eur / price)
+            sell_qty = round(min(qty, amount_eur / price), 6)
             if sell_qty > 1e-8:
                 result = cb.market_sell(pair, sell_qty)
-                if result.get("success") == False:
-                    err = result.get("error_response", {})
-                    log.error(f"✗ Vendita FALLITA {pair}: {err.get('error')} — {err.get('message')}")
+                if result.get("error_response", {}).get("error"):
+                    err = result["error_response"]
+                    log.error(f"✗ Vendita automatica FALLITA {pair}: {err['error']} — {err['message']}")
                 else:
-                    log.info(f"✓ Vendita confermata: {json.dumps(result)}")
-                    log_trade("sell", pair, sell_qty * market_data[pair]["mid"], market_data[pair]["mid"], reason)
-                    update_position(pair, "sell", market_data[pair]["mid"], sell_qty * market_data[pair]["mid"])
-                portfolio.pop(base_cur, None)
+                    log.info(f"✓ Vendita automatica confermata: {json.dumps(result)}")
+                    log_trade("sell", pair, sell_qty * price, price, reason)
+                    update_position(pair, "sell", price, amount_eur)
+                    portfolio.pop(base_cur, None)
         except Exception as e:
             log.error(f"✗ Errore vendita automatica {pair}: {e}")
 
     # AI
-    try:
-        trades = ask_ai(claude, market_data, portfolio, eur_balance)
-    except Exception as e:
-        if "529" in str(e) or "overloaded" in str(e).lower():
-            log.warning("API Anthropic sovraccarica — ciclo saltato")
-            sys.exit(0)
-        raise
+    trades = ask_ai(claude, market_data, portfolio, eur_balance)
     log.info(f"AI suggerisce {len(trades)} operazioni")
 
     # Esecuzione
@@ -803,21 +797,29 @@ def main():
         try:
             if action == "buy":
                 result = cb.market_buy(pair, amount_eur)
-                log.info(f"✓ Acquisto: {json.dumps(result)}")
-                eur_balance -= amount_eur
-                log_trade("buy", pair, amount_eur, market_data[pair]["mid"], reason)
-                update_position(pair, "buy", market_data[pair]["mid"], amount_eur)
+                if result.get("error_response", {}).get("error"):
+                    err = result["error_response"]
+                    log.error(f"✗ Acquisto FALLITO {pair}: {err['error']} — {err['message']}")
+                else:
+                    log.info(f"✓ Acquisto confermato: {json.dumps(result)}")
+                    eur_balance -= amount_eur
+                    log_trade("buy", pair, amount_eur, market_data[pair]["mid"], reason)
+                    update_position(pair, "buy", market_data[pair]["mid"], amount_eur)
             elif action == "sell":
                 base_cur = pair.split("-")[0]
                 qty      = portfolio.get(base_cur, 0)
                 price    = market_data[pair]["mid"]
-                sell_qty = min(qty, amount_eur / price)
+                sell_qty = round(min(qty, amount_eur / price), 6)
                 if sell_qty < 1e-8:
                     log.warning(f"Quantità insufficiente per {pair}"); continue
                 result = cb.market_sell(pair, sell_qty)
-                log.info(f"✓ Vendita: {json.dumps(result)}")
-                log_trade("sell", pair, sell_qty * market_data[pair]["mid"], market_data[pair]["mid"], reason)
-                update_position(pair, "sell", market_data[pair]["mid"], sell_qty * market_data[pair]["mid"])
+                if result.get("error_response", {}).get("error"):
+                    err = result["error_response"]
+                    log.error(f"✗ Vendita FALLITA {pair}: {err['error']} — {err['message']}")
+                else:
+                    log.info(f"✓ Vendita confermata: {json.dumps(result)}")
+                    log_trade("sell", pair, sell_qty * market_data[pair]["mid"], market_data[pair]["mid"], reason)
+                    update_position(pair, "sell", market_data[pair]["mid"], sell_qty * market_data[pair]["mid"])
         except requests.HTTPError as e:
             log.error(f"✗ Errore API: {e.response.status_code} — {e.response.text}")
         except Exception as e:
