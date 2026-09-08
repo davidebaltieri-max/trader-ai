@@ -502,5 +502,14 @@
     "price": 1.0734,
     "reason": "RSI=71.8 IPERCOMPRATO dopo +18.59% 24h → segnale di vendita parziale per lock-in profitti. MACD hist positivo ma momentum è estremamente forte e insostenibile a breve.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T22:01:31.445892+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 15.0,
+    "price": 10.7616,
+    "reason": "RSI=42.4 (zona neutra-bassa) + MACD hist negativo decrescente ma volume stabile (0.99x) → dip-buying su asset solido in infrastruttura DeFi. Accumula prima del rimbalzo atteso.",
+    "dry_run": false
   }
 ]
