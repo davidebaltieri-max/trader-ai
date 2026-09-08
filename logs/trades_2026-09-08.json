@@ -349,5 +349,14 @@
     "price": 1.5393,
     "reason": "RSI 69.6 in zona ipercomprata + 1h=-1.27% negativo. ATOM ha performato forte (+8.36% in 24h) ma mostra debolezza nel breve. Riduzione posizione per proteggere profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T19:31:19.209210+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.0619,
+    "reason": "DOT in IPERCOMPRATO (RSI=81.4). Nonostante MACD hist positivo, il momentum è estremamente esteso su 24h (+16.42%). RSI>70 è segnale di correzione imminente. Realizzo profitti su posizione già forte (665 unità) per ridurre esposizione al rischio di pullback.",
+    "dry_run": false
   }
 ]
