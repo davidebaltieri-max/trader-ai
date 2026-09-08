@@ -295,5 +295,14 @@
     "price": 1.0513,
     "reason": "RSI=82.1 IPERCOMPRATO CRITICO + 4h=+13.06% 24h=+11.08%. Massima ipercompratezza del portafoglio. MACD positivo ma RSI a livelli estremi indica imminente correzione. Uscita tattica su parte della posizione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T18:01:33.862409+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.0559,
+    "reason": "RSI=83.4 (IPERCOMPRATO) + 4h=+12.59% (momentum estremista) + volatilità alta 1.64%. Correzione probabile. Realizzo profitti su posizione già in forte rialzo. VENDITA FORTE confermata.",
+    "dry_run": false
   }
 ]
