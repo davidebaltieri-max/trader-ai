@@ -124,5 +124,14 @@
     "price": 0.935,
     "reason": "RSI=71.6 IPERCOMPRATO (>70) + MACD hist positivo ma segnale debole. DOT ha performato bene (+4.49% 24h) ma momentum su timeframe breve 1h (+0.43%) non è sostenuto. Vendita parziale (22% della posizione) per gestire il rischio di correzione su resistenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T13:17:50.177501+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.4975,
+    "reason": "RSI=84.2 IPERCOMPRATO (>70) + MACD hist positivo ma momentum estremo dopo +6.73% in 24h. Volume anomalo (35.28x) suggerisce picco speculativo. Realizza parziale profitto su posizione già forte, riduci esposizione a correzione imminente.",
+    "dry_run": false
   }
 ]
