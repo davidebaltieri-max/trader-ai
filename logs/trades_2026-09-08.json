@@ -259,5 +259,14 @@
     "price": 1.5572,
     "reason": "RSI=76.1 IPERCOMPRATO + volatilità media 0.98% dopo spike 24h=+9.57%. MACD hist crescente ma su livelli saturi. Vendita parziale per gestire il rischio di correzione e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T17:02:04.126602+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 6.81,
+    "price": 1.025,
+    "reason": "RSI=78.8 IPERCOMPRATO + volatilità alta 1.72% + 4h=+10.60% suggerisce correzione imminente. Realizzo profitti su posizione in forte rialzo (665 unità). Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
   }
 ]
