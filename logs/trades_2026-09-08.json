@@ -142,5 +142,14 @@
     "price": 10.7808,
     "reason": "RSI=39.4 + MACD hist=-0.0069 DECRESCENTE (bearish) + 1h=-0.12% + 24h=-5.47%. Trend ribassista confermato su multitimeframe. Esce da zone di forza. Stop loss preventivo su posizione in calo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T13:31:21.343026+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.4907,
+    "reason": "RSI=80.3 (IPERCOMPRATO) + MACD hist crescente ma con vol×=37.54x anomalo suggerisce picco speculativo. Realizza profitti su posizione in strong rally (+6.25% 24h). Ridimensiona prima di correzione attesa.",
+    "dry_run": false
   }
 ]
