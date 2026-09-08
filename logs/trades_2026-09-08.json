@@ -475,5 +475,14 @@
     "price": 5.7721,
     "reason": "RSI=37.2 zone neutra bassa + MACD hist negativo decrescente (trend ribassista moderato) + vol×=+1.29 volume in aumento = setup di accumulo su pullback. UNI infrastruttura DeFi core, opportunità di entry moderata con rischio contenuto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:51:19.884908+00:00",
+    "action": "buy",
+    "pair": "BTC-EUR",
+    "amount_eur": 12.0,
+    "price": 67481.805,
+    "reason": "RSI=48.2 neutrale + MACD hist=+7.5125 crescente (momentum rialzista confermato) + 1h=-0.07% stabilità recente = segnale ACQUISTO MEDIO. BTC foundation portfolio, accumula su momentum positivo confermato da MACD. Importo contenuto data volatilità.",
+    "dry_run": false
   }
 ]
