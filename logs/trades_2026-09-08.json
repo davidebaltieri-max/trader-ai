@@ -106,5 +106,14 @@
     "price": 1.508,
     "reason": "RSI=81.2 IPERCOMPRATO (>70) + 4h=+4.84% momentum già catturato + vol×=2.68x spike di volume su rialzo. Realizza profitti dopo gain 24h=+6.91%. Vendi ~17 unità (€25.60) per ridurre esposizione e bloccare guadagni su asset saturo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T13:01:29.353655+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.5053,
+    "reason": "RSI=81.9 IPERCOMPRATO (>70) + MACD hist positivo crescente ma in zona di massimo. Profilo performante gestisce il rischio: ATOM ha realizzato +7.32% in 24h e +5.24% in 4h. Vendita parziale (33% della posizione) per lock-in profitti su forte spike. Trailing stop attivato.",
+    "dry_run": false
   }
 ]
