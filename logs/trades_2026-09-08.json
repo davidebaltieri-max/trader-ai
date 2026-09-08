@@ -304,5 +304,14 @@
     "price": 1.0559,
     "reason": "RSI=83.4 (IPERCOMPRATO) + 4h=+12.59% (momentum estremista) + volatilità alta 1.64%. Correzione probabile. Realizzo profitti su posizione già in forte rialzo. VENDITA FORTE confermata.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T18:01:36.280732+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.5535,
+    "reason": "RSI=82.9 (IPERCOMPRATO) + 24h=+8.92% (guadagno già realizzato) + volatilità 0.96%. Segnale di esaurimento. Gestione del rischio: realizzo prima della potenziale correzione. VENDITA FORTE.",
+    "dry_run": false
   }
 ]
