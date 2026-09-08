@@ -133,5 +133,14 @@
     "price": 1.4975,
     "reason": "RSI=84.2 IPERCOMPRATO (>70) + MACD hist positivo ma momentum estremo dopo +6.73% in 24h. Volume anomalo (35.28x) suggerisce picco speculativo. Realizza parziale profitto su posizione già forte, riduci esposizione a correzione imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T13:17:51.880595+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 12.0,
+    "price": 10.7808,
+    "reason": "RSI=39.4 + MACD hist=-0.0069 DECRESCENTE (bearish) + 1h=-0.12% + 24h=-5.47%. Trend ribassista confermato su multitimeframe. Esce da zone di forza. Stop loss preventivo su posizione in calo.",
+    "dry_run": false
   }
 ]
