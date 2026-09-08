@@ -466,5 +466,14 @@
     "price": 1.5869,
     "reason": "RSI=69.9 prossimo a ipercomprato + 24h=+11.17% rally significativo + MACD hist negativo decrescente = segnale VENDITA MEDIA. Posizione in profit, opportuno prendere parziale uscita su massimi locali.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:51:18.350972+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 18.0,
+    "price": 5.7721,
+    "reason": "RSI=37.2 zone neutra bassa + MACD hist negativo decrescente (trend ribassista moderato) + vol×=+1.29 volume in aumento = setup di accumulo su pullback. UNI infrastruttura DeFi core, opportunità di entry moderata con rischio contenuto.",
+    "dry_run": false
   }
 ]
