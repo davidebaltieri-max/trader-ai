@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-08T01:01:33.579525+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 30.0,
+    "price": 0.9199,
+    "reason": "VENDITA MEDIA: RSI=37.3 (sottoperformante), MACD hist=-0.0042 decrescente (bearish), 4h=+0.25% ma momentum si sta invertendo. Nonostante 24h=+4.08%, gli indicatori short-term mostrano inversione. Realizzo profitti su rialzo recente e riduco esposizione a posizione momentum-negativa. Perfetto per rotazione verso settori bullish.",
+    "dry_run": false
+  }
+]
