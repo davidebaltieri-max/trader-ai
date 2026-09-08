@@ -439,5 +439,14 @@
     "price": 1.0653,
     "reason": "RSI=76.0 IPERCOMPRATO + 24h=+15.54% strong run-up + 1h=-0.43% rejection. DOT ha fatto +15% in 24h e ora mostra divergenza: momentum MACD ancora crescente ma RSI estremo e price action debole (1h negativa). Realizzo profitti su asset in ipercomprato prima della correzione attesa. Importo massimale €30 dato il segnale di vendita medio-forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:45:45.168385+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 19.99,
+    "price": 1.5742,
+    "reason": "RSI=71.1 IPERCOMPRATO + 24h=+11.32% strong rally + MACD hist decrescente (divergenza). Come DOT, ATOM è in ipercomprato dopo forte rally. RSI>70 + MACD histogram in calo = segnale VENDITA MEDIA. Vendo parzialmente (€20) per realizzare profitti e ridurre rischio, mantenendo 50% della posizione.",
+    "dry_run": false
   }
 ]
