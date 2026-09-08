@@ -520,5 +520,14 @@
     "price": 0.1891,
     "reason": "ACQUISTO FORTE: RSI=17.7 IPERVENDUTO (<30) + vol×=4.26x VOLUME ESPLOSIVO (>1.2) + MACD hist negativo ma in contesto di ipervenduto classico rimbalzo. ADA mostra 1h=-0.56% ma questo è dip-buying su calo moderato con segnale ipervenduto. Slot libero disponibile. Momentum setup per rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T22:31:25.435804+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.0757,
+    "reason": "VENDITA MEDIA: RSI=69.3 IPERCOMPRATO (>70 threshold) + 24h=+20.16% RALLY FORTE suggerisc presa di profitti parziale. MACD hist positivo crescente MA RSI in zona pericolosa. Protezione profitti su posizione già vincente (+20% in 24h). Riduzione rischio su ipercomprato.",
+    "dry_run": false
   }
 ]
