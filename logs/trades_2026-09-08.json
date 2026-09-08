@@ -79,5 +79,14 @@
     "price": 10.769,
     "reason": "LINK: RSI=39.2 (sotto 50, area debole), MACD hist negativo con BEARISH_CROSS confermato ▼, 1h=-1.07% 4h=-1.39% trend ribassista, 24h=-5.06% calo significativo. Volume molto alto (2.42x) con pressione al ribasso. Segnale VENDITA MEDIA confermato. Riduco posizione per limitare downside e liberare capitale per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T12:01:28.001850+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.463,
+    "reason": "RSI=73.1 IPERCOMPRATO + ATOM in rialzo da +5.03% 24h. Realizza profitti su posizione in territorio di sovraccompra. Volume basso (0.23x) suggerisce momentum in calo. Vendi il 40% della posizione per lock-in e riduci esposizione.",
+    "dry_run": false
   }
 ]
