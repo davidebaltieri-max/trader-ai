@@ -394,5 +394,14 @@
     "price": 1.549,
     "reason": "RSI=73.2 IPERCOMPRATO + MACD BEARISH_CROSS confermato + 24h=+9.19% (rally completato). Segnale VENDITA MEDIA concordato. Riduco esposizione su picco, mantengo piccola posizione per upside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:01:27.716212+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.0728,
+    "reason": "RSI=81.7 (IPERCOMPRATO) + 24h=+16.82% (rally eccessivo) + 1h=-1.26% (inversion). Anche se MACD hist positivo, il segnale di ipercompra è preponderante con correzione in atto. Realizzo profitti su posizione già forte. Ridimensiono il rischio.",
+    "dry_run": false
   }
 ]
