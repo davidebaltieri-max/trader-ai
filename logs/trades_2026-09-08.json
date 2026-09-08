@@ -322,5 +322,14 @@
     "price": 1.0548,
     "reason": "RSI=87.2 IPERCOMPRATO + volatilità alta 1.66% + 4h e 24h fortemente rialzisti (momentum esausto). Take profit su posizione vincente 12.34% in 24h. Realizzo profitti prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T18:31:24.192496+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.5512,
+    "reason": "RSI=79.3 IPERCOMPRATO (zona critica) + volatilità media 0.87% + guadagno 9.21% in 24h. MACD hist positivo ma RSI ormai in zona di esaurimento. Uscita parziale per proteggere profitti.",
+    "dry_run": false
   }
 ]
