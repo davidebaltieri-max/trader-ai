@@ -538,5 +538,14 @@
     "price": 67509.47,
     "reason": "ACQUISTO MEDIO-FORTE: BTC RSI=37.3 + MACD hist=+7.3214 CRESCENTE (momentum bullish confermato) + 1h=+0.01% 4h=+0.12% trend positivo multi-timeframe. vol×=+0.77x non esplosivo ma sufficiente. Large cap defensivo con momentum rialzista. Operazione principale performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T22:31:28.245902+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 15.0,
+    "price": 88.85,
+    "reason": "ACQUISTO MODERATO: SOL RSI=37.8 (zona neutra bassa, potenziale rimbalzo) + 1h=+0.27% momentum intraday positivo + vol×=+0.50x. MACD hist negativo decrescente MA supportato da RSI non oversold. Layer 1 alternativo con setup rimbalzo. Operazione di rotazione momentum.",
+    "dry_run": false
   }
 ]
