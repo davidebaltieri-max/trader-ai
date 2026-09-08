@@ -214,5 +214,14 @@
     "price": 1.0285,
     "reason": "RSI=84.7 IPERCOMPRATO + volatilità alta 1.68% + 1h=+5.85% suggerisce correction imminente. MACD positivo ma trend estremamente esteso. Realizzo profitti su posizione forte (665 unità)",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T16:01:41.987238+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.5489,
+    "reason": "RSI=79.2 IPERCOMPRATO + volatilità alta 1.08% + correzione probabile dopo 24h=+7.91%. MACD hist>0 ma momentum satura. Riduco exposure su posizione sovrallevata",
+    "dry_run": false
   }
 ]
