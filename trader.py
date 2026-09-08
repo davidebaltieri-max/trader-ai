@@ -120,6 +120,29 @@ CONFIG  = {
     "dry_run": os.getenv("DRY_RUN", "true").lower() in ("1", "true", "yes"),
 }
 
+# Precisione decimali accettata da Coinbase per ogni asset
+# Se un asset non è in lista usa 2 decimali come default sicuro
+ASSET_PRECISION = {
+    "BTC":  8,
+    "ETH":  6,
+    "SOL":  4,
+    "ADA":  2,
+    "DOT":  2,
+    "LINK": 4,
+    "AVAX": 4,
+    "XRP":  2,
+    "UNI":  4,
+    "ATOM": 2,
+    "XLM":  2,
+    "DOGE": 2,
+    "LTC":  4,
+}
+
+def round_qty(qty: float, base_currency: str) -> float:
+    """Arrotonda la quantità alla precisione corretta per l'asset."""
+    precision = ASSET_PRECISION.get(base_currency, 2)
+    return round(qty, precision)
+
 # ─────────────────────────────────────────────
 # LOGGING
 # ─────────────────────────────────────────────
@@ -758,7 +781,7 @@ def main():
             base_cur = pair.split("-")[0]
             qty      = portfolio.get(base_cur, 0)
             price    = market_data[pair]["mid"]
-            sell_qty = round(min(qty, amount_eur / price), 6)
+            sell_qty = round_qty(min(qty, amount_eur / price), pair.split('-')[0])
             if sell_qty > 1e-8:
                 result = cb.market_sell(pair, sell_qty)
                 if result.get("error_response", {}).get("error"):
@@ -809,7 +832,7 @@ def main():
                 base_cur = pair.split("-")[0]
                 qty      = portfolio.get(base_cur, 0)
                 price    = market_data[pair]["mid"]
-                sell_qty = round(min(qty, amount_eur / price), 6)
+                sell_qty = round_qty(min(qty, amount_eur / price), pair.split('-')[0])
                 if sell_qty < 1e-8:
                     log.warning(f"Quantità insufficiente per {pair}"); continue
                 result = cb.market_sell(pair, sell_qty)
