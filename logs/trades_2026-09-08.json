@@ -160,5 +160,14 @@
     "price": 10.7215,
     "reason": "RSI=37.0 (ipervenduto ma non estremo) + MACD hist=-0.0111 decrescente + 24h=-5.17%. Momentum ribassista confermato. Ridimensiona posizione debole per liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T14:31:40.164748+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.5044,
+    "reason": "VENDITA MEDIA: RSI=74.5 (IPERCOMPRATO >70) + MACD hist positivo ma decrescente (momentum in indebolimento) + 4h=+3.97% forte rialzo già realizzato. ATOM ha performato bene (+4.50% 24h) ma mostra segnali di correzione imminente. Riduco posizione large (615.54 unità) per lock-in parziale e preparare reentry su dip.",
+    "dry_run": false
   }
 ]
