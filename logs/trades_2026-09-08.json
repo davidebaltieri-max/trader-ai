@@ -412,5 +412,14 @@
     "price": 1.5596,
     "reason": "RSI=76.6 (IPERCOMPRATO) + 24h=+9.85% (rally significativo) + MACD hist decrescente (momentum che si spegne). 1h=+0.19% ma 4h=+0.31% suggerisce stallo. Riduco posizione in eccesso di calore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:31:20.466153+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.0682,
+    "reason": "RSI=81.2 IPERCOMPRATO + 24h=+16.33% guadagno strong + MACD hist positivo ma decrescente = correzione probabile. Realizzo profitti su posizione in rally.",
+    "dry_run": false
   }
 ]
