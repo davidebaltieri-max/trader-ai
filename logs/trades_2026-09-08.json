@@ -187,5 +187,14 @@
     "price": 0.9642,
     "reason": "RSI=71.3 IPERCOMPRATO dopo +2.73% in 1h e +2.62% in 4h. Volume esplosivo (3.59x) indica possibile exhaustion del trend. Riduco posizione per bloccare profitti su momentum eccesso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T15:31:25.307895+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.5429,
+    "reason": "VENDITA MEDIA: RSI=78.2 (IPERCOMPRATO >70) + MACD hist=+0.0084 positivo ma momentum decrescente + 24h=+7.25% (rimbalzo completato) + volatilità=1.09% (media-alta). Riduco posizione vincente per lock-in parziale e riequilibrio.",
+    "dry_run": false
   }
 ]
