@@ -169,5 +169,14 @@
     "price": 1.5044,
     "reason": "VENDITA MEDIA: RSI=74.5 (IPERCOMPRATO >70) + MACD hist positivo ma decrescente (momentum in indebolimento) + 4h=+3.97% forte rialzo già realizzato. ATOM ha performato bene (+4.50% 24h) ma mostra segnali di correzione imminente. Riduco posizione large (615.54 unità) per lock-in parziale e preparare reentry su dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T15:01:37.948048+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.5213,
+    "reason": "RSI=76.4 IPERCOMPRATO + MACD hist positivo ma a rischio correzione dopo +6.14% in 4h. Realizzo profitti su posizione con forte guadagno. Volatilità elevata (1.06%) suggerisce consolidamento imminente.",
+    "dry_run": false
   }
 ]
