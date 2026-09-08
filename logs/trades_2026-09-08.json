@@ -250,5 +250,14 @@
     "price": 1.0259,
     "reason": "RSI=79.8 IPERCOMPRATO + volatilità alta 1.70% + 1h=+0.85% suggerisce correzione imminente. DOT in territorio estremo dopo rally 4h=+10.99%. Riduco posizione per lock-in parziale e libero slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T17:01:33.220419+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.5572,
+    "reason": "RSI=76.1 IPERCOMPRATO + volatilità media 0.98% dopo spike 24h=+9.57%. MACD hist crescente ma su livelli saturi. Vendita parziale per gestire il rischio di correzione e liberare capitale.",
+    "dry_run": false
   }
 ]
