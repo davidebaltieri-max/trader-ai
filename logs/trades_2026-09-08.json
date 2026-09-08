@@ -421,5 +421,14 @@
     "price": 1.0682,
     "reason": "RSI=81.2 IPERCOMPRATO + 24h=+16.33% guadagno strong + MACD hist positivo ma decrescente = correzione probabile. Realizzo profitti su posizione in rally.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T21:31:21.979290+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 15.0,
+    "price": 1.5789,
+    "reason": "RSI=74.5 IPERCOMPRATO + 24h=+10.51% + MACD hist negativo decrescente = momentum in perdita. Calo imminente, riduco esposizione su posizione overextended.",
+    "dry_run": false
   }
 ]
