@@ -205,5 +205,14 @@
     "price": 1.0093,
     "reason": "VENDITA MEDIA: RSI=80.8 (IPERCOMPRATO ESTREMO >70) + vol×=5.63 (picco di volume su spike) + 4h=+8.54% + 24h=+8.63% (movimento impulsivo completato). Trend ipercompratore ricerca correzione. Presa parziale di profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T16:01:40.368715+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 1.0285,
+    "reason": "RSI=84.7 IPERCOMPRATO + volatilità alta 1.68% + 1h=+5.85% suggerisce correction imminente. MACD positivo ma trend estremamente esteso. Realizzo profitti su posizione forte (665 unità)",
+    "dry_run": false
   }
 ]
