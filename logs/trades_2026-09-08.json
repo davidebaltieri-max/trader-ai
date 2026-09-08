@@ -358,5 +358,14 @@
     "price": 1.0619,
     "reason": "DOT in IPERCOMPRATO (RSI=81.4). Nonostante MACD hist positivo, il momentum è estremamente esteso su 24h (+16.42%). RSI>70 è segnale di correzione imminente. Realizzo profitti su posizione già forte (665 unità) per ridurre esposizione al rischio di pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T20:01:31.981431+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.0681,
+    "reason": "DOT in IPERCOMPRATO (RSI=87.9 >> 70). RSI estremo + 24h=+17.4% indicano correzione imminente. Profit-taking strategico su posizione in rialzo paraboli. Riduco esposizione prima del pullback atteso.",
+    "dry_run": false
   }
 ]
