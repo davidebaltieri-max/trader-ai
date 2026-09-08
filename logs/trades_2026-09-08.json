@@ -25,5 +25,14 @@
     "price": 0.907,
     "reason": "SEGNALE VENDITA MEDIA: RSI=35.4 (ipervenduto, rimbalzo 24h=+7.31% già completato), MACD hist=-0.0039 decrescente (divergenza ribassista), 1h=-0.76% negativo, vol×=0.41x (volume insufficiente). Volatilità=0.89% elevata suggerisce correzione imminente. Realizzo profitti su rally da posizione consolidata, libero slot per rotazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T06:01:27.829305+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.9204,
+    "reason": "RSI=60.3 (zona overbought), MACD hist negativo decrescente (segnale VENDITA MEDIA), performance 24h=+9.89% già realizzata. Rotazione settoriale: realizzo guadagni su DOT per ridurre concentrazione interoperabilità e finanziare accumulo su BTC/ETH in dip.",
+    "dry_run": false
   }
 ]
