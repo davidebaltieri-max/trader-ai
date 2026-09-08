@@ -151,5 +151,14 @@
     "price": 1.4907,
     "reason": "RSI=80.3 (IPERCOMPRATO) + MACD hist crescente ma con vol×=37.54x anomalo suggerisce picco speculativo. Realizza profitti su posizione in strong rally (+6.25% 24h). Ridimensiona prima di correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T13:31:23.148937+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 8.0,
+    "price": 10.7215,
+    "reason": "RSI=37.0 (ipervenduto ma non estremo) + MACD hist=-0.0111 decrescente + 24h=-5.17%. Momentum ribassista confermato. Ridimensiona posizione debole per liberare capitale.",
+    "dry_run": false
   }
 ]
