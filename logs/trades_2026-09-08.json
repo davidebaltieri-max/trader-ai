@@ -331,5 +331,14 @@
     "price": 1.5512,
     "reason": "RSI=79.3 IPERCOMPRATO (zona critica) + volatilità media 0.87% + guadagno 9.21% in 24h. MACD hist positivo ma RSI ormai in zona di esaurimento. Uscita parziale per proteggere profitti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-08T19:01:37.336687+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 28.0,
+    "price": 1.0353,
+    "reason": "RSI 76.7 IPERCOMPRATO + 1h=-2.33% + volatilità alta 1.74%. DOT ha guadagnato +10.26% in 24h e mostra segnali di correzione imminente. Vendita parziale per realizzare guadagni e liberare capitale.",
+    "dry_run": false
   }
 ]
