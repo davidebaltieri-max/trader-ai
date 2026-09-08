@@ -761,9 +761,13 @@ def main():
             sell_qty = min(qty, amount_eur / price)
             if sell_qty > 1e-8:
                 result = cb.market_sell(pair, sell_qty)
-                log.info(f"✓ Vendita automatica: {json.dumps(result)}")
-                log_trade("sell", pair, sell_qty * price, price, reason)
-                update_position(pair, "sell", price, amount_eur)
+                if result.get("success") == False:
+                    err = result.get("error_response", {})
+                    log.error(f"✗ Vendita FALLITA {pair}: {err.get('error')} — {err.get('message')}")
+                else:
+                    log.info(f"✓ Vendita confermata: {json.dumps(result)}")
+                    log_trade("sell", pair, sell_qty * market_data[pair]["mid"], market_data[pair]["mid"], reason)
+                    update_position(pair, "sell", market_data[pair]["mid"], sell_qty * market_data[pair]["mid"])
                 portfolio.pop(base_cur, None)
         except Exception as e:
             log.error(f"✗ Errore vendita automatica {pair}: {e}")
