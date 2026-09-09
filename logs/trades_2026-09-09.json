@@ -97,5 +97,14 @@
     "price": 1.0111,
     "reason": "RSI=33.4 IPERVENDUTO + 24h=+8.24% (strong 24h ma RSI depresso = consolidamento). Vol×=0.78x (volume ridotto, possibile breakout). DOT è già in portafoglio ma segnale di acquisto su ipervenduto dopo rally. Importo piccolo per aggiungere posizione su interoperabilità, fiducia media.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-09T11:01:29.877991+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 24.99,
+    "price": 1.6933,
+    "reason": "RSI=79.7 IPERCOMPRATO + MACD hist positivo ma trend decrescente su 4h e 1h. ATOM ha registrato +17.43% in 24h con volatilità alta (1.42%). Realizza profitti su posizione performante prima di possibile correzione.",
+    "dry_run": false
   }
 ]
