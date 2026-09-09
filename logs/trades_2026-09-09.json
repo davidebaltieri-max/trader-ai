@@ -25,5 +25,14 @@
     "price": 1.0463,
     "reason": "DOT: RSI=46.7 (neutro), MACD hist decrescente e negativo, 1h=-2.60% segnale di debolezza. Nonostante +13.89% in 24h, momentum sta invertendo. Vendo per ridurre esposizione a correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-09T09:31:14.728287+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.6928,
+    "reason": "RSI=78.5 IPERCOMPRATO + volatilità alta (0.93%) + 1h=+1.52% dopo rally 24h=+18.60%. Realizza profitti su momentum estremo prima di correzione. ATOM ha completato pump aggressivo; take profit strategico.",
+    "dry_run": false
   }
 ]
