@@ -79,5 +79,14 @@
     "price": 10.3865,
     "reason": "RSI=31.9 IPERVENDUTO + vol×=2.63x (volume alto) + 1h=-1.38% ma 24h=-4.56% (oversold). LINK è in panic sell. MACD hist negativo decrescente suggerisce fondo vicino. DIP BUYING su asset fondamentale (infrastruttura DeFi). Segnale di acquisto medio-forte su rimbalzo imminente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-09T10:39:48.854517+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 18.0,
+    "price": 5.7268,
+    "reason": "RSI=32.6 IPERVENDUTO + vol×=1.91x (volume moderato-alto) + 24h=-5.33% (correzione). MACD hist negativo ma stabilizzandosi. UNI in calo insieme a LINK, settore DeFi sotto pressione. Dip buying strategico con volumi sostenuti, rimbalzo probabile. Importo moderato per risk management.",
+    "dry_run": false
   }
 ]
