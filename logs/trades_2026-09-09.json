@@ -34,5 +34,14 @@
     "price": 1.6928,
     "reason": "RSI=78.5 IPERCOMPRATO + volatilità alta (0.93%) + 1h=+1.52% dopo rally 24h=+18.60%. Realizza profitti su momentum estremo prima di correzione. ATOM ha completato pump aggressivo; take profit strategico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-09T10:01:32.396025+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 24.99,
+    "price": 1.743,
+    "reason": "RSI=92.7 IPERCOMPRATO estremo + MACD hist crescente ma da posizione già massimamente estesa. Dopo +21.88% in 24h il momentum è insostenibile. Realizzo profitti su una posizione che ha raggiunto target di performance. Take profit tattico.",
+    "dry_run": false
   }
 ]
