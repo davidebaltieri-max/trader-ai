@@ -52,5 +52,14 @@
     "price": 1.6886,
     "reason": "ATOM in IPERCOMPRATO (RSI=78.3 >> 70). Posizione +18% in 24h con volatilità alta (1.42%). MACD hist positivo ma contesto di correzione imminente su timeframe più ampi. Realizza profitti su momentum estremamente caldo prima della correzione attesa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-09T10:31:28.877026+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 17.68,
+    "price": 5.7149,
+    "reason": "UNI in IPERVENDUTO (RSI=34.3 << 50) MA: -6.87% in 24h, -2.31% in 1h, MACD hist negativo decrescente. Momentum ribassista confermato. Volume alto (2.01x) indica vendite convinte. Evita ulteriore drawdown.",
+    "dry_run": false
   }
 ]
