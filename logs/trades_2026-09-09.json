@@ -61,5 +61,14 @@
     "price": 5.7149,
     "reason": "UNI in IPERVENDUTO (RSI=34.3 << 50) MA: -6.87% in 24h, -2.31% in 1h, MACD hist negativo decrescente. Momentum ribassista confermato. Volume alto (2.01x) indica vendite convinte. Evita ulteriore drawdown.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-09T10:39:46.169198+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 24.99,
+    "price": 1.6888,
+    "reason": "RSI=74.6 IPERCOMPRATO + 1h=-3.36% (momentum negativo breve termine). ATOM ha fatto +17.17% in 24h, picco di euforia. Anche se MACD hist positivo crescente, il segnale di ipercompra è critico. Realizzo parzialmente i guadagni (vendita media su segnale di correzione imminente).",
+    "dry_run": false
   }
 ]
