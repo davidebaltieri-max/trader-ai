@@ -88,5 +88,14 @@
     "price": 5.7268,
     "reason": "RSI=32.6 IPERVENDUTO + vol×=1.91x (volume moderato-alto) + 24h=-5.33% (correzione). MACD hist negativo ma stabilizzandosi. UNI in calo insieme a LINK, settore DeFi sotto pressione. Dip buying strategico con volumi sostenuti, rimbalzo probabile. Importo moderato per risk management.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-09T10:39:50.292595+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 1.0111,
+    "reason": "RSI=33.4 IPERVENDUTO + 24h=+8.24% (strong 24h ma RSI depresso = consolidamento). Vol×=0.78x (volume ridotto, possibile breakout). DOT è già in portafoglio ma segnale di acquisto su ipervenduto dopo rally. Importo piccolo per aggiungere posizione su interoperabilità, fiducia media.",
+    "dry_run": false
   }
 ]
