@@ -16,5 +16,14 @@
     "price": 1.5809,
     "reason": "ATOM: RSI=63.8 (zona ipercomprato), MACD BEARISH_CROSS confermato, hist decrescente. Dopo +13.35% in 24h, segnale di vendita media. Realizzo profitto su posizione forte.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-09T00:59:46.554208+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.0463,
+    "reason": "DOT: RSI=46.7 (neutro), MACD hist decrescente e negativo, 1h=-2.60% segnale di debolezza. Nonostante +13.89% in 24h, momentum sta invertendo. Vendo per ridurre esposizione a correzione.",
+    "dry_run": false
   }
 ]
