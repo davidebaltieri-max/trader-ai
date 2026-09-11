@@ -61,5 +61,14 @@
     "price": 1.516,
     "reason": "ATOM in IPERVENDUTO (RSI=16.2) ma con MACD hist negativo decrescente: segnale di trend ribassista confermato. Anche se tecnicamente ipervenduto, la divergenza MACD negativa suggerisce continuazione del calo. Riduco posizione per liberare capitale e proteggere da ulteriori cali. RSI estremo (16.2) verrà monitorato per possibile rimbalzo futuro.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-11T08:01:36.751066+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 22.0,
+    "price": 66537.41,
+    "reason": "BTC in IPERCOMPRATO (RSI=70.4) con MACD hist positivo crescente crea segnale contrastante, ma RSI elevato e 24h negativo (-0.95%) suggeriscono prudenza. Realizza small profit sulla piccola posizione per proteggere capitale in zone di rischio. BTC rimane volatile.",
+    "dry_run": false
   }
 ]
