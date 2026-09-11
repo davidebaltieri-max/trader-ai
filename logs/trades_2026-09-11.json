@@ -106,5 +106,14 @@
     "price": 1.469,
     "reason": "ATOM mostra segnali bearish confermati: RSI=37.5 (zona debole), MACD hist negativo con BEARISH_CROSS in corso, 24h=-4.63%, momentum decrescente. Vol×=+0.65x indica pressione ribassista. Ridurre esposizione su questo asset prima che il calo si accentui.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-11T16:01:42.304853+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.9093,
+    "reason": "DOT in ipervenduto (RSI=28.6) ma con MACD negativo decrescente (hist=-0.0042), segnale di continuazione ribassista. Performance 24h=-2.75%, 4h=-2.92%. Anche se ipervenduto, il MACD non conferma rimbalzo imminente. Ridurre posizione per liberare capital per opportunità più forti.",
+    "dry_run": false
   }
 ]
