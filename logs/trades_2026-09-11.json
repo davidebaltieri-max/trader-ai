@@ -88,5 +88,14 @@
     "price": 0.9685,
     "reason": "DOT con MACD hist negativo decrescente (-0.0019) segnala trend ribassista in corso nonostante RSI neutro (53.1) e +0.77% 1h. Volume elevato (vol×=2.80) su 4h negativo (-1.76%) conferma pressione vendita. Trimming posizione sovradimensionata (540.8 unità) per contenere drawdown e cogliere eventuale rimbalzo su supporti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-11T09:31:20.391454+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.01,
+    "price": 1.517,
+    "reason": "ATOM ipervenduto (RSI=20.7) ma MACD in bearish cross decrescente + 24h=-3.00%. Segnale contraddittorio: RSI suggerisce rimbalzo ma MACD conferma ribasso. Profilo aggressivo predilige uscire da posizioni deboli per liberare slot e riallocare su segnali più forti. Uscita difensiva prima di rimbalzo incerto.",
+    "dry_run": false
   }
 ]
