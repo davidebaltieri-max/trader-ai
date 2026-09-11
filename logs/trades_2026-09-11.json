@@ -7,5 +7,14 @@
     "price": 1.521,
     "reason": "ATOM in IPERVENDUTO (RSI=31.4) + MACD histogram negativo e decrescente (-0.0034) + performance 24h=-3.78% + 4h=-2.91%. Segnale di trend ribassista confermato. Vendita tattica per liberare liquidità e ridurre posizioni in calo di momentum.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-11T06:20:39.455819+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 15.0,
+    "price": 0.1802,
+    "reason": "ADA mostra debolezza: 1h=-0.02% flat, MACD histogram quasi piatto (+0.0004, appena positivo), performance 24h=-1.63%. RSI=67.4 in zona alta ma senza conferma bullish. Vendita parziale per consolidare e ridurre volatilità in portafoglio saturo.",
+    "dry_run": false
   }
 ]
