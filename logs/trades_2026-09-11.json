@@ -43,5 +43,14 @@
     "price": 1.5129,
     "reason": "ATOM in IPERVENDUTO (RSI=29.3) con MACD hist negativo decrescente (-0.0033). Momentum ribassista confermato. Vendita tattica per liberare capital e ridurre volatilità su posizione debole (433.44 unità = €655.6). Riacquisterò su rimbalzo confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-11T07:01:38.062349+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 28.0,
+    "price": 0.9997,
+    "reason": "DOT in IPERCOMPRATO (RSI=71.8) dopo rally +4.27% 24h e +3.30% 4h. Volume alto (2.09x) segnala exhaustion. MACD positivo ma momentum decrescente (0.0028). Vendita parziale (€28 ≈ 28 unità su 568.88) per lock-in profitti e ridurre esposizione a correzione imminente.",
+    "dry_run": false
   }
 ]
