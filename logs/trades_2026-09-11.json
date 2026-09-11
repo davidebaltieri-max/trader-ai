@@ -16,5 +16,14 @@
     "price": 0.1802,
     "reason": "ADA mostra debolezza: 1h=-0.02% flat, MACD histogram quasi piatto (+0.0004, appena positivo), performance 24h=-1.63%. RSI=67.4 in zona alta ma senza conferma bullish. Vendita parziale per consolidare e ridurre volatilità in portafoglio saturo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-11T06:31:27.727167+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 29.99,
+    "price": 1.5141,
+    "reason": "ATOM mostra segnali di debolezza: RSI=32.1 (ipervenduto ma in discesa), MACD hist=-0.0033 (negativo e decrescente), 4h=-2.79%, 24h=-3.67%. Trend ribassista confermato. Realizza perdita limitata e libera slot per opportunità migliori con momentum positivo (DOT, UNI, SOL hanno segnali rialzisti più forti).",
+    "dry_run": false
   }
 ]
