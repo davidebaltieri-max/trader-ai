@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-11T06:20:37.946898+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.521,
+    "reason": "ATOM in IPERVENDUTO (RSI=31.4) + MACD histogram negativo e decrescente (-0.0034) + performance 24h=-3.78% + 4h=-2.91%. Segnale di trend ribassista confermato. Vendita tattica per liberare liquidità e ridurre posizioni in calo di momentum.",
+    "dry_run": false
+  }
+]
