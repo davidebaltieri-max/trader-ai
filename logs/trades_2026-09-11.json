@@ -79,5 +79,14 @@
     "price": 1.518,
     "reason": "ATOM in IPERVENDUTO (RSI=23.6) ma MACD hist decrescente e negativo (-0.0017) con momentum ribassista confermato. Alla formazione di un rimbalzo tecnico, vendita di posizione sovradimensionata (393.8 unità) per ridurre esposizione e liberare capitale. Protegge da ulteriori cali e consente rotation verso momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-11T09:01:39.126351+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.9685,
+    "reason": "DOT con MACD hist negativo decrescente (-0.0019) segnala trend ribassista in corso nonostante RSI neutro (53.1) e +0.77% 1h. Volume elevato (vol×=2.80) su 4h negativo (-1.76%) conferma pressione vendita. Trimming posizione sovradimensionata (540.8 unità) per contenere drawdown e cogliere eventuale rimbalzo su supporti.",
+    "dry_run": false
   }
 ]
