@@ -34,5 +34,14 @@
     "price": 0.1798,
     "reason": "RSI=73.4 IPERCOMPRATO (>70) + MACD hist positivo ma debole + 4h=-0.11% negativo. Segnale VENDITA MEDIA confermato. Posizione piccola di 0.04 unità: liquidare per ridurre rischio e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T06:31:25.746114+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 28.0,
+    "price": 87.775,
+    "reason": "RSI=34.5 (ipervenduto zone bassa) + MACD hist negativo decrescente (trend ribassista in esaurimento) + 1h=+0.11% + 24h=+2.08% + vol×=1.26x volume in aumento. Segnale ACQUISTO MEDIO: rimbalzo probabile dopo calo. Performance massima accetta volatilità (0.14%).",
+    "dry_run": false
   }
 ]
