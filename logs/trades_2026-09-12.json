@@ -43,5 +43,14 @@
     "price": 87.775,
     "reason": "RSI=34.5 (ipervenduto zone bassa) + MACD hist negativo decrescente (trend ribassista in esaurimento) + 1h=+0.11% + 24h=+2.08% + vol×=1.26x volume in aumento. Segnale ACQUISTO MEDIO: rimbalzo probabile dopo calo. Performance massima accetta volatilità (0.14%).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T06:31:27.107969+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 35.0,
+    "price": 2167.975,
+    "reason": "RSI=44.8 (zona neutra media) + 24h=+2.05% momentum positivo + MACD hist negativo ma 1h=+0.08% positivo. Aggressivo: ETH large cap con vol×=0.87x stabile. Acquisto medio-grande per diversificare verso large cap dopo calo moderato e caricare fase di ripresa.",
+    "dry_run": false
   }
 ]
