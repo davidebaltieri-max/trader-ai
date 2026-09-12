@@ -25,5 +25,14 @@
     "price": 0.9025,
     "reason": "DOT calo 24h=-8.80% (più marcato del mercato) + RSI=65.4 in zona rialzista ma tendenza ribassista 4h=-0.71%. Riduco posizione su calo significativo per contenere drawdown.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T06:31:24.185869+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 0.01,
+    "price": 0.1798,
+    "reason": "RSI=73.4 IPERCOMPRATO (>70) + MACD hist positivo ma debole + 4h=-0.11% negativo. Segnale VENDITA MEDIA confermato. Posizione piccola di 0.04 unità: liquidare per ridurre rischio e liberare slot.",
+    "dry_run": false
   }
 ]
