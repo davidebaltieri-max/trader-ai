@@ -79,5 +79,14 @@
     "price": 0.1793,
     "reason": "SEGNALE MEDIO: RSI=66.1 prossimo a ipercomprato ma non confermato, MACD hist=+0.0001 crescente, momentum 1h=+0.09% positivo. Controbilanciato da 24h=-0.06% ma vol×=0.72 suggerisce movimento preparatorio. Ticket piccolo per testare entry su layer 1 alternativo in rotazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T07:01:31.091857+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 15.0,
+    "price": 6.4125,
+    "reason": "SEGNALE MEDIO: RSI=65.4 in zona neutra-rialzista, MACD hist=+0.0021 crescente, momentum 1h=+0.23% forte, volume×=+2.17x eccezionale (massimo del paniere). 24h=-0.82% rappresenta dip-buying su volatilità=+0.12% contenuta. Entry strategica su infrastruttura layer 1 con volume spike.",
+    "dry_run": false
   }
 ]
