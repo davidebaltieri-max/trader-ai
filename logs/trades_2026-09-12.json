@@ -70,5 +70,14 @@
     "price": 2174.095,
     "reason": "SEGNALE FORTE: BULLISH_CROSS confermato su MACD (hist=+0.3048↑), RSI=63.1 in zona neutra-rialzista, momentum 1h=+0.34% 4h=+0.30% 24h=+2.22% positivo multi-timeframe, volume×=+1.78x elevato. ETH mostra la migliore convergenza di indicatori. Acquisto con ticket medio per sfruttare il breakout.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T07:01:29.829676+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 12.0,
+    "price": 0.1793,
+    "reason": "SEGNALE MEDIO: RSI=66.1 prossimo a ipercomprato ma non confermato, MACD hist=+0.0001 crescente, momentum 1h=+0.09% positivo. Controbilanciato da 24h=-0.06% ma vol×=0.72 suggerisce movimento preparatorio. Ticket piccolo per testare entry su layer 1 alternativo in rotazione.",
+    "dry_run": false
   }
 ]
