@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-12T06:01:30.648366+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 8.58,
+    "price": 0.1792,
+    "reason": "ADA RSI=70.2 (IPERCOMPRATO) + MACD hist positivo ma in zona overbought dopo calo 24h=-0.60%. Vendita difensiva per realizzare parzialmente e ridurre esposizione in zona di rischio correzione.",
+    "dry_run": false
+  }
+]
