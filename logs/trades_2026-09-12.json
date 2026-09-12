@@ -7,5 +7,14 @@
     "price": 0.1792,
     "reason": "ADA RSI=70.2 (IPERCOMPRATO) + MACD hist positivo ma in zona overbought dopo calo 24h=-0.60%. Vendita difensiva per realizzare parzialmente e ridurre esposizione in zona di rischio correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T06:01:31.886038+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 16.75,
+    "price": 5.3794,
+    "reason": "UNI RSI=71.8 (IPERCOMPRATO) + MACD hist=+0.0169 crescente ma RSI eccessivamente elevato dopo 4h=+3.51%. Vendita tattica per bloccare guadagni brevi e liberare capitale in zona di resistenza.",
+    "dry_run": false
   }
 ]
