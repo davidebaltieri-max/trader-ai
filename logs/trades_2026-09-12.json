@@ -61,5 +61,14 @@
     "price": 1.4261,
     "reason": "RSI=61.0 (zona neutra alta) + MACD hist=+0.0043 crescente, trend rialzista confermato + 1h=+0.83% forte spinta oraria + vol×=1.20x volume crescente. Segnale ACQUISTO MEDIO: momentum rialzista in corso, posizione già detenuta (340.56 unità), media-up per sfruttare trend.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T07:01:28.606392+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 25.0,
+    "price": 2174.095,
+    "reason": "SEGNALE FORTE: BULLISH_CROSS confermato su MACD (hist=+0.3048↑), RSI=63.1 in zona neutra-rialzista, momentum 1h=+0.34% 4h=+0.30% 24h=+2.22% positivo multi-timeframe, volume×=+1.78x elevato. ETH mostra la migliore convergenza di indicatori. Acquisto con ticket medio per sfruttare il breakout.",
+    "dry_run": false
   }
 ]
