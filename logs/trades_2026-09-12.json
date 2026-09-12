@@ -16,5 +16,14 @@
     "price": 5.3794,
     "reason": "UNI RSI=71.8 (IPERCOMPRATO) + MACD hist=+0.0169 crescente ma RSI eccessivamente elevato dopo 4h=+3.51%. Vendita tattica per bloccare guadagni brevi e liberare capitale in zona di resistenza.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T06:01:33.123073+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.9025,
+    "reason": "DOT calo 24h=-8.80% (più marcato del mercato) + RSI=65.4 in zona rialzista ma tendenza ribassista 4h=-0.71%. Riduco posizione su calo significativo per contenere drawdown.",
+    "dry_run": false
   }
 ]
