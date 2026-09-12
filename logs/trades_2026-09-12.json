@@ -52,5 +52,14 @@
     "price": 2167.975,
     "reason": "RSI=44.8 (zona neutra media) + 24h=+2.05% momentum positivo + MACD hist negativo ma 1h=+0.08% positivo. Aggressivo: ETH large cap con vol×=0.87x stabile. Acquisto medio-grande per diversificare verso large cap dopo calo moderato e caricare fase di ripresa.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-12T06:31:28.504797+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.0,
+    "price": 1.4261,
+    "reason": "RSI=61.0 (zona neutra alta) + MACD hist=+0.0043 crescente, trend rialzista confermato + 1h=+0.83% forte spinta oraria + vol×=1.20x volume crescente. Segnale ACQUISTO MEDIO: momentum rialzista in corso, posizione già detenuta (340.56 unità), media-up per sfruttare trend.",
+    "dry_run": false
   }
 ]
