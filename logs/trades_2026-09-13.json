@@ -7,5 +7,14 @@
     "price": 0.8741,
     "reason": "DOT in downtrend confermato: RSI=38.0 (zona bassa), MACD hist negativo e decrescente, -3.55% su 24h, 4h=-0.69%. Necessario ridurre posizioni per liberare slot e realizzare perdita contenuta prima di ulteriore deterioramento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-13T03:01:31.252107+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 19.99,
+    "price": 1.3924,
+    "reason": "ATOM IPERVENDUTO (RSI=25.9) ma con MACD negativo decrescente e -2.89% 24h: segnale ambiguo. Riduco posizione per liberare slot. RSI basso potrebbe portare rimbalzo, ma momentum negativo non lo supporta ancora.",
+    "dry_run": false
   }
 ]
