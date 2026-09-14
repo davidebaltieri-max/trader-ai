@@ -115,5 +115,14 @@
     "price": 0.8779,
     "reason": "DOT momentum ribassista confermato: MACD hist negativo decrescente + 4h=-0.48% + volatilità elevata (0.51%). RSI=43.8 in zona neutra ma trend decrescente. Riduco esposizione su L1 alternativo debole per rotazione verso momentum positivo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T14:31:30.657075+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.01,
+    "price": 1.3416,
+    "reason": "ATOM in BEARISH confermato: RSI=33.3 (ipervenduto ma in discesa), MACD hist=-0.0044 decrescente, 4h=-2.41% 24h=-2.97%, vol×=12.30x (spike anomalo di volume al ribasso). Trend ribassista in corso. Riduco posizione per liberare slot e capitale per opportunità rialziste più solide.",
+    "dry_run": false
   }
 ]
