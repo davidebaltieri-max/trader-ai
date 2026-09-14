@@ -169,5 +169,14 @@
     "price": 6.612,
     "reason": "VENDITA FORTE: RSI=72.0 (IPERCOMPRATO) + MACD hist crescente (+0.0025) ma posizione nel massimo locale con vol×=1.19 elevato. Realizza profitti su +4.94% 24h in condizione di ipercomprato. Libera slot per rotazione su asset con migliore risk/reward.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T23:01:23.937452+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 25.0,
+    "price": 0.1816,
+    "reason": "ACQUISTO MEDIO confermato: RSI=52.5 (zona neutra bassa), MACD hist=-0.0003 (prossimo a cross rialzista), volume×=8.49x (spike marcato), 24h=+3.81% momentum positivo. ADA mostra segnali di accumulazione con volume anomalo dopo calo 4h=-1.89%. Posizionamento defensivo ma aggressivo su breakout potenziale.",
+    "dry_run": false
   }
 ]
