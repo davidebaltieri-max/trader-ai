@@ -106,5 +106,14 @@
     "price": 1.3412,
     "reason": "ATOM in IPERVENDUTO (RSI=32.9<30) + MACD hist negativo decrescente + 4h=-2.15% + 24h=-2.75%. Volume anomalo (11.26x) segnala capitolazione. Vendita difensiva prima di ulteriore calo. Stop loss preventivo su posizione weakness.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T14:01:40.983506+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.8779,
+    "reason": "DOT momentum ribassista confermato: MACD hist negativo decrescente + 4h=-0.48% + volatilità elevata (0.51%). RSI=43.8 in zona neutra ma trend decrescente. Riduco esposizione su L1 alternativo debole per rotazione verso momentum positivo.",
+    "dry_run": false
   }
 ]
