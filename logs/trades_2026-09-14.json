@@ -52,5 +52,14 @@
     "price": 0.1819,
     "reason": "VENDITA FORTE: RSI=70.6 (IPERCOMPRATO) + MACD BEARISH_CROSS (hist≈0 decrescente) + 4h=-0.12% negativo. Segnali multipli di correzione imminente. Vendo 0.06 unità (~€11) per ridurre esposizione su posizione vulnerabile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T12:31:22.575112+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 12.01,
+    "price": 1.3596,
+    "reason": "VENDITA MEDIA: RSI=38.1 (zona bassa) + MACD hist negativo decrescente + 4h=-1.82% + 24h=-1.25%. Trend ribassista confermato. Vendo 8.82 unità (~€12) per limitare ulteriori perdite e liberare capitale.",
+    "dry_run": false
   }
 ]
