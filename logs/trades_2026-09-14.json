@@ -187,5 +187,14 @@
     "price": 6.593,
     "reason": "ACQUISTO MEDIO: RSI=64.6 (prossimo a overbought ma non ancora), MACD hist=-0.0039 (decrescente ma momentum ancora positivo 24h=+4.56%), 4h=+0.12% holding strength. Volume moderato, volatilità controllata 0.60%. Best performer del set con consolidamento post-rialzo. Dip-buying su micro-ritracciamento 1h/-0.15%.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T23:01:27.254314+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 6.0,
+    "price": 2191.615,
+    "reason": "VENDITA MEDIA: RSI=56.7 (zona neutra alta), MACD BEARISH_CROSS confermato (hist=-0.4843 ↓), 1h=-0.56% pressione ribassista. ETH mostra cedimento tecnico su multi-timeframe (4h=-0.21%, 24h non riesce a tenere momentum). Posizione simbolica (0.027 ETH) per ridurre esposizione su segnale debole. Profit-taking difensivo.",
+    "dry_run": false
   }
 ]
