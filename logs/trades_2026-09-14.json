@@ -160,5 +160,14 @@
     "price": 6.6685,
     "reason": "RSI=78.5 🔴IPERCOMPRATO + MACD hist positivo ma segnale di correzione imminente. 1h=+1.37% positivo però la posizione ha accumulato +4.02% in 24h. Vendita parziale per lock-in profitti e ridurre esposizione su asset in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T22:31:16.689477+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 0.05,
+    "price": 6.612,
+    "reason": "VENDITA FORTE: RSI=72.0 (IPERCOMPRATO) + MACD hist crescente (+0.0025) ma posizione nel massimo locale con vol×=1.19 elevato. Realizza profitti su +4.94% 24h in condizione di ipercomprato. Libera slot per rotazione su asset con migliore risk/reward.",
+    "dry_run": false
   }
 ]
