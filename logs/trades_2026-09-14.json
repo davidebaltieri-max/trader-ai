@@ -178,5 +178,14 @@
     "price": 0.1816,
     "reason": "ACQUISTO MEDIO confermato: RSI=52.5 (zona neutra bassa), MACD hist=-0.0003 (prossimo a cross rialzista), volume×=8.49x (spike marcato), 24h=+3.81% momentum positivo. ADA mostra segnali di accumulazione con volume anomalo dopo calo 4h=-1.89%. Posizionamento defensivo ma aggressivo su breakout potenziale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T23:01:25.606713+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 20.0,
+    "price": 6.593,
+    "reason": "ACQUISTO MEDIO: RSI=64.6 (prossimo a overbought ma non ancora), MACD hist=-0.0039 (decrescente ma momentum ancora positivo 24h=+4.56%), 4h=+0.12% holding strength. Volume moderato, volatilità controllata 0.60%. Best performer del set con consolidamento post-rialzo. Dip-buying su micro-ritracciamento 1h/-0.15%.",
+    "dry_run": false
   }
 ]
