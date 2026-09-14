@@ -151,5 +151,14 @@
     "price": 0.8751,
     "reason": "DOT in zona neutra (RSI=49.0) ma MACD hist negativo decrescente, momentum ribassista in corso. 4h=-0.76% 24h=-0.41% confermano debolezza. Vendita media per reposizionamento verso settori con momentum positivo (BTC, LINK, UNI).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T21:01:26.346491+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 23.58,
+    "price": 6.6685,
+    "reason": "RSI=78.5 🔴IPERCOMPRATO + MACD hist positivo ma segnale di correzione imminente. 1h=+1.37% positivo però la posizione ha accumulato +4.02% in 24h. Vendita parziale per lock-in profitti e ridurre esposizione su asset in ipercomprato.",
+    "dry_run": false
   }
 ]
