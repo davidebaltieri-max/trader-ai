@@ -70,5 +70,14 @@
     "price": 1.3294,
     "reason": "SEGNALE FORTE ACQUISTO: RSI=25.6 IPERVENDUTO + vol×=5.18x (volume massivo) + 24h=-3.55% (calo moderato perfetto per dip-buying). ATOM è in liquidazione tecnica dopo il sell-off. Il profilo PERFORMANTE sfrutta questi rimbalzi da ipervenduto. Dimensione operazione €30 giustificata dalla forza del segnale e dal volume eccezionale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T13:31:27.003562+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.338,
+    "reason": "ATOM in IPERVENDUTO (RSI=32.6<30), volume esplosivo (+11.66x), segnale di rimbalzo forte. Calo di -3.56% in 24h dopo spike di volatilità (+0.80%) indica exhausted selling. MACD ancora negativo ma RSI suggerisce imminente recovery. Dip-buying opportuno per profilo PERFORMANTE.",
+    "dry_run": false
   }
 ]
