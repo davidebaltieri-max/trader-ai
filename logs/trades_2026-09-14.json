@@ -97,5 +97,14 @@
     "price": 6.4945,
     "reason": "AVAX: RSI=62.3 (borderline ipercomprato), MA MACD hist=+0.0077 CRESCENTE (unico positive nel portafoglio), 4h=+1.58% + 24h=+2.92% + volume massivo (+4.13x). Segnale MODERATO: confirmation di trend rialzista ancora intatto, integrazione con posizione esistente (2.32 AVAX). Micro-dip buying cauto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T14:01:38.248970+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.3412,
+    "reason": "ATOM in IPERVENDUTO (RSI=32.9<30) + MACD hist negativo decrescente + 4h=-2.15% + 24h=-2.75%. Volume anomalo (11.26x) segnala capitolazione. Vendita difensiva prima di ulteriore calo. Stop loss preventivo su posizione weakness.",
+    "dry_run": false
   }
 ]
