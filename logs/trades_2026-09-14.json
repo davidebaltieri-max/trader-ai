@@ -7,5 +7,14 @@
     "price": 67530.715,
     "reason": "RSI=70.9 (IPERCOMPRATO) + 1h=-0.15% (debole) + momentum locale esaurito. BTC ha segnalato la cima locale a breve termine. Realizzo profitti su una posizione microscopica (0.00016647 BTC = ~€11.25) per liberare slot e cash.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T10:31:23.720864+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.3737,
+    "reason": "RSI=43.5 (zona neutra bassa) + MACD BEARISH_CROSS + 4h=-0.52% + 24h=-1.60%. Momentum ribassista confermato. Vendo 20€ (~14.6 ATOM su 334.5) per ridurre esposizione su asset in calo e liberare slot.",
+    "dry_run": false
   }
 ]
