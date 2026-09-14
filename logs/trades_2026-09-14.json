@@ -61,5 +61,14 @@
     "price": 1.3596,
     "reason": "VENDITA MEDIA: RSI=38.1 (zona bassa) + MACD hist negativo decrescente + 4h=-1.82% + 24h=-1.25%. Trend ribassista confermato. Vendo 8.82 unità (~€12) per limitare ulteriori perdite e liberare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T13:01:52.316525+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.3294,
+    "reason": "SEGNALE FORTE ACQUISTO: RSI=25.6 IPERVENDUTO + vol×=5.18x (volume massivo) + 24h=-3.55% (calo moderato perfetto per dip-buying). ATOM è in liquidazione tecnica dopo il sell-off. Il profilo PERFORMANTE sfrutta questi rimbalzi da ipervenduto. Dimensione operazione €30 giustificata dalla forza del segnale e dal volume eccezionale.",
+    "dry_run": false
   }
 ]
