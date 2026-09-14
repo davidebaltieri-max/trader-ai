@@ -34,5 +34,14 @@
     "price": 88.115,
     "reason": "RSI=72.4 IPERCOMPRATO + volume elevato (vol×=+1.60x) suggerisce potenziale ritracciamento. Proteggi profitti dopo +2.45% in 24h.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T11:01:37.630524+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.3706,
+    "reason": "RSI=43.0 (zona neutra bassa) + MACD hist decrescente (-0.0007) + prezzo in calo 1h (-0.67%) e 4h (-1.38%) + 24h negativo (-1.44%). Trend ribassista confermato, riduci esposizione.",
+    "dry_run": false
   }
 ]
