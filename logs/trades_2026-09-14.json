@@ -142,5 +142,14 @@
     "price": 1.3356,
     "reason": "ATOM in IPERVENDUTO (RSI=25.8) ma MACD decrescente e 4h=-2.22% 24h=-3.63%. Segnale di vendita moderato per ridurre esposizione su asset in trend ribassista confermato. Libera liquidità per rotazione verso momentum positivi (BTC, LINK, UNI, AVAX).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T16:01:35.845114+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.8751,
+    "reason": "DOT in zona neutra (RSI=49.0) ma MACD hist negativo decrescente, momentum ribassista in corso. 4h=-0.76% 24h=-0.41% confermano debolezza. Vendita media per reposizionamento verso settori con momentum positivo (BTC, LINK, UNI).",
+    "dry_run": false
   }
 ]
