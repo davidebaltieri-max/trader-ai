@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-14T10:31:22.209547+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 11.24,
+    "price": 67530.715,
+    "reason": "RSI=70.9 (IPERCOMPRATO) + 1h=-0.15% (debole) + momentum locale esaurito. BTC ha segnalato la cima locale a breve termine. Realizzo profitti su una posizione microscopica (0.00016647 BTC = ~€11.25) per liberare slot e cash.",
+    "dry_run": false
+  }
+]
