@@ -16,5 +16,14 @@
     "price": 1.3737,
     "reason": "RSI=43.5 (zona neutra bassa) + MACD BEARISH_CROSS + 4h=-0.52% + 24h=-1.60%. Momentum ribassista confermato. Vendo 20€ (~14.6 ATOM su 334.5) per ridurre esposizione su asset in calo e liberare slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T11:01:34.809414+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 12.0,
+    "price": 0.1824,
+    "reason": "RSI=77.0 IPERCOMPRATO + MACD hist crescente ma momentum debole (hist=+0.0003). Correzione probabile. Realizza profitti su posizione in overextension.",
+    "dry_run": false
   }
 ]
