@@ -133,5 +133,14 @@
     "price": 0.8834,
     "reason": "DOT stagnante e debolezza relativa: RSI=49.3 (neutrale), MACD hist=-0.0003 decrescente, 4h=+0.18% 24h=+0.19% (momentum debole vs mercato). Non giustifica posizione in portafoglio performante. Vendo per posizionarmi su asset con segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T16:01:34.156258+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.3356,
+    "reason": "ATOM in IPERVENDUTO (RSI=25.8) ma MACD decrescente e 4h=-2.22% 24h=-3.63%. Segnale di vendita moderato per ridurre esposizione su asset in trend ribassista confermato. Libera liquidità per rotazione verso momentum positivi (BTC, LINK, UNI, AVAX).",
+    "dry_run": false
   }
 ]
