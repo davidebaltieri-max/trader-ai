@@ -79,5 +79,14 @@
     "price": 1.338,
     "reason": "ATOM in IPERVENDUTO (RSI=32.6<30), volume esplosivo (+11.66x), segnale di rimbalzo forte. Calo di -3.56% in 24h dopo spike di volatilità (+0.80%) indica exhausted selling. MACD ancora negativo ma RSI suggerisce imminente recovery. Dip-buying opportuno per profilo PERFORMANTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-14T13:31:29.266257+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.1814,
+    "reason": "ADA: RSI=53.2 (zona neutra), volume +1.98x sopra media, volatilità elevata (+0.41%), 24h=+2.69% positivo. Calo 1h/4h moderato (-0.64%/-0.86%) su pullback tecnico, non rottura trend. Segnale MEDIO di accumulo prima di possibile ripartenza. Layer 1 alternativo in momentum.",
+    "dry_run": false
   }
 ]
