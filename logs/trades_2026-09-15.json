@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-15T00:01:29.268188+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 24.99,
+    "price": 1.371,
+    "reason": "VENDITA MEDIA confermata: RSI=62.8 (>60) + MACD BEARISH_CROSS (hist=-0.0000 decrescente) + 4h=-1.29% + 24h=-1.36%. ATOM mostra momentum ribassista con cross ribassista del MACD. Realizzo parzialmente per ridurre esposizione e liberare liquidità in fase di correzione generale (BTC RSI=35.1 ipervenduto, mercato volatile).",
+    "dry_run": false
+  }
+]
