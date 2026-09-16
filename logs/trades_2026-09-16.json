@@ -34,5 +34,14 @@
     "price": 0.8478,
     "reason": "RSI=75.2 IPERCOMPRATO (>70) + momentum rialzista esaurito. DOT ha fatto +1.90% in 4h ma è in zona di presa di profitto. Riduco posizione per lock-in gains e libero capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-16T15:01:42.725848+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 18.0,
+    "price": 0.166,
+    "reason": "RSI=31.8 ipervenduto ma MACD hist=-0.0001 ↓decrescente = downtrend confermato. Vol×=2.36x + calo -4.51% in 24h. Riduco per re-allocare su segnali più favorevoli.",
+    "dry_run": false
   }
 ]
