@@ -61,5 +61,14 @@
     "price": 5.3861,
     "reason": "SEGNALE FORTE: RSI=44.4 (zona neutra-bassa) + MACD BULLISH_CROSS confermato + 1h=+1.43% + 4h=+1.69% + vol×=1.79x (volume elevato). UNI mostra momentum rialzista più marcato rispetto al resto del portafoglio. Tre timeframe positivi + incrocio bullish = alta probabilità di continuazione del movimento. Aggressivo su momentum DeFi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-16T18:04:26.384581+00:00",
+    "action": "buy",
+    "pair": "BTC-EUR",
+    "amount_eur": 20.0,
+    "price": 65743.525,
+    "reason": "SEGNALE MEDIO-FORTE: RSI=46.2 (neutrale) + MACD BULLISH_CROSS appena formato + hist=+3.9962 crescente + 1h=+0.14% + vol×=1.12x. BTC mostra inversione tecnica su MACD; incrocio bullish è segnale classico di inizio trend rialzista. Consolidamento di base nel portafoglio con esposizione large cap.",
+    "dry_run": false
   }
 ]
