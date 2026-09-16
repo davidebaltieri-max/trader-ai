@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-16T08:31:26.535753+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.2855,
+    "reason": "RSI=25.3 IPERVENDUTO + MACD bearish cross (hist=-0.0002↓) + performance 24h=-6.11%. Segnale contraddittorio (RSI invita a buy, ma MACD e trend 24h confermano sell). Posizione eccessiva (€335.66). Realizzo profitti parziali, mantengo core per eventuale rimbalzo da ipervenduto in ciclo successivo.",
+    "dry_run": false
+  }
+]
