@@ -70,5 +70,14 @@
     "price": 65743.525,
     "reason": "SEGNALE MEDIO-FORTE: RSI=46.2 (neutrale) + MACD BULLISH_CROSS appena formato + hist=+3.9962 crescente + 1h=+0.14% + vol×=1.12x. BTC mostra inversione tecnica su MACD; incrocio bullish è segnale classico di inizio trend rialzista. Consolidamento di base nel portafoglio con esposizione large cap.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-16T18:04:27.985929+00:00",
+    "action": "buy",
+    "pair": "XRP-EUR",
+    "amount_eur": 18.0,
+    "price": 1.1017,
+    "reason": "SEGNALE MEDIO: XRP mostra RSI=34.1 (ipervenduto) + MACD BULLISH_CROSS appena formato + 1h=+0.42% + vol×=1.22x. Nonostante -9.16% a 24h, il rimbalzo su candela 1h + incrocio bullish suggerisce possibile dip-buying in asset depresso. Rischio moderato, potenziale rimbalzo.",
+    "dry_run": false
   }
 ]
