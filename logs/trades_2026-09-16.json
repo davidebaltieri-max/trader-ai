@@ -43,5 +43,14 @@
     "price": 0.166,
     "reason": "RSI=31.8 ipervenduto ma MACD hist=-0.0001 ↓decrescente = downtrend confermato. Vol×=2.36x + calo -4.51% in 24h. Riduco per re-allocare su segnali più favorevoli.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-16T18:01:36.787053+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 18.82,
+    "price": 6.258,
+    "reason": "AVAX: RSI=34.9 (ipervenduto borderline), MACD BEARISH_CROSS confermato con hist=-0.0006↓, 1h=-0.13% 4h=-0.54% 24h=-3.80%, vol×=+0.92x. Momentum ribassista consolidato. Vendo posizione moderata per gestire drawdown e preservare capitale.",
+    "dry_run": false
   }
 ]
