@@ -16,5 +16,14 @@
     "price": 1.2853,
     "reason": "RSI=25.2 IPERVENDUTO ma MACD hist decrescente (trend ribassista in corso). Anche se ipervenduto, l'istogramma MACD negativo e decrescente segnala continuazione del ribasso. Vendita preventiva per limitare ulteriori perdite (-6.26% 24h). Rebalancing verso posizioni con momentum positivo confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-16T14:31:25.314361+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.8424,
+    "reason": "DOT in IPERCOMPRATO (RSI=73.0 >> 70). Prezzo a €0.8424 dopo +1.80% in 4h. MACD hist positivo ma RSI extremo suggerisce correzione imminente. Take profit su momentum rialzista. Riduco esposizione su questa posizione sovraestesa.",
+    "dry_run": false
   }
 ]
