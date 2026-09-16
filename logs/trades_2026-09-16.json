@@ -52,5 +52,14 @@
     "price": 6.258,
     "reason": "AVAX: RSI=34.9 (ipervenduto borderline), MACD BEARISH_CROSS confermato con hist=-0.0006↓, 1h=-0.13% 4h=-0.54% 24h=-3.80%, vol×=+0.92x. Momentum ribassista consolidato. Vendo posizione moderata per gestire drawdown e preservare capitale.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-16T18:04:24.414277+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 5.3861,
+    "reason": "SEGNALE FORTE: RSI=44.4 (zona neutra-bassa) + MACD BULLISH_CROSS confermato + 1h=+1.43% + 4h=+1.69% + vol×=1.79x (volume elevato). UNI mostra momentum rialzista più marcato rispetto al resto del portafoglio. Tre timeframe positivi + incrocio bullish = alta probabilità di continuazione del movimento. Aggressivo su momentum DeFi.",
+    "dry_run": false
   }
 ]
