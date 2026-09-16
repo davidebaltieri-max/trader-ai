@@ -79,5 +79,14 @@
     "price": 1.1017,
     "reason": "SEGNALE MEDIO: XRP mostra RSI=34.1 (ipervenduto) + MACD BULLISH_CROSS appena formato + 1h=+0.42% + vol×=1.22x. Nonostante -9.16% a 24h, il rimbalzo su candela 1h + incrocio bullish suggerisce possibile dip-buying in asset depresso. Rischio moderato, potenziale rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-16T18:04:29.513442+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 0.8492,
+    "reason": "RIDUZIONE TATTICA: DOT mostra RSI=64.9 (prossimo ipercomprato, zona di avvertimento) + momentum MACD ancora positivo ma stabilizzato (hist=+0.0002, quasi flat). Performance 4h=+0.22% e 24h=-0.69% suggerisce segnale esaurito. Realizzare parziali su posizione sovrappesata (291 unità) prima che RSI superi 70. Ridistribuire il capitale su segnali più forti (UNI/BTC/XRP).",
+    "dry_run": false
   }
 ]
