@@ -16,5 +16,14 @@
     "price": 1.3476,
     "reason": "RSI=70.0 IPERCOMPRATO + vol×2.50. Presa di profitto strategica per ridurre a 7/7 slot.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-17T14:03:25.051726+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.9,
+    "reason": "RSI=72.9 IPERCOMPRATO, MACD hist crescente ma saturo. Posizione profittevole (+6.19% 24h). Vendi per ridurre a 7/7 slot e bloccare guadagni su momentum saturo.",
+    "dry_run": false
   }
 ]
