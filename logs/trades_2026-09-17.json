@@ -34,5 +34,14 @@
     "price": 0.9219,
     "reason": "DOT RSI=75.6 🔴IPERCOMPRATO + 1h=-0.49% (divergenza ribassista). Sebbene 4h=+2.51% e 24h=+8.53%, la combinazione RSI estremo + calo 1h segnala potenziale ritracciamento. Vendi parzialmente per de-risking e recuperare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-17T18:01:29.667870+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 24.99,
+    "price": 1.3592,
+    "reason": "RSI=74.8 IPERCOMPRATO + MACD hist positivo ma segnale di estensione. ATOM +5.30% in 24h. Vendi parzialmente per take profit e riduci esposizione prima di possibile pullback.",
+    "dry_run": false
   }
 ]
