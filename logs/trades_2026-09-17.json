@@ -25,5 +25,14 @@
     "price": 0.9,
     "reason": "RSI=72.9 IPERCOMPRATO, MACD hist crescente ma saturo. Posizione profittevole (+6.19% 24h). Vendi per ridurre a 7/7 slot e bloccare guadagni su momentum saturo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-17T17:01:32.045378+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 25.0,
+    "price": 0.9219,
+    "reason": "DOT RSI=75.6 🔴IPERCOMPRATO + 1h=-0.49% (divergenza ribassista). Sebbene 4h=+2.51% e 24h=+8.53%, la combinazione RSI estremo + calo 1h segnala potenziale ritracciamento. Vendi parzialmente per de-risking e recuperare liquidità.",
+    "dry_run": false
   }
 ]
