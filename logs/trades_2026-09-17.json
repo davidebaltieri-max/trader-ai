@@ -43,5 +43,14 @@
     "price": 1.3592,
     "reason": "RSI=74.8 IPERCOMPRATO + MACD hist positivo ma segnale di estensione. ATOM +5.30% in 24h. Vendi parzialmente per take profit e riduci esposizione prima di possibile pullback.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-17T18:01:31.220845+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 0.9287,
+    "reason": "RSI=71.5 IPERCOMPRATO + volat=1.06% (media-alta). DOT ha corso +9.70% in 24h. Realizza guadagni su posizione che ha superato zona ipercomprata. Mantieni core holding.",
+    "dry_run": false
   }
 ]
