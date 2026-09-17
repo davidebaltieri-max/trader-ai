@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-17T09:31:25.954729+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 23.96,
+    "price": 0.174,
+    "reason": "RSI=80.1 IPERCOMPRATO + MACD al limite. Correzione probabile. Realizza profitti su spike.",
+    "dry_run": false
+  }
+]
