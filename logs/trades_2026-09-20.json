@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-20T10:01:29.998846+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 0.9607,
+    "reason": "RSI=73.2 IPERCOMPRATO + 4h=+1.24% momentum in calo rispetto a 1h=+1.32% (divergenza) + MACD hist positivo ma fragile. Realizza profitti su posizione overextended.",
+    "dry_run": false
+  }
+]
