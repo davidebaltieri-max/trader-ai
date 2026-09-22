@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-22T21:01:29.611893+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.5782,
+    "reason": "RSI=73.3 IPERCOMPRATO + MACD hist positivo ma senza momentum ulteriore. Profit-taking su posizione in gain. Libera slot per rotazione tattica.",
+    "dry_run": false
+  }
+]
