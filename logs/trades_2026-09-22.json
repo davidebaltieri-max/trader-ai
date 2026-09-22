@@ -34,5 +34,14 @@
     "price": 1.6191,
     "reason": "RSI=80.5 IPERCOMPRATO + MACD hist positivo ma senza cross bullish confermato. Volatilità elevata (0.71%) e momentum già in fase di estensione. Realizza profitti su posizione ipercomprata per liberare slot e ridurre rischio correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-22T23:31:19.534468+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 13.95,
+    "price": 8.8365,
+    "reason": "RSI=79.5 IPERCOMPRATO + volatilità ALTA (1.69%) + 1h=-1.34% bearish. Pump di 12.11% in 24h con volume×=10.22 indica spike speculativo. Vendi per proteggere profitti e liberare slot per opportunità di dip-buying.",
+    "dry_run": false
   }
 ]
