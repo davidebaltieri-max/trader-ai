@@ -7,5 +7,14 @@
     "price": 1.5782,
     "reason": "RSI=73.3 IPERCOMPRATO + MACD hist positivo ma senza momentum ulteriore. Profit-taking su posizione in gain. Libera slot per rotazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-22T21:31:09.913986+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 25.0,
+    "price": 8.2455,
+    "reason": "RSI 74.3 (IPERCOMPRATO) + MACD hist positivo crescente ma momentum su 1h=+0.45% non sostenuto. Profilo PERFORMANTE: realizzo profitti su rally del +5.44% in 24h prima di possibile correzione. Vendo 3.03 UNI (~25€) per liberare slot e ridurre esposizione a ipercomprato.",
+    "dry_run": false
   }
 ]
