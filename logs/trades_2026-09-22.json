@@ -16,5 +16,14 @@
     "price": 8.2455,
     "reason": "RSI 74.3 (IPERCOMPRATO) + MACD hist positivo crescente ma momentum su 1h=+0.45% non sostenuto. Profilo PERFORMANTE: realizzo profitti su rally del +5.44% in 24h prima di possibile correzione. Vendo 3.03 UNI (~25€) per liberare slot e ridurre esposizione a ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-22T21:31:11.309521+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 20.0,
+    "price": 1.5733,
+    "reason": "RSI 70.0 (IPERCOMPRATO) + MACD hist positivo ma 1h=-0.63% segnala momentum in calo. Vendo 12.71 ATOM (~20€) per ridurre posizione a ipercomprato, consolidare guadagni (+0.43% 24h) e liberare liquidità per opportunità.",
+    "dry_run": false
   }
 ]
