@@ -34,5 +34,14 @@
     "price": 1.4143,
     "reason": "XRP RSI=77.5 IPERCOMPRATO + momentum eccessivo (vol×=2.47x). Realizza profitti su posizione in rialzo forte (24h=+7.01%). Vendita parziale per ridurre rischio correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-23T04:01:27.036957+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 12.0,
+    "price": 1.0578,
+    "reason": "DOT MACD=hist negativo DECRESCENTE (momentum ribassista). RSI=58.3 in calo relativo. 1h=+0.27% ma 4h=-0.24% mostra debolezza. Ridimensionamento per liberare liquidità.",
+    "dry_run": false
   }
 ]
