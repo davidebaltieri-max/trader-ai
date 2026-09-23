@@ -43,5 +43,14 @@
     "price": 1.0578,
     "reason": "DOT MACD=hist negativo DECRESCENTE (momentum ribassista). RSI=58.3 in calo relativo. 1h=+0.27% ma 4h=-0.24% mostra debolezza. Ridimensionamento per liberare liquidità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-23T23:31:52.121673+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 20.0,
+    "price": 2358.745,
+    "reason": "ETH in IPERCOMPRATO (RSI=72.2 > 70). Segnale VENDITA MEDIA confermato: RSI elevato + MACD hist positivo ma con volatilità in aumento (+0.18%). Realizza profitti parziali su posizione sovraesposta in momentum rialzista maturo. Libera slot per rotazione tattica.",
+    "dry_run": false
   }
 ]
