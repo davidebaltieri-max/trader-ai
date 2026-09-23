@@ -16,5 +16,14 @@
     "price": 1.6086,
     "reason": "RSI=73.2 IPERCOMPRATO (>70). MACD hist positivo ma in fase di consolidamento dopo forte rialzo 24h=+2.09%. Momentum decelerato. Realizzo profitti su posizione già forte (125 unità). Rimango in ATOM con residuo per mantenere esposizione al settore interoperabilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-23T03:31:14.348100+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 12.0,
+    "price": 1.4033,
+    "reason": "XRP RSI=72.7 IPERCOMPRATO + MACD hist positivo ma momentum decelerato. 24h forte (+6.03%) suggerisce presa di profitto su parte della posizione (16.25 unità). Volatilità contenuta (0.36%) indica possibile correzione imminente.",
+    "dry_run": false
   }
 ]
