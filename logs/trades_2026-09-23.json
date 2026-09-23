@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-23T00:02:08.813913+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.6128,
+    "reason": "RSI=74.5 IPERCOMPRATO + MACD hist positivo ma trending verso correzione dopo +2.88% in 4h. Prendere profitti su momentum rialzista esaurito. Realizza +1.68% 24h.",
+    "dry_run": false
+  }
+]
