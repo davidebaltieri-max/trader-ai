@@ -52,5 +52,14 @@
     "price": 2358.745,
     "reason": "ETH in IPERCOMPRATO (RSI=72.2 > 70). Segnale VENDITA MEDIA confermato: RSI elevato + MACD hist positivo ma con volatilità in aumento (+0.18%). Realizza profitti parziali su posizione sovraesposta in momentum rialzista maturo. Libera slot per rotazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-23T23:31:53.644984+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 17.99,
+    "price": 1.4896,
+    "reason": "ATOM mostra debolezza strutturale: RSI=40.7 (ancora resiliente) MA MACD hist NEGATIVO e DECRESCENTE (unico asset con momentum ribassista confermato). Performance 24h=-5.77%. Vendi per uscire da trend negativo in corso prima di ulteriore deterioramento.",
+    "dry_run": false
   }
 ]
