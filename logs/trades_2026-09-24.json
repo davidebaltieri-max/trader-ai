@@ -25,5 +25,14 @@
     "price": 1.5606,
     "reason": "RSI=73.2 IPERCOMPRATO (>70) + MACD hist positivo ma in zona di ritracciamento probabile. Momentum rialzista a 24h debole (-1.83%). Realizza profitti su posizione forte prima della correzione attesa. Libera slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-24T16:01:38.368732+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 42.0,
+    "price": 1.0309,
+    "reason": "RSI=81.4 🔴IPERCOMPRATO + momentum eccessivo (4h=+4.81%, 24h=+6.05%). Realizzare profitti su posizione in forte rialzo. Segnale VENDITA FORTE confermato. Recuperare liquidità per rotazione.",
+    "dry_run": false
   }
 ]
