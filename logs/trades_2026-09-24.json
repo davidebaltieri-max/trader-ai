@@ -43,5 +43,14 @@
     "price": 11.2109,
     "reason": "RSI=72.6 🔴IPERCOMPRATO + volume molto alto (vol×=1.72) + momentum decelerazione imminente. MACD hist ancora positivo ma RSI segnala correzione. Ridurre posizione su picco.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-24T16:01:42.860384+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.5697,
+    "reason": "RSI=74.2 🔴IPERCOMPRATO + divergenza con 24h=-1.54% (momentum decrescente). Volume molto alto (vol×=1.61) ma trend intra-day sospetto. Take profit su rally rapido.",
+    "dry_run": false
   }
 ]
