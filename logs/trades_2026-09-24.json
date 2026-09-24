@@ -70,5 +70,14 @@
     "price": 103.11,
     "reason": "RSI=74.0 (IPERCOMPRATO) + 4h=+2.38% momentum esteso + MACD hist positivo ma saturato. SOL a €103.11 con +2.77% in 24h mostra segnali di esaurimento. Vendo 20€ (circa 0.19 unità) per proteggere da correzione imminente. Possibile riacquisto sotto €100.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-24T19:31:24.166358+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 0.2,
+    "price": 1.0335,
+    "reason": "RSI=74.0 IPERCOMPRATO + 1h=+1.01% momentum corto termine esaurito. DOT ha segnato +6.82% in 24h con volatilità elevata (0.95%). Profit-taking strategico su posizione minuscola (0.199 unità = ~€0.206). Libera slot per rotazione verso asset con migliore risk/reward.",
+    "dry_run": false
   }
 ]
