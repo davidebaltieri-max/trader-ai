@@ -7,5 +7,14 @@
     "price": 0.9667,
     "reason": "STOP LOSS -5.19% attivato. DOT con BEARISH_CROSS MACD, RSI neutro, trend ribassista confermato. Liquidità per dip-buying su ipervenduti (BTC/ETH/SOL/XRP/UNI)",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-24T15:01:33.296395+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.5527,
+    "reason": "RSI=70.8 IPERCOMPRATO + MACD hist positivo ma momentum prossimo a esaurirsi. Volatilità media (0.90%) e volume elevato (3.10x) confermano pressione al rialzo insostenibile. Sell media per realizzare profitti e liberare slot per rotazione settoriale. Stop loss naturale: precedente supporto 4h.",
+    "dry_run": false
   }
 ]
