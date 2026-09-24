@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-24T09:31:17.730277+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 50.0,
+    "price": 0.9667,
+    "reason": "STOP LOSS -5.19% attivato. DOT con BEARISH_CROSS MACD, RSI neutro, trend ribassista confermato. Liquidità per dip-buying su ipervenduti (BTC/ETH/SOL/XRP/UNI)",
+    "dry_run": false
+  }
+]
