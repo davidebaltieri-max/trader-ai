@@ -79,5 +79,14 @@
     "price": 1.0335,
     "reason": "RSI=74.0 IPERCOMPRATO + 1h=+1.01% momentum corto termine esaurito. DOT ha segnato +6.82% in 24h con volatilità elevata (0.95%). Profit-taking strategico su posizione minuscola (0.199 unità = ~€0.206). Libera slot per rotazione verso asset con migliore risk/reward.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-24T21:38:57.897834+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 18.0,
+    "price": 102.87,
+    "reason": "RSI=73.7 (IPERCOMPRATO) + momentum positivo ma vulnerability su correzione. SOL +2.06% in 24h su 1.80 unità: riduco esposizione per proteggere guadagni. Volume moderato (0.52x) non supporta ulteriore rialzo.",
+    "dry_run": false
   }
 ]
