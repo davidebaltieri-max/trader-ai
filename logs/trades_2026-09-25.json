@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-25T12:01:28.910713+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 0.63,
+    "price": 1.4032,
+    "reason": "RSI=83.8 🔴IPERCOMPRATO + vol×=+1.20x (momentum elevato) + 1h=+0.80% (già in rialzo). Profitto realizzato su rally di +8.30% in 24h. Vendita forte per bloccare guadagni prima di possibile correzione.",
+    "dry_run": false
+  }
+]
