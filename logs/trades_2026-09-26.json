@@ -7,5 +7,14 @@
     "price": 1.5859,
     "reason": "RSI=75.3 IPERCOMPRATO + MACD hist positivo ma segnale di correzione imminente. ATOM ha già realizzato +2.18% in 24h e +1.99% in 4h. Vendita parziale (circa 50% della posizione) per cristallizzare guadagni e liberare capitale per opportunità su asset con segnali di acquisto più solidi. Take profit preventivo su posizione in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-26T02:31:15.592057+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 13.61,
+    "price": 1.5865,
+    "reason": "RSI=70.3 IPERCOMPRATO + MACD hist positivo ma su livelli estremi. Realizza profitti su posizione in zona di rischio correzione. ATOM ha già +1.20% 24h, segnale di vendita media confermato.",
+    "dry_run": false
   }
 ]
