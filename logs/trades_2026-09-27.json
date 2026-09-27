@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-27T13:31:13.342467+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 22.0,
+    "price": 74641.805,
+    "reason": "VENDITA MEDIA: RSI=70.5 IPERCOMPRATO (segnale di correzione), MACD hist positivo crescente ma RSI eccessivamente esteso su 1h=+0.20%, 4h=+0.05%. Consolidamento tattico di una delle posizioni pesanti prima di volatilità maggiore.",
+    "dry_run": false
+  }
+]
