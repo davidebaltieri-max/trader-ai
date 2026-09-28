@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-28T13:31:23.389688+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 28.0,
+    "price": 2361.32,
+    "reason": "RSI=72.9 🔴IPERCOMPRATO (>70) + 4h=+1.82% positivo ma momentum debole — segnale VENDITA MEDIA-FORTE. ETH ha completato rally (4h positivo) ma RSI conferma ipercomprato. Per profilo performante è opportuno realizzare (+1.82% in 4h) e ridurre esposizione a top buyer.",
+    "dry_run": false
+  }
+]
