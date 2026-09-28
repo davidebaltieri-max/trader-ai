@@ -7,5 +7,14 @@
     "price": 2361.32,
     "reason": "RSI=72.9 🔴IPERCOMPRATO (>70) + 4h=+1.82% positivo ma momentum debole — segnale VENDITA MEDIA-FORTE. ETH ha completato rally (4h positivo) ma RSI conferma ipercomprato. Per profilo performante è opportuno realizzare (+1.82% in 4h) e ridurre esposizione a top buyer.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-09-28T21:01:39.558216+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 8.0,
+    "price": 2362.58,
+    "reason": "MACD hist decrescente (-0.6689) + RSI=59 in zona neutra superiore + 4h=-0.42%. Segnali iniziali di debolezza relativa. Piccola presa di profitto su posizione miniaturizzata (0.00435 unità).",
+    "dry_run": false
   }
 ]
