@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-09-29T14:31:27.487668+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 2.31,
+    "price": 2394.9,
+    "reason": "ETH: BEARISH_CROSS confermato (MACD hist=-0.8629 ↓), RSI=52.4 neutrale ma calante, -0.53% 1h. Segnale VENDITA MEDIA. Posizione minima (€2.3 teorici), liquidiamo per realizzare capitale.",
+    "dry_run": false
+  }
+]
