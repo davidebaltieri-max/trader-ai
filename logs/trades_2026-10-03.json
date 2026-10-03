@@ -34,5 +34,14 @@
     "price": 0.2182,
     "reason": "RSI=47.5 (vicino supporto zona neutra), ma performance 1h/4h/24h tutte negative (-0.42%/-0.29%/-0.23%). MACD hist appena positivo ma fragile. Volume anomalo alto (1.73x) suggerisce scarico. Riduco posizione per creare spazio.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-03T20:31:16.487127+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 20.0,
+    "price": 12.4997,
+    "reason": "RSI=74.1 🔴IPERCOMPRATO + volume alto (vol×=3.08) segnala presa di profitto. LINK ha generato momentum rialzista forte (MACD hist crescente) ma ha raggiunto soglia di ipercomprato su timeframe 7h. Riduco posizione per lock-in guadagni e libero capitale per rotazione verso segnali più freschi.",
+    "dry_run": false
   }
 ]
