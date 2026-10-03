@@ -25,5 +25,14 @@
     "price": 0.218,
     "reason": "RSI=61.9 (zona neutra-alta) + MACD hist=+0.0002 crescente (segnale BUY medio) + 4h=-0.09% ma 24h=-2.49% suggerisce possibile rimbalzo + vol×=0.57x stabile + volatilità=0.25% moderata. Layer 1 alternativo con segnale di momentum positivo incipiente. Ingresso moderato su dip.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-03T18:30:13.426843+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 15.0,
+    "price": 0.2182,
+    "reason": "RSI=47.5 (vicino supporto zona neutra), ma performance 1h/4h/24h tutte negative (-0.42%/-0.29%/-0.23%). MACD hist appena positivo ma fragile. Volume anomalo alto (1.73x) suggerisce scarico. Riduco posizione per creare spazio.",
+    "dry_run": false
   }
 ]
