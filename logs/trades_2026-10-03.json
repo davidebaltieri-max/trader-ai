@@ -16,5 +16,14 @@
     "price": 12.3493,
     "reason": "RSI=29.5 IPERVENDUTO (segnale BUY forte) + MACD hist negativo ma prossimo a inversione + volume×=0.52x stabile. LINK è in infrastruttura DeFi con fondamentali solidi. Acquisto moderato-forte per sfruttare il rimbalzo da ipervenduto. Stop loss: -5% (€11.73), Take profit: +10% (€13.58).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-03T15:01:44.638076+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.218,
+    "reason": "RSI=61.9 (zona neutra-alta) + MACD hist=+0.0002 crescente (segnale BUY medio) + 4h=-0.09% ma 24h=-2.49% suggerisce possibile rimbalzo + vol×=0.57x stabile + volatilità=0.25% moderata. Layer 1 alternativo con segnale di momentum positivo incipiente. Ingresso moderato su dip.",
+    "dry_run": false
   }
 ]
