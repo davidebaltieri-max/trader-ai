@@ -7,5 +7,14 @@
     "price": 75458.055,
     "reason": "BTC RSI=73.4 🔴IPERCOMPRATO. 1h=-0.06%, 4h=+0.25% mostra indecisione. MACD hist=+34.8693 crescente ma in territorio overbought (RSI>70). Vendo la posizione minuscola (0.00000756 BTC) per liberare slot; BTC rimane pesante e posso rientrare con dip-buying se scende.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-03T15:01:42.610480+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 12.3493,
+    "reason": "RSI=29.5 IPERVENDUTO (segnale BUY forte) + MACD hist negativo ma prossimo a inversione + volume×=0.52x stabile. LINK è in infrastruttura DeFi con fondamentali solidi. Acquisto moderato-forte per sfruttare il rimbalzo da ipervenduto. Stop loss: -5% (€11.73), Take profit: +10% (€13.58).",
+    "dry_run": false
   }
 ]
