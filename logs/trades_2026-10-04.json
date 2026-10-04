@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-04T00:19:50.758928+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 4.9,
+    "price": 0.2173,
+    "reason": "RSI=26.5 (IPERVENDUTO) ma con trend MACD hist decrescente e 24h=-0.91%. Volatilità elevata (0.15%) con volume×=0.92x indica pressione ribassista continua. Riduzione per contenere downside, mantenere liquidi per riacquisto su rimbalzo.",
+    "dry_run": false
+  }
+]
