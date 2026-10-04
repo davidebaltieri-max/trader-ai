@@ -7,5 +7,14 @@
     "price": 0.2173,
     "reason": "RSI=26.5 (IPERVENDUTO) ma con trend MACD hist decrescente e 24h=-0.91%. Volatilità elevata (0.15%) con volume×=0.92x indica pressione ribassista continua. Riduzione per contenere downside, mantenere liquidi per riacquisto su rimbalzo.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-04T00:31:13.955327+00:00",
+    "action": "buy",
+    "pair": "BTC-EUR",
+    "amount_eur": 30.0,
+    "price": 75392.425,
+    "reason": "RSI=27.5 IPERVENDUTO + segnale rimbalzo forte. MACD hist negativo decrescente ma volume×=0.45x basso limita forza. BTC è core position per profilo performante. Dip-buying su calo moderato con liquidità sufficiente.",
+    "dry_run": false
   }
 ]
