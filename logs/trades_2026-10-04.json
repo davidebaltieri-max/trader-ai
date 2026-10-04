@@ -34,5 +34,14 @@
     "price": 75529.615,
     "reason": "BTC in IPERCOMPRATO (RSI=75.2) con segnali di presa di profitto. MACD hist positivo ma RSI estremo suggerisce correzione imminente. Vendita parziale per locked-in gains e riposizionamento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-04T06:31:19.955581+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 12.0,
+    "price": 2394.02,
+    "reason": "ETH segnale BEARISH_CROSS su MACD (hist=-0.1356 decrescente) + 1h negativo (-0.12%). Momentum ribassista confermato. Vendita difensiva prima di potenziale correzione.",
+    "dry_run": false
   }
 ]
