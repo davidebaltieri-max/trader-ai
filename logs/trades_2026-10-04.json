@@ -16,5 +16,14 @@
     "price": 75392.425,
     "reason": "RSI=27.5 IPERVENDUTO + segnale rimbalzo forte. MACD hist negativo decrescente ma volume×=0.45x basso limita forza. BTC è core position per profilo performante. Dip-buying su calo moderato con liquidità sufficiente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-04T00:31:15.402113+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 25.0,
+    "price": 2391.64,
+    "reason": "RSI=50.7 neutrale + MACD hist=+0.2025 BULLISH_CROSS crescente + 1h=+0.15% + 24h=+0.56%. Momentum rialzista confermato da MACD. Layer 1 dominante con setup tecnico positivo. Capitalizza liquidità da LINK.",
+    "dry_run": false
   }
 ]
