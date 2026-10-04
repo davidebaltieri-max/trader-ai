@@ -25,5 +25,14 @@
     "price": 2391.64,
     "reason": "RSI=50.7 neutrale + MACD hist=+0.2025 BULLISH_CROSS crescente + 1h=+0.15% + 24h=+0.56%. Momentum rialzista confermato da MACD. Layer 1 dominante con setup tecnico positivo. Capitalizza liquidità da LINK.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-04T06:31:18.296907+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 25.0,
+    "price": 75529.615,
+    "reason": "BTC in IPERCOMPRATO (RSI=75.2) con segnali di presa di profitto. MACD hist positivo ma RSI estremo suggerisce correzione imminente. Vendita parziale per locked-in gains e riposizionamento.",
+    "dry_run": false
   }
 ]
