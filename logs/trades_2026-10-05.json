@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-05T01:01:27.878313+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 0.02,
+    "price": 1.5602,
+    "reason": "ATOM è in IPERVENDUTO (RSI=24.7) con MACD decrescente e momentum ribassista confermato (4h=-1.13%, MACD hist=-0.0034). Posizione da 7/7 slot. Vendita tattica per liberare liquidità e ridurre l'esposizione a un asset in fase depressiva. Valore ~€0.028 approssimativo da recuperare in rotazione verso asset con momentum rialzista più forte.",
+    "dry_run": false
+  }
+]
