@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-08T11:31:06.489155+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 12.22,
+    "price": 2270.23,
+    "reason": "RSI=40.2 + MACD hist=-1.7179 DECRESCENTE (trend ribassista in corso). 24h=-1.51%, volat elevata +0.27%. Momentum negativo confermato da MACD. Vendita parziale per proteggere capital in fase di debolezza.",
+    "dry_run": false
+  }
+]
