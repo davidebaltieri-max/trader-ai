@@ -7,5 +7,14 @@
     "price": 11.3206,
     "reason": "LINK: RSI=75.5 🔴IPERCOMPRATO. MACD hist positivo ma volume elevato (vol×=+1.24x) con 1h=+0.09% suggerisce picco locale. Vendo ~1.6 LINK per ridurre esposizione su asset ipercomprato. Libero €30+ per opportunità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-09T01:41:35.142173+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 0.01,
+    "price": 2210.16,
+    "reason": "RSI=83.6 🔴IPERCOMPRATO (massimo dopo ATOM). MACD hist=+4.8083 positivo ma asset in correzione (-3.87% 24h). Posizione minuscola (€11.36). Vendi per liberare slot e cash per opportunità su SOL/ADA che hanno cali maggiori (-5.96%/-8.65%) con RSI meno estremi.",
+    "dry_run": false
   }
 ]
