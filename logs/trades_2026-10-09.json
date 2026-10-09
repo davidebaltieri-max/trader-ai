@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-09T01:01:27.476797+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 18.0,
+    "price": 11.3206,
+    "reason": "LINK: RSI=75.5 🔴IPERCOMPRATO. MACD hist positivo ma volume elevato (vol×=+1.24x) con 1h=+0.09% suggerisce picco locale. Vendo ~1.6 LINK per ridurre esposizione su asset ipercomprato. Libero €30+ per opportunità.",
+    "dry_run": false
+  }
+]
