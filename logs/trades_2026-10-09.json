@@ -16,5 +16,14 @@
     "price": 2210.16,
     "reason": "RSI=83.6 🔴IPERCOMPRATO (massimo dopo ATOM). MACD hist=+4.8083 positivo ma asset in correzione (-3.87% 24h). Posizione minuscola (€11.36). Vendi per liberare slot e cash per opportunità su SOL/ADA che hanno cali maggiori (-5.96%/-8.65%) con RSI meno estremi.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-09T23:01:19.769503+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 0.15,
+    "price": 1.2452,
+    "reason": "XRP ipercomprato (RSI=71.0), posizione raggiunge zona resistenza dopo +0.98% 24h. MACD hist positivo ma RSI estremamente elevato segnala correzione prossima. Riduzione parziale per gestire rischio.",
+    "dry_run": false
   }
 ]
