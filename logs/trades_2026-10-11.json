@@ -52,5 +52,14 @@
     "price": 1.7072,
     "reason": "ATOM ipervenduto (RSI=12.5, segnale ACQUISTO FORTE). RSI<30 + MACD hist<0 ma in trend di debolezza estrema tipico pre-rimbalzo. Volume×=0.80 moderato. 4h=-2.72% offre entry aggressivo. 24h=-3.33% conferma correzione. Profilo PERFORMANTE: dip-buying su cali moderati. Posizione ATOM già presente (34.81), averaging down con entry forte su ipervenduto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T22:13:53.072778+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 25.0,
+    "price": 1.7086,
+    "reason": "ATOM ipervenduto (RSI=12.6, segnale forte). 24h=-4.20% crea opportunità di dip-buying. Vol× basso (0.53) ma RSI estremo giustifica entry. Profilo performante approfitta di correzioni forti. Target +10% a €1.88.",
+    "dry_run": false
   }
 ]
