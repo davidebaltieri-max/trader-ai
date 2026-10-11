@@ -43,5 +43,14 @@
     "price": 2253.0,
     "reason": "RSI=59.9 (zona neutra alta). MACD hist=-1.2314 negativo decrescente (momentum ribassista moderato ma non confermato da BEARISH_CROSS). 1h=-0.50%, 4h=-0.55% cali contenuti. Volume×=0.92 normal. Segnale ACQUISTO MEDIO su large cap fondamentale. Posizione ETH quasi nulla (0.00000014), slot aperto, rebalancing strategico verso BTC/ETH per profilo PERFORMANTE.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T22:01:23.508048+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.7072,
+    "reason": "ATOM ipervenduto (RSI=12.5, segnale ACQUISTO FORTE). RSI<30 + MACD hist<0 ma in trend di debolezza estrema tipico pre-rimbalzo. Volume×=0.80 moderato. 4h=-2.72% offre entry aggressivo. 24h=-3.33% conferma correzione. Profilo PERFORMANTE: dip-buying su cali moderati. Posizione ATOM già presente (34.81), averaging down con entry forte su ipervenduto.",
+    "dry_run": false
   }
 ]
