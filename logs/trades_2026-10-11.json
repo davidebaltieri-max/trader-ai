@@ -88,5 +88,14 @@
     "price": 9.735,
     "reason": "AVAX momentum più forte della criptosfera (24h=+4.95%, 1h=+1.04%, vol=1.35x). RSI=68.8 ancora sotto ipercomprato (70). MACD hist negativo ma il price action outperforma. Setup di breakout sostenuto. Operazione su trend in corso, rischio moderato data la forte performance.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T23:01:24.377523+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.7133,
+    "reason": "ATOM: RSI=16.2 (IPERVENDUTO) ma MACD hist decrescente (-0.0064) senza bullish cross conferma. Calo 24h=-3.87% e 4h=-1.81%. Pattern ribassista dominante nonostante ipervenduto. Volume moderato (0.56x). Liquidare parzialmente per ridurre drawdown e liberare capitale per opportunità più solide con segnali bullish confermati.",
+    "dry_run": false
   }
 ]
