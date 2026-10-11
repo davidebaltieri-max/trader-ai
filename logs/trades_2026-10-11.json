@@ -7,5 +7,14 @@
     "price": 74607.755,
     "reason": "BTC in IPERCOMPRATO (RSI=69.3), MACD BEARISH_CROSS confermato (hist=-8.5278 decrescente). Performance debole su 4h (-0.33%). Posizione minuscola (0.00006486 unità) — vendita difensiva per proteggere capitale. Trailing stop: -3% dal massimo giustificato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T21:01:27.430664+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.7197,
+    "reason": "ATOM in IPERVENDUTO (RSI=25.4), volume spike massimo (1.24x), 4h fortemente negativa (-3.74%) suggerisce capitolazione. Segnale di rimbalzo potenziale. Operazione grande su opportunità di dip-buying, conforme al profilo performante.",
+    "dry_run": false
   }
 ]
