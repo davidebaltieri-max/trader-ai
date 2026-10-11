@@ -97,5 +97,14 @@
     "price": 1.7133,
     "reason": "ATOM: RSI=16.2 (IPERVENDUTO) ma MACD hist decrescente (-0.0064) senza bullish cross conferma. Calo 24h=-3.87% e 4h=-1.81%. Pattern ribassista dominante nonostante ipervenduto. Volume moderato (0.56x). Liquidare parzialmente per ridurre drawdown e liberare capitale per opportunità più solide con segnali bullish confermati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T23:31:11.046504+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.7132,
+    "reason": "ATOM in IPERVENDUTO (RSI=16.3) con MACD decrescente e 24h=-3.94%. Sebbene classicamente ipervenduto suggerisca rimbalzo, il momentum è fortemente negativo (-1.27% in 4h). Riduco esposizione su questo asset deteriorato per liberare liquidità e ridurre rischio sistematico. Posso riacquistare su rimbalzo confermato.",
+    "dry_run": false
   }
 ]
