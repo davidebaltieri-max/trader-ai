@@ -34,5 +34,14 @@
     "price": 1.1163,
     "reason": "RSI=54.3 (zona neutra inferiore). MACD hist=+0.0004 BULLISH_CROSS crescente (momentum rialzista emergente). 4h=-0.44% e 24h=-0.36% mostrano stabilità relativa. Volume×=0.74 moderato. Segnale ACQUISTO MEDIO su Layer 1 alternativo con momentum positivo. DOT in portafoglio (0.009 unità), posizione minimal → accumulo strategico.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T21:31:18.170916+00:00",
+    "action": "buy",
+    "pair": "ETH-EUR",
+    "amount_eur": 25.0,
+    "price": 2253.0,
+    "reason": "RSI=59.9 (zona neutra alta). MACD hist=-1.2314 negativo decrescente (momentum ribassista moderato ma non confermato da BEARISH_CROSS). 1h=-0.50%, 4h=-0.55% cali contenuti. Volume×=0.92 normal. Segnale ACQUISTO MEDIO su large cap fondamentale. Posizione ETH quasi nulla (0.00000014), slot aperto, rebalancing strategico verso BTC/ETH per profilo PERFORMANTE.",
+    "dry_run": false
   }
 ]
