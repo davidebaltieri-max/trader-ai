@@ -16,5 +16,14 @@
     "price": 1.7197,
     "reason": "ATOM in IPERVENDUTO (RSI=25.4), volume spike massimo (1.24x), 4h fortemente negativa (-3.74%) suggerisce capitolazione. Segnale di rimbalzo potenziale. Operazione grande su opportunità di dip-buying, conforme al profilo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T21:31:15.312837+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 30.0,
+    "price": 1.7088,
+    "reason": "RSI=21.1 IPERVENDUTO (segnale forte di rimbalzo). Volume×=1.99 molto elevato confermando interesse. MACD hist decrescente ma in zona negativa estrema. 4h=-4.73% rappresenta calo moderato su timeframe superiore. Segnale ACQUISTO FORTE per profilo PERFORMANTE su dip di qualità. ATOM è in portafoglio (17.36 unità), accumulo a prezzo depresso.",
+    "dry_run": false
   }
 ]
