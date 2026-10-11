@@ -70,5 +70,14 @@
     "price": 1.7062,
     "reason": "ATOM in IPERVENDUTO (RSI=12.8, segnale FORTE). MACD hist negativo ma decrescente indica fondo potenziale. Volume moderato (0.53x). Rimbalzo statistico probabile da estremo RSI. Momentum ribassista esaurito, setup classico di reversal. Operazione medio-sized su segnale ipervenduto confermato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T22:31:18.108923+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 99.095,
+    "reason": "SOL in zona neutra (RSI=37.5, sotto 50). Momentum intraday positivo (1h=+0.25%), volume in aumento (1.38x). MACD hist ancora negativo ma SOL mostra resilienza su 1h. Settore layer1 in rotazione, buon entry point per diversificazione aggressiva su altseason.",
+    "dry_run": false
   }
 ]
