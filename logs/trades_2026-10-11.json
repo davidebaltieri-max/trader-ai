@@ -79,5 +79,14 @@
     "price": 99.095,
     "reason": "SOL in zona neutra (RSI=37.5, sotto 50). Momentum intraday positivo (1h=+0.25%), volume in aumento (1.38x). MACD hist ancora negativo ma SOL mostra resilienza su 1h. Settore layer1 in rotazione, buon entry point per diversificazione aggressiva su altseason.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T22:31:19.505295+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 18.0,
+    "price": 9.735,
+    "reason": "AVAX momentum più forte della criptosfera (24h=+4.95%, 1h=+1.04%, vol=1.35x). RSI=68.8 ancora sotto ipercomprato (70). MACD hist negativo ma il price action outperforma. Setup di breakout sostenuto. Operazione su trend in corso, rischio moderato data la forte performance.",
+    "dry_run": false
   }
 ]
