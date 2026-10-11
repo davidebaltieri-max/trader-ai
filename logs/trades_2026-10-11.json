@@ -25,5 +25,14 @@
     "price": 1.7088,
     "reason": "RSI=21.1 IPERVENDUTO (segnale forte di rimbalzo). Volume×=1.99 molto elevato confermando interesse. MACD hist decrescente ma in zona negativa estrema. 4h=-4.73% rappresenta calo moderato su timeframe superiore. Segnale ACQUISTO FORTE per profilo PERFORMANTE su dip di qualità. ATOM è in portafoglio (17.36 unità), accumulo a prezzo depresso.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-11T21:31:16.760504+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 20.0,
+    "price": 1.1163,
+    "reason": "RSI=54.3 (zona neutra inferiore). MACD hist=+0.0004 BULLISH_CROSS crescente (momentum rialzista emergente). 4h=-0.44% e 24h=-0.36% mostrano stabilità relativa. Volume×=0.74 moderato. Segnale ACQUISTO MEDIO su Layer 1 alternativo con momentum positivo. DOT in portafoglio (0.009 unità), posizione minimal → accumulo strategico.",
+    "dry_run": false
   }
 ]
