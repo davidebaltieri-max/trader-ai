@@ -34,5 +34,14 @@
     "price": 2288.125,
     "reason": "RSI=73.9 IPERCOMPRATO + volatilità elevata +0.25%. Vendita parziale per bloccare guadagni (+2.24% in 24h) e ridurre rischio di correzione. ETH mostra segnali di possibile pullback dopo rally sostenuto.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-12T06:31:11.992384+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 24.99,
+    "price": 1.6864,
+    "reason": "ATOM mostra BEARISH_CROSS su MACD (hist negativo e decrescente), RSI=38.9 in zona debole, performance 24h=-2.11% e -2.33% nell'ultima ora. Tripla conferma ribassista. Realizzare perdita contenuta prima di ulteriore deterioramento momentum.",
+    "dry_run": false
   }
 ]
