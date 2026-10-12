@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-12T00:31:08.157881+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 19.81,
+    "price": 1.1125,
+    "reason": "DOT in BEARISH_CROSS su MACD (hist<0 decrescente) + RSI 45.9 (neutrale ma in declino) + performance negativa 24h (-0.73%). Segnale ribassista confermato. Realizzo per liberare slot e reallochare su asset con segnali più forti (ATOM ipervenduto).",
+    "dry_run": false
+  }
+]
