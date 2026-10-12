@@ -52,5 +52,14 @@
     "price": 1.6877,
     "reason": "ATOM mostra deterioramento tecnico: RSI=36.4 (ipervenduto ma in calo), MACD hist negativo e decrescente, 1h=-1.31% 4h=-1.44% 24h=-1.91%. Trend ribassista confermato. Posizione undersized (5.143 unità = €8.67). Liquidazione per liberare slot e capitale in vista di setup rialzisti più robusti su ETH/SOL/BTC.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-12T10:31:16.664195+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 18.0,
+    "price": 9.8575,
+    "reason": "RSI=70.4 IPERCOMPRATO (segnale VENDITA FORTE). MACD hist negativo decrescente confermano trend ribassista. AVAX ha segnato +7.00% in 24h ed è in overbought. Vol×=1.29 elevato = momentum in esaurimento. Take profit strutturale raggiunto su questo rimbalzo. Vendita parziale €18 (36% della posizione) per lock-in profitti mantenendo exposure.",
+    "dry_run": false
   }
 ]
