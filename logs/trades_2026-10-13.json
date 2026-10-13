@@ -34,5 +34,14 @@
     "price": 1.0489,
     "reason": "DOT: RSI=57.6 (zona neutra), MACD hist crescente (+0.0010), 4h=-2.44% correzione moderata su asset interoperabilità. Segnale ACQUISTO MEDIO: rimbalzo atteso con momentum MACD positivo. Volatilità alta (0.94%) ma compatibile con profilo performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-13T10:31:17.679299+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 19.76,
+    "price": 0.2088,
+    "reason": "ADA in forte calo 24h (-7.42%) con RSI=37.3 (ipervenduto) ma MACD hist negativo decrescente e bearish cross confermato. Volume in aumento (1.82x). Trend ribassista conclamato: vendo posizione ridotta per liberare slot e ridurre esposizione a volatilità estrema in questo settore.",
+    "dry_run": false
   }
 ]
