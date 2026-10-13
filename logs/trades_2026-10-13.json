@@ -52,5 +52,14 @@
     "price": 94.95,
     "reason": "RSI=28.0 IPERVENDUTO + MACD hist negativo decrescente ma prossimo a cross rialzista + vol×=+0.81x elevato + 1h=-0.25% stabile. Rimbalzo probabile su livelli di oversold. Operazione media-forte per sfruttare momentum di recovery.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-13T11:01:29.377510+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 20.0,
+    "price": 0.2082,
+    "reason": "RSI=29.9 IPERVENDUTO + vol×=+1.10x volume forte (highest del paniere) + 24h=-7.49% calo profondo. Segnale di accumulo su livelli estremamente bassi. MACD hist negativo ma volume suggerisce interesse compratori.",
+    "dry_run": false
   }
 ]
