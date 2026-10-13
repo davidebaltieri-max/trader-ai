@@ -61,5 +61,14 @@
     "price": 0.2082,
     "reason": "RSI=29.9 IPERVENDUTO + vol×=+1.10x volume forte (highest del paniere) + 24h=-7.49% calo profondo. Segnale di accumulo su livelli estremamente bassi. MACD hist negativo ma volume suggerisce interesse compratori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-13T22:01:22.162160+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 8.0,
+    "price": 0.2113,
+    "reason": "RSI=60.7 in zona neutrale-alta + volume anomalo (vol×=+3.09x) suggerisce spike artificiale. ADA ha movimento 4h+0.95% ma 24h=-0.90% — divergenza negativa. Vendita moderata per prendere profitto su spike di volume e ridurre posizione sovrappesata (95.59 unità).",
+    "dry_run": false
   }
 ]
