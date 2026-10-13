@@ -43,5 +43,14 @@
     "price": 0.2088,
     "reason": "ADA in forte calo 24h (-7.42%) con RSI=37.3 (ipervenduto) ma MACD hist negativo decrescente e bearish cross confermato. Volume in aumento (1.82x). Trend ribassista conclamato: vendo posizione ridotta per liberare slot e ridurre esposizione a volatilità estrema in questo settore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-13T11:01:26.983714+00:00",
+    "action": "buy",
+    "pair": "SOL-EUR",
+    "amount_eur": 25.0,
+    "price": 94.95,
+    "reason": "RSI=28.0 IPERVENDUTO + MACD hist negativo decrescente ma prossimo a cross rialzista + vol×=+0.81x elevato + 1h=-0.25% stabile. Rimbalzo probabile su livelli di oversold. Operazione media-forte per sfruttare momentum di recovery.",
+    "dry_run": false
   }
 ]
