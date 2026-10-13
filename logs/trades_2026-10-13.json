@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-13T09:01:25.760875+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 8.0,
+    "price": 2244.375,
+    "reason": "ETH: RSI=66.6 (zona alta) + 1h=-0.77% + 4h=-0.75% + 24h=-1.57%. MACD hist positivo crescente limita il segnale, ma i cali persistenti su 1h/4h suggeriscono consolidamento. Piccola vendita tattica per liberare liquidità (attualmente 7/7 slot).",
+    "dry_run": false
+  }
+]
