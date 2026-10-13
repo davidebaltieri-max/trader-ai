@@ -25,5 +25,14 @@
     "price": 0.2102,
     "reason": "ADA: RSI=48.8 (zona neutra bassa), MACD hist crescente (+0.0001), volume spike +1.55x, 4h=-2.01% calo moderato. Segnale ACQUISTO MEDIO confermato: posizionamento per rimbalzo su layer 1 alternativo con momentum nascente. Volatilità media (0.48%) gestibile.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-13T10:01:28.977573+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 1.0489,
+    "reason": "DOT: RSI=57.6 (zona neutra), MACD hist crescente (+0.0010), 4h=-2.44% correzione moderata su asset interoperabilità. Segnale ACQUISTO MEDIO: rimbalzo atteso con momentum MACD positivo. Volatilità alta (0.94%) ma compatibile con profilo performante.",
+    "dry_run": false
   }
 ]
