@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-14T04:31:12.582611+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 12.0,
+    "price": 0.2113,
+    "reason": "ADA: RSI=47.4 (zona neutra bassa), MACD BEARISH_CROSS confermato (hist negativo decrescente), performance 24h=-0.70%, 4h=-0.82%. Trend ribassista in corso. Riduzione posizione sovrappesata (57.73 unità) per fare spazio a opportunità più forti. Stop loss preventivo.",
+    "dry_run": false
+  }
+]
