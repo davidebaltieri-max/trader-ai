@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-15T08:01:25.599121+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 16.65,
+    "price": 0.9765,
+    "reason": "DOT: RSI=31.9 (quasi ipervenduto), MACD hist=-0.0007 decrescente = momentum ribassista. 24h=-5.28%, 4h=-1.29%. Stop loss tecnico: trend negativo senza conferma rialzista. Vendita parziale (€16.65 su €16.63 di posizione) per ridurre esposizione e liberare 1 slot.",
+    "dry_run": false
+  }
+]
