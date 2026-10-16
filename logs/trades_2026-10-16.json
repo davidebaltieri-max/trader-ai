@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-16T10:31:14.249886+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 0.19,
+    "price": 0.2048,
+    "reason": "RSI=63.7 (zona alta) + MACD hist negativo decrescente + 1h=-0.44% 4h=+0.01%. Segnale VENDITA MEDIA. Momentum ribassista in formazione nonostante rally 24h. Riduce sovrappesatura ADA e libera slot per opportunità migliori.",
+    "dry_run": false
+  }
+]
