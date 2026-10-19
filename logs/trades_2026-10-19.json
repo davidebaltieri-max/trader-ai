@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-19T10:01:26.947078+00:00",
+    "action": "sell",
+    "pair": "ETH-EUR",
+    "amount_eur": 1.98,
+    "price": 2170.67,
+    "reason": "RSI=70.2 🔴IPERCOMPRATO + MACD hist positivo ma momentum fragile su timeframe breve + 1h=-0.19% negativa. Posizione micro (€1.98), vendita difensiva per liberare slot prima di eventuale consolidamento.",
+    "dry_run": false
+  }
+]
