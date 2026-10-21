@@ -7,5 +7,14 @@
     "price": 1.2101,
     "reason": "XRP in IPERCOMPRATO (RSI=71.2 >70). Segnale VENDITA MEDIA confermato: RSI>70 + vol×=0.68x (moderato). Posizione piccola (€0.07) con alto rischio di correzione imminente. Libera slot per rotazione verso settori con momentum migliore.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-21T21:01:28.038248+00:00",
+    "action": "sell",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 11.2614,
+    "reason": "RSI=70.0 IPERCOMPRATO + MACD hist negativo decrescente + 1h=-0.16%. Segnale VENDITA MEDIA confermato. LINK ha raggiunto livelli di ipercompra con momentum ribassista, take profit a +10% raggiungibile. Posizione ridotta per liberare slot e cassa.",
+    "dry_run": false
   }
 ]
