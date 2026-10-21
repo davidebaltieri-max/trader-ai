@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-21T11:31:17.321874+00:00",
+    "action": "sell",
+    "pair": "XRP-EUR",
+    "amount_eur": 0.06,
+    "price": 1.2101,
+    "reason": "XRP in IPERCOMPRATO (RSI=71.2 >70). Segnale VENDITA MEDIA confermato: RSI>70 + vol×=0.68x (moderato). Posizione piccola (€0.07) con alto rischio di correzione imminente. Libera slot per rotazione verso settori con momentum migliore.",
+    "dry_run": false
+  }
+]
