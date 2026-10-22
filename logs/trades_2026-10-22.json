@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-22T14:01:29.060651+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 93.895,
+    "reason": "RSI=70.4 (IPERCOMPRATO) + momentum 1h/4h ancora positivo ma decelerazione in corso. SOL è la posizione più grande (€196.5), riduco esposizione su ipercomprato. Vendo €20 (circa 10.5% della posizione) per bloccare profitti e ridurre rischio di correzione.",
+    "dry_run": false
+  }
+]
