@@ -16,5 +16,14 @@
     "price": 8.205,
     "reason": "AVAX RSI=32.9 (IPERVENDUTO) ma 24h=-4.45% e 4h=-0.62% — momentum ancora ribassista. MACD hist positivo crescente suggerisce fondo vicino, ma in questo ciclo la pressione è al ribasso. Vendi 2.2 AVAX (~€18) per liberare slot e reposizionarti su entry migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-22T15:27:20.828205+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 8.1765,
+    "reason": "AVAX mostra RSI=34.1 (ipervenduto), MACD hist positivo e crescente, volume×=2.77 elevato. Segnale di acquisto medio-forte su calo del -4.94% in 24h. Profilo performante approfitta di dip su layer 1 alternativo con momentum rialzista confermato. Stop loss -5%, take profit +10%.",
+    "dry_run": false
   }
 ]
