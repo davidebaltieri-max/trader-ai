@@ -7,5 +7,14 @@
     "price": 93.895,
     "reason": "RSI=70.4 (IPERCOMPRATO) + momentum 1h/4h ancora positivo ma decelerazione in corso. SOL è la posizione più grande (€196.5), riduco esposizione su ipercomprato. Vendo €20 (circa 10.5% della posizione) per bloccare profitti e ridurre rischio di correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-22T15:01:27.737919+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 16.07,
+    "price": 8.205,
+    "reason": "AVAX RSI=32.9 (IPERVENDUTO) ma 24h=-4.45% e 4h=-0.62% — momentum ancora ribassista. MACD hist positivo crescente suggerisce fondo vicino, ma in questo ciclo la pressione è al ribasso. Vendi 2.2 AVAX (~€18) per liberare slot e reposizionarti su entry migliori.",
+    "dry_run": false
   }
 ]
