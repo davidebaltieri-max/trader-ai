@@ -25,5 +25,14 @@
     "price": 8.1765,
     "reason": "AVAX mostra RSI=34.1 (ipervenduto), MACD hist positivo e crescente, volume×=2.77 elevato. Segnale di acquisto medio-forte su calo del -4.94% in 24h. Profilo performante approfitta di dip su layer 1 alternativo con momentum rialzista confermato. Stop loss -5%, take profit +10%.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-22T15:27:22.642106+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 6.3247,
+    "reason": "UNI RSI=51.4 (neutro), MACD hist=+0.0175 (positivo crescente), volume×=4.82 (molto elevato) segnala accumulation. Calo -6.07% in 24h su infrastruttura DeFi critica. Momentum rialzista incipiente con volumi in aumento. Take profit +10%, stop loss -5%.",
+    "dry_run": false
   }
 ]
