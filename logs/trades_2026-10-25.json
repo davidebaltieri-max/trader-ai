@@ -43,5 +43,14 @@
     "price": 0.9148,
     "reason": "RSI=38.8 (zona sottovalutazione) + vol×=1.17x (volume in aumento) + 4h=-1.65% suggerisce sovravendita. DOT è layer 1 alternativo core nel portafoglio. Segnale medio-forte con volatilità moderata (+0.47%).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-25T22:01:24.474963+00:00",
+    "action": "buy",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.4589,
+    "reason": "MACD hist=+0.0012 BULLISH_CROSS appena confermato + vol×=6.24x (volume massivo in aumento) + RSI=54.4 neutro = segnale di accumulo con forte volume. Interoperabilità settore momentum. Acquisto tattico su volume.",
+    "dry_run": false
   }
 ]
