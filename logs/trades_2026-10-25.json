@@ -25,5 +25,14 @@
     "price": 7.9555,
     "reason": "RSI=71.0 IPERCOMPRATO + MACD hist crescente ma asset in zona pericolosa. Realizzo profitti su posizione in forza prima di correzione. AVAX ha guadagnato +1.17% in 24h, consolidamento consigliato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-25T22:01:21.548586+00:00",
+    "action": "buy",
+    "pair": "BTC-EUR",
+    "amount_eur": 30.0,
+    "price": 71518.375,
+    "reason": "RSI=26.9 IPERVENDUTO + MACD hist=-44.2725 ma a livelli estremi = rimbalzo probabile. BTC è il core holding performante. Volume elevato (0.56x) conferma interesse. Acquisto forte su dip moderato.",
+    "dry_run": false
   }
 ]
