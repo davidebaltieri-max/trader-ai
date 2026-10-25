@@ -7,5 +7,14 @@
     "price": 6.137,
     "reason": "RSI=78.6 IPERCOMPRATO (>70) + MACD hist positivo ma in territorio di saturazione. Segnale VENDITA MEDIA confermato. UNI ha performato bene (+1.63% in 4h) ma il momentum è al limite. Realizziamo profitti e liberiamo slot per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-25T21:01:24.004894+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 24.2,
+    "price": 7.9685,
+    "reason": "RSI=70.0 IPERCOMPRATO + MACD hist positivo ma segnale di correzione imminente. AVAX ha performato bene (+1.44% 24h) ed è al limite superiore. Realizzo profitti su questa posizione (vendita parziale 8 EUR del valore ~24.20) per liberare capacità e ridurre rischio in ipercomprato.",
+    "dry_run": false
   }
 ]
