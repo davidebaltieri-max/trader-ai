@@ -16,5 +16,14 @@
     "price": 7.9685,
     "reason": "RSI=70.0 IPERCOMPRATO + MACD hist positivo ma segnale di correzione imminente. AVAX ha performato bene (+1.44% 24h) ed è al limite superiore. Realizzo profitti su questa posizione (vendita parziale 8 EUR del valore ~24.20) per liberare capacità e ridurre rischio in ipercomprato.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-10-25T21:31:10.072593+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 0.02,
+    "price": 7.9555,
+    "reason": "RSI=71.0 IPERCOMPRATO + MACD hist crescente ma asset in zona pericolosa. Realizzo profitti su posizione in forza prima di correzione. AVAX ha guadagnato +1.17% in 24h, consolidamento consigliato.",
+    "dry_run": false
   }
 ]
