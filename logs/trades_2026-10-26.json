@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-10-26T06:31:16.609127+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 19.44,
+    "price": 0.8958,
+    "reason": "DOT in IPERVENDUTO (RSI=30.4) con MACD decrescente e bearish trend. 24h=-4.78% confermano debolezza. Realizzo perdita contenuta prima di ulteriore calo. Libero slot per rotazione momentum.",
+    "dry_run": false
+  }
+]
