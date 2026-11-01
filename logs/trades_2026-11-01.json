@@ -16,5 +16,14 @@
     "price": 69831.435,
     "reason": "BTC in IPERCOMPRATO (RSI=75.3>70) con posizione minuscola (0.00030201 unità = ~€21). Momentum rialzista (MACD hist=+17.0925 crescente) ma RSI estremo indica correzione imminente. Realizzo per liberare slot e ridurre esposizione al rischio di ritracciamento.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-01T22:01:26.546378+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 12.0,
+    "price": 69868.265,
+    "reason": "BTC: MACD histogram decrescente (-1.9954), RSI neutrale (50.5) ma trend ribassista su 1h (-0.04%). Posizione minima (0.00018745 BTC) con segnale debole. Vendita per ridurre esposizione e preservare capital per opportunità migliori.",
+    "dry_run": false
   }
 ]
