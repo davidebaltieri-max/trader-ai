@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-01T08:01:20.214900+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 8.0,
+    "price": 69796.295,
+    "reason": "BTC in ipercomprato (RSI=76.5 🔴). Sebbene MACD sia positivo, il livello di RSI estremamente elevato segnala correzione imminente. Vendo frazione piccola per realizzare profitti parziali e de-rischiare.",
+    "dry_run": false
+  }
+]
