@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-03T15:01:41.131475+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 31.5,
+    "price": 83.33,
+    "reason": "RSI=85.9 IPERCOMPRATO CRITICO + MACD hist crescente ma su livelli di estensione estrema. 1h=+0.20% non compensa il rischio. Posizione significativa (1.882 SOL): vendita parziale (0.378 SOL) per realizzare profitti, ridurre leveraggio e riposizionarsi. Segnale VENDITA MEDIA confermato.",
+    "dry_run": false
+  }
+]
