@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-05T05:01:18.896964+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 8.0,
+    "price": 85.13,
+    "reason": "RSI=60.5 IPERCOMPRATO (>60) + MACD hist negativo decrescente (-0.0500) — segnale VENDITA MEDIA. SOL mostra momentum negativo nonostante +3.67% 24h. Volume alto (1.36x) e volatilità elevata (0.31%) suggeriscono correzione in corso. Riduzione per gestire il rischio.",
+    "dry_run": false
+  }
+]
