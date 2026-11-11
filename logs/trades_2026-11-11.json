@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-11T19:29:54.106787+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 1.05,
+    "price": 67047.63,
+    "reason": "BTC RSI=74.8 (🔴IPERCOMPRATO MASSIMO), 1h=-0.07% debole nonostante 4h/24h positivi. MACD hist crescente ma RSI estremo suggerisce correzione imminente. Piccola vendita tattica per ridurre esposizione su asset ipercomprato e realizzare +2.01% da 24h.",
+    "dry_run": false
+  }
+]
