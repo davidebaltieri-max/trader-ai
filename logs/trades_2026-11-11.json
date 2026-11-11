@@ -16,5 +16,14 @@
     "price": 1.2667,
     "reason": "RSI=35.4 IPERVENDUTO (zona di accumulo) + MACD hist decrescente ma in recovery potenziale. Volume moderato. Dip-buying su posizione debole per media-prezzo. Stop loss: -5% = €0.86, Take profit: +10% = €19.80.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-11T19:31:08.800384+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 22.0,
+    "price": 5.9243,
+    "reason": "RSI=65.6 zona neutra alta + MACD hist=+0.0230 CRESCENTE (bullish) + vol×=+2.87x (volume importante) + 4h=+1.31% momentum positivo. Entrata su momentum di settore DeFi con segnali combinati forti. Stop loss: -5% = €1.05, Take profit: +10% = €24.20.",
+    "dry_run": false
   }
 ]
