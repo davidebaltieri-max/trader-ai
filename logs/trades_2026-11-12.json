@@ -7,5 +7,14 @@
     "price": 5.6014,
     "reason": "UNI RSI=23.5 IPERVENDUTO ma contesto negativo: calo -12.43% in 24h, MACD hist negativo decrescente. Vol×=4.40x (alto) indica panico di vendita. RSI suggerisce rimbalzo possibile, ma momentum ribassista è forte. Vendo parzialmente per de-risking e sfrutto la liquidità per opportunità migliori.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-12T06:31:05.665690+00:00",
+    "action": "buy",
+    "pair": "LINK-EUR",
+    "amount_eur": 25.0,
+    "price": 9.0928,
+    "reason": "RSI=27.3 IPERVENDUTO + volume×=+1.69x elevato + 1h=+0.00% stabilità. LINK è in forte stress tecnico con segnale di rimbalzo. Operazione aggressiva su asset infrastruttura DeFi ad alta volatilità (0.51%) coerente con profilo PERFORMANTE. Target: +10% a €10.00.",
+    "dry_run": false
   }
 ]
