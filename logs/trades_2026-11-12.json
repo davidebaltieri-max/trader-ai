@@ -34,5 +34,14 @@
     "price": 7.765,
     "reason": "MACD BULLISH_CROSS confermato (hist=+0.0014 ↑crescente) + RSI=67.8 limite superiore + 1h=+0.43% + vol×=+2.04x. Layer 1 alternativo con momentum rialzista chiaro. Operazione su trend positivo in corso. Target: +10% a €8.54.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-12T07:31:21.693177+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 19.74,
+    "price": 5.5426,
+    "reason": "UNI in IPERVENDUTO (RSI=20.5) con calo 24h=-9.17% e vol×=3.87x. MACD ancora decrescente (hist=-0.0048) senza cross bullish confermato. Profilo PERFORMANTE: realizzo liquidità per posizionarmi su segnali più forti. Target: libero 1 slot e EUR per dip-buy su LINK/AVAX/ATOM.",
+    "dry_run": false
   }
 ]
