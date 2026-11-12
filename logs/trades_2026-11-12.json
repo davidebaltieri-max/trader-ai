@@ -16,5 +16,14 @@
     "price": 9.0928,
     "reason": "RSI=27.3 IPERVENDUTO + volume×=+1.69x elevato + 1h=+0.00% stabilità. LINK è in forte stress tecnico con segnale di rimbalzo. Operazione aggressiva su asset infrastruttura DeFi ad alta volatilità (0.51%) coerente con profilo PERFORMANTE. Target: +10% a €10.00.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-12T06:31:07.150662+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 5.5801,
+    "reason": "RSI=21.0 IPERVENDUTO + volume×=+5.53x massimo del portafoglio + 1h=-0.54% ma rimbalzo imminente su ipervenduto. UNI leader DeFi in correzione estrema. Alta volatilità (1.02%) offre potenziale rimbalzo significativo. Target: +10% a €6.14.",
+    "dry_run": false
   }
 ]
