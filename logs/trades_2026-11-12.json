@@ -25,5 +25,14 @@
     "price": 5.5801,
     "reason": "RSI=21.0 IPERVENDUTO + volume×=+5.53x massimo del portafoglio + 1h=-0.54% ma rimbalzo imminente su ipervenduto. UNI leader DeFi in correzione estrema. Alta volatilità (1.02%) offre potenziale rimbalzo significativo. Target: +10% a €6.14.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-12T06:31:08.460850+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 18.0,
+    "price": 7.765,
+    "reason": "MACD BULLISH_CROSS confermato (hist=+0.0014 ↑crescente) + RSI=67.8 limite superiore + 1h=+0.43% + vol×=+2.04x. Layer 1 alternativo con momentum rialzista chiaro. Operazione su trend positivo in corso. Target: +10% a €8.54.",
+    "dry_run": false
   }
 ]
