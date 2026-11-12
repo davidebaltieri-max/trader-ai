@@ -43,5 +43,14 @@
     "price": 5.5426,
     "reason": "UNI in IPERVENDUTO (RSI=20.5) con calo 24h=-9.17% e vol×=3.87x. MACD ancora decrescente (hist=-0.0048) senza cross bullish confermato. Profilo PERFORMANTE: realizzo liquidità per posizionarmi su segnali più forti. Target: libero 1 slot e EUR per dip-buy su LINK/AVAX/ATOM.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-12T23:01:22.559651+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 18.0,
+    "price": 1.2971,
+    "reason": "RSI=70.1 IPERCOMPRATO + momentum massimale su 24h=+3.58%. MACD hist positivo crescente ma la zona ipercomprata + volatilità alta (+0.45%) suggerisce presa di profitti. Vendi parzialmente per proteggere i guadagni.",
+    "dry_run": false
   }
 ]
