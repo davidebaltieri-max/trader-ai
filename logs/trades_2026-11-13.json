@@ -16,5 +16,14 @@
     "price": 7.6205,
     "reason": "RSI=73.5 IPERCOMPRATO + 4h=+2.73% (rally completato) + volatilità=+0.65% (elevata) = setup perfetto per presa di profitto. AVAX è posizione significativa, riduco l'esposizione prima della correzione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-13T11:01:25.361365+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 5.2485,
+    "reason": "RSI=45.9 zona NEUTRA BASSA (non ipercomprato) + MACD hist=+0.0109 ↑crescente + 4h=+0.17% recovery. Vol×=0.09 basso ma segnale tecnico favorevole post-correzione 24h=-4.46%. Setup per accumulazione.",
+    "dry_run": false
   }
 ]
