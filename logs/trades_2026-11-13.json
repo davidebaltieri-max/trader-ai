@@ -25,5 +25,14 @@
     "price": 5.2485,
     "reason": "RSI=45.9 zona NEUTRA BASSA (non ipercomprato) + MACD hist=+0.0109 ↑crescente + 4h=+0.17% recovery. Vol×=0.09 basso ma segnale tecnico favorevole post-correzione 24h=-4.46%. Setup per accumulazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-13T11:01:26.963551+00:00",
+    "action": "buy",
+    "pair": "ADA-EUR",
+    "amount_eur": 15.0,
+    "price": 0.1552,
+    "reason": "RSI=66.9 prossimo a 70 ma non oltre + MACD hist crescente + 1h=+0.50% + 4h=+0.57% momentum rialzista confermato. Vol×=+2.02x volume in aumento forte. Segnale ACQUISTO MEDIO su layer 1 alternativo con momentum.",
+    "dry_run": false
   }
 ]
