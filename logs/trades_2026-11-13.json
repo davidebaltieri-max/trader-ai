@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-13T10:31:09.609549+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 20.0,
+    "price": 72.735,
+    "reason": "RSI=74.4 IPERCOMPRATO + MACD hist positivo ma crescita marginale (+0.1757) = correzione probabile. SOL è la posizione più vulnerabile al pullback. Realizzo profitti parziali prima della retrazione.",
+    "dry_run": false
+  }
+]
