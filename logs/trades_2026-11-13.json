@@ -43,5 +43,14 @@
     "price": 0.1566,
     "reason": "RSI=71.8 IPERCOMPRATO + 1h=-0.28% negativo + volatilità elevata (0.48%). ADA ha già guadagnato +2.75% in 24h. Segnale di VENDITA MEDIA confermato: riduco posizione sovraesposta per liberare slot e realizzare profitti",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-13T21:01:23.958286+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 0.05,
+    "price": 0.1546,
+    "reason": "ADA: RSI=31.9 (ipervenduto ma debole), MACD BEARISH_CROSS confermato (hist negativo decrescente), 1h=-0.67% e 4h=+0.04% (segnale misto). Momentum ribassista in corso. Riduco posizione per liberare slot e ribilanciare verso settori più forti (BTC/ETH momentum MACD crescente).",
+    "dry_run": false
   }
 ]
