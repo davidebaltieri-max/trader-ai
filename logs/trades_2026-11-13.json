@@ -34,5 +34,14 @@
     "price": 0.1552,
     "reason": "RSI=66.9 prossimo a 70 ma non oltre + MACD hist crescente + 1h=+0.50% + 4h=+0.57% momentum rialzista confermato. Vol×=+2.02x volume in aumento forte. Segnale ACQUISTO MEDIO su layer 1 alternativo con momentum.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-13T15:01:25.231444+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 15.0,
+    "price": 0.1566,
+    "reason": "RSI=71.8 IPERCOMPRATO + 1h=-0.28% negativo + volatilità elevata (0.48%). ADA ha già guadagnato +2.75% in 24h. Segnale di VENDITA MEDIA confermato: riduco posizione sovraesposta per liberare slot e realizzare profitti",
+    "dry_run": false
   }
 ]
