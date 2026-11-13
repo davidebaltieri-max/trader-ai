@@ -7,5 +7,14 @@
     "price": 72.735,
     "reason": "RSI=74.4 IPERCOMPRATO + MACD hist positivo ma crescita marginale (+0.1757) = correzione probabile. SOL è la posizione più vulnerabile al pullback. Realizzo profitti parziali prima della retrazione.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-13T10:31:11.611847+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 17.57,
+    "price": 7.6205,
+    "reason": "RSI=73.5 IPERCOMPRATO + 4h=+2.73% (rally completato) + volatilità=+0.65% (elevata) = setup perfetto per presa di profitto. AVAX è posizione significativa, riduco l'esposizione prima della correzione.",
+    "dry_run": false
   }
 ]
