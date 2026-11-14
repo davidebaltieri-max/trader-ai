@@ -25,5 +25,14 @@
     "price": 0.1462,
     "reason": "RSI=29.9 IPERVENDUTO + vol×=2.20x (volume elevato) + 4h=-1.81% (correzione moderata) + MACD hist negativo ma vicino a cross rialzista. Segnale di acquisto medio-forte su rimbalzo da ipervenduto con conferma di volume. Settore L1 alternativo in rotazione momentum.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-14T13:54:41.687118+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 20.0,
+    "price": 4.8589,
+    "reason": "RSI=27.2 IPERVENDUTO + vol×=0.20x (basso, cautela) + MACD hist negativo in fase di recupero + 24h=-11.03% (calo severo). Opportunità di dip-buy su infrastruttura DeFi in ipervenduto. Importo conservativo dato il basso volume recente.",
+    "dry_run": false
   }
 ]
