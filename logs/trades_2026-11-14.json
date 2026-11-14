@@ -34,5 +34,14 @@
     "price": 4.8589,
     "reason": "RSI=27.2 IPERVENDUTO + vol×=0.20x (basso, cautela) + MACD hist negativo in fase di recupero + 24h=-11.03% (calo severo). Opportunità di dip-buy su infrastruttura DeFi in ipervenduto. Importo conservativo dato il basso volume recente.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-14T13:54:42.939823+00:00",
+    "action": "buy",
+    "pair": "DOT-EUR",
+    "amount_eur": 18.0,
+    "price": 0.7094,
+    "reason": "RSI=35.6 + MACD hist=+0.0005 crescente (inizio momentum rialzista) + vol×=2.52x (volume molto elevato) + 1h=+0.11% (inversion positiva). Interoperabilità in setup bullish con conferma volume. Dip-buy tattico su momentum nascente.",
+    "dry_run": false
   }
 ]
