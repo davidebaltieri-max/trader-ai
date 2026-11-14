@@ -7,5 +7,14 @@
     "price": 5.0344,
     "reason": "UNI in VENDITA FORTE: RSI=31.3 (ipervenduto ma in calo), MACD hist=-0.0164 con BEARISH_CROSS, 4h=-0.73%, 24h=-7.45% (down trend confermato). Volume spike massivo (vol×=51.63x) indica scarico di posizioni. Realizzo perdita contenuta (-7.45%) per liberare slot e realloctare su asset con momentum rialzista più solido (ATOM, LINK, ADA). Target: €19 per ridurre esposizione su asset debole.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-14T13:31:10.380072+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 0.06,
+    "price": 4.8938,
+    "reason": "UNI mostra VENDITA FORTE: RSI=30.9 (limite ipervenduto ma in decay), MACD hist=-0.0127 decrescente con BEARISH_CROSS, 1h=-1.57% e 4h=-3.16%, 24h=-10.10% calo significativo. Volume basso (0.23x) non conferma rimbalzo. Posizione da alleggerire prima di ulteriore erosione.",
+    "dry_run": false
   }
 ]
