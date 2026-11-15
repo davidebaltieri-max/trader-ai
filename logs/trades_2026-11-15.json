@@ -25,5 +25,14 @@
     "price": 0.1416,
     "reason": "ADA RSI=69.9 (quasi ipercomprato, soglia 70), 24h=-4.40% su timeframe lungo contrasta il pump 1h. MACD hist marginale (+0.0008), momentum fragile. Vendi quota per ridurre rischio dopo correzione -6.36% in 4h precedenti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-15T12:31:06.704223+00:00",
+    "action": "sell",
+    "pair": "DOT-EUR",
+    "amount_eur": 17.0,
+    "price": 0.6737,
+    "reason": "RSI=73.5 IPERCOMPRATO + 24h=-5.50% forte calo. MACD hist positivo ma +4.06% in 4h suggerisce momentum estenuato. Riduco posizione DOT per liberare capitale e limitare downside.",
+    "dry_run": false
   }
 ]
