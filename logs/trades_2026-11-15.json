@@ -7,5 +7,14 @@
     "price": 0.1384,
     "reason": "ADA: RSI=79.7 (IPERCOMPRATO) + MACD hist crescente ma valore minuscolo (0.0005) + 24h=-6.93%. Segnale di VENDITA MEDIA confermato da ipercompra. Riduco posizione sovraesposta (170 unità = 23.5€ sono il ~1.5% del portafoglio in valore). Libero spazio per rotazione tattica.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-15T11:31:07.742365+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 19.28,
+    "price": 4.7144,
+    "reason": "UNI in IPERCOMPRATO (RSI=75.0 >> 70), spike di volume anomalo (vol×=7.69x), volatilità elevata (+2.19%), MACD hist positivo ma con rischio correzione imminente. Realizza profitti su momentum extremo prima di pullback. Libera slot per rotazione tattica.",
+    "dry_run": false
   }
 ]
