@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-15T09:01:24.229681+00:00",
+    "action": "sell",
+    "pair": "ADA-EUR",
+    "amount_eur": 23.5,
+    "price": 0.1384,
+    "reason": "ADA: RSI=79.7 (IPERCOMPRATO) + MACD hist crescente ma valore minuscolo (0.0005) + 24h=-6.93%. Segnale di VENDITA MEDIA confermato da ipercompra. Riduco posizione sovraesposta (170 unità = 23.5€ sono il ~1.5% del portafoglio in valore). Libero spazio per rotazione tattica.",
+    "dry_run": false
+  }
+]
