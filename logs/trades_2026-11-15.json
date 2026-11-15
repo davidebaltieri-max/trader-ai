@@ -34,5 +34,14 @@
     "price": 0.6737,
     "reason": "RSI=73.5 IPERCOMPRATO + 24h=-5.50% forte calo. MACD hist positivo ma +4.06% in 4h suggerisce momentum estenuato. Riduco posizione DOT per liberare capitale e limitare downside.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-15T12:31:08.057921+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 25.0,
+    "price": 6.657,
+    "reason": "AVAX 24h=-8.91% (massimo drawdown del mercato) ma RSI=59.2 neutrale, MACD hist=+0.0285 rialzista, vol×=+0.10x basso = potenziale dip-buying. 4h=+2.70% conferma recovery intraday. Ottima entry per mean-reversion aggressiva.",
+    "dry_run": false
   }
 ]
