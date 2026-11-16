@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-16T07:31:09.736537+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 24.23,
+    "price": 6.502,
+    "reason": "AVAX ipervenduto (RSI=31.5<30) con MACD decrescente negativo e calo 24h=-1.56%. Tuttavia, mancanza di rimbalzo 1h (+0.34% insufficiente) e volume basso (0.50x). Vendita difensiva per ridurre esposizione a asset in trend ribassista e liberare capital per opportunità di dip-buying su segnali più forti.",
+    "dry_run": false
+  }
+]
