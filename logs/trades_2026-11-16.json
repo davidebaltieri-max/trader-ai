@@ -25,5 +25,14 @@
     "price": 58890.055,
     "reason": "SEGNALE MEDIO-FORTE: BTC MACD BULLISH_CROSS confermato (hist=+0.2034 crescente), RSI=51.2 in zona neutra con bias rialzista, 1h=+0.28% + 24h=+0.43% positivi. Volume sopra media (vol×=+0.80x). Consolidamento con momentum rialzista — opportunità per entrare su large cap in fase di accumulazione. Diversificazione strategica (non in portafoglio).",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-16T22:01:22.826308+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 20.0,
+    "price": 59396.68,
+    "reason": "RSI=81.7 IPERCOMPRATO + segnale VENDITA FORTE. Momentum rialzista confermato da MACD ma estremo RSI suggerisce correzione imminente. Riduco per liberare slot e realizzare profitto.",
+    "dry_run": false
   }
 ]
