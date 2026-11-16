@@ -7,5 +7,14 @@
     "price": 6.502,
     "reason": "AVAX ipervenduto (RSI=31.5<30) con MACD decrescente negativo e calo 24h=-1.56%. Tuttavia, mancanza di rimbalzo 1h (+0.34% insufficiente) e volume basso (0.50x). Vendita difensiva per ridurre esposizione a asset in trend ribassista e liberare capital per opportunità di dip-buying su segnali più forti.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-16T08:01:29.677960+00:00",
+    "action": "buy",
+    "pair": "UNI-EUR",
+    "amount_eur": 28.0,
+    "price": 4.7065,
+    "reason": "SEGNALE FORTE: UNI mostra momentum rialzista confermato da MACD BULLISH_CROSS (hist=+0.0026 crescente), RSI=55.1 in zona neutra-rialzista, 1h=+1.25% + 4h=+2.47% + 24h=+7.58% trend decisamente positivo. Volume in aumento (vol×=+0.48, però la volatilità a 6h è alta +0.84%). Miglior segnale tecnico del portafoglio al momento. Utilizza slot disponibile.",
+    "dry_run": false
   }
 ]
