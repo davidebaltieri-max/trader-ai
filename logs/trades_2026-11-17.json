@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-17T22:01:25.653733+00:00",
+    "action": "sell",
+    "pair": "UNI-EUR",
+    "amount_eur": 27.89,
+    "price": 4.7199,
+    "reason": "RSI=27.3 ipervenduto ma MACD hist negativo decrescente = momentum ribassista confermato. Segnale VENDITA MEDIA per proteggere capitale e liberare slot per riallocazioni",
+    "dry_run": false
+  }
+]
