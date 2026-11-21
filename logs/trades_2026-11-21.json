@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-21T19:01:21.621216+00:00",
+    "action": "sell",
+    "pair": "SOL-EUR",
+    "amount_eur": 10.0,
+    "price": 64.505,
+    "reason": "RSI=75.3 🔴IPERCOMPRATO + 1h=-0.11% + MACD hist positivo ma decelerazione imminente. SOL a +4.03% in 24h con vol×=+0.71x. Segnale VENDITA MEDIA: ridimensionamento tattico prima di possibile pullback da zona ipercomprata.",
+    "dry_run": false
+  }
+]
