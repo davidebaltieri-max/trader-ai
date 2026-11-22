@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-22T13:01:01.151479+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 1.93,
+    "price": 55498.46,
+    "reason": "RSI=78.8 IPERCOMPRATO. MACD hist positivo ma estremo (107.4) su timeframe breve. Volatilità +0.67% sopra media. Posizione micro (€0.00003497 = ~€1.93), vendita tattica per gestire rischio nei massimi storici.",
+    "dry_run": false
+  }
+]
