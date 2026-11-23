@@ -34,5 +34,14 @@
     "price": 1.1455,
     "reason": "VENDITA FORTE: RSI=72.8 (IPERCOMPRATO) + MACD hist positivo ma trend precedente decrescente + correzione imminente dopo +8.26% in 24h. Blocca i guadagni e libera slot per opportunità su cali moderati.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-23T20:01:14.807487+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 0.03,
+    "price": 1.1583,
+    "reason": "ATOM in IPERCOMPRATO (RSI=75.6 >70) + MACD BEARISH_CROSS confermato (hist negativo decrescente). Segnale VENDITA FORTE. Realizzo profitti su posizione con +8.96% 24h prima della correzione attesa. Libero 1 slot per rotazione tattica.",
+    "dry_run": false
   }
 ]
