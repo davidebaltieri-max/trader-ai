@@ -16,5 +16,14 @@
     "price": 55890.275,
     "reason": "BTC setup attraente: RSI=43.3 (zona neutra bassa), MACD hist negativo ma in zona critica (-14.9946), 24h positivo (+0.77%). Dip-buying tattico su support area. BTC è core large cap del portfolio performante.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-23T12:31:17.189564+00:00",
+    "action": "buy",
+    "pair": "AVAX-EUR",
+    "amount_eur": 18.0,
+    "price": 6.1255,
+    "reason": "AVAX momentum positivo: MACD hist crescente (+0.0041), RSI=62.2 (ancora neutrale), 24h +1.96%, volume spike (8.43x). Momentum rialzista confermato. Opportunità su Layer1 alternativo con volatilità.",
+    "dry_run": false
   }
 ]
