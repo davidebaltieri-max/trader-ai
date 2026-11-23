@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-23T12:01:25.544242+00:00",
+    "action": "sell",
+    "pair": "BTC-EUR",
+    "amount_eur": 0.01,
+    "price": 55927.965,
+    "reason": "MACD hist=-7.0840 ↓decrescente (segnale ribassista) + RSI=51.5 (neutrale). Posizione trascurabile (0.00000019 unità ≈ €0.01) → liquidazione totale per pulizia portafoglio e liberare slot per opportunità future.",
+    "dry_run": false
+  }
+]
