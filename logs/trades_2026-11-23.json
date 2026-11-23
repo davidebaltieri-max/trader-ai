@@ -7,5 +7,14 @@
     "price": 55927.965,
     "reason": "MACD hist=-7.0840 ↓decrescente (segnale ribassista) + RSI=51.5 (neutrale). Posizione trascurabile (0.00000019 unità ≈ €0.01) → liquidazione totale per pulizia portafoglio e liberare slot per opportunità future.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-23T12:31:15.247248+00:00",
+    "action": "buy",
+    "pair": "BTC-EUR",
+    "amount_eur": 25.0,
+    "price": 55890.275,
+    "reason": "BTC setup attraente: RSI=43.3 (zona neutra bassa), MACD hist negativo ma in zona critica (-14.9946), 24h positivo (+0.77%). Dip-buying tattico su support area. BTC è core large cap del portfolio performante.",
+    "dry_run": false
   }
 ]
