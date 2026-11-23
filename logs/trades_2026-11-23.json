@@ -25,5 +25,14 @@
     "price": 6.1255,
     "reason": "AVAX momentum positivo: MACD hist crescente (+0.0041), RSI=62.2 (ancora neutrale), 24h +1.96%, volume spike (8.43x). Momentum rialzista confermato. Opportunità su Layer1 alternativo con volatilità.",
     "dry_run": false
+  },
+  {
+    "ts": "2026-11-23T19:31:11.643997+00:00",
+    "action": "sell",
+    "pair": "ATOM-EUR",
+    "amount_eur": 0.25,
+    "price": 1.1455,
+    "reason": "VENDITA FORTE: RSI=72.8 (IPERCOMPRATO) + MACD hist positivo ma trend precedente decrescente + correzione imminente dopo +8.26% in 24h. Blocca i guadagni e libera slot per opportunità su cali moderati.",
+    "dry_run": false
   }
 ]
