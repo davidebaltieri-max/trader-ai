@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-11-26T01:01:25.300062+00:00",
+    "action": "sell",
+    "pair": "AVAX-EUR",
+    "amount_eur": 17.68,
+    "price": 6.052,
+    "reason": "RSI=72.9 🔴IPERCOMPRATO (>70) + vol×=+0.30x (volume basso = sospetto) + 4h=+1.81% (già fatto suo movimento). Prendi profitti prima della correzione.",
+    "dry_run": false
+  }
+]
